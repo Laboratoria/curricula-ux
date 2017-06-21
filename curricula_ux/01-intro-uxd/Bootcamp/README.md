@@ -2,7 +2,7 @@
 
 ## Syllabus
 
-### Lesson 1: Intro to UXD
+### Unit 1: Intro to UXD
 
 * Who does what on a product development team?
 * What is User Experience Design?
@@ -13,7 +13,7 @@
 	* Lean UX 
 	* Design Sprint
 
-### Lesson 2: Discovery and Research
+### Unit 2: Discovery and Research
 
 * Introduction to User Research
 * User research and discovery techniques
@@ -23,7 +23,7 @@
 * Effective interviewing
 * Discovery field work
 
-### Lesson 3: Synthetize and Define
+### Unit 3: Synthetize and Define
 
 **Synthetize**
 
@@ -38,7 +38,7 @@
 * MVP definition
 
 
-### Lesson 4: Ideate
+### Unit 4: Ideate
 
 * Intro to sketching
 * Design Sprint Ideation techniques:
@@ -50,7 +50,7 @@
 * Storyboards
 
 
-### Lesson 5: Information Architecture and Navigation / Visual Design
+### Unit 5: Information Architecture and Navigation / Visual Design
 
 **Information Architecture and Navigation**
 
@@ -67,13 +67,13 @@
 * Style guides / living Styleguide
 
 
-### Lesson 6: Prototyping 
+### Unit 6: Prototyping 
 
 * Hi-fi prototyping:
 * Figma + Marvel
 
 
-### Lesson 7: Validate and document
+### Unit 7: Validate and document
 
 **User Testing**
 
@@ -87,39 +87,130 @@
 
 
 
-## Schedule 
+## Programa 
 
+### Semana 1 (26 - 30 jun)
 
-* **Día 1** | 26 Jun | 2 - 6 pm:
-	- PM: Intro a UX - Logística de la clase
-* **Día 2** | 27 Jun | 9 - 6 pm:
-	- Full- day: User Research 	
-* **Día 3** | 28 Jun | 9 - 1 pm:
-	- AM: User research planning
-	- PM: Bootcamp en Pardo
-* **Día 4** | 30 Jun | 9 - 1 pm:
-	- AM: Sesión de trabajo en Pardo
-	- PM: Bootcamp en Pardo
-* **Día 5** | 03 Jul | 9 - 4:30 pm:
-	- AM: Sesión Sintesis
-	- PM: Bootcamp en Pardo de 5 a 6 PM 
-* **Día 6** | 04 Jul | 9 - 6 pm:
-	- Full day: Sintesis y definición
-* **Día 7** | 05 Jul | 2 - 6 pm:
-	- AM: Ejercicios
-	- PM: Revisión 
-* **Día 8** | 06 Jul | 9 - 6 pm:
-* **Día 9** | 07 Jul | 9 - 3:30 pm:
-* **Día 10** | 10 Jul | 2 - 6 pm:
-* **Día 11** | 11 Jul | 9 - 6 pm:
-* **Día 12** | 12 Jul | 9 - 1 pm:
-* **Día 13** | 13 Jul | 9 - 6 pm:
-* **Día 14** | 14 Jul | 4 - 6 pm:
+#### Lunes 26 de Junio
 
+* Tarde: 
+	- [Logística de la clase](#) 
+	- Sesión [Intro a UX](#)
+	- Selección de proyecto a trabajar
+	- [90 minute prototypes](#)
+	- Debriefing
 
+#### Martes 27 de Junio
 
+* Mañana: 
+	- Sesión [Descubrimiento e investigación](#) 
+	
+* Tarde: 
+	- Elaboración de plan de Descubrimiento	
 
-###Día 1 - 26 Jun
+#### Miércoles 28 de Junio
+	
+* Mañana: 
+	- Ejecución de plan de descubrimiento: `Análisis competitivo` y `BS Personas`
+* Tarde: 
+	- `Bootcamp en Pardo 2 - 6 p.m.`
+
+#### Viernes 30 de Junio
+
+* Mañana: 
+	- Ejecución de plan de descubrimiento: `Contextual Inquiry` y `Entrevistas`
+	- Ejecución de plan de descubrimiento: `Usability testings`
+
+* Tarde: 
+	- `Bootcamp en Pardo 2 - 6 p.m.`
+
+### Semana 2
+
+#### Lunes 03 de Julio
+* Mañana:
+	- Student led class: Debriefing
+* Tarde: 
+	- Sesión [Sintesis y definición](#)
+	- `Bootcamp en Pardo de 5 a 6 p.m.`
+	
+#### Martes 04 de Julio
+
+* Mañana:
+	- Ejecución de sintesis y definición: `affinity maps`, `user personas`, `HMW y Problem statements`
+* Tarde: 
+	- Ejecución `Prioritization`
+	
+#### Miércoles 05 de Julio
+	
+* Mañana:
+	- *Student led class* - Debriefing
+* Tarde:
+	- Sesión [Ideación](#)
+	- Ejecución `benchmark`
+	- Ejecución `paper prototyping`
+
+#### Jueves 06 de Julio
+
+* Mañana:
+	- Ejecución `user flows` y `storyboards`
+	- Iteración `paper prototyping` basado en feedback 
+	
+* Tarde: 
+	- Sesión [Arquitectura de la información](#) 
+	- Sesión [Navegación](#) 
+	- Planning `Card sorting`
+
+#### Viernes 07 de Julio
+	
+* Mañana
+	- *Student led class* - Ejecución `Card Sorting`
+* Tarde
+	-  Sesión [Visual Design](#)
+	- `Bootcamp en Pardo de 4 a 6 p.m.`	
+	
+### Semana 3
+
+#### Lunes de 10 Julio
+
+* Mañana
+	- *Student led class* - Ejecución `Visual Design`
+* Tarde:
+	- Sesión [Prototipado](#) 
+
+#### Martes 11 de Julio
+	
+* Mañana
+	- Ejecución `Visual Design` y `Protipado`
+* Tarde:
+	- Sesión [Usability testing](#)
+	- Sesión [Reporting](#)
+		
+#### Miércoles 12 de Julio
+
+* Mañana:
+	- *Student led class* - Planning y ejecución de `usability testing`
+* Tarde:
+	- PM: `Bootcamp en Pardo de 2 a 6 p.m.`
+	
+#### Jueves 13 de Julio
+
+* Mañana:
+	- Sesión [Design Sprints](#)
+
+* Tarde:
+	- Sesión [Design Sprints](#)
+	
+#### Viernes 14 de Julio
+
+* Mañana:
+	- *Student led class* - Ejecución `prototyping` y `Design Sprints` 
+* Tarde: 
+	- `Bootcamp en Pardo de 2 a 4 p.m.`
+	- Presentación de proyectos finales `4 - 6 p.m.`
+
+		 	
+
+### Día 1 - 26 Jun
 
 * ¿Qué es User Experience?
 * ¿Qué es User Experience Design?
@@ -133,11 +224,28 @@
 	* Lean UX 
 	* Design Sprint
 
-###Día 2 - 27 Jun
-###Día 3 - 28 Jun
-###Día 4 - 29 Jun
+### Día 2 - 27 Jun
+### Día 3 - 28 Jun
+### Día 4 - 29 Jun
 
 
 
 
 Design = [Scientific Method](https://www.youtube.com/watch?v=t44kmZ_PFOU)
+
+
+
+Folders: 
+00-intro.md
+01-descubrimiento-e-investigacion.md
+02-sintesis-y-definicion.md
+03-ideacion.md
+04-arquitectura-de-la-informacion.md
+05-navegacion.md
+06-visual-design.md
+07-prototipado.md
+08-tests-de-usabilidad.md
+09-presentacion.md
+10-design-sprints.md
+
+lim-ux-bootcamp-2017-01.md
