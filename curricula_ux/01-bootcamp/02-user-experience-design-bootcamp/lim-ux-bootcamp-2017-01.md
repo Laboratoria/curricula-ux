@@ -6,7 +6,7 @@
 
 * Tarde: 
 	- [Logística de la clase](#) 
-	- Sesión [Intro a UX](/00-intro.md)
+	- Sesión [Intro a UX](/curricula_ux/01-bootcamp/02-user-experience-design-bootcamp/00-intro.md)
 	- Selección de proyecto a trabajar
 	- [60 minute prototypes](#)
 	- Debriefing
