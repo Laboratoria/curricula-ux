@@ -6,7 +6,7 @@
 
 * Tarde: 
 	- [Logística de la clase](#) 
-	- Sesión [Intro a UX](#)
+	- Sesión [Intro a UX](/00-intro.md)
 	- Selección de proyecto a trabajar
 	- [60 minute prototypes](#)
 	- Debriefing
