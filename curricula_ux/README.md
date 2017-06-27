@@ -5,8 +5,8 @@
 
 ### Bootcamp
 
-1. [Tech, UX and UI talks]()
-2. [3 weeks UX Bootcamp]()
+1. [Tech, UX and UI talks](/curricula_ux/01-bootcamp/01-talks/)
+2. [3 weeks UX Bootcamp](/curricula_ux/01-bootcamp/02-user-experience-design-bootcamp/)
 
 ### Educación continua 
 
