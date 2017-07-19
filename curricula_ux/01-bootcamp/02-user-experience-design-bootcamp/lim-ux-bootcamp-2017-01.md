@@ -47,15 +47,15 @@
 #### Martes 04 de Julio
 
 * Mañana:
-	- Ejecución de sintesis y definición: `affinity maps`, `user personas`, `HMW y Problem statements`
-	- Ejecución `Prioritization`
+	- Ejecución de sintesis y definición: `affinity maps` 
 * Tarde: 
-	- Visitas
+	- `user personas`, `HMW y Problem statements`
+	- Ejecución `Prioritization`
 	
 #### Miércoles 05 de Julio
 	
 * Mañana:
-	- *Student led class* - Debriefing
+	- `Bootcamp en Pardo de 9 a 2 p.m.`	
 * Tarde:
 	- Sesión [Ideación](/curricula_ux/01-bootcamp/02-user-experience-design-bootcamp/03-ideacion.md)
 	- Ejecución `benchmark`
