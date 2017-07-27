@@ -35,11 +35,31 @@ a) Laboratoria te entregará todo el contenido del curso que se va a dictar, per
 b) Recibirás un listado con las alumnas que van a tomar este curso.
 c) Parte importante de este punto, es determinar los parámetros de evaluación. Hay cursos donde los parámetros vienen establecidos,pero hay otros que deberán ser planificados. Este punto también deberá de ser conversado con el TM.
 
+##### Durante las clases
+a) Tu horario empieza 10 minutos antes que comience la clase.
+b) Antes que lleguen las alumnas, deberás escribir en la pizarra la “Agenda del día”.
+c) Lo primero que debes de hacer es pasar la lista mientras las alumnas van llegando.
+d) La clase parte 5 minutos después de la hora establecida.
+e) Los pasos a seguir son los siguientes:
+Saludo
+Revisión agenda para ese día
+Contenido/ejercicios/ etc
+Verificación del aprendizaje
+Cierre de la clase donde debe de quedar absolutamente claro las tareas/ejercicios/contenido que la alumna debe de entregar antes de la siguiente clase.
 
-### Un poco de historia
+##### Dar feedback de las lecciones al equipo de productos
+Cada vez que termines una lección, deberás dar tu feedback del contenido según los mecanismos que Laboratoria te entregue.
 
-Educación Continua nace de la necesidad de continuar capacitando a nuestras alumnas mientras trabajan. Más del 60% de nuestras egresadas buscaban algún lugar donde continuar su capacitación. Entonces pensamos, por qué no lo hacemos en Laboratoria?
+##### Evaluar a las alumnas
+Cada curso contiene ejercicios/tareas evaluadas y un proyecto final. Será parte de tu responsabilidad ir corrigiendo lo señalado. 
+Las notas del proyecto final, junto con la aprobación/no aprobación de alguna de las alumnas, deberá ser entregado al TM a más tardar 1 semana posterior a la última clase dictada. 
 
-En un inicio partimos con la idea de que mientras más horas de capacitación ofrecieramos, era mejor para nuestras coders. Dividimos los 18 meses de capacitación en 3 cursos de 6 meses y partimos nuestro piloto en Lima y posterior en Santiago.
 
-Después de unos meses dictando nuestros cursos y de varios procesos de “design sprint” descubrimos que necesitábamos una nueva metodología orientada a la realidad de las coders de Laboratoria. De ese aprendizaje nace la idea de los cursos 4x4.
+### Comunicación con las alumnas y con Laboratoria
+
+Toda la comunicación con Laboratoria será a través del Training Manager de la Sede donde estés dictando el curso. A el/ella deberás recurrir para cualquier pregunta, duda o tema conversar. El/ella estará a cargo de acompañarte en el proceso e ir exigiendo que las tareas descritas anteriormente se cumplan a cabalidad.
+
+La comunicación formal fuera del horario de clases con las alumnas será a través de slack ( Link explicación y descarga Slack). Si no conoces o no cuentas con era herramienta,  tu training manager te ayudará a instalarla.  La idea es que la única manera de acceder a tu persona sea a través de esta vía. No podrás entregar tu mail o tu celular personal a ninguna de las alumnas, salvo que el Training Manager lo autorice. 
+
+Si requieres conversar con alguna alumna un tema en particular como la poca participación, o alguna acción poco apropiada de alguna alumnas, el/la training manager debe de estar al tanto y decidir en conjunto los pasos a realizar.
+
