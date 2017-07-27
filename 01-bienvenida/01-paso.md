@@ -5,7 +5,7 @@ Hola y bienvenid@ al proceso de inducción y capacitación que hemos preparado p
 
 ### Módulo 1: Introducción
 
-Queremos mostrarte cuál es nuestra visión de nuestra institución. ymotivarte a aprender a programar, y por ello te brindaremos más información sobre cómo, a través del código, podrás transformar tu futuro. Además, te daremos algunos consejos para aprender a aprender. Después de eso, ¡te enseñaremos a crear tu primera página web!
+Queremos mostrarte cuál es nuestra visión de la institución y motivarte a ser el mejor profesor que podríammos esperar para nuestras coders.En este módulo encontrarás la misión, la estructura y cómo trabajamos en Laboratoria.
 
 | # | Tipo | Tópico
 | - | ----- | -----
@@ -16,17 +16,19 @@ Queremos mostrarte cuál es nuestra visión de nuestra institución. ymotivarte 
 
 ### Módulo 2: ¿Cuál es el perfil del profesor en Laboratoria?
 
-El segundo módulo entrará a más detalle en algunos conceptos base de la programación, como lo son las variables, los tipos de datos y los operadores.
+El segundo módulo entrará a más detalle en lo que esperamos de ti como profesor de Laboratoria. Aprenderás qué es Educación Continua, objetivos y un poco de historia. A continuación te presentaremos las principales responsabilidad que tendrás y terminaremos con un "Código de Comportamiento" interno de relación con las alumnas.
 
 | # | Tipo | Tópico
 | - | ----- | -----
-| 01 | Lectura | Valores, tipos de datos y operadores
-| 02 | Lectura | Variables
-| 03 | Lectura | Manipulando `strings` y `numbers`
-| 04 | Lectura | Comentarios en JavaScript
-| 05 | Video | Practicando con ejercicios de variables y tipos de datos
-| 06 | Quiz | Prueba tu conocimiento
+| 01 | Lectura | ¿Qué es Educación Continua?
+| 02 | Lectura | Áreas de los cursos
+| 03 | Lectura | ¿Cómo son los cursos de educación continua en Laboratoria?
+| 04 | Lectura | Perfil de las coders de Laboratoria
+| 05 | Lectura | Un poco de historia
+| 06 | Lectura | Qué esperamos de un profesor de Educación Continua
+| 07 | Lectura | Operación v/s Ejecución
+| 08 | Lectura | Responsabilidades del Profesor Educación Continua
+| 08 | Lectura | Código de Comportamiento
 
-***
 
 [EMPEZAR](01-growth-mindset.md)
