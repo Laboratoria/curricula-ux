@@ -1,50 +1,39 @@
 
-# Perfil del profesor de Eduación Continua
+### Qué esperamos de un profesor de Educación Continua
 
-Como te mencionamos anteriormente en este módulo aprenderás sobre Educación Continua y sobre lo que esperamos de ti como profesor.
+Primero y aunque suene obvio, eres el encargado del aprendizaje final de las alumnas. En gran parte, el éxito de que una alumna aprenda, depende de cómo se desarrolle este curso.
+De ti esperamos que no sólo dictes clases como lo harías en cualquier otro lugar! 
+Esperamos que además de planificar, dictar y evaluar a las alumnas, seas el nexo entre ellas y la industria de la tecnología.
 
-
-### ¿Qué es Educación Continua?
-
-Educación Continua es el proceso de formación de 18 meses, al que acceden nuestras alumnas una vez terminado el bootcamp. En esta etapa las coders tiene la posibilidad de seguir profundizando algunos temas vistos previamente y/o aprender nuevas temáticas que le permitirán seguir creciendo como desarrolladoras.
-
-
-### Áreas de los cursos
-
-Nuestro core es continuar con la capacitación de la línea Full Stack JavaScripts y a la vez ofrecer cursos que sean de interés en el mundo digital y de tecnología. Algunos de los cursos que ya están definidos van en la siguiente línea:
-
-#### Full Stack JavaScript
-       Cursos: Paradigmas de Programación, Functional Programing, React, Redux, The Web Stack	
-
-#### User Experience Design: 
-       Cursos: Introducción a UX, UX Research, UX Prototyping, UX Ideation.
-       
-#### English 4 Developers E4D
-       Cursos: Rookie 1, Rookie 2,Rookie 3, Electivos
-
-#### Digital
-       Cursos: Lean Product, Marketing Digital, Seo, Visualización de datos
-
-Estamos  abiertos a cualquier propuesta o idea de cursos siempre en la línea de entregar skills en la nueva era digital.
-
-La coder puede tomar los cursos del área que quiera siempre y cuando cumplan con dos requisitos:
-1) El mismo mes no pueden tomar más de un curso tecnológico. SI pueden tomar uno de la línea Full Stack más uno de E4D, pero no uno de UX y otro de JS.
-2) Cumplir los pre-requisitos de ese curso en particular.
+Te queremos invitar a sumarte a este proyecto desde la visión que te presentamos anteriormente, una visión de una industria más inclusiva y diversa. Una industria que reciba a estas mujeres con ganas de aportar y de contar con una nueva carrera.
 
 
-### ¿Cómo son los cursos de educación continua en Laboratoria?
+### Operación v/s Ejecución
+
+En Laboratoria trabajamos en dos equipos separados pero que son muy complementarios: Productos y Ejecución. El equipo de productos es quién se encarga de diseñar los programas y productos para todas las sedes de Laboratoria. El de ejecución, como su nombre lo dice,se encarga de ejecutar los programas diseñados por el equipo de productos. Contamos con un equipo regional de producto que diseña el material que cada una de nuestras sedes va a ejecutar.
+
+El feedback que nos puedas entregar sobre la ejecución es fundamental para poder rediseñar y mejorar nuestra oferta.
 
 
-En Laboratoria hemos creado una metodología para los cursos, para que nuestras alumnas aprendan de manera rápida y eficiente todo lo que queremos enseñarle en un mes. 
+### Responsabilidades del Profesor Educación Continua
 
-La modalidad de estos cursos la hemos llamado 4x4. Esto significa que los cursos duran cuatro semanas y cuatro horas aproximadamente cada semana. Tres de estas horas serán presenciales y la hora restante se puede realizar desde dónde la alumna quiera. Los 6 primeros meses de E4D tendrán una modalidad diferente. Serán 6 horas de clase a la semana divididas en dos sesiones. 
 
-En todos nuestros cursos las alumnas pueden desarrollar un proyecto/producto concreto que les permitirá mostrar el resultado de su aprendizaje a quién ellas quieran.
+A continuación te presentamos las responsabilidades y tareas asociadas al profesor de  Educación Continua en Laboratoria:
 
-Actualmente el programa de Educación Continua se está desarrollando en 3 de nuestras 5 sedes: 
-Lima 
-Santiago de Chile
-Ciudad de México
+Principales responsabilidades:
+
+1) Impartir clases y ser facilitador de un curso 4x4 durante una tarde/noche a la semana como parte de nuestro programa de educación continua.
+2) Hacer seguimiento permanente del aprendizaje de las alumnas, incluyendo la evaluación de las coders en el caso de que el curso lo requiera.
+3) Promover actividades que ayuden en la superación de dificultades académicas de las estudiantes.
+
+#### Tareas
+
+Complementando y sumado a lo anterior, las tareas asociadas a dichas responsabilidades son las siguientes:
+
+##### Planificación de las clases
+a) Laboratoria te entregará todo el contenido del curso que se va a dictar, pero tu eres el responsable de planificar el mes completo del curso y bajarlo  a una planificación diaria. Esta planificación debe de ser conversada y aprobada por el training manager (TM) de tu ciudad.
+b) Recibirás un listado con las alumnas que van a tomar este curso.
+c) Parte importante de este punto, es determinar los parámetros de evaluación. Hay cursos donde los parámetros vienen establecidos,pero hay otros que deberán ser planificados. Este punto también deberá de ser conversado con el TM.
 
 
 ### Un poco de historia
