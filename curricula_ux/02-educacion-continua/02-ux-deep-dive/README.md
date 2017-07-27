@@ -72,7 +72,6 @@ así como entregables y método de evaluación.
 
 ## Benchmarks
 
-* [Interaction Design](http://trydesignlab.com/interaction-design-course/)
 
 ## Lecturas complementarias
 
