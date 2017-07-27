@@ -7,7 +7,7 @@ Durante los primeros meses de aprendizaje, nuestras estudiantes aprenderán los 
 ### Lección 01: [UX Basics](/curricula_ux/01-bootcamp/03-user-experience-design-bootcamp-2017-2/01-ux-basics.md)
 3h (presencial)
 
-Bienvenida al curso, detalles del formato y logística de la clase. Conceptos introductorios a UX Design.
+En esta lección las estudiantes conocerán qué es User Experience, qué es User Experience Design y por qué es importante seguir un proceso de UXD durante nuestra creación de productos digitales. 
 
 | # | Tipo | Duración | Tópico
 | - | ---- | -------- | ------
@@ -21,9 +21,11 @@ Bienvenida al curso, detalles del formato y logística de la clase. Conceptos in
 | 08 | ejercicio | 90 min | [The 90 minute prototype](http://toolbox.hyperisland.com/90-minute-prototypes)
 
 
-### Lección 02: [Flows](/curricula_ux/01-bootcamp/03-user-experience-design-bootcamp-2017-2/02-flows.md)
 
+### Lección 02: [Flows](/curricula_ux/01-bootcamp/03-user-experience-design-bootcamp-2017-2/02-flows.md)
 4h (presencial)
+
+¿Qué es un sistema? ¿Cómo somos todos partes de un sistema? Durante esta sesión las estudiantes aprenderán sobre sistemas y "System Thinking". Terminarán construyendo flujos de usuarios que las ayude a visualizar el camino que seguirán los usuarios para completar tareas en sus aplicaciones.
 
 | # | Tipo | Duración | Tópico
 | - | ---- | -------- | ------
@@ -39,6 +41,9 @@ Bienvenida al curso, detalles del formato y logística de la clase. Conceptos in
 
 
 ### Lección 03: [Sketching](/curricula_ux/01-bootcamp/03-user-experience-design-bootcamp-2017-2/03-sketching.md)
+6h (presencial)
+
+Externalizar nuestras ideas es super importante para construir shared understanding con nuestro equipo. Además, los sketches son herramientas de mucha ayuda antes de empezar a desarrollar. Si unimos user flows + sketches tendremos un mejor orden a la hora de programar nuestros proyectos.
 
 | # | Tipo | Duración | Tópico
 | - | ---- | -------- | ------
@@ -53,25 +58,35 @@ Bienvenida al curso, detalles del formato y logística de la clase. Conceptos in
 
 
 
-###  Lección 04: [Organizing info](/curricula_ux/01-bootcamp/03-user-experience-design-bootcamp-2017-2/04-information-organization.md)
+###  Lección 04: [Visual Design](/curricula_ux/01-bootcamp/03-user-experience-design-bootcamp-2017-2/04-visual-design.md)
 4h (presencial)
+
+Toda persona que trabaje en tecnología debería conocer principios de visual design.
 
 | # | Tipo | Duración | Tópico
 | - | ---- | -------- | ------
-| 01 | Video | 05 min | [¿Qué es arquitectura de la información?](#)
-| 02 | Lectura |30 min | [Arquitectura de la Información]()
-| 03 | Video |10 min | [Intro a Card Sorting]()
-| 04 | Ejercicio | 10 min | Online Card Sorting
-| 05 | Clase | 30 min | Plan de una actividad de Card Sorting para el Dashboard
-| 06 | Ejercicio | 30 min | Actividad de Card Sorting con usuarios
-| 07 | Video | 5 min | ¿Cómo buscamos cosas en la web?
-| 08 | Video | 20 min | Tipos de Navegación que existen
-| 06 | Ejercicio | 30 min | Determinar tipos de navegación que existen en un app TBD
-| 07 | Ejercicio | 30 min | Determinar tipos de navegación a utilizar en`Dashboard`
+| 01 | Video | 30 min | [Visual Design for non-designers](https://www.youtube.com/watch?v=uKpfO331DY4)
+| 02 | Lectura | 30 min | [7 rules for creating gorgous UI - part I](https://medium.com/@erikdkennedy/7-rules-for-creating-gorgeous-ui-part-1-559d4e805cda)
+| 03 | Lectura | 30 min | [7 rules for creating gorgous UI - part II](https://medium.com/@erikdkennedy/7-rules-for-creating-gorgeous-ui-part-2-430de537ba96
+)
+| 04 | Ejercicio | 30 min | Design Critique app TBD
+| 05 | Ejercicio | 30 min | Design Critique `Dashboard`
 
 
-### Lección 05: [Usability](/curricula_ux/01-bootcamp/03-user-experience-design-bootcamp-2017-2/05-usability.md)
 
+###  Lección 05: [Navigation](/curricula_ux/01-bootcamp/03-user-experience-design-bootcamp-2017-2/05-navigation.md)
+1.5h (presencial)
+
+| # | Tipo | Duración | Tópico
+| - | ---- | -------- | ------
+| 01 | Video | 5 min | ¿Cómo buscamos cosas en la web?
+| 02 | Video | 20 min | Tipos de Navegación que existen
+| 03 | Ejercicio | 30 min | Determinar tipos de navegación que existen en un app TBD
+| 04 | Ejercicio | 30 min | Determinar tipos de navegación a utilizar en`Dashboard`
+
+
+
+### Lección 06: [Usability](/curricula_ux/01-bootcamp/03-user-experience-design-bootcamp-2017-2/05-usability.md)
 4h (presencial)
 
 
@@ -91,7 +106,7 @@ Bienvenida al curso, detalles del formato y logística de la clase. Conceptos in
 ## Specialization 10 weeks
 
 
-### Lección 06 - Research 1 `uxd-1`
+### Lección 07 - Research 1 `uxd-1`
 
 | # | Tipo | Duración | Tópico
 | - | ---- | -------- | ------
@@ -101,7 +116,8 @@ Bienvenida al curso, detalles del formato y logística de la clase. Conceptos in
 | 04 | TBD | TDB | [Usability testing](#)
 
 
-### Lección 07 Synthesizing 1 `uxd-1`
+
+### Lección 08 Synthesizing 1 `uxd-1`
 
 | # | Tipo | Duración | Tópico
 | - | ---- | -------- | ------
@@ -109,7 +125,8 @@ Bienvenida al curso, detalles del formato y logística de la clase. Conceptos in
 | 02 | TBD | TDB | [HMW 1](#)
 
 
-### Lección 08 Visual Design `uxd-1`
+
+### Lección 09 Visual Design `uxd-1`
 
 
 | # | Tipo | Duración | Tópico
@@ -121,7 +138,7 @@ Bienvenida al curso, detalles del formato y logística de la clase. Conceptos in
 
 
 
-### Lección 09 Prototyping `uxd-1`
+### Lección 10 Prototyping `uxd-1`
 
 | # | Tipo | Duración | Tópico
 | - | ---- | -------- | ------
@@ -131,7 +148,21 @@ Bienvenida al curso, detalles del formato y logística de la clase. Conceptos in
 
 
 
-### Lección 10 Research 2 `uxd-2`
+### Lección 11 Information Architecture `uxd-2`
+
+
+| # | Tipo | Duración | Tópico
+| - | ---- | -------- | ------
+| 01 | Video | 05 min | [¿Qué es arquitectura de la información?](#)
+| 02 | Lectura |30 min | [Arquitectura de la Información]()
+| 03 | Video |10 min | [Intro a Card Sorting]()
+| 04 | Ejercicio | 10 min | Online Card Sorting
+| 05 | Clase | 30 min | Plan de una actividad de Card Sorting para el Dashboard
+| 06 | Ejercicio | 30 min | Actividad de Card Sorting con usuarios
+
+
+
+### Lección 12 Research 2 `uxd-2`
 
 | # | Tipo | Duración | Tópico
 | - | ---- | -------- | ------
@@ -140,16 +171,15 @@ Bienvenida al curso, detalles del formato y logística de la clase. Conceptos in
 
 
 
-### Lección 11 Competitive Analysis `uxd-2`
+### Lección 13 Competitive Analysis `uxd-2`
 
 | # | Tipo | Duración | Tópico
 | - | ---- | -------- | ------
 | 01 | TBD | TDB | [Competitive Analysis](#)
 
 
-### Lección 12 Synthesizing 2 `uxd-2`
 
-
+### Lección 14 Synthesizing 2 `uxd-2`
 
 | # | Tipo | Duración | Tópico
 | - | ---- | -------- | ------
@@ -162,7 +192,8 @@ Bienvenida al curso, detalles del formato y logística de la clase. Conceptos in
 | 07 | TBD | TDB | [MVP definition](#)
 
 
-### Lección 13 Ideation techniques `uxd-2`
+
+### Lección 15 Ideation techniques `uxd-2`
 
 | # | Tipo | Duración | Tópico
 | - | ---- | -------- | ------
@@ -171,7 +202,8 @@ Bienvenida al curso, detalles del formato y logística de la clase. Conceptos in
 | 03 | TBD | TDB | [Prioritization](#)
 
 
-### Lección 14 Research 3 `uxd-3`
+
+### Lección 16 Research 3 `uxd-3`
 
 | # | Tipo | Duración | Tópico
 | - | ---- | -------- | ------
@@ -179,7 +211,9 @@ Bienvenida al curso, detalles del formato y logística de la clase. Conceptos in
 | 02 | TBD | TDB | [Evaluative data](#)
 | 03 | TBD | TDB | [Generative data](#)
 
-### Lección 15 Interaction Design `uxd-3`
+
+
+### Lección 17 Interaction Design `uxd-3`
 
 | # | Tipo | Duración | Tópico
 | - | ---- | -------- | ------
@@ -187,7 +221,7 @@ Bienvenida al curso, detalles del formato y logística de la clase. Conceptos in
 | 02 | TBD | TDB | [Capabilities](#)
 
 
-### Lección 16 Interactive prototyping `uxd-3`
+### Lección 18 Interactive prototyping `uxd-3`
 
 | # | Tipo | Duración | Tópico
 | - | ---- | -------- | ------
@@ -196,7 +230,7 @@ Bienvenida al curso, detalles del formato y logística de la clase. Conceptos in
 
 
 
-### Lección 18 Systems & flows 2 `uxd-3`
+### Lección 19 Systems & flows 2 `uxd-3`
 
 | # | Tipo | Duración | Tópico
 | - | ---- | -------- | ------
@@ -205,7 +239,8 @@ Bienvenida al curso, detalles del formato y logística de la clase. Conceptos in
 | 03 | TBD | TDB | [Storyboards](#)
 
 
-### Lección 19 Communications `uxd-4`
+
+### Lección 20 Communications `uxd-4`
 
 | # | Tipo | Duración | Tópico
 | - | ---- | -------- | ------
@@ -215,7 +250,8 @@ Bienvenida al curso, detalles del formato y logística de la clase. Conceptos in
 | 04 | TBD | TDB | [UX writing](#)
 
 
-### Lección 20 Design sprints `uxd-4`
+
+### Lección 21 Design sprints `uxd-4`
 
 | # | Tipo | Duración | Tópico
 | - | ---- | -------- | ------
@@ -230,13 +266,15 @@ Bienvenida al curso, detalles del formato y logística de la clase. Conceptos in
 
 
 
-### Lección 21 Metrics `uxd-4`
+### Lección 22 Metrics `uxd-4`
 
 | # | Tipo | Duración | Tópico
 | - | ---- | -------- | ------
 | 01 | TBD | TDB | [HEART Framework](#)
 
-### Lección 22 Growth `uxd-4`
+
+
+### Lección 23 Growth `uxd-4`
 
 | # | Tipo | Duración | Tópico
 | - | ---- | -------- | ------
@@ -245,7 +283,7 @@ Bienvenida al curso, detalles del formato y logística de la clase. Conceptos in
 
 
 
-### Lección 23 Browser Prototyping and MVPs `uxd-4`
+### Lección 24 Browser Prototyping and MVPs `uxd-4`
 
 | # | Tipo | Duración | Tópico
 | - | ---- | -------- | ------
