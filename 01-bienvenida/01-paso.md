@@ -14,7 +14,7 @@ Queremos mostrarte cuál es nuestra visión de nuestra institución. ymotivarte 
 | 02 | Presentación | Bienvenid@ a Laboratoria
 
 
-### Módulo 2: Variables y tipos de datos
+### Módulo 2: ¿Cuál es el perfil del profesor en Laboratoria?
 
 El segundo módulo entrará a más detalle en algunos conceptos base de la programación, como lo son las variables, los tipos de datos y los operadores.
 
