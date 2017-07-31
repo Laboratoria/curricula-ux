@@ -7,16 +7,7 @@ Esperamos que además de planificar, dictar y evaluar a las alumnas, seas el nex
 
 Te queremos invitar a sumarte a este proyecto desde la visión que te presentamos anteriormente, una visión de una industria más inclusiva y diversa. Una industria que reciba a estas mujeres con ganas de aportar y de contar con una nueva carrera.
 
-
-### Operación v/s Ejecución
-
-En Laboratoria trabajamos en dos equipos separados pero que son muy complementarios: Productos y Ejecución. El equipo de productos es quién se encarga de diseñar los programas y productos para todas las sedes de Laboratoria. El de ejecución, como su nombre lo dice,se encarga de ejecutar los programas diseñados por el equipo de productos. Contamos con un equipo regional de producto que diseña el material que cada una de nuestras sedes va a ejecutar.
-
-El feedback que nos puedas entregar sobre la ejecución es fundamental para poder rediseñar y mejorar nuestra oferta.
-
-
 ### Responsabilidades del Profesor Educación Continua
-
 
 A continuación te presentamos las responsabilidades y tareas asociadas al profesor de  Educación Continua en Laboratoria:
 
@@ -35,25 +26,27 @@ a) Laboratoria te entregará todo el contenido del curso que se va a dictar, per
 b) Recibirás un listado con las alumnas que van a tomar este curso.
 c) Parte importante de este punto, es determinar los parámetros de evaluación. Hay cursos donde los parámetros vienen establecidos,pero hay otros que deberán ser planificados. Este punto también deberá de ser conversado con el TM.
 
-##### Durante las clases
+##### Durante las clases presenciales
+Aquí te presentamos lo básico que tiene que realizar en cada una de las clases presenciales:
 a) Tu horario empieza 10 minutos antes que comience la clase.
 b) Antes que lleguen las alumnas, deberás escribir en la pizarra la “Agenda del día”.
 c) Lo primero que debes de hacer es pasar la lista mientras las alumnas van llegando.
 d) La clase parte 5 minutos después de la hora establecida.
-e) Los pasos a seguir son los siguientes:
-Saludo
-Revisión agenda para ese día
-Contenido/ejercicios/ etc
-Verificación del aprendizaje
-Cierre de la clase donde debe de quedar absolutamente claro las tareas/ejercicios/contenido que la alumna debe de entregar antes de la siguiente clase.
+
+Los pasos a seguir son los siguientes:
+
+- Saludo y apertura de la clase.
+- Revisión agenda para ese día: en este punto es importante que se deje claro cuál es el objetivo de la clase que se va a dictar y los horarios previstos para esto.
+- Contenido/ejercicios
+- Verificación del aprendizaje
+- Cierre de la clase: aquí deberá quedar absolutamente claras tareas/ejercicios/contenido que la alumna debe de entregar antes de la siguiente clase.
 
 ##### Dar feedback de las lecciones al equipo de productos
 Cada vez que termines una lección, deberás dar tu feedback del contenido según los mecanismos que Laboratoria te entregue.
 
 ##### Evaluar a las alumnas
 Cada curso contiene ejercicios/tareas evaluadas y un proyecto final. Será parte de tu responsabilidad ir corrigiendo lo señalado. 
-Las notas del proyecto final, junto con la aprobación/no aprobación de alguna de las alumnas, deberá ser entregado al TM a más tardar 1 semana posterior a la última clase dictada. 
-
+Las notas del proyecto final, junto con la aprobación/no aprobación de alguna de las alumnas, deberá ser entregado al TM a más tardar 3 dias posterior a la última clase dictada. 
 
 ### Comunicación con las alumnas y con Laboratoria
 
