@@ -30,8 +30,4 @@ Para esta sesión identificamos seis elementos claves para una clase:
 List@? vamos!
 
 
-
-
-
-
 [EMPEZAR](02-creacioncontenido.md)
