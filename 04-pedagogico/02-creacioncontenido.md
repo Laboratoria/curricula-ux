@@ -28,4 +28,7 @@ Ejemplos: Los alumnos serán capaces de diferenciar los paradigmas más en comun
 f) El pedagogo y psicólogo Benjamín Bloom hizo una contribución a la taxonomía de los objetivos de aprendizaje. Para ver la taxonomía de Bloom que puede ser muy útil pueden apretar Aqui (https://image.slidesharecdn.com/taxonomiadebloom-091106194210-phpapp02/95/taxonomia-de-bloom-1-728.jpg?cb=1257536535) 
 
 
+[List@ para la siguiente técnica?](03-planificacionclase.md)
+
+
 
