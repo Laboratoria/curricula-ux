@@ -20,12 +20,12 @@ Te invitamos a ver este video que ayudará a ejemplificar de mejor manera esta m
 
 Para esta sesión identificamos seis elementos claves para una clase: 
 
-a) Creación de Objetivo
-b) Planificación de clases
-c) Estructura de una clase.
-d) “Agenda” clara de la clase.
-e) Dar Instrucciones claras.
-f) Verificación de la Comprensión.
+- a) Creación de Objetivo
+- b) Planificación de clases
+- c) Estructura de una clase.
+- d) “Agenda” clara de la clase.
+- e) Dar Instrucciones claras.
+- f) Verificación de la Comprensión.
 
 List@? vamos!
 
