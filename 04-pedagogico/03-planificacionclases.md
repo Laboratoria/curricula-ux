@@ -30,4 +30,6 @@ Cualquiera sea el formato que se adopte, la planificación escrita permite, entr
 
 Para planificar siempre es más fácil disponer de una planilla con una estructura clara que nos permite ordenarnos. Nosotros proponemos la siguiente planificación que explicaremos su estructura en el siguiente punto. Apreta aquí para ver planilla de planificación. 
 
-Para que la planificación sea más efectiva al momento de ejecutarla, debemos tener clara de los tiempo que nos tomará cada actividad. Además, de que tenga un Inicio, Desarrollo y Cierre. .
+Para que la planificación sea más efectiva al momento de ejecutarla, debemos tener clara de los tiempo que nos tomará cada actividad. Además, de que tenga un Inicio, Desarrollo y Cierre.
+
+
