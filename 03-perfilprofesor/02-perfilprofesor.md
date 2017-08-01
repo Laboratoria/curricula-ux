@@ -23,8 +23,13 @@ Complementando y sumado a lo anterior, las tareas asociadas a dichas responsabil
 
 ##### Planificación de las clases
 a) Laboratoria te entregará todo el contenido del curso que se va a dictar, pero tu eres el responsable de planificar el mes completo del curso y bajarlo  a una planificación diaria. Esta planificación debe de ser conversada y aprobada por el training manager (TM) de tu ciudad.
-b) Recibirás un listado con las alumnas que van a tomar este curso.
-c) Parte importante de este punto, es determinar los parámetros de evaluación. Hay cursos donde los parámetros vienen establecidos,pero hay otros que deberán ser planificados. Este punto también deberá de ser conversado con el TM.
+b) Parte importante de este punto, es determinar los parámetros de evaluación. Hay cursos donde los parámetros vienen establecidos,pero hay otros que deberán ser planificados. Este punto también deberá de ser conversado con el TM.
+
+Para una buena planificación te entregaremos: 
+a) Contenido del curso.
+b) Material complementario.
+b) Template de presentaciones a modificar según el curso que impartirás.
+d) Listado con las alumnas que van a tomar el curso.
 
 ##### Durante las clases presenciales
 Aquí te presentamos lo básico que tiene que realizar en cada una de las clases presenciales:
@@ -36,13 +41,13 @@ d) La clase parte 5 minutos después de la hora establecida.
 Los pasos a seguir son los siguientes:
 
 - Saludo y apertura de la clase.
-- Revisión agenda para ese día: en este punto es importante que se deje claro cuál es el objetivo de la clase que se va a dictar y los horarios previstos para esto.
+- Revisión agenda para ese día: en este punto es importante que se deje claro cuál es el objetivo de la clase que se va a dictar y los horarios previstos para esto. En el siguiente módulo te enseñaremos algunas técnicas para hacerlo.
 - Contenido/ejercicios
-- Verificación del aprendizaje
-- Cierre de la clase: aquí deberá quedar absolutamente claras tareas/ejercicios/contenido que la alumna debe de entregar antes de la siguiente clase.
+- Verificación del aprendizaje. En el siguiente módulo también aprenderás algunas téncias para verificar si tus alumnas están aprendiendo.
+- Cierre de la clase: aquí deberá quedar absolutamente claras las tareas/ejercicios/contenido que la alumna debe de entregar antes de la siguiente clase.
 
 ##### Dar feedback de las lecciones al equipo de productos
-Cada vez que termines una lección, deberás dar tu feedback del contenido según los mecanismos que Laboratoria te entregue.
+Cada vez que termines una lección, deberás dar tu feedback del contenido según los mecanismos que Laboratoria te entregue. Recueda que esto es fundamental para lograr una cerrar el ciclo de un curso en Laboratoria.
 
 ##### Evaluar a las alumnas
 Cada curso contiene ejercicios/tareas evaluadas y un proyecto final. Será parte de tu responsabilidad ir corrigiendo lo señalado. 
