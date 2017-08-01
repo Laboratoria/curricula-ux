@@ -13,5 +13,12 @@ Te invitamos a ver este video que ayudará a ejemplificar de mejor manera esta m
 
 [![Video Aprendizaje basado en proyectos](https://www.youtube.com/watch?v=LMCZvGesRz8.jpg)](https://www.youtube.com/watch?v=LMCZvGesRz8)
 
+[![Video Growth Mindset](http://img.youtube.com/vi/pN34FNbOKXc/0.jpg)](http://www.youtube.com/watch?v=pN34FNbOKXc)
+
+[![Video Growth Mindset](http://www.youtube.com/watch?v=pN34FNbOKXc)
+
+
+[![Video Growth Mindset](http://img.youtube.com/vi/pN34FNbOKXc/0.jpg)](http://www.youtube.com/watch?v=pN34FNbOKXc)
+
 
 [EMPEZAR](01-growth-mindset.md)
