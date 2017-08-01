@@ -29,6 +29,8 @@ Activación de los conocimientos previos respecto de los contenidos a abordar. E
 
 #### Desarrollo
 
+Contenido nuevo
+
 Lo que nos sucede muchas veces al hacer clases es que nos quedamos “pegados” en explicar el contenido nuevo. Con otras palabras, nuestra clase se transforma en algo totalmente expositivo. Grave error! Debemos hacer el esfuerzo para que la parte expositiva sea concreta y sencilla. Aunque a veces es difícil, debemos intentarlo. 
 
 Cosas que debemos tener en consideración en esta parte de la clase es: 
@@ -36,4 +38,13 @@ Cosas que debemos tener en consideración en esta parte de la clase es:
 - Atención del 100% de los estudiantes. Si es un contenido nuevo, los estudiantes deben estar concentrados y escuchando la nueva información. 
 - Verificar constantemente si los estudiantes están interiorizando el nuevo contenido. 
 - La concentración no es nuestra mejor característica. La exposición del nuevo contenido no debe durar más de 30 minutos, ojala menos que eso. 
+
+Práctica Guiada
+
+En esta parte debemos modelar cómo hacer un ejercicio o actividad que deseamos que nuestras alumnas hagan para cumplir el objetivo de la clase.
+
+Cosas que debemos tener en consideración en esta parte de la clase es: 
+Modelar la actividad y habilidad que queremos trabajar con las alumnas.  
+
+Verificación de la comprensión constantemente. Tenemos que estar revisando si las alumnas están “siguiendo” el modelamiento que estamos haciendo. 
 
