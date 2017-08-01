@@ -20,3 +20,12 @@ c) Un objetivo bien escrito debe asociar un único resultado a una sola tarea o 
 Ejemplo incorrecto: Diferenciar y definir los paradigmas más en comunes en la programación.  
 Ejemplo correcto: Diferenciar los paradigmas más en comunes en la programación.
 
+d) No se recomienda el uso de términos vagos como "entender", "comprender", "apreciar" o "aprender", ya que no ayudan a describir el comportamiento que se espera de los alumnos. Siempre es mejor utilizar palabras que pueden ser evaluadas cuantitativamente. 
+
+e) Algunos verbos preferibles son:  definir, identificar, demostrar, comparar, crear, seleccionar, lo que uno podría imaginar fácilmente mientras que el otro está realizando.
+Ejemplos: Los alumnos serán capaces de diferenciar los paradigmas más en comunes en la programación; Los alumnos serán capaces de resolver ejercicios de programación orientada a objetos y herencia prototipal..
+
+f) El pedagogo y psicólogo Benjamín Bloom hizo una contribución a la taxonomía de los objetivos de aprendizaje. Para ver la taxonomía de Bloom que puede ser muy útil pueden apretar Aqui (https://image.slidesharecdn.com/taxonomiadebloom-091106194210-phpapp02/95/taxonomia-de-bloom-1-728.jpg?cb=1257536535) 
+
+
+
