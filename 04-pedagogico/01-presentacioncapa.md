@@ -19,6 +19,21 @@ Te invitamos a ver este video que ayudará a ejemplificar de mejor manera esta m
 
 “Aplicar técnicas pedagógicas en mis clases para tener una mayor efectividad en ellas a través de la práctica y acompañamiento del Training Manager” 
 
+### TÉCNICAS EFECTIVAS PARA UNA CLASE
+
+Para esta sesión identificamos seis elementos claves para una clase: 
+
+a) Creación de Objetivo
+b) Planificación de clases
+c) Estructura de una clase.
+d) “Agenda” clara de la clase.
+e) Dar Instrucciones claras.
+f) Verificación de la Comprensión.
+
+List@? vamos!
+
+
+
 
 
 
