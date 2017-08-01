@@ -34,4 +34,4 @@ List@? vamos!
 
 
 
-[EMPEZAR](01-growth-mindset.md)
+[EMPEZAR](02-creacioncontenido.md)
