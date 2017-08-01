@@ -32,4 +32,4 @@ Para planificar siempre es más fácil disponer de una planilla con una estructu
 
 Para que la planificación sea más efectiva al momento de ejecutarla, debemos tener clara de los tiempo que nos tomará cada actividad. Además, de que tenga un Inicio, Desarrollo y Cierre.
 
-
+[Vamos a la siguiente](04-estructuraclase.md)
