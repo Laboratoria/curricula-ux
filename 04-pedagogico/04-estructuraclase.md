@@ -48,3 +48,24 @@ Modelar la actividad y habilidad que queremos trabajar con las alumnas.
 
 Verificación de la comprensión constantemente. Tenemos que estar revisando si las alumnas están “siguiendo” el modelamiento que estamos haciendo. 
 
+Práctica Independiente/Colaborativa
+
+En la práctica individual/colaborativa es la oportunidad que los alumnos pueden internalizar y moldear lo aprendido. 
+
+Cosas que debemos tener en consideración en esta parte de la clase es: 
+
+- En esta parte de la clase el alumno ejercita individual y/o grupalmente la habilidad y el contenido enseñado.
+- El alumno moldea y empieza a internalizar lo aprendido. El alumno es capaz de aplicar lo aprendido en otras contextos. 
+- Esta parte de la clase debiese ser la más larga en tiempo para que los alumnos realmente puedan poner en práctica lo aprendido. 
+- En esta parte los estudiantes son los protagonistas, pero no significa que nosotros estemos sentados. Debemos estar monitoreando y resolviendo dudas que a los alumnos les vaya surgiendo en la práctica.
+
+Cierre
+
+Esta etapa es la más abandonada porque no nos alcanza el tiempo muchas veces. El cierre tiene un gran importancia en el proceso de aprendizajes porque es donde se invita a los estudiantes a efectuar una metacognición de lo vivido en la clase, es decir, a que tomen conciencia de sus progresos, de sus nuevos aprendizajes, puedan extraer conclusiones, evaluar los aprendizajes y lograr la generalización o transferencia de los aprendizajes.
+
+Cosas que debemos tener en consideración en esta parte de la clase es: 
+
+- Si queremos lograr hacer un cierre que logre los objetivos, debemos tener una planificación que considere los tiempos de cada etapa y actividad de la clase. 
+- Debemos verificar si el aprendizaje fue efectivo. Esto se puede hacer a través de un test de salida o cualquier otra actividad que nos de data.
+
+
