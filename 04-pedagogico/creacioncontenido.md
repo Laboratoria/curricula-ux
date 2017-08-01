@@ -12,10 +12,11 @@ Es muy importante que el objetivo sea visible y explícito para los alumnos, par
 
 #### ¿CÓMO CONSTRUIR UN OBJETIVO DE APRENDIZAJE?
 
->> Identificar el qué queremos enseñar y el para qué. Además, centrarse en el comportamiento (habilidad) más que en el contenido. Ejemplos: Resolver conflictos y quejas del cliente, escribir una carta de presentación para el cliente, aplicar una rúbrica.
+a) Identificar el qué queremos enseñar y el para qué. Además, centrarse en el comportamiento (habilidad) más que en el contenido. Ejemplos: Resolver conflictos y quejas del cliente, escribir una carta de presentación para el cliente, aplicar una rúbrica.
 
->> Siempre centrarnos en lo que el alumnado logrará, y no, en lo que nosotros como docentes hacemos para que lo logre. Así, una frase que puede ayudarnos a formularlos será: “Que al finalizar esta clase,  la alumna sea capaz de…..”
+b) Siempre centrarnos en lo que el alumnado logrará, y no, en lo que nosotros como docentes hacemos para que lo logre. Así, una frase que puede ayudarnos a formularlos será: “Que al finalizar esta clase,  la alumna sea capaz de…..”
 
->> Un objetivo bien escrito debe asociar un único resultado a una sola tarea o habilidad. Por ejemplo, se debe evitar tener una combinación de dos acciones usando 'y'. Si es que tenemos dos acciones, concentrarnos en la más compleja o más importante.
+c) Un objetivo bien escrito debe asociar un único resultado a una sola tarea o habilidad. Por ejemplo, se debe evitar tener una combinación de dos acciones usando 'y'. Si es que tenemos dos acciones, concentrarnos en la más compleja o más importante.
 Ejemplo incorrecto: Diferenciar y definir los paradigmas más en comunes en la programación.  
 Ejemplo correcto: Diferenciar los paradigmas más en comunes en la programación.
+
