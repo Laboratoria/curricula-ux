@@ -69,4 +69,14 @@ Cosas que debemos tener en consideración en esta parte de la clase es:
 - Si queremos lograr hacer un cierre que logre los objetivos, debemos tener una planificación que considere los tiempos de cada etapa y actividad de la clase. 
 - Debemos verificar si el aprendizaje fue efectivo. Esto se puede hacer a través de un test de salida o cualquier otra actividad que nos de data.
 
+## PLANIFICACION EJEMPLO
+
+A continuación se les presentará una planificación de ejemplo de un taller a profesores sobre “Planificación y Verificación de la Comprensión”. 
+
+Es un taller de más de 3 horas de duración donde la expositora planificó cada actividad detallando el tiempo que le tomaría cada momento del taller. De esta manera, ella logró realizar todas las partes planificadas en la clase incluyendo el cierre. 
+
+Click aquí para ver la planificación (https://docs.google.com/document/d/1mRM3wAcoagXHCDcNjpeQmJoUY8nY351MLwHnBtIViTo/edit)
+
+![Ejemplo etiqueta](06.jpg)
+
 [Seguimos? Vamos](05-agenda.md)
