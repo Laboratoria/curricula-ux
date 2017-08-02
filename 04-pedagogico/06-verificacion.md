@@ -52,8 +52,27 @@ Antes de empezar te invitamos a mirar el siguiente video
 
 El ticket de salida nos permite verificar al final de la clase si el objetivo de aprendizaje se cumple. Además el profesor tendrá información confiable sobre cuán eficaz fue la lección. Sabrá que el porcentaje de alumnos respondió correctamente y por qué lo cometió. 
 Es importante realizar el ticket de salida todas las clases y corregir inmediatamente porque el profesor sabrá cómo mejorar la próxima lección y no tendrá que adivinar qué hacer.
+
 ¿Cómo lo aplico? Es una sola pregunta o una corta secuencia de preguntas que reflejan la parte fundamental del objetivo. La idea es recoger las respuestas antes que los alumnos se retiren y analizar los datos. 
 
+¿Qué mensaje debo transmitir? Es muy importante saber si lograste el objetivo de la clase y tener información confiable para intervenir en caso de ser necesario.
 
+CARACTERÍSTICAS DE TICKETS DE SALIDAS EFECTIVOS
+
+1. Rápidos: de una a tres preguntas, objetivo central.
+2. Diseñados para entregar datos: preguntas simples en enfocadas en la parte clave del objetivo. Son diseñadas para saber por qué hay errores, es importante variar formatos.    
+3. Excelentes inicios de clase: alumnos ven sus resultados, reenseñar si es muy bajo el resultado.
+
+Para cerrar esta sección te invitamos a ver el siguiente video que da ejemplos.
+
+[![Video Aprendizaje basado en proyectos](http://img.youtube.com/vi/cUt2mHEiVn8/0.jpg)](https://www.youtube.com/watch?v=cUt2mHEiVn8)
+
+Si quieres más información, te recomendamos el siguiente archivo: http://www.astoreca.cl/wp-content/uploads/2016/12/manuales/Monitoreo-de-la-comprension.pdf
+
+### THE END
+
+Esperamos que esta pequeña inducción te sirva para poder realizar mejores clases y estar más consciente de tu práctica pedagógica. 
+El Training Manager será el que te acompañe en tu práctica en el aula donde observará al menos una de tus clases y te realizará feedback. 
+El Training Manager será el que te dará las siguientes fecha para el Trabajo Personal y la Reunión Presencial. 
 
 
