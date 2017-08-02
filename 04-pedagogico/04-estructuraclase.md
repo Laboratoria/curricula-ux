@@ -69,4 +69,4 @@ Cosas que debemos tener en consideración en esta parte de la clase es:
 - Si queremos lograr hacer un cierre que logre los objetivos, debemos tener una planificación que considere los tiempos de cada etapa y actividad de la clase. 
 - Debemos verificar si el aprendizaje fue efectivo. Esto se puede hacer a través de un test de salida o cualquier otra actividad que nos de data.
 
-[EMPEZAR](05-agenda.md)
+[Seguimos? Vamos](05-agenda.md)
