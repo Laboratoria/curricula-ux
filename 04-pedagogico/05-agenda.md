@@ -22,3 +22,22 @@ a) Silencio y atención absoluta. Si tu instrucción o información es important
 
 b) Planifica las instrucciones de las actividades previamente. Ponte en la piel del estudiante y pregúntate si con las instrucciones que vas a dar, te van a entender. Escoge las palabras clave que sabes que conocen o pueden inferir fácilmente: escribe, escucha, dibuja, habla con tu compañero, lee, pregunta, etc. Repasa la actividad mentalmente y anticipa los posibles problemas que pueden surgirles para la comprensión del mensaje.
 
+c) Pregúntate: ¿estoy dándoles toda la información que necesitan para realizar la actividad o tarea en cuestión? Nos tenemos que dar cuenta de que nosotros estamos muy familiarizados con el material que llevamos a la clase y con la mecánica de las actividades, pero nuestros estudiantes puede que sea la primera vez que trabajan una actividad así y necesitan conocer cada paso.
+
+d) Sé breve, claro y conciso en la explicación, no te extiendas más de lo necesario contando cosas que en ese momento los alumnos no van a necesitar, como qué van a hacer luego, o algún tipo de comentario intrascendente u obvio. Ve al grano y sé preciso. Como dicen algunos expertos, utiliza la Economía del Lenguaje.
+
+e) Dosifica la instrucción. Si tiene diferentes pasos o es complicada la mecánica de la actividad, divide la instrucción en varias partes. Das una instrucción, les indicas que hagan esa parte y después explicas el resto o lo divides igualmente en partes.
+
+f) Modela lo que tienes que hacer siempre que sea posible; es más rentable que explicar. Muestra a todos bien la actividad en cuestión.
+
+g) Comprueba y asegúrate de que las alumnas entendieron cada paso de la explicación. Debes ser preguntas dirigidas y no abiertas. Puedes apoyarte en uno o dos alumnas para que lo expliquen al resto de la clase con sus palabras. Las preguntas deben ser dirigidas y concretas. Algunos ejemplos: “¿Qué tienen que hacer?”; ”¿Cómo tienen que hacer la actividad?” ; “¿Cuánto tiempo tienen para hacerlo?”
+
+h) Obsérvate, sé consciente y abierto al feedback de cómo das las instrucciones en clase. ¿Qué es lo positivo que haces? ¿Qué aspecto crees que puedes mejorar? ¿Qué pasos vas a seguir para conseguirlo? Ten paciencia y date tiempo; vas por muy buen camino.
+
+## Imagen niñita
+
+MUY IMPORTANTE!
+Verificar comprensión de las instrucciones después de decirlas.
+
+Vamos! nos queda una última técnica!
+
