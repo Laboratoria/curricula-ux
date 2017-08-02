@@ -44,9 +44,10 @@ Práctica Guiada
 En esta parte debemos modelar cómo hacer un ejercicio o actividad que deseamos que nuestras alumnas hagan para cumplir el objetivo de la clase.
 
 Cosas que debemos tener en consideración en esta parte de la clase es: 
-Modelar la actividad y habilidad que queremos trabajar con las alumnas.  
+- Modelar la actividad y habilidad que queremos trabajar con las alumnas.  
+- Verificación de la comprensión constantemente. Tenemos que estar revisando si las alumnas están “siguiendo” el modelamiento que estamos haciendo. 
 
-Verificación de la comprensión constantemente. Tenemos que estar revisando si las alumnas están “siguiendo” el modelamiento que estamos haciendo. 
+![doamiguitos](05.jpg)
 
 Práctica Independiente/Colaborativa
 
