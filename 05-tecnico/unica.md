@@ -13,4 +13,5 @@ Este módulo está planificado con una duración de 1 semana.
 
 Cuando termines coordina reunión con tu training manager para pasar al último módulo del curso.
 
-Vamos?
+
+[VAMOS?](../05-reuniontm/listareunion.md)
