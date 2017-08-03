@@ -47,20 +47,20 @@ Los objetivos de esta parte de la capacitación es la siguiente:
 3. Conocerás tus tareas para que tener una planificación!!
 
 
-
 | # | Tipo | Tópico
 | - | ----- | -----
-| 01 | Lectura | 
-| 02 | Lectura | 
-| 03 | Lectura | 
+| 01 | Lectura | Presentación de la Capacitación pedagógica
+| 02 | Lectura | a) Creación de Objetivo
+| 03 | Lectura | b) Planificación de clases
+| 04 | Lectura | c) Estructura de una clase.
+| 05 | Lectura | d) “Agenda” clara de la clase.
+| 06 | Lectura | e) Dar Instrucciones claras.
+| 07 | Lectura | f) Verificación de la Comprensión
 
 
 ### Módulo 4: Capacitación técnica
 
-
-XXXXXXXXXXXXXX
-
-
+Revisarás el contenido del curso en particular que te corresponde.
 
 ### Módulo 5: Día a día del Profesor de Educación Continua
 
@@ -71,4 +71,4 @@ En esta parte de la capacitación encontrarás un chek-list a revisar con tu tra
 List@? Empecemos!
 
 
-[EMPEZAR](01-growth-mindset.md)
+[Te invito al primer módulo](../02-introduccion/02-paso.md)
