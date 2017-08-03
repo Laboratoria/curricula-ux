@@ -1,6 +1,6 @@
 # Bienvenida y orientación
 
-Hola y bienvenid@ al proceso de inducción y capacitación que hemos preparado para los profesores de Laboratoria. Toda esta capacitación es on-line salvo el último punto que es presecial.
+Hola y bienvenid@ al proceso de inducción y capacitación que hemos preparado para los profesores de Laboratoria. Todo este curso es on-line salvo el último punto que es presencial.
 
 En todo este proceso estarás acompañado por tu training manager, quién estará pendiente de tu avance.
 
@@ -17,12 +17,13 @@ Queremos mostrarte cuál es nuestra visión de la institución y motivarte a ser
 | 00 | Lectura | Bienvenida y orientación
 | 01 | Video   | Mariana Costa
 | 02 | Presentación | Bienvenid@ a Laboratoria
+| 03 | Documento | Our Little Book of Culture
 
 
 ### Módulo 2: ¿Cuál es el perfil del profesor en Laboratoria?
 
 
-El segundo módulo entrará a más detalle en lo que esperamos de ti como profesor de Laboratoria. Aprenderás qué es Educación Continua, objetivos y un poco de historia. A continuación te presentaremos las principales responsabilidad que tendrás y terminaremos con un "Código de Comportamiento" interno de relación con las alumnas.
+El segundo módulo entrará más en detalle en lo que esperamos de ti como profesor de Laboratoria. Aprenderás qué es Educación Continua, objetivos y un poco de historia. A continuación te presentaremos las principales responsabilidad que tendrás y terminaremos con un "Código de Comportamiento" interno de relación con las alumnas.
 
 
 | # | Tipo | Tópico
