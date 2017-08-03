@@ -39,6 +39,5 @@ h) Obsérvate, sé consciente y abierto al feedback de cómo das las instruccion
 MUY IMPORTANTE!
 Verificar comprensión de las instrucciones después de decirlas.
 
-Vamos! nos queda una última técnica!
 
 [Vamos! nos queda la última ténica](06-verificacion.md)
