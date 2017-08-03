@@ -11,7 +11,7 @@ En el libro “Teach like a Champion” (2010) y “Teach like a champion 2.0”
 
 El gran desafío de los profesores es que los estudiantes comprendan y asegurarse de esto. Verificar la comprensión es una herramienta para lograr este objetivo durante la clase. Es importante porque pequeñas fallas de comprensión pueden transformarse en algo mayor, aumentando los errores.   Perder toda una lección es un alto costo en términos de comprensión y enseñanza, en cambio 10 minutos, son más fáciles de recuperar.
 
-## imagen de los dos locos
+![Ejemplo etiqueta](08.jpg)
 
 #### Como verificar la comprensión
 
