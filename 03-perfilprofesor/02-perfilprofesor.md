@@ -61,3 +61,4 @@ La comunicación formal fuera del horario de clases con las alumnas será a trav
 
 Si requieres conversar con alguna alumna un tema en particular como la poca participación, o alguna acción poco apropiada de alguna alumnas, el/la training manager debe de estar al tanto y decidir en conjunto los pasos a realizar.
 
+[SIGUIENTE](comportamiento.md)
