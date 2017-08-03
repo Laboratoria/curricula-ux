@@ -18,3 +18,6 @@ En la última parte de este módulo, te invitamos a ver "Our little book of cult
 https://drive.google.com/file/d/0B7VP2ZeGY3KDclc5SDU5VGk0TVE/view
 
 Sigues con dudas de Laboratoria? Recuerda que tu training manager es la persona que hemos designado para acompañarte.
+
+
+[Continuar](../03-perfilprofesor/01-ec.md)
