@@ -23,3 +23,5 @@
 - Entiendo que hay voceros definidos en Laboratoria, quienes son los que representan oficialmente a la Institución hacia afuera.
 - Cuando hable de Laboratoria en ambientes externos, pero relacionados a Laboratoria, me aseguraré de transmitir un mensaje definido por la Institución.
 - Cuando hable de Laboratoria en ambiente externos, no relacionados a Laboratoria, fuera del ámbito laboral, me comprometo a mantener la imagen positiva de la Institución 
+
+[Acepto este compromiso](../04-pedagogico/01-presentacioncapa.md)
