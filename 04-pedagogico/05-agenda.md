@@ -34,7 +34,7 @@ g) Comprueba y asegúrate de que las alumnas entendieron cada paso de la explica
 
 h) Obsérvate, sé consciente y abierto al feedback de cómo das las instrucciones en clase. ¿Qué es lo positivo que haces? ¿Qué aspecto crees que puedes mejorar? ¿Qué pasos vas a seguir para conseguirlo? Ten paciencia y date tiempo; vas por muy buen camino.
 
-![Ninita](o6.jpg)
+![Ninita](06.jpg)
 
 MUY IMPORTANTE!
 Verificar comprensión de las instrucciones después de decirlas.
