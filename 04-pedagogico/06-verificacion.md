@@ -75,4 +75,4 @@ Esperamos que esta pequeña inducción te sirva para poder realizar mejores clas
 El Training Manager será el que te acompañe en tu práctica en el aula donde observará al menos una de tus clases y te realizará feedback. 
 El Training Manager será el que te dará las siguientes fecha para el Trabajo Personal y la Reunión Presencial. 
 
-[Continuar](../02-variables-and-data-types/01-values-data-types-and-operators.md)
+[Continuar](../05-tecnico/unica.md)
