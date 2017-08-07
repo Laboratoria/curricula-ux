@@ -33,8 +33,8 @@ Finalmente, se debe considerar también la forma más adecuada para trabajar con
 
 Cualquiera sea el formato que se adopte, la planificación escrita permite, entre otras ventajas, organizar el pensamiento de modo coherente y consistente, y respondiendo a una lógica sintáctica y semántica. Al ofrecer una anticipación sistemática, permite reducir la incertidumbre. Todo lo que se planifica, en definitiva, deja energía libre para atender las contingencias e imprevistos que pueden presentarse en el proceso de enseñanza aprendizaje.
 
-Para planificar siempre es más fácil disponer de una planilla con una estructura clara que nos permite ordenarnos. Nosotros proponemos la siguiente planificación que explicaremos su estructura en el siguiente punto. Apreta aquí para ver planilla de planificación. 
+Para planificar siempre es más fácil disponer de una planilla con una estructura clara que nos permite ordenarnos. Nosotros proponemos la siguiente planificación que explicaremos su estructura en el siguiente punto. Apreta aquí para ver planilla de planificación (https://docs.google.com/document/d/1cJx4zWQ_G-_FGv0cEIs3z1__YxMDw9CjY19-rbWxCFs/edit)
 
 Para que la planificación sea más efectiva al momento de ejecutarla, debemos tener clara de los tiempo que nos tomará cada actividad. Además, de que tenga un Inicio, Desarrollo y Cierre.
 
-[Vamos a la siguiente](04-estructuraclase.md)
+[VAMOS A LA SIGUIENTE](04-estructuraclase.md)
