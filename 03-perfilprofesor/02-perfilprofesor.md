@@ -22,14 +22,14 @@ Principales responsabilidades:
 Complementando y sumado a lo anterior, las tareas asociadas a dichas responsabilidades son las siguientes:
 
 ##### Planificación de las clases
-a) Laboratoria te entregará todo el contenido del curso que se va a dictar, pero tu eres el responsable de planificar el mes completo del curso y bajarlo  a una planificación diaria. Esta planificación debe de ser conversada y aprobada por el training manager (TM) de tu ciudad.
-b) Parte importante de este punto, es determinar los parámetros de evaluación. Hay cursos donde los parámetros vienen establecidos,pero hay otros que deberán ser planificados. Este punto también deberá de ser conversado con el TM.
+1) Laboratoria te entregará todo el contenido del curso que se va a dictar, pero tu eres el responsable de planificar el mes completo del curso y bajarlo  a una planificación diaria. Esta planificación debe de ser conversada y aprobada por el training manager (TM) de tu ciudad.
+2) Parte importante de este punto, es determinar los parámetros de evaluación. Hay cursos donde los parámetros vienen establecidos,pero hay otros que deberán ser planificados. Este punto también deberá de ser conversado con el TM.
 
 Para una buena planificación te entregaremos: 
-a) Contenido del curso.
-b) Material complementario.
-b) Template de presentaciones a modificar según el curso que impartirás.
-d) Listado con las alumnas que van a tomar el curso.
+- Contenido del curso.
+- Material complementario.
+- Template de presentaciones a modificar según el curso que impartirás.
+-Listado con las alumnas que van a tomar el curso.
 
 ##### Durante las clases presenciales
 Aquí te presentamos lo básico que tiene que realizar en cada una de las clases presenciales:
@@ -43,7 +43,7 @@ Los pasos a seguir son los siguientes:
 - Saludo y apertura de la clase.
 - Revisión agenda para ese día: en este punto es importante que se deje claro cuál es el objetivo de la clase que se va a dictar y los horarios previstos para esto. En el siguiente módulo te enseñaremos algunas técnicas para hacerlo.
 - Contenido/ejercicios
-- Verificación del aprendizaje. En el siguiente módulo también aprenderás algunas téncias para verificar si tus alumnas están aprendiendo.
+- Verificación del aprendizaje. En el siguiente módulo también aprenderás algunas técnicas para verificar si tus alumnas están aprendiendo.
 - Cierre de la clase: aquí deberá quedar absolutamente claras las tareas/ejercicios/contenido que la alumna debe de entregar antes de la siguiente clase.
 
 ##### Dar feedback de las lecciones al equipo de productos
