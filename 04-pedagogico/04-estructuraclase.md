@@ -58,7 +58,7 @@ Cosas que debemos tener en consideración en esta parte de la clase es:
 - Esta parte de la clase debiese ser la más larga en tiempo para que los alumnos realmente puedan poner en práctica lo aprendido. 
 - En esta parte los estudiantes son los protagonistas, pero no significa que nosotros estemos sentados. Debemos estar monitoreando y resolviendo dudas que a los alumnos les vaya surgiendo en la práctica.
 
-Cierre
+#### Cierre
 
 Esta etapa es la más abandonada porque no nos alcanza el tiempo muchas veces. El cierre tiene un gran importancia en el proceso de aprendizajes porque es donde se invita a los estudiantes a efectuar una metacognición de lo vivido en la clase, es decir, a que tomen conciencia de sus progresos, de sus nuevos aprendizajes, puedan extraer conclusiones, evaluar los aprendizajes y lograr la generalización o transferencia de los aprendizajes.
 
