@@ -10,9 +10,9 @@ La estructura que se propone se divide de la siguiente manera:
 
 - Inicio
 - Desarrollo
-Contenido Nuevo
-Práctica guiada
-Práctica Individual/Colaborativa
+a) Contenido Nuevo
+b) Práctica guiada
+c) Práctica Individual/Colaborativa
 - Cierre
 
 #### Inicio
