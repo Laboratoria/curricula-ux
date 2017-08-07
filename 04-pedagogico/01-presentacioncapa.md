@@ -3,7 +3,7 @@
 
 
 Muchas veces nos pasa que llegamos a nuestras clases muy motivados, pero en el camino nos damos cuenta que nuestros alumnos no siguen la clase. Nosotros, los profesores, empezamos a perder el rumbo de la clase. 
-Por eso mismo hemos diseñado esta pequeña inducción para ayudarlos a tener una clase más efectiva.
+Por eso mismo hemos diseñado esta pequeña inducción para ayudarte a tener una clase más efectiva.
  
 ![Caos clase](Class_chaos.jpg)
 
