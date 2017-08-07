@@ -19,11 +19,11 @@ c) Práctica Individual/Colaborativa
 
 La primera parte de la clase es fundamental, es donde tenemos que presentar el objetivo de la clase, las expectativas de comportamiento y prender motores, es decir, levantar conocimiento previo necesario para la clase. El inicio tiene tres aspectos que resultan efectivas en el aprendizaje: 
 
-Motivación del tema. En este momento el profesor captará la atención de sus estudiantes con el objetivo de incorporarlos a la clase. Ejemplo: Contar una anécdota, plantear una situación problemática, mostrar una presentación multimedia, observar una imagen, plantear una pregunta desafiante, escuchar una noticia, etc. No debe descuidar que lo planteado sea alusivo al tema de la clase, que involucre a los alumnos, los active y les recuerde en qué están.
+1) Motivación del tema. En este momento el profesor captará la atención de sus estudiantes con el objetivo de incorporarlos a la clase. Ejemplo: Contar una anécdota, plantear una situación problemática, mostrar una presentación multimedia, observar una imagen, plantear una pregunta desafiante, escuchar una noticia, etc. No debe descuidar que lo planteado sea alusivo al tema de la clase, que involucre a los alumnos, los active y les recuerde en qué están.
 
-Presentación del objetivo de la clase.  En este momento el profesor da a conocer a sus estudiantes qué pretende que ellos logren y la estrategia metodológica que utilizará para trabajar. Además, debe destacar la importancia y el para qué de la clase.
+2) Presentación del objetivo de la clase.  En este momento el profesor da a conocer a sus estudiantes qué pretende que ellos logren y la estrategia metodológica que utilizará para trabajar. Además, debe destacar la importancia y el para qué de la clase.
 
-Activación de los conocimientos previos respecto de los contenidos a abordar. El profesor intenciona preguntas que permitan al alumno relacionar el nuevo aprendizaje a trabajar con los conocimientos que ya tienen. Tener presente que cada clase necesariamente debe articularse con la anterior. Recordar que es importante manifestar altas expectativas sobre las posibilidades de aprendizaje y desarrollo de todos sus alumnos 
+3) Activación de los conocimientos previos respecto de los contenidos a abordar. El profesor intenciona preguntas que permitan al alumno relacionar el nuevo aprendizaje a trabajar con los conocimientos que ya tienen. Tener presente que cada clase necesariamente debe articularse con la anterior. Recordar que es importante manifestar altas expectativas sobre las posibilidades de aprendizaje y desarrollo de todos sus alumnos 
 
 #### Desarrollo
 
