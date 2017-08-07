@@ -45,7 +45,7 @@ Los objetivos de esta parte de la capacitación es la siguiente:
 
 1. Reconocerás elementos que debería tener una clase para ser efectiva. 
 2. Reflexionaras en torno a los elementos dados para comprometerte a realizarlos. 
-3. Conocerás tus tareas para que tener una planificación!!
+3. Conocerás tus tareas para tener una planificación!!
 
 
 | # | Tipo | Tópico
@@ -69,7 +69,5 @@ Revisarás el contenido del curso en particular que te corresponde.
 En esta parte de la capacitación encontrarás un chek-list a revisar con tu training manager previo al inicio del curso.
 
 
-List@? Empecemos!
 
-
-[Te invito al primer módulo](../02-introduccion/02-paso.md)
+[TE INVITO AL PRIMER MÓDULO](../02-introduccion/02-paso.md)
