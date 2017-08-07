@@ -12,9 +12,11 @@ Es muy importante que el objetivo sea visible y explícito para los alumnos, par
 
 #### ¿CÓMO CONSTRUIR UN OBJETIVO DE APRENDIZAJE?
 
-a) Identificar el qué queremos enseñar y el para qué. Además, centrarse en el comportamiento (habilidad) más que en el contenido. Ejemplos: Resolver conflictos y quejas del cliente, escribir una carta de presentación para el cliente, aplicar una rúbrica.
+A continuación te presentamos un listado a tomar en cuenta para construir un buen onjetivo de aprendizaje.
 
-b) Siempre centrarnos en lo que el alumnado logrará, y no, en lo que nosotros como docentes hacemos para que lo logre. Así, una frase que puede ayudarnos a formularlos será: “Que al finalizar esta clase,  la alumna sea capaz de…..”
+a) Identificar el qué queremos enseñar y el para qué. Además, siempre recuerda centrarte en el comportamiento (habilidad) más que en el contenido. Ejemplos: Resolver conflictos y quejas del cliente, escribir una carta de presentación para el cliente, aplicar una rúbrica.
+
+b) Siempre centrarte en lo que el alumnado logrará, y no, en lo que nosotros como docentes hacemos para que lo logre. Así, una frase que puede ayudarnos a formularlos será: “Que al finalizar esta clase,  la alumna sea capaz de…..”
 
 c) Un objetivo bien escrito debe asociar un único resultado a una sola tarea o habilidad. Por ejemplo, se debe evitar tener una combinación de dos acciones usando 'y'. Si es que tenemos dos acciones, concentrarnos en la más compleja o más importante.
 Ejemplo incorrecto: Diferenciar y definir los paradigmas más en comunes en la programación.  
@@ -22,7 +24,7 @@ Ejemplo correcto: Diferenciar los paradigmas más en comunes en la programación
 
 d) No se recomienda el uso de términos vagos como "entender", "comprender", "apreciar" o "aprender", ya que no ayudan a describir el comportamiento que se espera de los alumnos. Siempre es mejor utilizar palabras que pueden ser evaluadas cuantitativamente. 
 
-e) Algunos verbos preferibles son:  definir, identificar, demostrar, comparar, crear, seleccionar, lo que uno podría imaginar fácilmente mientras que el otro está realizando.
+e) Algunos verbos preferibles son:  definir, identificar, demostrar, comparar, crear, seleccionar, entre otros.
 Ejemplos: Los alumnos serán capaces de diferenciar los paradigmas más en comunes en la programación; Los alumnos serán capaces de resolver ejercicios de programación orientada a objetos y herencia prototipal..
 
 f) El pedagogo y psicólogo Benjamín Bloom hizo una contribución a la taxonomía de los objetivos de aprendizaje. Para ver la taxonomía de Bloom que puede ser muy útil pueden apretar Aqui (https://image.slidesharecdn.com/taxonomiadebloom-091106194210-phpapp02/95/taxonomia-de-bloom-1-728.jpg?cb=1257536535) 
