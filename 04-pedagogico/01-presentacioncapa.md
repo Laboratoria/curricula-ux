@@ -7,7 +7,7 @@ Por eso mismo hemos diseñado esta pequeña inducción para ayudarte a tener una
  
 ![Caos clase](Class_chaos.jpg)
 
-Los cursos de Educación Continua utilizan la metodología ABP donde los estudiantes se enfocan en un proyecto en el transcurso del curso. Este proyecto hace que el alumno esté activo en el proceso de aprendizaje lo cual lo hace más significativo. 
+Los cursos de Educación Continua utilizan la metodología ABP (Aprendizaje Basado en Proyectos) donde los estudiantes se enfocan en un proyecto en el transcurso del curso. Este proyecto hace que el alumno esté activo en el proceso de aprendizaje lo cual lo hace más significativo. 
 Te invitamos a ver este video que ayudará a ejemplificar de mejor manera esta metodología.  
 
 [![Video Aprendizaje basado en proyectos](http://img.youtube.com/vi/LMCZvGesRz8/0.jpg)](https://www.youtube.com/watch?v=LMCZvGesRz8)
