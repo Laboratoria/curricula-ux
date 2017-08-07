@@ -18,7 +18,7 @@ Te invitamos a ver este video que ayudará a ejemplificar de mejor manera esta m
 
 ### TÉCNICAS EFECTIVAS PARA UNA CLASE
 
-Para esta sesión identificamos seis elementos claves para una clase: 
+Para esta sesión identificamos seis elementos claves para una clase. Cada uno de estos elementos serán explicados a continuación.
 
 - a) Creación de Objetivo
 - b) Planificación de clases
@@ -26,8 +26,6 @@ Para esta sesión identificamos seis elementos claves para una clase:
 - d) “Agenda” clara de la clase.
 - e) Dar Instrucciones claras.
 - f) Verificación de la Comprensión.
-
-List@? vamos!
 
 
 [EMPEZAR](02-creacioncontenido.md)
