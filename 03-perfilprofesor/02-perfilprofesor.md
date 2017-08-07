@@ -47,7 +47,7 @@ Los pasos a seguir son los siguientes:
 - Cierre de la clase: aquí deberá quedar absolutamente claras las tareas/ejercicios/contenido que la alumna debe de entregar antes de la siguiente clase.
 
 ##### Dar feedback de las lecciones al equipo de productos
-Cada vez que termines una lección, deberás dar tu feedback del contenido según los mecanismos que Laboratoria te entregue. Recueda que esto es fundamental para lograr una cerrar el ciclo de un curso en Laboratoria.
+Cada vez que termines una lección, deberás dar tu feedback del contenido según los mecanismos que Laboratoria te entregue. Recuerda que esto es fundamental para lograr una cerrar el ciclo de un curso en Laboratoria.
 
 ##### Evaluar a las alumnas
 Cada curso contiene ejercicios/tareas evaluadas y un proyecto final. Será parte de tu responsabilidad ir corrigiendo lo señalado. 
@@ -55,9 +55,9 @@ Las notas del proyecto final, junto con la aprobación/no aprobación de alguna 
 
 ### Comunicación con las alumnas y con Laboratoria
 
-Toda la comunicación con Laboratoria será a través del Training Manager de la Sede donde estés dictando el curso. A el/ella deberás recurrir para cualquier pregunta, duda o tema conversar. El/ella estará a cargo de acompañarte en el proceso e ir exigiendo que las tareas descritas anteriormente se cumplan a cabalidad.
+Toda la comunicación con Laboratoria será a través del Training Manager de la Sede donde estés dictando el curso. A el/ella deberás recurrir para cualquier pregunta, duda o tema a conversar. El/ella estará a cargo de acompañarte en el proceso e ir exigiendo que las tareas descritas anteriormente se cumplan a cabalidad.
 
-La comunicación formal fuera del horario de clases con las alumnas será a través de slack ( Link explicación y descarga Slack). Si no conoces o no cuentas con era herramienta,  tu training manager te ayudará a instalarla.  La idea es que la única manera de acceder a tu persona sea a través de esta vía. No podrás entregar tu mail o tu celular personal a ninguna de las alumnas, salvo que el Training Manager lo autorice. 
+La comunicación formal fuera del horario de clases con las alumnas será a través de slack ( Link explicación y descarga Slack). Si no conoces o no cuentas con esta herramienta,  tu training manager te ayudará a instalarla.  La idea es que la única manera de acceder a tu persona sea a través de esta vía. No podrás entregar tu mail o tu celular personal a ninguna de las alumnas, salvo que el Training Manager lo autorice. 
 
 Si requieres conversar con alguna alumna un tema en particular como la poca participación, o alguna acción poco apropiada de alguna alumnas, el/la training manager debe de estar al tanto y decidir en conjunto los pasos a realizar.
 
