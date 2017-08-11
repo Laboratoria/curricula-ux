@@ -31,17 +31,16 @@ Aprenderás qué es Educación Continua, objetivos y un poco de historia. Despu�
 | 03 | Lectura | Bootcamp
 | 04 | Lectura | Perfil de las coders de Laboratoria
 | 05 | Lectura | Producto & Operaciones
-| 03 | Lectura | ¿Cómo son los cursos de educación continua en Laboratoria?
-| 03 | Lectura | Estructura de los cursos
+| 06 | Lectura | ¿Cómo son los cursos de educación continua en Laboratoria?
+| 07 | Lectura | Estructura de los cursos
 
 
 ### Módulo 3: ¿Cuál es el perfil del profesor en Laboratoria?
 
-A continuación te presentaremos las principales responsabilidad que tendrás y terminaremos con un "Código de Comportamiento" interno de relación con las alumnas.
+A continuación te presentaremos qué esperamos de ti como profesor,tus principales responsabilidad  y terminaremos este módulo con un "Código de Comportamiento" interno de relación con las alumnas.
 
 | # | Tipo | Tópico
 | - | ----- | -----
-
 | 01 | Lectura | ¿Qué esperamos de un profesor de Educación Continua?
 | 02 | Lectura | Responsabilidades del Profesor Educación Continua
 | 03 | Lectura | Código de Comportamiento
