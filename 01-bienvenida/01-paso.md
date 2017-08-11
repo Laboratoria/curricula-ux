@@ -20,26 +20,34 @@ Queremos mostrarte cuál es nuestra visión de la institución y motivarte a ser
 | 03 | Documento | Our Little Book of Culture
 
 
-### Módulo 2: ¿Cuál es el perfil del profesor en Laboratoria?
+### Módulo 2: ¿Qué es Educación Continua?
 
-
-El segundo módulo entrará más en detalle en lo que esperamos de ti como profesor de Laboratoria. Aprenderás qué es Educación Continua, objetivos y un poco de historia. A continuación te presentaremos las principales responsabilidad que tendrás y terminaremos con un "Código de Comportamiento" interno de relación con las alumnas.
-
+Aprenderás qué es Educación Continua, objetivos y un poco de historia. Después entenderás nuestro formato de cursos y un esquema de nuestras clases.
 
 | # | Tipo | Tópico
 | - | ----- | -----
-| 01 | Lectura | ¿Qué es Educación Continua?
-| 02 | Lectura | Áreas de los cursos
-| 03 | Lectura | ¿Cómo son los cursos de educación continua en Laboratoria?
+| 01 | Video | ¿Qué es Educación Continua?
+| 02 | Lectura | Temáticas de los cursos
+| 03 | Lectura | Bootcamp
 | 04 | Lectura | Perfil de las coders de Laboratoria
-| 05 | Lectura | Un poco de historia
-| 06 | Lectura | Qué esperamos de un profesor de Educación Continua
-| 07 | Lectura | Operación v/s Ejecución
-| 08 | Lectura | Responsabilidades del Profesor Educación Continua
-| 08 | Lectura | Código de Comportamiento
+| 05 | Lectura | Producto & Operaciones
+| 03 | Lectura | ¿Cómo son los cursos de educación continua en Laboratoria?
+| 03 | Lectura | Estructura de los cursos
 
 
-### Módulo 3: Capacitación pedagógica
+### Módulo 3: ¿Cuál es el perfil del profesor en Laboratoria?
+
+A continuación te presentaremos las principales responsabilidad que tendrás y terminaremos con un "Código de Comportamiento" interno de relación con las alumnas.
+
+| # | Tipo | Tópico
+| - | ----- | -----
+
+| 01 | Lectura | ¿Qué esperamos de un profesor de Educación Continua?
+| 02 | Lectura | Responsabilidades del Profesor Educación Continua
+| 03 | Lectura | Código de Comportamiento
+
+
+### Módulo 4: Capacitación pedagógica
 
 Los objetivos de esta parte de la capacitación es la siguiente:
 
@@ -59,15 +67,14 @@ Los objetivos de esta parte de la capacitación es la siguiente:
 | 07 | Lectura | f) Verificación de la Comprensión
 
 
-### Módulo 4: Capacitación técnica
+### Módulo 5: Capacitación técnica
 
 Revisarás el contenido del curso en particular que te corresponde.
 
-### Módulo 5: Día a día del Profesor de Educación Continua
 
+### Módulo 6: Día a día del Profesor de Educación Continua
 
 En esta parte de la capacitación encontrarás un chek-list a revisar con tu training manager previo al inicio del curso.
-
 
 
 [TE INVITO AL PRIMER MÓDULO](../02-introduccion/02-paso.md)
