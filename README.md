@@ -83,7 +83,7 @@ En esta parte de la capacitación tendrás dos reuniones importantes: una con el
 
 | # | Tipo | Tópico
 | - | ----- | -----
-| 00 | Self-paced | [Capacitación técnica](06-reuniontm/listareunion.md)
+| 00 | Self-paced | [CReunión training manager](06-reuniontm/listareunion.md)
 | 01 | Reunión | Temas administrativos prácticos (Profesor+TM)
 
 
