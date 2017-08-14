@@ -8,14 +8,18 @@ https://vimeo.com/197505639
 
 La estructura que se propone se divide de la siguiente manera:
 
-- Inicio
+- Inicio/Opening
 - Desarrollo
 -- a) Contenido Nuevo
 -- b) Práctica guiada
 -- c) Práctica Individual/Colaborativa
-- Cierre
+- Cierre/Closing
 
-#### Inicio
+¿Recuerdas la lámina que te presentamos anteriormente? Acá te la presentamos nuevamente porque es importante para la comprensión de esta parte.
+
+![doamiguitos](05.jpg)
+
+#### Inicio/Opening
 
 La primera parte de la clase es fundamental, es donde tenemos que presentar el objetivo de la clase, las expectativas de comportamiento y prender motores, es decir, levantar conocimiento previo necesario para la clase. El inicio tiene tres aspectos que resultan efectivas en el aprendizaje: 
 
@@ -58,7 +62,7 @@ Cosas que debemos tener en consideración en esta parte de la clase es:
 - Esta parte de la clase debiese ser la más larga en tiempo para que los alumnos realmente puedan poner en práctica lo aprendido. 
 - En esta parte los estudiantes son los protagonistas, pero no significa que nosotros estemos sentados. Debemos estar monitoreando y resolviendo dudas que a los alumnos les vaya surgiendo en la práctica.
 
-#### Cierre
+#### Cierre/Closing
 
 Esta etapa es la más abandonada porque no nos alcanza el tiempo muchas veces. El cierre tiene un gran importancia en el proceso de aprendizajes porque es donde se invita a los estudiantes a efectuar una metacognición de lo vivido en la clase, es decir, a que tomen conciencia de sus progresos, de sus nuevos aprendizajes, puedan extraer conclusiones, evaluar los aprendizajes y lograr la generalización o transferencia de los aprendizajes.
 
