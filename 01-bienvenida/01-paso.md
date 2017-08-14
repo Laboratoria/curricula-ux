@@ -27,10 +27,10 @@ Aprenderás qué es Educación Continua, objetivos y un poco de historia. Despu�
 | # | Tipo | Tópico
 | - | ----- | -----
 | 01 | Video | ¿Qué es Educación Continua?
-| 02 | Lectura | Temáticas de los cursos
-| 03 | Lectura | Bootcamp
-| 04 | Lectura | Perfil de las coders de Laboratoria
-| 05 | Lectura | Producto & Operaciones
+| 02 | Video | Bootcamp
+| 03 | Lectura | Perfil de nuestras alumnas
+| 04 | Lectura | Producto & Operaciones
+| 05 | Lectura | Temáticas de los cursos
 | 06 | Lectura | ¿Cómo son los cursos de educación continua en Laboratoria?
 | 07 | Lectura | Estructura de los cursos
 
