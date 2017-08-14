@@ -31,11 +31,11 @@ La primera parte de la clase es fundamental, es donde tenemos que presentar el o
 
 #### Desarrollo
 
-En nuestra lámina, esta parte la incluyen: Self-learning, Lecture, Demo, Quiz y Workshop. 
+En nuestra lámina, esta parte la incluyen: Self-learning, Lecture, Demo, Quiz y Workshop. El Quiz se utiliza para verificar aprendizaje en cualquier minuto de la clase. Usualmente es utilizado después del contenido nuevo que verás a continuación.
 
 Contenido nuevo (Self-Learning y/o Lecture)
 
-Lo que nos sucede muchas veces al hacer clases es que nos quedamos “pegados” en explicar el contenido nuevo. Con otras palabras, nuestra clase se transforma en algo totalmente expositivo. Grave error! Debemos hacer el esfuerzo para que la parte expositiva sea concreta y sencilla. Aunque a veces es difícil, debemos intentarlo. 
+Lo que nos sucede muchas veces al hacer clases de manera presencial, es que nos quedamos “pegados” en explicar el contenido nuevo. Con otras palabras, nuestra clase se transforma en algo totalmente expositivo. Grave error! Debemos hacer el esfuerzo para que la parte expositiva sea concreta y sencilla. Aunque a veces es difícil, debemos intentarlo. 
 
 Cosas que debemos tener en consideración en esta parte de la clase es: 
 
@@ -45,11 +45,7 @@ Cosas que debemos tener en consideración en esta parte de la clase es:
 
 Práctica Guiada (Demo y/o Workshop)
 
-En esta parte debemos modelar cómo hacer un ejercicio o actividad que deseamos que nuestras alumnas hagan para cumplir el objetivo de la clase.
-
-Cosas que debemos tener en consideración en esta parte de la clase es: 
-- Modelar la actividad y habilidad que queremos trabajar con las alumnas.  
-- Verificación de la comprensión constantemente. Tenemos que estar revisando si las alumnas están “siguiendo” el modelamiento que estamos haciendo. 
+En esta parte debemos modelar cómo hacer un ejercicio o actividad que deseamos que nuestras alumnas hagan para cumplir el objetivo de la clase. Usualmente utilizamos un ejercicios guiada, lo que incluye que tu como profesor realizas uno ejercicios en presencia de todos los estudiantes. 
 
 Práctica Independiente/Colaborativa (Demo y/o Workshop)
 
