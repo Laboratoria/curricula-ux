@@ -37,7 +37,7 @@ Aprenderás qué es Educación Continua, objetivos y un poco de historia. Despu�
 
 ### Módulo 3: ¿Cuál es el perfil del profesor en Laboratoria?
 
-A continuación te presentaremos qué esperamos de ti como profesor,tus principales responsabilidad  y terminaremos este módulo con un "Código de Comportamiento" interno de relación con las alumnas.
+A continuación te presentaremos qué esperamos de ti como profesor, tus principales responsabilidades  y terminaremos este módulo con un "Código de Comportamiento" interno de relación con las alumnas.
 
 | # | Tipo | Tópico
 | - | ----- | -----
@@ -48,11 +48,11 @@ A continuación te presentaremos qué esperamos de ti como profesor,tus principa
 
 ### Módulo 4: Capacitación pedagógica
 
-Los objetivos de esta parte de la capacitación es la siguiente:
+Los objetivos de esta parte de la capacitación son los siguientes:
 
-1. Reconocerás elementos que debería tener una clase para ser efectiva. 
-2. Reflexionaras en torno a los elementos dados para comprometerte a realizarlos. 
-3. Conocerás tus tareas para tener una planificación!!
+1. Reconocer elementos que debería tener una clase para ser efectiva. 
+2. Reflexionar en torno a los elementos dados para comprometerte a realizarlos. 
+3. Conocer tus tareas para tener una planificación!!
 
 
 | # | Tipo | Tópico
