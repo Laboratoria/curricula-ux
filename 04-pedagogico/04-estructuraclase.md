@@ -17,7 +17,7 @@ La estructura que se propone se divide de la siguiente manera:
 
 ¿Recuerdas la lámina que te presentamos anteriormente? Acá te la presentamos nuevamente porque es importante para la comprensión de esta parte.
 
-![estructura clase](claseec.jpg)
+![estructura clase](Diapositiva2.JPG)
 
 #### Inicio/Opening
 
