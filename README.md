@@ -58,12 +58,12 @@ Los objetivos de esta parte de la capacitación son los siguientes:
 | # | Tipo | Tópico
 | - | ----- | -----
 | 01 | Lectura | [Presentación de la Capacitación Pedagógica](04-pedagogico/01-presentacioncapa.md)
-| 02 | Lectura | a) ¿Cómo crear el objetivo de una clase?
-| 03 | Lectura | b) ¿Cómo planificar una clase efectiva?
-| 04 | Lectura | c) ¿Cómo estructurar una clase eficiente?
-| 05 | Lectura | d) ¿Cómo crear una “Agenda” clara?
-| 06 | Lectura | e) ¿Cómo dar instrucciones claras?
-| 07 | Lectura | f) ¿Cómo verificas que tus alumnos comprendieron el contenido?
+| 02 | Lectura | a) [¿Cómo crear el objetivo de una clase?](04-pedagogico/02-creacioncontenido.md)
+| 03 | Lectura | b) [¿Cómo planificar una clase efectiva?](04-pedagogico/03-planificacionclases.md)
+| 04 | Lectura | c) [¿Cómo estructurar una clase eficiente?](04-pedagogico/04-estructuraclase.md)
+| 05 | Lectura | d) [¿Cómo crear una “Agenda” clara?](04-pedagogico/05-agenda.md)
+| 06 | Lectura | e) [¿Cómo dar instrucciones claras?](04-pedagogico/05.1.instrucciones.md)
+| 07 | Lectura | f) [¿Cómo verificas que tus alumnos comprendieron el contenido?](04-pedagogico/06-verificacion.md)
 
 
 ### Módulo 5: Capacitación técnica
