@@ -10,4 +10,4 @@ En este parte, se puede aprovechar de entregar las expectativas de comportamient
 
 
 
-[Vamos! nos queda la última ténica](05.1.instrucciones.md)
+ [¡Vamos!](05.1.instrucciones.md)
