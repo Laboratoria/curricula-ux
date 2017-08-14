@@ -25,7 +25,7 @@ Aprenderás qué es Educación Continua, objetivos y un poco de historia. Despu�
 
 | # | Tipo | Tópico
 | - | ----- | -----
-| 00 | Video | ¿Qué es Educación Continua?
+| 00 | lectura | [¿Qué es Educación Continua?](03-perfilprofesor/01-ec.md)
 | 01 | Video | ¿Qué es Educación Continua?
 | 02 | Video | Bootcamp
 | 03 | Lectura | Perfil de nuestras alumnas
@@ -41,9 +41,9 @@ A continuación te presentaremos qué esperamos de ti como profesor, tus princip
 
 | # | Tipo | Tópico
 | - | ----- | -----
-| 01 | Lectura | ¿Qué esperamos de un profesor de Educación Continua?
+| 01 | Lectura | [¿Qué esperamos de un profesor de Educación Continua?](03-perfilprofesor/02-perfilprofesor.md)
 | 02 | Lectura | Responsabilidades del Profesor Educación Continua
-| 03 | Lectura | Código de Comportamiento
+| 03 | Lectura | [Código de Comportamiento](03-perfilprofesor/03-comportamiento.md)
 
 
 ### Módulo 4: Capacitación pedagógica
