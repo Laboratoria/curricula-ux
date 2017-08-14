@@ -12,7 +12,7 @@ Es muy importante que el objetivo sea visible y explícito para los alumnos, par
 
 #### ¿CÓMO CONSTRUIR UN OBJETIVO DE APRENDIZAJE?
 
-A continuación te presentamos un listado a tomar en cuenta para construir un buen onjetivo de aprendizaje.
+A continuación te presentamos un listado a tomar en cuenta para construir un buen objetivo de aprendizaje.
 
 a) Identificar el qué queremos enseñar y el para qué. Además, siempre recuerda centrarte en el comportamiento (habilidad) más que en el contenido. Ejemplos: Resolver conflictos y quejas del cliente, escribir una carta de presentación para el cliente, aplicar una rúbrica.
 
@@ -27,7 +27,7 @@ d) No se recomienda el uso de términos vagos como "entender", "comprender", "ap
 e) Algunos verbos preferibles son:  definir, identificar, demostrar, comparar, crear, seleccionar, entre otros.
 Ejemplos: Los alumnos serán capaces de diferenciar los paradigmas más en comunes en la programación; Los alumnos serán capaces de resolver ejercicios de programación orientada a objetos y herencia prototipal..
 
-f) El pedagogo y psicólogo Benjamín Bloom hizo una contribución a la taxonomía de los objetivos de aprendizaje. Para ver la taxonomía de Bloom que puede ser muy útil pueden apretar Aqui (https://image.slidesharecdn.com/taxonomiadebloom-091106194210-phpapp02/95/taxonomia-de-bloom-1-728.jpg?cb=1257536535) 
+f) El pedagogo y psicólogo Benjamín Bloom hizo una contribución a la taxonomía de los objetivos de aprendizaje. PUedes ver la taxonomía de Bloom en el siguiente link: (https://image.slidesharecdn.com/taxonomiadebloom-091106194210-phpapp02/95/taxonomia-de-bloom-1-728.jpg?cb=1257536535) 
 
 
 [List@ para la siguiente técnica?](03-planificacionclases.md)
