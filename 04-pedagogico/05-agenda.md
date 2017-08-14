@@ -40,4 +40,4 @@ MUY IMPORTANTE!
 Verificar comprensión de las instrucciones después de decirlas.
 
 
-[Vamos! nos queda la última ténica](06-verificacion.md)
+[Vamos! nos queda la última ténica](05.1.instrucciones.md)
