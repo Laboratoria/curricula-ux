@@ -86,6 +86,6 @@ En esta parte de la capacitación tendrás dos reuniones importantes: una con el
 
 Te presentamos un esquema de cómo serán estas tres semanas que te esperan.
 
-
+![Esquema](Diapositiva4.JPG)
 
 [TE INVITO AL PRIMER MÓDULO](../02-introduccion/02-paso.md)
