@@ -20,12 +20,14 @@ Te invitamos a ver este video que ayudará a ejemplificar de mejor manera esta m
 
 Para esta sesión identificamos seis elementos claves para una clase. Cada uno de estos elementos serán explicados a continuación.
 
-- a) Creación de Objetivo
-- b) Planificación de clases
-- c) Estructura de una clase.
-- d) “Agenda” clara de la clase.
-- e) Dar Instrucciones claras.
-- f) Verificación de la Comprensión.
+| # | Tipo | Tópico
+| - | ----- | -----
+| 01 | Lectura | a) ¿Cómo crear el objetivo de una clase?
+| 02 | Lectura | b) ¿Cómo planificar una clase efectiva?
+| 03 | Lectura | c) ¿Cómo estructurar una clase eficiente?
+| 04 | Lectura | d) ¿Cómo crear una “Agenda” clara?
+| 05 | Lectura | e) ¿Cómo dar instrucciones claras?
+| 06 | Lectura | f) ¿Cómo verificas que tus alumnos comprendieron el contenido?
 
 
 [EMPEZAR](02-creacioncontenido.md)
