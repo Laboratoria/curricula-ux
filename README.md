@@ -20,54 +20,72 @@ Queremos mostrarte cuál es nuestra visión de la institución y motivarte a ser
 | 03 | Documento | Our Little Book of Culture
 
 
-### Módulo 2: ¿Cuál es el perfil del profesor en Laboratoria?
+### Módulo 2: ¿Qué es Educación Continua?
 
-
-El segundo módulo entrará más en detalle en lo que esperamos de ti como profesor de Laboratoria. Aprenderás qué es Educación Continua, objetivos y un poco de historia. A continuación te presentaremos las principales responsabilidad que tendrás y terminaremos con un "Código de Comportamiento" interno de relación con las alumnas.
-
+Aprenderás qué es Educación Continua, objetivos y un poco de historia. Después entenderás nuestro formato de cursos y un esquema de nuestras clases.
 
 | # | Tipo | Tópico
 | - | ----- | -----
-| 01 | Lectura | ¿Qué es Educación Continua?
-| 02 | Lectura | Áreas de los cursos
-| 03 | Lectura | ¿Cómo son los cursos de educación continua en Laboratoria?
-| 04 | Lectura | Perfil de las coders de Laboratoria
-| 05 | Lectura | Un poco de historia
-| 06 | Lectura | Qué esperamos de un profesor de Educación Continua
-| 07 | Lectura | Operación v/s Ejecución
-| 08 | Lectura | Responsabilidades del Profesor Educación Continua
-| 08 | Lectura | Código de Comportamiento
+| 01 | Video | ¿Qué es Educación Continua?
+| 02 | Video | Bootcamp
+| 03 | Lectura | Perfil de nuestras alumnas
+| 04 | Lectura | Producto & Operaciones
+| 05 | Lectura | Temáticas de los cursos
+| 06 | Lectura | ¿Cómo son los cursos de educación continua en Laboratoria?
+| 07 | Lectura | Estructura de los cursos
 
 
-### Módulo 3: Capacitación pedagógica
+### Módulo 3: ¿Cuál es el perfil del profesor en Laboratoria?
 
-Los objetivos de esta parte de la capacitación es la siguiente:
+A continuación te presentaremos qué esperamos de ti como profesor, tus principales responsabilidades  y terminaremos este módulo con un "Código de Comportamiento" interno de relación con las alumnas.
 
-1. Reconocerás elementos que debería tener una clase para ser efectiva. 
-2. Reflexionaras en torno a los elementos dados para comprometerte a realizarlos. 
-3. Conocerás tus tareas para tener una planificación!!
+| # | Tipo | Tópico
+| - | ----- | -----
+| 01 | Lectura | ¿Qué esperamos de un profesor de Educación Continua?
+| 02 | Lectura | Responsabilidades del Profesor Educación Continua
+| 03 | Lectura | Código de Comportamiento
+
+
+### Módulo 4: Capacitación pedagógica
+
+Los objetivos de esta parte de la capacitación son los siguientes:
+
+1. Reconocer elementos que debería tener una clase para ser efectiva. 
+2. Reflexionar en torno a los elementos dados para comprometerte a realizarlos. 
+3. Conocer tus tareas para tener una planificación!!
 
 
 | # | Tipo | Tópico
 | - | ----- | -----
 | 01 | Lectura | Presentación de la Capacitación pedagógica
-| 02 | Lectura | a) Creación de Objetivo
-| 03 | Lectura | b) Planificación de clases
-| 04 | Lectura | c) Estructura de una clase.
-| 05 | Lectura | d) “Agenda” clara de la clase.
-| 06 | Lectura | e) Dar Instrucciones claras.
-| 07 | Lectura | f) Verificación de la Comprensión
+| 02 | Lectura | a) ¿Cómo crear el objetivo de una clase?
+| 03 | Lectura | b) ¿Cómo planificar una clase efectiva?
+| 04 | Lectura | c) ¿Cómo estructurar una clase eficiente?
+| 05 | Lectura | d) ¿Cómo crear una “Agenda” clara?
+| 06 | Lectura | e) ¿Cómo dar instrucciones claras?
+| 07 | Lectura | f) ¿Cómo verificas que tus alumnos comprendieron el contenido?
 
 
-### Módulo 4: Capacitación técnica
+### Módulo 5: Capacitación técnica
 
-Revisarás el contenido del curso en particular que te corresponde.
+Revisarás el contenido del curso que te corresponde.
 
-### Módulo 5: Día a día del Profesor de Educación Continua
+| # | Tipo | Tópico
+| - | ----- | -----
+| 01 | Self-paced | Contenido del curso
 
 
-En esta parte de la capacitación encontrarás un chek-list a revisar con tu training manager previo al inicio del curso.
+### Módulo 6: Día a día del Profesor de Educación Continua
 
+En esta parte de la capacitación tendrás dos reuniones importantes: una con el diseñador del curso y una segunda y final con tu training manager. Los objetivos es que respondas todas tus dudas finales ya sea de contenido o de temas prácticos.
 
+| # | Tipo | Tópico
+| - | ----- | -----
+| 01 | Reunión | Temas de contenido (Diseñador del curso+TM+Profesor)
+| 02 | Reunión | Temas administrativos prácticos (Profesor+TM)
+
+Te presentamos un esquema de cómo serán estas tres semanas que te esperan.
+
+![Esquema](Diapositiva4.JPG)
 
 [TE INVITO AL PRIMER MÓDULO](../02-introduccion/02-paso.md)
