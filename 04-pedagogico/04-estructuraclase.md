@@ -31,7 +31,7 @@ La primera parte de la clase es fundamental, es donde tenemos que presentar el o
 
 #### Desarrollo
 
-En nuestra lámina, esta parte la incluyen: Self-learning, Lecture, Demo, Quiz y Workshop. El Quiz se utiliza para verificar aprendizaje en cualquier minuto de la clase. Usualmente es utilizado después del contenido nuevo que verás a continuación.
+En nuestra lámina, esta parte la incluyen: Self-learning, Lecture, Demo, Quiz, Solution Problem Set y Workshop. El Quiz se utiliza para verificar aprendizaje en cualquier minuto de la clase. Usualmente es utilizado después del contenido nuevo que verás a continuación.
 
 Contenido nuevo (Self-Learning y/o Lecture)
 
@@ -45,7 +45,7 @@ Cosas que debemos tener en consideración en esta parte de la clase es:
 
 Práctica Guiada (Demo y/o Workshop)
 
-En esta parte debemos modelar cómo hacer un ejercicio o actividad que deseamos que nuestras alumnas hagan para cumplir el objetivo de la clase. Usualmente utilizamos un ejercicios guiada, lo que incluye que tu como profesor realizas uno ejercicios en presencia de todos los estudiantes. 
+En esta parte debemos modelar cómo hacer un ejercicio o actividad que deseamos que nuestras alumnas hagan para cumplir el objetivo de la clase. Usualmente utilizamos un ejercicio guiado, lo que incluye que tu como profesor realizas uno ejercicios en presencia de todos los estudiantes. 
 
 Práctica Independiente/Colaborativa (Demo y/o Workshop)
 
@@ -54,11 +54,10 @@ En la práctica individual/colaborativa es la oportunidad que los alumnos pueden
 Cosas que debemos tener en consideración en esta parte de la clase es: 
 
 - En esta parte de la clase el alumno ejercita individual y/o grupalmente la habilidad y el contenido enseñado.
-- El alumno moldea y empieza a internalizar lo aprendido. El alumno es capaz de aplicar lo aprendido en otras contextos. 
-- Esta parte de la clase debiese ser la más larga en tiempo para que los alumnos realmente puedan poner en práctica lo aprendido. 
+- El alumno moldea y empieza a internalizar lo aprendido. El alumno es capaz de aplicar lo aprendido en otras contextos.  
 - En esta parte los estudiantes son los protagonistas, pero no significa que nosotros estemos sentados. Debemos estar monitoreando y resolviendo dudas que a los alumnos les vaya surgiendo en la práctica.
 
-#### Cierre/Closing
+#### Cierre/Closing (Incluye Self Assesment)
 
 Esta etapa es la más abandonada porque no nos alcanza el tiempo muchas veces. El cierre tiene un gran importancia en el proceso de aprendizajes porque es donde se invita a los estudiantes a efectuar una metacognición de lo vivido en la clase, es decir, a que tomen conciencia de sus progresos, de sus nuevos aprendizajes, puedan extraer conclusiones, evaluar los aprendizajes y lograr la generalización o transferencia de los aprendizajes.
 
