@@ -1,11 +1,11 @@
 # Bienvenida y orientación
 
-Hola y bienvenid@ al proceso de inducción y capacitación que hemos preparado para los profesores de Laboratoria. Todo este curso es on-line salvo el último punto que es presencial.
-
-En todo este proceso estarás acompañado por tu training manager, quién estará pendiente de tu avance.
-
 A continuación encontrará los temas que se tratarán durante este curso.
 
+| # | Tipo | Tópico
+| - | ----- | -----
+| 00 | Lectura | Bienvenida y orientación
+| 00 | lectura | Xmin | [Bienvenida y orientación](01-bienvenida/01-paso.md)
 
 ### Módulo 1: Introducción
 
@@ -14,7 +14,7 @@ Queremos mostrarte cuál es nuestra visión de la institución y motivarte a ser
 
 | # | Tipo | Tópico
 | - | ----- | -----
-| 00 | Lectura | Bienvenida y orientación
+| 00 | Lectura | Introducción
 | 01 | Video   | Mariana Costa
 | 02 | Presentación | Bienvenid@ a Laboratoria
 | 03 | Documento | Our Little Book of Culture
@@ -26,6 +26,7 @@ Aprenderás qué es Educación Continua, objetivos y un poco de historia. Despu�
 
 | # | Tipo | Tópico
 | - | ----- | -----
+| 00 | Video | ¿Qué es Educación Continua?
 | 01 | Video | ¿Qué es Educación Continua?
 | 02 | Video | Bootcamp
 | 03 | Lectura | Perfil de nuestras alumnas
@@ -73,6 +74,7 @@ Revisarás el contenido del curso que te corresponde.
 | # | Tipo | Tópico
 | - | ----- | -----
 | 01 | Self-paced | Contenido del curso
+| 02 | Reunión | Temas de contenido (Diseñador del curso+TM+Profesor)
 
 
 ### Módulo 6: Día a día del Profesor de Educación Continua
@@ -81,8 +83,7 @@ En esta parte de la capacitación tendrás dos reuniones importantes: una con el
 
 | # | Tipo | Tópico
 | - | ----- | -----
-| 01 | Reunión | Temas de contenido (Diseñador del curso+TM+Profesor)
-| 02 | Reunión | Temas administrativos prácticos (Profesor+TM)
+| 01 | Reunión | Temas administrativos prácticos (Profesor+TM)
 
 Te presentamos un esquema de cómo serán estas tres semanas que te esperan.
 
