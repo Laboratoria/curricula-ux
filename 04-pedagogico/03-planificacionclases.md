@@ -8,7 +8,7 @@ Reflexionemos sobre la siguiente situación. Imagina que tienes una reunión muy
 ![interrogacion](04.jpg)
 
 
-1, ¿Cuál es efecto en mi y en los asistentes a la reunión cuando tengo una planificación bien hecha? 2. ¿Qué efectos tiene en mí y en los demás cuando llego a improvisar a la reunión?
+1. ¿Cuál es efecto en mi y en los asistentes a la reunión cuando tengo una planificación bien hecha? 2. ¿Qué efectos tiene en mí y en los demás cuando llego a improvisar a la reunión?
 
 La planificación de una clase se trata de lo mismo. 
 Observa el siguiente video para motivar la necesidad de planificar.
