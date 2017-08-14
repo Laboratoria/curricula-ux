@@ -68,7 +68,7 @@ Los objetivos de esta parte de la capacitación son los siguientes:
 
 ### Módulo 5: Capacitación técnica
 
-Revisarás el contenido del curso en particular que te corresponde.
+Revisarás el contenido del curso que te corresponde.
 
 | # | Tipo | Tópico
 | - | ----- | -----
