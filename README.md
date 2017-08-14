@@ -72,7 +72,7 @@ Revisarás el contenido del curso que te corresponde.
 
 | # | Tipo | Tópico
 | - | ----- | -----
-| 01 | Self-paced | [Capacitación técnica](05-tecnico/unica.md)
+| 00 | Self-paced | [Capacitación técnica](05-tecnico/unica.md)
 | 01 | Self-paced | Contenido del curso
 | 02 | Reunión | Temas de contenido (Diseñador del curso+TM+Profesor)
 
@@ -83,10 +83,7 @@ En esta parte de la capacitación tendrás dos reuniones importantes: una con el
 
 | # | Tipo | Tópico
 | - | ----- | -----
+| 00 | Self-paced | [Capacitación técnica](06-reuniontm/listareunion.md)
 | 01 | Reunión | Temas administrativos prácticos (Profesor+TM)
 
-Te presentamos un esquema de cómo serán estas tres semanas que te esperan.
 
-![Esquema](Diapositiva4.JPG)
-
-[TE INVITO AL PRIMER MÓDULO](../02-introduccion/02-paso.md)
