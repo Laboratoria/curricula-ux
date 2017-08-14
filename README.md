@@ -5,7 +5,7 @@ A continuación encontrará los temas que se tratarán durante este curso.
 | # | Tipo | Tópico
 | - | ----- | -----
 | 00 | Lectura | Bienvenida y orientación
-| 00 | lectura | Xmin | [Bienvenida y orientación](01-bienvenida/01-paso.md)
+| 00 | lectura | [Bienvenida y orientación](01-bienvenida/01-paso.md)
 
 ### Módulo 1: Introducción
 
