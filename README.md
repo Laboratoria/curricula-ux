@@ -72,6 +72,7 @@ Revisarás el contenido del curso que te corresponde.
 
 | # | Tipo | Tópico
 | - | ----- | -----
+| 01 | Self-paced | [Capacitación técnica](04-tecnico/unica.md)
 | 01 | Self-paced | Contenido del curso
 | 02 | Reunión | Temas de contenido (Diseñador del curso+TM+Profesor)
 
