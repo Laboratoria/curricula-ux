@@ -37,4 +37,16 @@ Para planificar siempre es más fácil disponer de una planilla con una estructu
 
 Para que la planificación sea más efectiva al momento de ejecutarla, debemos tener clara de los tiempo que nos tomará cada actividad. Además, de que tenga un Inicio, Desarrollo y Cierre.
 
+### PLANIFICACION EJEMPLO
+
+A continuación se les presentará una planificación de ejemplo de un taller a profesores sobre “Planificación y Verificación de la Comprensión”. 
+
+Es un taller de más de 3 horas de duración donde la expositora planificó cada actividad detallando el tiempo que le tomaría cada momento del taller. De esta manera, ella logró realizar todas las partes planificadas en la clase incluyendo el cierre. 
+
+Click aquí para ver la planificación (https://docs.google.com/document/d/1mRM3wAcoagXHCDcNjpeQmJoUY8nY351MLwHnBtIViTo/edit)
+
+![Ejemplo etiqueta](06.jpg)
+
+
+
 [VAMOS A LA SIGUIENTE](04-estructuraclase.md)
