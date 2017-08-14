@@ -57,7 +57,7 @@ Los objetivos de esta parte de la capacitación son los siguientes:
 
 | # | Tipo | Tópico
 | - | ----- | -----
-| 01 | Lectura | Presentación de la Capacitación pedagógica
+| 01 | Lectura | Presentación de la Capacitación pedagógica[Presentación de la Capacitación Pedagógica](04-pedagógico/01-presentacioncapa.md)
 | 02 | Lectura | a) ¿Cómo crear el objetivo de una clase?
 | 03 | Lectura | b) ¿Cómo planificar una clase efectiva?
 | 04 | Lectura | c) ¿Cómo estructurar una clase eficiente?
