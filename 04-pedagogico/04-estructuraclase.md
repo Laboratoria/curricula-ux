@@ -31,7 +31,9 @@ La primera parte de la clase es fundamental, es donde tenemos que presentar el o
 
 #### Desarrollo
 
-Contenido nuevo
+En nuestra lámina, esta parte la incluyen: Self-learning, Lecture, Demo, Quiz y Workshop. 
+
+Contenido nuevo (Self-Learning y/o Lecture)
 
 Lo que nos sucede muchas veces al hacer clases es que nos quedamos “pegados” en explicar el contenido nuevo. Con otras palabras, nuestra clase se transforma en algo totalmente expositivo. Grave error! Debemos hacer el esfuerzo para que la parte expositiva sea concreta y sencilla. Aunque a veces es difícil, debemos intentarlo. 
 
@@ -41,7 +43,7 @@ Cosas que debemos tener en consideración en esta parte de la clase es:
 - Verificar constantemente si los estudiantes están interiorizando el nuevo contenido. 
 - La concentración no es nuestra mejor característica. La exposición del nuevo contenido no debe durar más de 30 minutos, ojala menos que eso. 
 
-Práctica Guiada
+Práctica Guiada (Demo y/o Workshop)
 
 En esta parte debemos modelar cómo hacer un ejercicio o actividad que deseamos que nuestras alumnas hagan para cumplir el objetivo de la clase.
 
@@ -49,9 +51,7 @@ Cosas que debemos tener en consideración en esta parte de la clase es:
 - Modelar la actividad y habilidad que queremos trabajar con las alumnas.  
 - Verificación de la comprensión constantemente. Tenemos que estar revisando si las alumnas están “siguiendo” el modelamiento que estamos haciendo. 
 
-![doamiguitos](05.jpg)
-
-Práctica Independiente/Colaborativa
+Práctica Independiente/Colaborativa (Demo y/o Workshop)
 
 En la práctica individual/colaborativa es la oportunidad que los alumnos pueden internalizar y moldear lo aprendido. 
 
