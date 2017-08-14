@@ -4,7 +4,6 @@ A continuación encontrará los temas que se tratarán durante este curso.
 
 | # | Tipo | Tópico
 | - | ----- | -----
-| 00 | Lectura | Bienvenida y orientación
 | 00 | lectura | [Bienvenida y orientación](01-bienvenida/01-paso.md)
 
 ### Módulo 1: Introducción
@@ -14,7 +13,7 @@ Queremos mostrarte cuál es nuestra visión de la institución y motivarte a ser
 
 | # | Tipo | Tópico
 | - | ----- | -----
-| 00 | Lectura | Introducción
+| 00 | lectura | [Introducción](02-introduccion/02-paso.md)
 | 01 | Video   | Mariana Costa
 | 02 | Presentación | Bienvenid@ a Laboratoria
 | 03 | Documento | Our Little Book of Culture
