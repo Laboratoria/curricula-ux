@@ -70,10 +70,22 @@ Los objetivos de esta parte de la capacitación es la siguiente:
 
 Revisarás el contenido del curso en particular que te corresponde.
 
+| # | Tipo | Tópico
+| - | ----- | -----
+| 01 | Self-paced | Contenido del curso
+
 
 ### Módulo 6: Día a día del Profesor de Educación Continua
 
-En esta parte de la capacitación encontrarás un chek-list a revisar con tu training manager previo al inicio del curso.
+En esta parte de la capacitación tendrás dos reuniones importantes: una con el diseñador del curso y una segunda y final con tu training manager. Los objetivos es que respondas todas tus dudas finales ya sea de contenido o de temas prácticos.
+
+| # | Tipo | Tópico
+| - | ----- | -----
+| 01 | Reunión | Temas de contenido (Diseñador del curso+TM+Profesor)
+| 02 | Reunión | Temas administrativos prácticos (Profesor+TM)
+
+Te presentamos un esquema de cómo serán estas tres semanas que te esperan.
+
 
 
 [TE INVITO AL PRIMER MÓDULO](../02-introduccion/02-paso.md)
