@@ -9,9 +9,9 @@ Cuando llegues a este punto, comunícate con tu TM para que te haga entrega ofic
 
 Esperamos que te entretengas muchisimo leyendo el contenido, al igual que lo hicimos nosotros cuando lo creamos!
 
-El paso posterior será la "Team metting". en la cual te reunirás con el encargado del contenido del curso por parte de Laboratoria junto a tu trainig manager, donde podrás realizar todas las consultas de contenido que tengas.
+El paso posterior será la "Team meeting". en la cual te reunirás con el encargado del contenido del curso por parte de Laboratoria junto a tu trainig manager, donde podrás realizar todas las consultas de contenido que tengas.
 Las preguntas de forma, planificación, agenda día a día, serán respondidas por tu training manager de manera posterior y NO serán tocadas en este reunión en específico.
 
-Al terminar la "Team metting" tu TM se coordinará contigo para la última reunión presencial,la cuál marcará el cierre de esta capacitación.
+Al terminar la "Team meeting" tu TM se coordinará contigo para la última reunión presencial,la cuál marcará el cierre de esta capacitación.
 
 [VAMOS?](../06-reuniontm/listareunion.md)
