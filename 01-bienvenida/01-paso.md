@@ -73,6 +73,7 @@ Revisarás el contenido del curso que te corresponde.
 | # | Tipo | Tópico
 | - | ----- | -----
 | 01 | Self-paced | Contenido del curso
+| 02 | Reunión | Temas de contenido (Diseñador del curso+TM+Profesor)
 
 
 ### Módulo 6: Día a día del Profesor de Educación Continua
@@ -81,8 +82,7 @@ En esta parte de la capacitación tendrás dos reuniones importantes: una con el
 
 | # | Tipo | Tópico
 | - | ----- | -----
-| 01 | Reunión | Temas de contenido (Diseñador del curso+TM+Profesor)
-| 02 | Reunión | Temas administrativos prácticos (Profesor+TM)
+| 01 | Reunión | Temas administrativos prácticos (Profesor+TM)
 
 Te presentamos un esquema de cómo serán estas tres semanas que te esperan.
 
