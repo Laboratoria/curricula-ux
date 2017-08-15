@@ -36,7 +36,7 @@ Durante el curso las estudiantes trabajarán sobre un reto del sector financiero
 ## Syllabus
 
 
-### Lección 01: [Introducción a UX Design](/Unidad-1/01-Introduccion-a-UX-Design.md)
+### Lección 01: [Introducción a UX Design](/curricula_ux/02-educacion-continua/01-intro-uxd-1//Unidad-1/01-Introduccion-a-UX-Design.md)
 
 70 min (presencial)
 
