@@ -1,20 +1,8 @@
-# 01. Intro a User Experience Design
+# 01. Intro a User Experience Design 1
 
 
+En este curso empezarás a formar el mindset que todo UX Designer debe tener: pensar en el usuario, pensar en el negocio y entender cómo los prototipos se vuelven una parte fundamental en un proceso de diseño. A lo largo del curso, entenderás las distintas etapas de un proceso de diseño y las podrás poner en práctica trabajando en un producto.
 
-Dos o tres párrafos explicando el curso en líneas generales. Introducción al
-tema central y su importancia para un desarrollador full stack.
-
-Mencionar qué se hará en el curso a nivel de proyecto(s) o producto(s), los
-temas principales, metodología y enfoque de la experiencia.
-
-Requerimientos de la intro:
-
-- Cuál es el tema en un tweet
-- Dónde encaja dentro del mundo profesional y en la historia del software
-- Por qué es relevante aprender esto
-- Abstract del curso
-- Tags
 
 ## Público objetivo
 
@@ -31,6 +19,8 @@ Ningún conocimiento previo diseño o de programación es necesario para complet
 * La diferencia y similitud entre distintos frameworks como **Design Thinking**, **Lean Startup**, **Lean UX** y **Design Sprint** 
 * Las 5 fases del proceso de User Experience Design
 * A entender la importancia del **User Research** en un proceso de diseño
+* Qué son los **User Personas** y cómo su uso impacta en el proceso de diseño
+* La importancia de usar preguntas como **HMW** y **What if** para 
 
 ## Detalles logísticos
 
@@ -40,58 +30,62 @@ Ningún conocimiento previo diseño o de programación es necesario para complet
 
 ## Producto
 
-Durante el curso las alumnas trabajarán sobre un reto brindado por empresas del sector digital.
+Durante el curso las estudiantes trabajarán sobre un reto del sector financiero, para el cuál crearán una solución que resuelva la siguiente pregunta: ***"¿Cómo podriamos ayudar a los clientes y no clientes de un banco a administrar mejor su dinero?"***
+
 
 ## Syllabus
 
 
 ### Lección 01: [Introducción a UX Design](#)
 
-40min (self-paced)
+70 min (presencial)
 
-Bienvenida al curso, detalles del formato y logística de la clase. Conceptos introductorios a UX Design.
-
-| # | Tipo | Duración | Tópico
-| - | ---- | -------- | ------
-| 00 | video | 3 min | Logística de la clase
-| 01 | video | 3 min | [Qué es User Experience Design](https://www.youtube.com/watch?v=A_gHQq9iLxg)
-| 02 | video | 15 min | Metodología involucradas en UX Design
-| 03 | video | 10 min | [¿Qué características tiene un buen UX Designer?](#)
-| 04 | lectura | 20 min | [User Experience Design - Why it matters](https://drive.google.com/file/d/0B0NdG2VNCDPzb0hzVnc1MjVzc28/view)
-
-
-### Lección 02: [UX Design state of the art](#)
-
-40min (presencial)
-
-Cada vez más hablamos de UX. Pero ¿Por qué es importante aprender UXD? ¿Cómo podemos convencer a nuestros equipos/jefes/compañeros de que invertir en UX nos beneficiará a todos? ¿Qué disciplinas están involucradas en UX Design?
-
-| # | Tipo | Duración | Tópico
-| - | ---- | -------- | ------
-| 01 | Clase | 15 min | [¿Por qué debemos estudiar UX Design?](#)
-| 02 | Clase | 10 min | [Oportunidades para UX Designers en Latinoamérica](#)
-| 03 | Clase | 15 min | [Disciplinas involucradas en UX Design](#)
-
-### Lección 03: [Usabilidad](#)
-
-60min (presencial)
+Bienvenida al curso, detalles del formato y logística de la clase. Conceptos introductorios a UX Design. ¿Por qué es importante aprender UXD? ¿Cómo podemos convencer a nuestros equipos/jefes/compañeros de que invertir en UX nos beneficiará a todos? ¿Qué disciplinas están involucradas en UX Design?
 
 
 | # | Tipo | Duración | Tópico
 | - | ---- | -------- | ------
-| 01 | Clase | 05 min | [¿Qué es usabilidad?](#)
-| 02 | Clase | 25 min | [10 heuristicas de usabilidad](https://www.nngroup.com/articles/ten-usability-heuristics/)
-| 03 | Ejercicio | 30 min | Encontrar problemas de usabilidad en webs y aplicaciones
+| 01 | clase | 3 min | Logística de la clase
+| 02 | clase | 10 min | [¿Qué es User Experience Design?](#)
+| 03 | discusición | 10 min | [¿Por qué debemos estudiar UX Design?](#)
+| 04 | discusión | 10 min | [¿Qué características tiene un buen UX Designer?](#)
+| 05 | clase | 5 min | [Disciplinas involucradas en UX Design](#)
+| 06 | clase | 10 min | [El proceso de UX Design](#)
+| 06 | Lectura | 20 min | [Los 13 principios de LEAN UX](https://drive.google.com/file/d/0B0NdG2VNCDPzNXJaYlpEdTgwLWM/view)
 
-### Lección 04: [Rapid Prototyping](#)
 
-60min (presencial)
+### Lección 02: [Metodologías / ideologías relacionadas con User Experience Design](#)
 
+20 min (self-paced)
 
 | # | Tipo | Duración | Tópico
 | - | ---- | -------- | ------
-| 01 | Clase | 20 min | [Entendiendo el problema en el que trabajaremos](#)
-| 02 | Ejercicio | 40 min | [Rapid Prototyping](#)
+| 01 | video | 1 min | [Intro - metodologías involucradas en UX Design](#)
+| 02 | video | 3 min | [Human Centered Design](#)
+| 03 | video | 4 min | [Lean Startup](#)
+| 04 | video | 3 min |[Agile Manifesto](#)
+| 05 | video | 4 min |[LEAN UX](#)
+| 06 | video | 5 min |[Sprint](#)
+
+### Lección 03: [Rapid Prototyping](#)
+
+60 min (presencial)
+
+| # | Tipo | Duración | Tópico
+| - | ---- | -------- | ------
+| 01 | Clase | 10 min | [Entendiendo el problema en el que trabajaremos](#)
+| 02 | Ejercicio | 50 min | [Rapid Prototyping](http://toolbox.hyperisland.com/90-minute-prototypes)
+
+
+### Lección 04: [Usabilidad](#)
+
+30 min (self-paced)
+
+| # | Tipo | Duración | Tópico
+| - | ---- | -------- | ------
+| 01 | video | 1 min | [¿Qué es usabilidad?](#)
+| 02 | video | 14 min | [10 heuristicas de usabilidad](https://www.nngroup.com/articles/ten-usability-heuristics/)
+| 03 | ejercicio | 15 min | Encontrar problemas de usabilidad en webs y aplicaciones
 
 
 ### Lección 05: [Introducción a User Research](#)
@@ -102,7 +96,7 @@ Cada vez más hablamos de UX. Pero ¿Por qué es importante aprender UXD? ¿Cóm
 | # | Tipo | Duración | Tópico
 | - | ---- | -------- | ------
 | 01 | video | 3 min | [Qué es User Research](https://www.youtube.com/watch?v=A_gHQq9iLxg)
-| 02 | video | 7 min | [La importancia de la Data en el Research](#)
+| 02 | video | 5 min | [La importancia de la Data en el Research](#)
 | 03 | lectura | 40 min | [Understanding the problem](https://drive.google.com/file/d/0B0NdG2VNCDPzWG1yekM3X0RjZjg/view?usp=sharing)
 | 04 | video | 10 min | [Análisis competitivo y comparativo](#)
 
@@ -144,14 +138,16 @@ Cada vez más hablamos de UX. Pero ¿Por qué es importante aprender UXD? ¿Cóm
 
 ### Lección 09: [Introducción a Síntesis y definición](#)
 
-xmin (self-paced)
+30 min (self-paced)
 
 
 | # | Tipo | Duración | Tópico
 | - | ---- | -------- | ------
-| 01 | video | xmin | [Affinity Mapping]()
-| 02 | video | xmin | [User Personas](#)
-| 03 | video | xmin | [MVP]()
+| 01 | lectura | 20 min | [Síntesis o Interpretación](https://drive.google.com/file/d/0B0NdG2VNCDPzLU1CcFJZaU91ajg/view)
+| 02 | video | 2 min | [Affinity Mapping](https://www.youtube.com/watch?v=UynxDyr0lAo)
+| 03 | video | 2 min | [User Personas](https://www.youtube.com/watch?v=khLWLtxmMGM)
+| 04 | video | 4 min | [MVP](https://www.youtube.com/watch?v=1FoCbbbcYT8)
+
 
 
 ### Lección 10: [Síntesis](#)
@@ -163,6 +159,19 @@ xmin (self-paced)
 | 01 | Clase | 10 min | [Importancia de la síntesis dentro del proceso de UXD](#)
 | 02 | Ejercicio | 30 min | [Affinity mapping](#)
 | 03 | Ejercicio | 20 min | [User Personas](#)
+
+
+### Lección 11: [Problem Statements y HMW](#)
+
+65min (presencial)
+
+| # | Tipo | Duración | Tópico
+| - | ---- | -------- | ------
+| 01 | Clase | 10 min | [¿Qué son los problem statements?](#)
+| 02 | Ejercicio | 15 min | [Elaboración de problem statements](#)
+| 03 | Clase | 10 min | [¿Qué son los HMW? - Importancia de las preguntas en un proceso de problem solving](#)
+| 04 | Clase | 10 min | [Tips para crear buenas preguntas de HMW](#)
+| 05 | Ejercicio | 20 min | [	Elaboración de HMW questions](#)
 
 ### Lección 11: [Problem Statements y HMW](#)
 
@@ -189,7 +198,7 @@ xmin (self-paced)
 
 ### Lección 13: [Ideación y decisión](#)
 
-xmin (self-paced)
+30 min (self-paced)
 
 
 | # | Tipo | Duración | Tópico
@@ -223,15 +232,13 @@ xmin (self-paced)
 | 04 | Ejercicio | 5 min | [Supervote](#)
 | 05 | Ejercicio | 5 min | [Decide](#)
 
-### Lección 15: [User Flows y wireframing](#)
+### Lección 15: [Wireframing](#)
 
-45min (presencial)
+30min (presencial)
 
 | # | Tipo | Duración | Tópico
 | - | ---- | -------- | ------
-| 01 | Clase | 10 min | [¿Qué es un User Flow y para que sirve?](#)
-| 02 | Ejercicio | 20 min | [User flow](#)
-| 03 | Ejercicio | 15 min | [Wireframing](#)
+| 01 | Ejercicio | 30 min | [Wireframing](#)
 
 
 

@@ -154,7 +154,7 @@ Toda persona que trabaje en tecnología debería conocer principios de visual de
 | # | Tipo | Duración | Tópico
 | - | ---- | -------- | ------
 | 01 | Video | 05 min | [¿Qué es arquitectura de la información?](#)
-| 02 | Lectura |30 min | [Arquitectura de la Información]()
+| 02 | Video |30 min |[How to make sense of any mess](https://vimeo.com/139025676)
 | 03 | Video |10 min | [Intro a Card Sorting]()
 | 04 | Ejercicio | 10 min | Online Card Sorting
 | 05 | Clase | 30 min | Plan de una actividad de Card Sorting para el Dashboard
@@ -183,7 +183,8 @@ Toda persona que trabaje en tecnología debería conocer principios de visual de
 
 | # | Tipo | Duración | Tópico
 | - | ---- | -------- | ------
-| 01 | TBD | TDB | [User Personas](#)
+| 00 | TBD | TDB | [User Personas](#)
+| 01 | TBD | TDB | [Putting personas to work](https://vimeo.com/212958539)
 | 02 | TBD | TDB | [Customer Journey Maps](#)
 | 03 | TBD | TDB | [Problem statements](#)
 | 04 | TBD | TDB | [Advanced HMW](#)
