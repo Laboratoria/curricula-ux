@@ -10,7 +10,7 @@ En relación a las funciones que llevarás a cabo frente a las alumnas:
 
 En relación al lugar:
 - Abrir y Cerrar local
-- Comida para las sesiones presenciales
+- Snack para las sesiones presenciales
 - Computadores
 - Reconocimiento del lugar: Proyector, plumones, hojas, materiales, etc
 - Horarios 
