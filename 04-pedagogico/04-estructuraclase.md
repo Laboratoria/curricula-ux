@@ -43,7 +43,7 @@ Cosas que debemos tener en consideración en esta parte de la clase es:
 
 ##### Práctica Guiada (Demo y/o Workshop)
 
-En esta parte debemos modelar cómo hacer un ejercicio o actividad que deseamos que nuestras alumnas hagan para cumplir el objetivo de la clase. Usualmente utilizamos un ejercicio guiado, lo que incluye que tu como profesor realizas uno ejercicios en presencia de todos los estudiantes. 
+En esta parte debemos modelar cómo hacer un ejercicio o actividad que deseamos que nuestras alumnas hagan para cumplir el objetivo de la clase. Usualmente utilizamos un ejercicio guiado, lo que incluye que tú como profesor realizas un ejercicio en presencia de todos los estudiantes. 
 
 ##### Práctica Independiente/Colaborativa (Demo y/o Workshop)
 
