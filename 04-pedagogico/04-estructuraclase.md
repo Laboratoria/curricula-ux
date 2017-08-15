@@ -4,8 +4,6 @@
 
 Toda clase bien planificada debe seguir un orden claro, que permita tanto al profesor, como a los alumnos visualizar el propósito que se quiere lograr a través de ella. Esto no significa rigidizar la clase, sino ser flexible y oportuno para adaptarse a las necesidades que van surgiendo de los estudiantes y a rediseñar si es necesario, las actividades (individuales o grupales) que se desarrollan,  permitiendo un uso eficiente del tiempo, del espacio y de los recursos. A continuación te invitamos a observar este video de la estructura implementada por un colegio en sus cursos más pequeños. 
 
-https://vimeo.com/197505639
-
 La estructura que se propone se divide de la siguiente manera:
 
 - Inicio/Opening
@@ -33,7 +31,7 @@ La primera parte de la clase es fundamental, es donde tenemos que presentar el o
 
 En nuestra lámina, esta parte la incluyen: Self-learning, Lecture, Demo, Quiz, Solution Problem Set y Workshop. El Quiz se utiliza para verificar aprendizaje en cualquier minuto de la clase. Usualmente es utilizado después del contenido nuevo que verás a continuación.
 
-Contenido nuevo (Self-Learning y/o Lecture)
+##### Contenido nuevo (Self-Learning y/o Lecture)
 
 Lo que nos sucede muchas veces al hacer clases de manera presencial, es que nos quedamos “pegados” en explicar el contenido nuevo. Con otras palabras, nuestra clase se transforma en algo totalmente expositivo. Grave error! Debemos hacer el esfuerzo para que la parte expositiva sea concreta y sencilla. Aunque a veces es difícil, debemos intentarlo. 
 
@@ -43,11 +41,11 @@ Cosas que debemos tener en consideración en esta parte de la clase es:
 - Verificar constantemente si los estudiantes están interiorizando el nuevo contenido. 
 - La concentración no es nuestra mejor característica. La exposición del nuevo contenido no debe durar más de 30 minutos, ojala menos que eso. 
 
-Práctica Guiada (Demo y/o Workshop)
+##### Práctica Guiada (Demo y/o Workshop)
 
 En esta parte debemos modelar cómo hacer un ejercicio o actividad que deseamos que nuestras alumnas hagan para cumplir el objetivo de la clase. Usualmente utilizamos un ejercicio guiado, lo que incluye que tu como profesor realizas uno ejercicios en presencia de todos los estudiantes. 
 
-Práctica Independiente/Colaborativa (Demo y/o Workshop)
+##### Práctica Independiente/Colaborativa (Demo y/o Workshop)
 
 En la práctica individual/colaborativa es la oportunidad que los alumnos pueden internalizar y moldear lo aprendido. 
 
