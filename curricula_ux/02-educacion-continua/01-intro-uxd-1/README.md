@@ -20,7 +20,7 @@ Ningún conocimiento previo diseño o de programación es necesario para complet
 * Las 5 fases del proceso de User Experience Design
 * A entender la importancia del **User Research** en un proceso de diseño
 * Qué son los **User Personas** y cómo su uso impacta en el proceso de diseño
-* La importancia de usar preguntas como **HMW** y **What if** para 
+* La importancia de usar preguntas como **HMW** y **What if** para la generación de ideas
 
 ## Detalles logísticos
 
@@ -45,9 +45,9 @@ Bienvenida al curso, detalles del formato y logística de la clase. Conceptos in
 
 | # | Tipo | Duración | Tópico
 | - | ---- | -------- | ------
-| 01 | clase | 3 min | Logística de la clase
+| 01 | clase | 10 min | Logística de la clase
 | 02 | clase | 10 min | [¿Qué es User Experience Design?](#)
-| 03 | discusición | 10 min | [¿Por qué debemos estudiar UX Design?](#)
+| 03 | discusión | 10 min | [¿Por qué debemos estudiar UX Design?](#)
 | 04 | discusión | 10 min | [¿Qué características tiene un buen UX Designer?](#)
 | 05 | clase | 5 min | [Disciplinas involucradas en UX Design](#)
 | 06 | clase | 10 min | [El proceso de UX Design](#)

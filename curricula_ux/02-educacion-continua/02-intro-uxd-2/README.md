@@ -34,12 +34,13 @@ Durante este curso, pondrás en práctica tus habilidades como UX Designer traba
 
 ### Lección: [Logística de la clase](#)
 
-20min (Presencial)
+30 min (Presencial)
 
 | # | Tipo | Duración | Tópico
 | - | ---- | -------- | ------
-| 01 | Clase | 10 min | [Aprendizajes de Intro a User Experience Design 1](#)
-| 02 | Clase | 10 min | [Objetivos de Intro a User Experience Design 2](#)
+| 01 | Clase | 10 min | [Logística de la clases](#)
+| 02 | Clase | 10 min | [Aprendizajes de Intro a User Experience Design 1](#)
+| 03 | Clase | 10 min | [Objetivos de Intro a User Experience Design 2](#)
 
 ### Lección: [User Flows](#)
 
