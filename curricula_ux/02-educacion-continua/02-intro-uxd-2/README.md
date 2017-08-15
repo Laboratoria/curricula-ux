@@ -27,7 +27,7 @@ Haber llevado el curso de Intro a User Experience Design 1.
 
 ## Producto a desarrollar
 
-Durante este curso, pondrás en práctica tus habilidades como UX Designer trabajando en un producto bancario. Un producto para ayudar a las personas de tu comunidad a manejar mejor sus finanzas y a perder el miedo a los bancos. 
+Durante este curso, seguirás desarrollando tus habilidades como UX Designer y crearás un prototipo de alta fidelidad para el producto ideado en [Intro a User Experience Design 1](). Recuerda que el producto es un app para ayudar a las personas a manejar mejor su dinero. 
 
 ## Syllabus
 
