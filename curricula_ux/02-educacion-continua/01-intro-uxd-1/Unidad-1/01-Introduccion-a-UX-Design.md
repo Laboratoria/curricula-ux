@@ -5,7 +5,7 @@
 Para empezar esta clase introductoria es bueno saber qué entendemos por UX. 
 
 
-
+<!--- Slide 2 --->
 
 ***¿Qué es UX?***
 > UX = User Experience son todas las experiencias que vive/experimenta una persona al usar un producto. Una silla, una mesa y un computador, todos tienen una experiencia al usarlos. 
