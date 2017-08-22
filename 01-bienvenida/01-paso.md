@@ -1,10 +1,11 @@
 # Bienvenida y orientación
 
+Hola y bienvenid@ al proceso de inducción y capacitación que hemos preparado para los profesores de Laboratoria. Todo este curso es on-line salvo el último punto que es presencial.
+
+En todo este proceso estarás acompañado por tu training manager, quién estará pendiente de tu avance.
+
 A continuación encontrará los temas que se tratarán durante este curso.
 
-| # | Tipo | Tópico
-| - | ----- | -----
-| 00 | lectura | [Bienvenida y orientación](01-bienvenida/01-paso.md)
 
 ### Módulo 1: Introducción
 
@@ -13,7 +14,7 @@ Queremos mostrarte cuál es nuestra visión de la institución y motivarte a ser
 
 | # | Tipo | Tópico
 | - | ----- | -----
-| 00 | lectura | [Introducción](02-introduccion/02-paso.md)
+| 00 | Lectura | Bienvenida y orientación
 | 01 | Video   | Mariana Costa
 | 02 | Presentación | Bienvenid@ a Laboratoria
 | 03 | Documento | Our Little Book of Culture
@@ -25,7 +26,6 @@ Aprenderás qué es Educación Continua, objetivos y un poco de historia. Despu�
 
 | # | Tipo | Tópico
 | - | ----- | -----
-| 00 | lectura | [¿Qué es Educación Continua?](03-perfilprofesor/01-ec.md)
 | 01 | Video | ¿Qué es Educación Continua?
 | 02 | Video | Bootcamp
 | 03 | Lectura | Perfil de nuestras alumnas
@@ -41,9 +41,9 @@ A continuación te presentaremos qué esperamos de ti como profesor, tus princip
 
 | # | Tipo | Tópico
 | - | ----- | -----
-| 01 | Lectura | [¿Qué esperamos de un profesor de Educación Continua?](03-perfilprofesor/02-perfilprofesor.md)
+| 01 | Lectura | ¿Qué esperamos de un profesor de Educación Continua?
 | 02 | Lectura | Responsabilidades del Profesor Educación Continua
-| 03 | Lectura | [Código de Comportamiento](03-perfilprofesor/03.comportamiento.md)
+| 03 | Lectura | Código de Comportamiento
 
 
 ### Módulo 4: Capacitación pedagógica
@@ -57,13 +57,13 @@ Los objetivos de esta parte de la capacitación son los siguientes:
 
 | # | Tipo | Tópico
 | - | ----- | -----
-| 01 | Lectura | [Presentación de la Capacitación Pedagógica](04-pedagogico/01-presentacioncapa.md)
-| 02 | Lectura | a) [¿Cómo crear el objetivo de una clase?](04-pedagogico/02-creacioncontenido.md)
-| 03 | Lectura | b) [¿Cómo planificar una clase efectiva?](04-pedagogico/03-planificacionclases.md)
-| 04 | Lectura | c) [¿Cómo estructurar una clase eficiente?](04-pedagogico/04-estructuraclase.md)
-| 05 | Lectura | d) [¿Cómo crear una “Agenda” clara?](04-pedagogico/05-agenda.md)
-| 06 | Lectura | e) [¿Cómo dar instrucciones claras?](04-pedagogico/05.1.instrucciones.md)
-| 07 | Lectura | f) [¿Cómo verificas que tus alumnos comprendieron el contenido?](04-pedagogico/06-verificacion.md)
+| 01 | Lectura | Presentación de la Capacitación pedagógica
+| 02 | Lectura | a) ¿Cómo crear el objetivo de una clase?
+| 03 | Lectura | b) ¿Cómo planificar una clase efectiva?
+| 04 | Lectura | c) ¿Cómo estructurar una clase eficiente?
+| 05 | Lectura | d) ¿Cómo crear una “Agenda” clara?
+| 06 | Lectura | e) ¿Cómo dar instrucciones claras?
+| 07 | Lectura | f) ¿Cómo verificas que tus alumnos comprendieron el contenido?
 
 
 ### Módulo 5: Capacitación técnica
@@ -72,7 +72,6 @@ Revisarás el contenido del curso que te corresponde.
 
 | # | Tipo | Tópico
 | - | ----- | -----
-| 00 | Self-paced | [Capacitación técnica](05-tecnico/unica.md)
 | 01 | Self-paced | Contenido del curso
 | 02 | Reunión | Temas de contenido (Diseñador del curso+TM+Profesor)
 
@@ -83,7 +82,10 @@ En esta parte de la capacitación tendrás dos reuniones importantes: una con el
 
 | # | Tipo | Tópico
 | - | ----- | -----
-| 00 | Self-paced | [Reunión training manager](06-reuniontm/listareunion.md)
 | 01 | Reunión | Temas administrativos prácticos (Profesor+TM)
 
+Te presentamos un esquema de cómo serán estas tres semanas que te esperan.
 
+![Esquema](Diapositiva4.JPG)
+
+[TE INVITO AL PRIMER MÓDULO](../02-introduccion/02-paso.md)
