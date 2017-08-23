@@ -4,7 +4,7 @@
 
 Durante los primeros meses de aprendizaje, nuestras estudiantes aprenderán los fundamentos del diseño de experiencias de usuario y obtendrán conocimientos de diseño que las serán útiles a lo largo de toda su carrera en tecnología.
 
-### Lección 01: [UX Basics](/curricula_ux/01-bootcamp/03-user-experience-design-bootcamp-2017-2/01-ux-basics.md)
+### Lección 01: [UX Basics](/01-bootcamp/03-user-experience-design-bootcamp-2017-2/01-ux-basics.md)
 3h (presencial)
 
 En esta lección las estudiantes conocerán qué es User Experience, qué es User Experience Design y por qué es importante seguir un proceso de UXD durante nuestra creación de productos digitales. 
@@ -22,7 +22,7 @@ En esta lección las estudiantes conocerán qué es User Experience, qué es Use
 
 
 
-### Lección 02: [Flows](/curricula_ux/01-bootcamp/03-user-experience-design-bootcamp-2017-2/02-flows.md)
+### Lección 02: [Flows](/01-bootcamp/03-user-experience-design-bootcamp-2017-2/02-flows.md)
 4h (presencial)
 
 ¿Qué es un sistema? ¿Cómo somos todos partes de un sistema? Durante esta sesión las estudiantes aprenderán sobre sistemas y "System Thinking". Terminarán construyendo flujos de usuarios que las ayude a visualizar el camino que seguirán los usuarios para completar tareas en sus aplicaciones.
@@ -40,7 +40,7 @@ En esta lección las estudiantes conocerán qué es User Experience, qué es Use
 
 
 
-### Lección 03: [Sketching](/curricula_ux/01-bootcamp/03-user-experience-design-bootcamp-2017-2/03-sketching.md)
+### Lección 03: [Sketching](/01-bootcamp/03-user-experience-design-bootcamp-2017-2/03-sketching.md)
 6h (presencial)
 
 Externalizar nuestras ideas es super importante para construir shared understanding con nuestro equipo. Además, los sketches son herramientas de mucha ayuda antes de empezar a desarrollar. Si unimos user flows + sketches tendremos un mejor orden a la hora de programar nuestros proyectos.
@@ -58,7 +58,7 @@ Externalizar nuestras ideas es super importante para construir shared understand
 
 
 
-###  Lección 04: [Visual Design](/curricula_ux/01-bootcamp/03-user-experience-design-bootcamp-2017-2/04-visual-design.md)
+###  Lección 04: [Visual Design](/01-bootcamp/03-user-experience-design-bootcamp-2017-2/04-visual-design.md)
 4h (presencial)
 
 Toda persona que trabaje en tecnología debería conocer principios de visual design.
@@ -74,7 +74,7 @@ Toda persona que trabaje en tecnología debería conocer principios de visual de
 
 
 
-###  Lección 05: [Navigation](/curricula_ux/01-bootcamp/03-user-experience-design-bootcamp-2017-2/05-navigation.md)
+###  Lección 05: [Navigation](/01-bootcamp/03-user-experience-design-bootcamp-2017-2/05-navigation.md)
 1.5h (presencial)
 
 | # | Tipo | Duración | Tópico
@@ -86,7 +86,7 @@ Toda persona que trabaje en tecnología debería conocer principios de visual de
 
 
 
-### Lección 06: [Usability](/curricula_ux/01-bootcamp/03-user-experience-design-bootcamp-2017-2/05-usability.md)
+### Lección 06: [Usability](/01-bootcamp/03-user-experience-design-bootcamp-2017-2/05-usability.md)
 4h (presencial)
 
 

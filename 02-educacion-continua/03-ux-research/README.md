@@ -49,7 +49,7 @@ Durante el curso, podrás trabajar en una investigación con usuarios reales y t
 
 ## Syllabus
 
-### Lección 01: [Introducción al curso](/curricula_ux/02-educacion-continua/03-ux-research/Unidad-1/01-Introduccion-al-curso.md)
+### Lección 01: [Introducción al curso](/02-educacion-continua/03-ux-research/Unidad-1/01-Introduccion-al-curso.md)
 
 
 35 min (presencial)
@@ -62,7 +62,7 @@ Durante el curso, podrás trabajar en una investigación con usuarios reales y t
 
 
 
-### Lección 02: [Una mirada al “User Research”](/curricula_ux/02-educacion-continua/03-ux-research/Unidad-1/02-Una-mirada-al-User-Research.md)
+### Lección 02: [Una mirada al “User Research”](/02-educacion-continua/03-ux-research/Unidad-1/02-Una-mirada-al-User-Research.md)
 
 30 min (presencial)
 
@@ -71,7 +71,7 @@ Durante el curso, podrás trabajar en una investigación con usuarios reales y t
 | 01 | charla | 1 min | Porque hacemos user research?
 | 02 | charla | 3 min | Ejemplos de tipos de investigación en el trabajo
 
-### Lección 03: [Research Question](/curricula_ux/02-educacion-continua/03-ux-research/Unidad-1/03-Research-question.md)
+### Lección 03: [Research Question](/02-educacion-continua/03-ux-research/Unidad-1/03-Research-question.md)
 
 70 min (presencial)
 
@@ -83,7 +83,7 @@ Durante el curso, podrás trabajar en una investigación con usuarios reales y t
 | 04 | ejercicio | 20 min | Crear un hipótesis sobre el producto o el comportamiento de los usuarios
 
 
-### Lección 04: [Reclutamiento: ¿Con quién debemos hablar?](/curricula_ux/02-educacion-continua/03-ux-research/Unidad-1/04-Reclutamiento.md)
+### Lección 04: [Reclutamiento: ¿Con quién debemos hablar?](/02-educacion-continua/03-ux-research/Unidad-1/04-Reclutamiento.md)
 
 50 min (presencial)
 
@@ -95,7 +95,7 @@ Durante el curso, podrás trabajar en una investigación con usuarios reales y t
 | 04 | clase | 15 min | Escribiendo un screener survey
 | 05 | tarea | 2 min | Escribir y ejecutar un screener survey
 
-### Lección 05: [Reflexión y introducción](/curricula_ux/02-educacion-continua/03-ux-research/Unidad-2/05-reflexion-e-introduccion.md)
+### Lección 05: [Reflexión y introducción](/02-educacion-continua/03-ux-research/Unidad-2/05-reflexion-e-introduccion.md)
 
 20 min (presencial)
 
@@ -105,7 +105,7 @@ Durante el curso, podrás trabajar en una investigación con usuarios reales y t
 | 02 | lectura | 5 min | Objetivos de la unidad
 
 
-### Lección 06: [Preguntas para entrevistas](/curricula_ux/02-educacion-continua/03-ux-research/Unidad-2/06-preguntas-para-entrevistas.md)
+### Lección 06: [Preguntas para entrevistas](/02-educacion-continua/03-ux-research/Unidad-2/06-preguntas-para-entrevistas.md)
 
 30 min (presencial)
 
@@ -116,7 +116,7 @@ Durante el curso, podrás trabajar en una investigación con usuarios reales y t
 | 03 | ejercicio | 15 min | Practicar algunas preguntas con una compañera
 
 
-### Lección 07: [Preparación para las entrevistas](/curricula_ux/02-educacion-continua/03-ux-research/Unidad-2/07-preparacion-para-las-entrevistas.md)
+### Lección 07: [Preparación para las entrevistas](/02-educacion-continua/03-ux-research/Unidad-2/07-preparacion-para-las-entrevistas.md)
 
 35 min (presencial)
 
@@ -126,7 +126,7 @@ Durante el curso, podrás trabajar en una investigación con usuarios reales y t
 | 02 | video | 6 min | [Renato Verdugo: Research as co-development](https://www.youtube.com/watch?v=QOkE86Q8lUI)
 | 03 | ejercicio | 15 min | Logistica de una entrevista (checklist)
 
-### Lección 08: [Introducción a las metodologías de user research](/curricula_ux/02-educacion-continua/03-ux-research/Unidad-2/08-introduccion-a-metodologias-de-user-research.md)
+### Lección 08: [Introducción a las metodologías de user research](/02-educacion-continua/03-ux-research/Unidad-2/08-introduccion-a-metodologias-de-user-research.md)
 
 75 min (presencial)
 
@@ -137,7 +137,7 @@ Durante el curso, podrás trabajar en una investigación con usuarios reales y t
 | 03 | ejercicio | 30 min | ¿qué metodología? ¿cuándo?
 | 04 | tarea | x min | Escribir una guia para las entrevistas
 
-### Lección 09: [Reflexión e introducción](/curricula_ux/02-educacion-continua/03-ux-research/Unidad-3/09-reflexion-e-introduccion.md)
+### Lección 09: [Reflexión e introducción](/02-educacion-continua/03-ux-research/Unidad-3/09-reflexion-e-introduccion.md)
 
 20 min (presencial)
 
@@ -146,7 +146,7 @@ Durante el curso, podrás trabajar en una investigación con usuarios reales y t
 | 01 | charla | 15 min | Reflexión sobre la tarea
 | 02 | lectura | 5 min | Objetivos de la unidad
 
-### Lección 10: [Arco de una entrevista](/curricula_ux/02-educacion-continua/03-ux-research/Unidad-3/10-arco-de-una-entrevista.md)
+### Lección 10: [Arco de una entrevista](/02-educacion-continua/03-ux-research/Unidad-3/10-arco-de-una-entrevista.md)
 
 20 min (presencial)
 
@@ -155,7 +155,7 @@ Durante el curso, podrás trabajar en una investigación con usuarios reales y t
 | 01 | charla | 10 min | Arco de la entrevista
 | 02 | video | 10 min | [GV - Arco de la Entrevista](https://www.youtube.com/watch?v=WpzmOH0hrEM) 
 
-### Lección 11: [El arte de entrevistar](/curricula_ux/02-educacion-continua/03-ux-research/Unidad-3/11-el-arte-de-entrevistar.md)
+### Lección 11: [El arte de entrevistar](/02-educacion-continua/03-ux-research/Unidad-3/11-el-arte-de-entrevistar.md)
 
 20 min (presencial)
 
@@ -165,7 +165,7 @@ Durante el curso, podrás trabajar en una investigación con usuarios reales y t
 | 02 | workshop| 30 min | Errores comunes al entrevistar 
 | 03 | video| 10 min | [The Five-Act Interview](https://www.youtube.com/watch?v=U9ZG19XTbd4)
 
-### Lección 12: [Practicando a entrevistar](/curricula_ux/02-educacion-continua/03-ux-research/Unidad-3/12-practicando-a-entrevistar.md)
+### Lección 12: [Practicando a entrevistar](/02-educacion-continua/03-ux-research/Unidad-3/12-practicando-a-entrevistar.md)
 
 20 min (presencial)
 
@@ -177,7 +177,7 @@ Durante el curso, podrás trabajar en una investigación con usuarios reales y t
 | 04 | ejercicio| 10 min | Revisar las guías y incorporar el feedback 
 | 05 | tarea|  min | Entrevistar 5 usuarios y anotar qué han aprendido
 
-### Lección 13: [Reflexión e introducción](/curricula_ux/02-educacion-continua/03-ux-research/Unidad-4/13-reflexion-e-introduccion.md)
+### Lección 13: [Reflexión e introducción](/02-educacion-continua/03-ux-research/Unidad-4/13-reflexion-e-introduccion.md)
 
 20 min (presencial)
 
@@ -186,7 +186,7 @@ Durante el curso, podrás trabajar en una investigación con usuarios reales y t
 | 01 | charla | 15 min | Reflexión sobre la tarea
 | 02 | lectura | 5 min | Objetivos de la unidad
 
-### Lección 14: [Buscando temas y patrones](/curricula_ux/02-educacion-continua/03-ux-research/Unidad-4/14-buscando-temas-y-patrones.md)
+### Lección 14: [Buscando temas y patrones](/02-educacion-continua/03-ux-research/Unidad-4/14-buscando-temas-y-patrones.md)
 
 60 min (presencial)
 
@@ -196,7 +196,7 @@ Durante el curso, podrás trabajar en una investigación con usuarios reales y t
 | 02 | video | 10 min |  Análisis para UX research
 | 03 | ejercicio | 30 min | Buscando patrones en los datos
 
-### Lección 15: [Sesión de Análisis](/curricula_ux/02-educacion-continua/03-ux-research/Unidad-4/15-sesion-de-analisis.md)
+### Lección 15: [Sesión de Análisis](/02-educacion-continua/03-ux-research/Unidad-4/15-sesion-de-analisis.md)
 
 40 min (presencial)
 
@@ -206,7 +206,7 @@ Durante el curso, podrás trabajar en una investigación con usuarios reales y t
 | 02 | lectura | 15 min | Tips para una sesión de análisis 
 | 03 | video | 10 min | Sesión de análisis con stakeholders
 
-### Lección 16: [Storytelling](/curricula_ux/02-educacion-continua/03-ux-research/Unidad-4/16-storytelling.md)
+### Lección 16: [Storytelling](/02-educacion-continua/03-ux-research/Unidad-4/16-storytelling.md)
 
 60 min (presencial)
 

@@ -35,7 +35,7 @@ Durante el curso las estudiantes trabajarán sobre un reto del sector financiero
 
 ## Syllabus
 
-### Lección 01: [Introducción a UX Design](/curricula_ux/02-educacion-continua/01-intro-uxd-1/Unidad-1/01-Introduccion-a-UX-Design.md)
+### Lección 01: [Introducción a UX Design](/02-educacion-continua/01-intro-uxd-1/Unidad-1/01-Introduccion-a-UX-Design.md)
 
 
 70 min (presencial)
@@ -54,7 +54,7 @@ Bienvenida al curso, detalles del formato y logística de la clase. Conceptos in
 | 06 | Lectura | 20 min | [Los 13 principios de LEAN UX](https://drive.google.com/file/d/0B0NdG2VNCDPzNXJaYlpEdTgwLWM/view)
 
 
-### Lección 02: [Metodologías / ideologías relacionadas con User Experience Design](/curricula_ux/02-educacion-continua/01-intro-uxd-1/Unidad-1/02-Metodologias-relacionas-con-UXD.md)
+### Lección 02: [Metodologías / ideologías relacionadas con User Experience Design](/02-educacion-continua/01-intro-uxd-1/Unidad-1/02-Metodologias-relacionas-con-UXD.md)
 
 20 min (self-paced)
 
@@ -67,7 +67,7 @@ Bienvenida al curso, detalles del formato y logística de la clase. Conceptos in
 | 05 | video | 4 min |[LEAN UX](#)
 | 06 | video | 5 min |[Sprint](#)
 
-### Lección 03: [Rapid Prototyping](/curricula_ux/02-educacion-continua/01-intro-uxd-1/Unidad-1/03-Rapid-prototyping.md)
+### Lección 03: [Rapid Prototyping](//02-educacion-continua/01-intro-uxd-1/Unidad-1/03-Rapid-prototyping.md)
 
 60 min (presencial)
 
@@ -77,7 +77,7 @@ Bienvenida al curso, detalles del formato y logística de la clase. Conceptos in
 | 02 | Ejercicio | 50 min | [Rapid Prototyping](http://toolbox.hyperisland.com/90-minute-prototypes)
 
 
-### Lección 04: [Usabilidad](/curricula_ux/02-educacion-continua/01-intro-uxd-1/Unidad-1/04-Usabilidad.md)
+### Lección 04: [Usabilidad](/02-educacion-continua/01-intro-uxd-1/Unidad-1/04-Usabilidad.md)
 
 30 min (self-paced)
 
