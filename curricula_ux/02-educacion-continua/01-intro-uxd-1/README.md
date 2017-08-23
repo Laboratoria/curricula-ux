@@ -173,17 +173,6 @@ Bienvenida al curso, detalles del formato y logística de la clase. Conceptos in
 | 04 | Clase | 10 min | [Tips para crear buenas preguntas de HMW](#)
 | 05 | Ejercicio | 20 min | [	Elaboración de HMW questions](#)
 
-### Lección 11: [Problem Statements y HMW](#)
-
-65min (presencial)
-
-| # | Tipo | Duración | Tópico
-| - | ---- | -------- | ------
-| 01 | Clase | 10 min | [¿Qué son los problem statements?](#)
-| 02 | Ejercicio | 15 min | [Elaboración de problem statements](#)
-| 03 | Clase | 10 min | [¿Qué son los HMW? - Importancia de las preguntas en un proceso de problem solving](#)
-| 04 | Clase | 10 min | [Tips para crear buenas preguntas de HMW](#)
-| 05 | Ejercicio | 20 min | [	Elaboración de HMW questions](#)
 
 ### Lección 12: [Priorización](#)
 
