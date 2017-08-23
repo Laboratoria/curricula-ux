@@ -218,8 +218,8 @@ El research es la etapa más importante del proceso de diseño, ya que nos ayuda
 
 | # | Tipo | Duración | Tópico
 | - | ---- | -------- | ------
-| 01 | lectura | xmin | [Martes y Miércoles Sprint]()
-| 02 | video | xmin | [Marte y Miércoles Sprint](#)
+| 01 | video | 3 min | [Sprint](https://www.youtube.com/watch?v=K2vSQPh6MCE )
+| 02 | lectura | 40 min | [Martes y Miércoles Sprint]()
 
 
 
@@ -229,11 +229,12 @@ El research es la etapa más importante del proceso de diseño, ya que nos ayuda
 
 | # | Tipo | Duración | Tópico
 | - | ---- | -------- | ------
-| 01 | Clase | 10 min | [Intro](#)
-| 02 | Workshop | 20 min | [Lightning demos](#)
-| 03 | Workshop | 20 min | [Ideas](#)
-| 04 | Workshop | 10 min | [Crazy 8s](#)
-| 05 | Workshop | 30 min | [Solution sketch in 3 parts](#)
+| 01 | Clase | 10 min | [Intro]()
+| 02 | video | 3 min | [Sprint Tuesday](https://www.youtube.com/watch?v=_ITJ5lAXQhg)
+| 03 | Workshop | 20 min | [Lightning demos](#)
+| 04 | Workshop | 20 min | [Ideas](#)
+| 05 | Workshop | 10 min | [Crazy 8s](#)
+| 06 | Workshop | 30 min | [Solution sketch in 3 parts](#)
 
 ### Lección 15: [Decisión](#)
 
@@ -241,13 +242,14 @@ El research es la etapa más importante del proceso de diseño, ya que nos ayuda
 
 | # | Tipo | Duración | Tópico
 | - | ---- | -------- | ------
-| 01 | Workshop | 20 min | [Art museum](#)
-| 02 | Workshop | 10 min | [Critique](#)
-| 03 | Workshop | 5 min | [Survey](#)
-| 04 | Workshop | 5 min | [Supervote](#)
-| 05 | Workshop | 5 min | [Decide](#)
+| 01 | Clase | 3 min | [Sprint Wednesday](https://www.youtube.com/watch?v=7BKBFOOKbNo)
+| 02 | Workshop | 20 min | [Art museum](#)
+| 03 | Workshop | 10 min | [Critique](#)
+| 04 | Workshop | 5 min | [Survey](#)
+| 05 | Workshop | 5 min | [Supervote](#)
+| 06 | Workshop | 5 min | [Decide](#)
 
-### Lección 15: [Wireframing](#)
+### Lección 16: [Wireframing](#)
 
 30min (presencial)
 
@@ -260,15 +262,13 @@ El research es la etapa más importante del proceso de diseño, ya que nos ayuda
 ## Autor(es) / Colaboradores
 
 * Lalo González
-* TBD
-* TBD
 
 ## Libros
 
-* [The Practitioner's Guide to User Experience Design](https://www.amazon.com/Practitioners-Guide-User-Experience-Design/dp/1455548588/ref=sr_1_1?ie=UTF8&qid=1500431556&sr=8-1&keywords=practitioners+guide+to+user+experience),  Luke Miller 
-* [The Elements of User Experience: User-Centered Design for the Web and Beyond](https://www.amazon.com/Elements-User-Experience-User-Centered-Design/dp/0321683684/ref=sr_1_1?ie=UTF8&qid=1500431528&sr=8-1&keywords=elements+of+user+experience), Jesse James Garrett
-* [LEAN UX](https://www.amazon.com/Lean-UX-Designing-Great-Products/dp/1491953608/ref=sr_1_1?ie=UTF8&qid=1500431693&sr=8-1&keywords=lean+ux), Jeff Gothelf & Josh Seiden
-* [About Face: The Essentials of Interaction Design](https://www.amazon.com/About-Face-Essentials-Interaction-Design/dp/1118766571/ref=sr_1_2?ie=UTF8&qid=1500431746&sr=8-2&keywords=about+face), Alan Cooper
+* [The Practitioner's Guide to User Experience Design](https://www.amazon.com/Practitioners-Guide-User-Experience-Design/dp/1455548588/ref=sr_1_1?ie=UTF8&qid=1500431556&sr=8-1&keywords=practitioners+guide+to+user+experience),  Luke Miller, 2015 
+* [The Elements of User Experience: User-Centered Design for the Web and Beyond](https://www.amazon.com/Elements-User-Experience-User-Centered-Design/dp/0321683684/ref=sr_1_1?ie=UTF8&qid=1500431528&sr=8-1&keywords=elements+of+user+experience), Jesse James Garrett, 2011
+* [LEAN UX](https://www.amazon.com/Lean-UX-Designing-Great-Products/dp/1491953608/ref=sr_1_1?ie=UTF8&qid=1500431693&sr=8-1&keywords=lean+ux), Jeff Gothelf & Josh Seiden, 2013
+* [About Face: The Essentials of Interaction Design](https://www.amazon.com/About-Face-Essentials-Interaction-Design/dp/1118766571/ref=sr_1_2?ie=UTF8&qid=1500431746&sr=8-2&keywords=about+face), Alan Cooper, 2014
 
 ## Benchmarks
 
