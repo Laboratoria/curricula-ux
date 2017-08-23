@@ -30,7 +30,24 @@ Ningún conocimiento previo diseño o de programación es necesario para complet
 
 ## Producto
 
-Durante el curso las estudiantes trabajarán sobre un reto del sector financiero, para el cuál crearán una solución que resuelva la siguiente pregunta: ***"¿Cómo podriamos ayudar a los clientes y no clientes de un banco a administrar mejor su dinero?"***
+Durante el curso las estudiantes podrán elegir un reto para el cuál deberán realizar una investigación y desarrollar un producto a lo largo del curso. Entre los retos a elegir están los siguientes: 
+
+* **Sector financiero:** 
+
+	*"¿Cómo podríamos ayudar a los clientes y no clientes de un banco a administrar mejor su dinero?"*
+
+* **Sector público:** 
+
+	*"¿Cómo podríamos ayudar a las madres que trabajan a no sentirse lejos de sus hijos?"*
+
+* **Tecnológico:** 
+
+	*"¿Cómo podríamos involucrar a más personas a aprender temas de programación web?"*
+
+* **Laboratoria:**
+
+	*"¿Cómo podríamos mejorar la experiencia del repago para nuestras egresadas?"*
+
 
 
 ## Syllabus
@@ -40,17 +57,17 @@ Durante el curso las estudiantes trabajarán sobre un reto del sector financiero
 
 70 min (presencial)
 
-Bienvenida al curso, detalles del formato y logística de la clase. Conceptos introductorios a UX Design. ¿Por qué es importante aprender UXD? ¿Cómo podemos convencer a nuestros equipos/jefes/compañeros de que invertir en UX nos beneficiará a todos? ¿Qué disciplinas están involucradas en UX Design?
+Bienvenida al curso, detalles del formato y logística de la Clase. Conceptos introductorios a UX Design. ¿Por qué es importante aprender UXD? ¿Cómo podemos convencer a nuestros equipos/jefes/compañeros de que invertir en UX nos beneficiará a todos? ¿Qué disciplinas están involucradas en UX Design?
 
 
 | # | Tipo | Duración | Tópico
 | - | ---- | -------- | ------
-| 01 | clase | 10 min | Logística de la clase
-| 02 | clase | 10 min | [¿Qué es User Experience Design?](#)
+| 01 | Clase | 10 min | Logística de la Clase
+| 02 | Clase | 10 min | [¿Qué es User Experience Design?](#)
 | 03 | discusión | 10 min | [¿Por qué debemos estudiar UX Design?](#)
 | 04 | discusión | 10 min | [¿Qué características tiene un buen UX Designer?](#)
-| 05 | clase | 5 min | [Disciplinas involucradas en UX Design](#)
-| 06 | clase | 10 min | [El proceso de UX Design](#)
+| 05 | Clase | 5 min | [Disciplinas involucradas en UX Design](#)
+| 06 | Clase | 10 min | [El proceso de UX Design](#)
 | 06 | Lectura | 20 min | [Los 13 principios de LEAN UX](https://drive.google.com/file/d/0B0NdG2VNCDPzNXJaYlpEdTgwLWM/view)
 
 
@@ -58,39 +75,47 @@ Bienvenida al curso, detalles del formato y logística de la clase. Conceptos in
 
 20 min (self-paced)
 
+Human Centered Design, Lean UX, Lean Startup son algunas de las metodologías que escuchamos a diario en el mundo tecnológico y del emprendimiento. En esta clase aprenderás un poco de cada uno y sabrás cuáles son sus diferencias y similitudes, y cómo es que estas disciplinas están involucradas con el UX Design. 
+
 | # | Tipo | Duración | Tópico
 | - | ---- | -------- | ------
-| 01 | video | 1 min | [Intro - metodologías involucradas en UX Design](#)
-| 02 | video | 3 min | [Human Centered Design](#)
-| 03 | video | 4 min | [Lean Startup](#)
-| 04 | video | 3 min |[Agile Manifesto](#)
-| 05 | video | 4 min |[LEAN UX](#)
-| 06 | video | 5 min |[Sprint](#)
+| 01 | clase | 1 min | [Intro - metodologías involucradas en UX Design](#)
+| 02 | clase | 3 min | [Human Centered Design](#)
+| 03 | clase | 4 min | [Lean Startup](#)
+| 04 | clase | 3 min |[Agile Manifesto](#)
+| 05 | clase | 4 min |[LEAN UX](#)
+| 06 | clase | 5 min |[Sprint](#)
 
 ### Lección 03: [Rapid Prototyping](//02-educacion-continua/01-intro-uxd-1/Unidad-1/03-Rapid-prototyping.md)
 
 60 min (presencial)
 
+En esta sesión pasarás por todas las etapas del proceso de UX Design en un reto de 60 minutos. Al finalizar este reto habrás creado y testeado un prototipo. 
+
 | # | Tipo | Duración | Tópico
 | - | ---- | -------- | ------
 | 01 | Clase | 10 min | [Entendiendo el problema en el que trabajaremos](#)
-| 02 | Ejercicio | 50 min | [Rapid Prototyping](http://toolbox.hyperisland.com/90-minute-prototypes)
+| 02 | Workshop | 50 min | [Rapid Prototyping](http://toolbox.hyperisland.com/90-minute-prototypes)
 
 
 ### Lección 04: [Usabilidad](/02-educacion-continua/01-intro-uxd-1/Unidad-1/04-Usabilidad.md)
 
 30 min (self-paced)
 
+La usabilidad es una característica muy valiosa en nuestros productos digitales. Durante esta sesión aprenderás las heruísticas de usabilidad y podrás identificar y corregir temas de usabilidad en distintos productos.
+
 | # | Tipo | Duración | Tópico
 | - | ---- | -------- | ------
 | 01 | video | 1 min | [¿Qué es usabilidad?](#)
 | 02 | video | 14 min | [10 heuristicas de usabilidad](https://www.nngroup.com/articles/ten-usability-heuristics/)
-| 03 | ejercicio | 15 min | Encontrar problemas de usabilidad en webs y aplicaciones
+| 03 | Workshop | 15 min | Encontrar problemas de usabilidad en webs y aplicaciones
 
 
 ### Lección 05: [Introducción a User Research](#)
 
 55min (self-paced)
+
+El research es la etapa más importante del proceso de diseño, ya que nos ayuda a identicar y validar el problema que resolveremos a lo largo de nuestro trabajo. 
 
 
 | # | Tipo | Duración | Tópico
@@ -103,12 +128,13 @@ Bienvenida al curso, detalles del formato y logística de la clase. Conceptos in
 ### Lección 06: [Creación de un Research Plan](#)
 
 40min (presencial)
+ 
 
 | # | Tipo | Duración | Tópico
 | - | ---- | -------- | ------
 | 01 | Clase | 10 min | [Componentes de un plan de research](#)
-| 02 | Ejercicio | 20 min | [Creación de research plan](#)
-| 03 | Ejercicio | 10 min | [Creación de BS Personas](#)
+| 02 | Workshop | 20 min | [Creación de research plan](#)
+| 03 | Workshop | 10 min | [Creación de BS Personas](#)
 
 
 ### Lección 07: [User Research Big Data](#)
@@ -119,7 +145,7 @@ Bienvenida al curso, detalles del formato y logística de la clase. Conceptos in
 | - | ---- | -------- | ------
 | 01 | Clase | 10 min | [¿Qué es Big Data?](#)
 | 02 | Clase | 20 min | [Herramientas de analítica](#)
-| 03 | Ejercicio | 20 min | [Hands on Mix Panel y/o Google Analytics](#)
+| 03 | Workshop | 20 min | [Hands on Mix Panel y/o Google Analytics](#)
 
 ### Lección 08: [User Research Small Data - Entrevistas y tests de usabilidad](#)
 
@@ -130,9 +156,9 @@ Bienvenida al curso, detalles del formato y logística de la clase. Conceptos in
 | 01 | Clase | 10 min | [Introducción similitudes y diferencias](#)
 | 02 | Clase | 20 min | [Tips para entrevistas con usuarios y tests de usabilidad](#)
 | 03 | Video | 5 min | [Paper prototype testing](https://www.youtube.com/watch?v=9wQkLthhHKA)
-| 04 | Ejercicio | 20 min | [Planeamiento de entrevistas con usuarios](#)
-| 05 | Ejercicio | 15 min | [Sesión de entrevistas](#)
-| 06 | Ejercicio | 15 min | [Sesión de testing con prototipos en papel](#)
+| 04 | Workshop | 20 min | [Planeamiento de entrevistas con usuarios](#)
+| 05 | Workshop | 15 min | [Sesión de entrevistas](#)
+| 06 | Workshop | 15 min | [Sesión de testing con prototipos en papel](#)
 
 
 
@@ -157,8 +183,8 @@ Bienvenida al curso, detalles del formato y logística de la clase. Conceptos in
 | # | Tipo | Duración | Tópico
 | - | ---- | -------- | ------
 | 01 | Clase | 10 min | [Importancia de la síntesis dentro del proceso de UXD](#)
-| 02 | Ejercicio | 30 min | [Affinity mapping](#)
-| 03 | Ejercicio | 20 min | [User Personas](#)
+| 02 | Workshop | 30 min | [Affinity mapping](#)
+| 03 | Workshop | 20 min | [User Personas](#)
 
 
 ### Lección 11: [Problem Statements y HMW](#)
@@ -168,10 +194,10 @@ Bienvenida al curso, detalles del formato y logística de la clase. Conceptos in
 | # | Tipo | Duración | Tópico
 | - | ---- | -------- | ------
 | 01 | Clase | 10 min | [¿Qué son los problem statements?](#)
-| 02 | Ejercicio | 15 min | [Elaboración de problem statements](#)
+| 02 | Workshop | 15 min | [Elaboración de problem statements](#)
 | 03 | Clase | 10 min | [¿Qué son los HMW? - Importancia de las preguntas en un proceso de problem solving](#)
 | 04 | Clase | 10 min | [Tips para crear buenas preguntas de HMW](#)
-| 05 | Ejercicio | 20 min | [	Elaboración de HMW questions](#)
+| 05 | Workshop | 20 min | [	Elaboración de HMW questions](#)
 
 
 ### Lección 12: [Priorización](#)
@@ -181,8 +207,8 @@ Bienvenida al curso, detalles del formato y logística de la clase. Conceptos in
 | # | Tipo | Duración | Tópico
 | - | ---- | -------- | ------
 | 01 | Clase | 10 min | [Herramientas de priorización](#)
-| 02 | Ejercicio | 10 min | [Priorización](#)
-| 03 | Ejercicio | 10 min | [Definición de MVP](#)
+| 02 | Workshop | 10 min | [Priorización](#)
+| 03 | Workshop | 10 min | [Definición de MVP](#)
 
 
 ### Lección 13: [Ideación y decisión](#)
@@ -204,10 +230,10 @@ Bienvenida al curso, detalles del formato y logística de la clase. Conceptos in
 | # | Tipo | Duración | Tópico
 | - | ---- | -------- | ------
 | 01 | Clase | 10 min | [Intro](#)
-| 02 | Ejercicio | 20 min | [Lightning demos](#)
-| 03 | Ejercicio | 20 min | [Ideas](#)
-| 04 | Ejercicio | 10 min | [Crazy 8s](#)
-| 05 | Ejercicio | 30 min | [Solution sketch in 3 parts](#)
+| 02 | Workshop | 20 min | [Lightning demos](#)
+| 03 | Workshop | 20 min | [Ideas](#)
+| 04 | Workshop | 10 min | [Crazy 8s](#)
+| 05 | Workshop | 30 min | [Solution sketch in 3 parts](#)
 
 ### Lección 15: [Decisión](#)
 
@@ -215,11 +241,11 @@ Bienvenida al curso, detalles del formato y logística de la clase. Conceptos in
 
 | # | Tipo | Duración | Tópico
 | - | ---- | -------- | ------
-| 01 | Ejercicio | 20 min | [Art museum](#)
-| 02 | Ejercicio | 10 min | [Critique](#)
-| 03 | Ejercicio | 5 min | [Survey](#)
-| 04 | Ejercicio | 5 min | [Supervote](#)
-| 05 | Ejercicio | 5 min | [Decide](#)
+| 01 | Workshop | 20 min | [Art museum](#)
+| 02 | Workshop | 10 min | [Critique](#)
+| 03 | Workshop | 5 min | [Survey](#)
+| 04 | Workshop | 5 min | [Supervote](#)
+| 05 | Workshop | 5 min | [Decide](#)
 
 ### Lección 15: [Wireframing](#)
 
@@ -227,7 +253,7 @@ Bienvenida al curso, detalles del formato y logística de la clase. Conceptos in
 
 | # | Tipo | Duración | Tópico
 | - | ---- | -------- | ------
-| 01 | Ejercicio | 30 min | [Wireframing](#)
+| 01 | Workshop | 30 min | [Wireframing](#)
 
 
 
