@@ -1,7 +1,6 @@
 # Currícula UX
 
-
-## Los cursos 
+## Los cursos
 
 ### Bootcamp
 
@@ -9,8 +8,7 @@
 2. [3 weeks UX Bootcamp](/01-bootcamp/02-user-experience-design-bootcamp/)
 3. [User Experience Design Bootcamp](/01-bootcamp/03-user-experience-design-bootcamp-2017-2/)
 
-
-### Educación continua 
+### Educación continua
 
 1. [Intro a UX Design 1](/02-educacion-continua/01-intro-uxd-1/)
 2. [Intro a UX Design 2](/02-educacion-continua/02-intro-uxd-2/)
@@ -25,5 +23,6 @@
 
 1. [UX Leadership](#)
 2. [Intro a UX Design](#)
+
 
 
