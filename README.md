@@ -235,4 +235,4 @@ Durante el curso, podrás trabajar en una investigación con usuarios reales y t
 
 ## Lecturas complementarias
 
-* [tbd](#), Don Norman 
+* [tbd](#), Don Norman
