@@ -19,5 +19,5 @@ Con este se construye el menu lateral
    * [El Arco de una entrevista](02-educacion-continua/03-ux-research/Unidad-3/10-arco-de-una-entrevista.md)
    * [El Arte de entrevistar](02-educacion-continua/03-ux-research/Unidad-3/11-el-arte-de-entrevistar.md)
    * [Iteraciones de UX Research](02-educacion-continua/03-ux-research/Unidad-3/12-Iteraciones-de-research.md)
-   * [Practicando Entrevistar](2-educacion-continua/03-ux-research/Unidad-3/13-practicando-a-entrevistar.md)
+   * [Practicando Entrevistar](02-educacion-continua/03-ux-research/Unidad-3/13-practicando-a-entrevistar.md)
    
