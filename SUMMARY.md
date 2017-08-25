@@ -8,4 +8,6 @@ Con este se construye el menu lateral
    * [Reclutamiento](02-educacion-continua/03-ux-research/Unidad-1/04-Reclutamiento.md)
 * [UNIDAD 2]() 
    * [Reflexión e Introducción](02-educacion-continua/03-ux-research/Unidad-2/05-reflexion-e-introduccion.md)
+   * [Preguntas para Entrevistas](02-educacion-continua/03-ux-research/Unidad-2/06-preguntas-para-entrevistas.md)
+   * [Preparación para las Entrevistas](02-educacion-continua/03-ux-research/Unidad-2/07-preparacion-para-las-entrevistas.md)
 
