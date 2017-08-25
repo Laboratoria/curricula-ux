@@ -12,4 +12,8 @@ Con este se construye el menu lateral
    * [Preguntas para Entrevistas](02-educacion-continua/03-ux-research/Unidad-2/06-preguntas-para-entrevistas.md)
    * [Preparación para las Entrevistas](02-educacion-continua/03-ux-research/Unidad-2/07-preparacion-para-las-entrevistas.md)
    * [Introducción a metodologías de User Researchs](02-educacion-continua/03-ux-research/Unidad-2/08-introduccion-a-metodologias-de-user-research.md)
-
+   
+* [UNIDAD 3]() 
+   * [Reflexión e Introducción](02-educacion-continua/03-ux-research/Unidad-3/09-reflexion-e-introduccion.md)
+   * [El Arco de una entrevista](02-educacion-continua/03-ux-research/Unidad-3/10-arco-de-una-entrevista.md)
+   * [Preparación para las Entrevistas](02-educacion-continua/03-ux-research/Unidad-2/07-preparacion-para-las-entrevistas.md)
