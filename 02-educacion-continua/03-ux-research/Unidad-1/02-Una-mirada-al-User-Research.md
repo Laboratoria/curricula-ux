@@ -108,7 +108,7 @@ Tomer Sharon (la autora del libro) se enfoca en tres pilares de Lean User Resear
  
 Vamos a hablar sobre cómo lograr estos objetivos a lo largo del curso.
  
-### UX Reserach en Organizaciones
+### UX Research en Organizaciones
 
 En tu trabajo puede que escuches de varias áreas distintas en relación a la Investigación con Usuarios. Al lado izquierdo del diagrama hay algunos de los campos académicos, como la Antropología, Etnografía, las Ciencias Cognitivas y la Psicología Organizacional. La Investigación con Usuarios tiene sus raíces en todos estos campos y ha tomado un poquito de cada uno. Al lado derecho del diagrama hay algunos campos orientados a la práctica, que están relacionados a la industria tecnológica, como los Factores Humanos, Usabilidad, HCI y la Ergonomía.
  
