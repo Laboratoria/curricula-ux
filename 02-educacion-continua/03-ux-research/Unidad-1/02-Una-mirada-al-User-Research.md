@@ -4,7 +4,8 @@
  
 ### ¿Por qué hacemos User Research?
 
- "Diseñar sin hacer research es como subirse a un taxi y decirle al conductor: "maneje""
+ "Diseñar sin hacer research es como subirse a un taxi y decirle al conductor: "maneje"". 
+ 
 Esta es una cita del equipo de investigación de Facebook, que básicamente resalta la necesidad de investigar para poder entender en qué dirección se va a desarrollar nuestro producto. Sin investigación, en verdad no tenemos idea de qué problemas de nuestros usuarios deberíamos concentrarnos en solucionar. En el mejor de los casos estaremos asumiendo o adivinando lo que es mejor para ellos, en base a nuestras experiencias. Pero al final del día, como aprendimos en el curso de Introducción al UX, nosotros no somos los usuarios y tenemos que hablar con personas de verdad y usuarios de verdad para aprender los retos y preferencias que tienen.
  
 Los usuarios no siempre hacen lo que esperamos que hagan, ni usan los productos de la forma que esperamos. En el curso de Introducción al UX nos concentramos mucho en la observación como herramienta de investigación que te permite entender cómo los usuarios están usando actualment enuestros productos y cuáles son algunos de los retos a los que se enfrentan.
