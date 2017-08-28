@@ -2,10 +2,11 @@
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSqqEgaZsWq0u_GrbhFGH02NAG8uPWgCtriA9D5GB478LWLydJIBFWhbJprNQOfT9zbxUEqhz7l-x6K/embed?start=false&loop=false&delayms=60000" frameborder="0" width="684" height="430" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
+### Bienvenida
 
-Hola a todos! Gracias por unirse a nuestra primera sesión del curso de Investigación con Usuarios. Estamos super emocionados de tenerlas de vuelta luego del curso de Introducción al UX, y de poder profundizar en el tema de Investigación con Usuarios.
+Hola a todas! Gracias por unirse a nuestra primera sesión del curso de Investigación con Usuarios. Estamos super emocionados de tenerlas de vuelta luego del curso de Introducción al UX, y de poder profundizar en el tema de Investigación con Usuarios.
   
-### El arte y la ciencia de la investigación"
+### El arte y la ciencia de la investigación
 
 Este curso se llama “El arte y la ciencia de la investigación”. Como verán en el curso, los métodos de investigación de usuario están basados firmemente en el método científico para identificar las preguntas que queremos responder, y para probar distintas hipótesis. Una de las propuestas de valor más importantes de la Investigación con Usuarios es la capacidad de usar data (científica) generada hablando con usuarios reales para tomar decisiones informadas y educadas sobre el diseño de productos digitales. Aunque los métodos de la Investigación de Usuarios están basados en la ciencia, el acto de entrevistar usuarios que respondan a nuestras preguntas de investigación es todo un arte y no es fácil de dominar. Tienes que saber hacer las preguntas correctas, hacer que los usuarios se sientan cómodos conversando contigo y asegurarte de manejar adecuadamente tu lenguaje corporal. La calidad de la data que obtengamos de las entrevistas dependerá mucho de qué tan cuidadosos seamos con el arte de entrevistar. Durante las próximas 4 semanas, nos enfocaremos tanto en el arte como en la ciencia de la Investigación con Usuarios.
  
