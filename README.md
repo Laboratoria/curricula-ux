@@ -16,7 +16,6 @@ El único pre-requisito es que las alumnas hayan aprobado la clase de ‘Introdu
 
 ## Aprenderás
 
-
 * Liderar un equipo a definir a la pregunta central de una investigación 
 * Definir y testear hipótesis sobre un producto digital o sobre el comportamiento de tus usuarios
 * Las metodologías más comunes de investigación y cómo se puede aplicar cada metodología dependiendo en el tipo de pregunta de investigación que tienen
@@ -25,19 +24,11 @@ El único pre-requisito es que las alumnas hayan aprobado la clase de ‘Introdu
 * Analizar los findings de un estudio y hacer una presentación con sus stakeholders
 
 
-## Pre-work
-
-Antes de la clase, las alumnas tienen que elegir un proyecto en el que quieran trabajar durante el curso. Tendrán dos opciones:
-
-* Elegir un proyecto del trabajo (necesita cumplir algunos estándares)
-* Elegir un proyecto de la lista que Laboratoria propone
-
-
 ## Detalles logísticos
 
-* Self-paced: tbd hrs
-* Presencial: tbd hrs
-* Total horas: tbd
+* Self-paced: 4 hrs
+* Presencial: 12 hrs
+* Total horas: 16 hrs
 
 Las alumnas van a trabajar en grupo en la aula para practicar sus habilidades pero afuera de la aula van a trabajar en sus proyectos individualmente
 
@@ -45,6 +36,11 @@ Las alumnas van a trabajar en grupo en la aula para practicar sus habilidades pe
 ## Producto
 
 Durante el curso, podrás trabajar en una investigación con usuarios reales y tienes la opción de proponer un proyecto de tu propio trabajo.
+
+Las alumnas tienen que elegir un proyecto en el que quieran trabajar durante el curso. Tendrán dos opciones:
+
+* Elegir un proyecto del trabajo (necesita cumplir algunos estándares)
+* Elegir un proyecto de la lista que Laboratoria propone
 
 
 ## Syllabus
@@ -218,6 +214,17 @@ Durante el curso, podrás trabajar en una investigación con usuarios reales y t
 | 04 | tarea |  min | Analizar los findings y hacer una presentación
 
 
+## Evaluación 
+
+Se utilizarán 3 mecanismos de evaluación:
+
+| # | Tipo | Cantidad | % Peso
+| - | ---- | -------- | ------
+| 01 | Quiz | 3 | 15%
+| 02 | Trabajos | 3| 45%
+| 03 | Producto | 1 | 40%
+
+Además para aprobar el curso, la alumna deberá tener una asistencia superior al 75%.
 
 ## Autor(es) / Colaboradores
 
