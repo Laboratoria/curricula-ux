@@ -1,6 +1,6 @@
 ## Introducción al curso
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSqqEgaZsWq0u_GrbhFGH02NAG8uPWgCtriA9D5GB478LWLydJIBFWhbJprNQOfT9zbxUEqhz7l-x6K/embed?start=false&loop=false&delayms=60000" frameborder="0" width="95%" height="auto" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSqqEgaZsWq0u_GrbhFGH02NAG8uPWgCtriA9D5GB478LWLydJIBFWhbJprNQOfT9zbxUEqhz7l-x6K/embed?start=false&loop=false&delayms=60000" frameborder="0" width="auto" height="auto" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 ### Bienvenida
 
