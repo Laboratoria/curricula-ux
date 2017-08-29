@@ -16,7 +16,7 @@
 2. [Intro a UX Design 2](/02-educacion-continua/02-intro-uxd-2/)
 3. [User Research](/02-educacion-continua/03-ux-research/)
 4. [Visual Design](/02-educacion-continua/04-visual-design/)
-5. [Advance Prototyping with Framer](/02-educacion-continua/05-prototyping-with-framer/)
+5. [Advanced Prototyping with Framer](/02-educacion-continua/05-prototyping-with-framer/)
 6. [Ideation techniques](#)
 7. [Service Design](#)
 8. [Comunicación para diseñadores](#)
