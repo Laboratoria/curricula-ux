@@ -1,4 +1,4 @@
-# 03. UX Research
+# UX Research
 
 
 Este curso está dirigido a las alumnas que ya entienden los temas fundamentales sobre del proceso de UX y quiere profundizar sus habilidades de investigación.  Durante las 4 semanas, las alumnas van a aprender y practicar los skills necesarios para ejecutar una investigación con usuarios. 
