@@ -1,7 +1,13 @@
 ## Introducción al curso
-
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSqqEgaZsWq0u_GrbhFGH02NAG8uPWgCtriA9D5GB478LWLydJIBFWhbJprNQOfT9zbxUEqhz7l-x6K/embed?start=false&loop=false&delayms=60000" frameborder="0" width="auto" height="auto" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-
+<!--- Prueba de jscript para hacer resize --->
+<script>
+  function resizeIframe(obj) {
+    obj.style.height = obj.contentWindow.document.body.scrollHeight + 'px';
+  }
+</script>
+<!--- //Prueba de jscript para hacer resize --->
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSqqEgaZsWq0u_GrbhFGH02NAG8uPWgCtriA9D5GB478LWLydJIBFWhbJprNQOfT9zbxUEqhz7l-x6K/embed?start=false&loop=false&delayms=60000" frameborder="0" width="auto" height="auto" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" scrolling="no" onload="resizeIframe(this)></iframe>
+ 
 ### Bienvenida
 
 Hola a todas! Gracias por unirse a nuestra primera sesión del curso de Investigación con Usuarios. Estamos super emocionados de tenerlas de vuelta luego del curso de Introducción al UX, y de poder profundizar en el tema de Investigación con Usuarios.
