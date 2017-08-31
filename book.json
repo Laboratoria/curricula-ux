@@ -1,3 +1,16 @@
 {
-    plugins: ["autosize-iframe"]
+    plugins": ["scripts"],
+    "pluginsConfig": {
+        "scripts": {
+            "files": [
+                "./myscript.js"
+            ]
+        }
+    }
+    assetOutputFolder,
+        {
+            deleteFirst: false,
+            overwrite: true,
+            confirm: false
+        }
 }
