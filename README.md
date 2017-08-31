@@ -76,11 +76,10 @@ Las alumnas tienen que elegir un proyecto en el que quieran trabajar durante el 
 
 | # | Tipo | Duración | Tópico
 | - | ---- | -------- | ------
-| 01 | charla | 10 min | Como podemos llegar a la pregunta de investigación?
-| 02 | workshop | 30 min | Categorizando las preguntas
-| 03 | charla | 10 min | El método científico: Crear y testear un hipótesis 
-| 04 | ejercicio | 20 min | Crear un hipótesis sobre el producto o el comportamiento de los usuarios
-
+| 01 | charla | 5 min | Research kick-off
+| 02 | workshop | 20 min | Research question
+| 03 | charla | 5 min | Metodo cientifico
+| 04 | ejercicio | 5 min | La pregunta de Research
 
 ### Lección 04: [Reclutamiento: ¿Con quién debemos hablar?](/02-educacion-continua/03-ux-research/Unidad-1/04-Reclutamiento.md)
 
@@ -110,10 +109,12 @@ Las alumnas tienen que elegir un proyecto en el que quieran trabajar durante el 
 
 | # | Tipo | Duración | Tópico
 | - | ---- | -------- | ------
-| 01 | lectura | 10 min | ¿Cómo podemos hacer buenas preguntas en una entrevista?
-| 02 | video | 6 min | [Tomer Sharon - How to ask the right interview question](https://www.youtube.com/watch?v=8tiuWYs5Z-A&t=155s)
-| 03 | ejercicio | 15 min | Practicar algunas preguntas con una compañera
-
+| 01 | charla | 10 min | Cómo hacer más preguntas y ser curiosa
+| 02 | video | 16 min | [Tomer Sharon - How to ask the right interview question](https://www.youtube.com/watch?v=8tiuWYs5Z-A&t=155s)
+| 03 | ejercicio | 10 min | Pregunta por que 5 veces
+| 04 | charla | 15 min | Cómo hacer mejores preguntas
+| 05 | video | 15 min | Dan Moulthrop - The art of asking questions
+| 04 | ejercicio | 15 min | 5 maneras de hacer la misma pregunta
 
 ### Lección 07: [Preparación para las entrevistas](/02-educacion-continua/03-ux-research/Unidad-2/07-preparacion-para-las-entrevistas.md)
 
