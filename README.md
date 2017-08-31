@@ -53,9 +53,7 @@ Las alumnas tienen que elegir un proyecto en el que quieran trabajar durante el 
 | # | Tipo | Duración | Tópico
 | - | ---- | -------- | ------
 | 01 | charla | 10 min | Introducción de alumnas: que esperan aprender?
-| 02 | charla | 15 min | Introducción a los objetivos del curso y unidad 1
-| 03 | charla | 10 min | Cómo pensar como un Researcher )
-
+| 02 | charla | 15 min | Introducción a los objetivos del curso 
 
 
 ### Lección 02: [Una mirada al “User Research”](/02-educacion-continua/03-ux-research/Unidad-1/02-Una-mirada-al-User-Research.md)
@@ -64,8 +62,13 @@ Las alumnas tienen que elegir un proyecto en el que quieran trabajar durante el 
 
 | # | Tipo | Duración | Tópico
 | - | ---- | -------- | ------
-| 01 | charla | 1 min | Porque hacemos user research?
-| 02 | charla | 3 min | Ejemplos de tipos de investigación en el trabajo
+| 01 | charla | 20 min | ¿Porque hacemos user research?
+| 02 | charla | 5 min | ¿Cuando hacemos user research?
+| 03 | charla | 5 min | Human-Centered Design
+| 04 | charla | 10 min | Research Sprint (Google Ventures)
+| 05 | charla | 5 min | Lean User Research
+| 06 | charla | 10 min | UX Research en Organizaciones
+| 07 | video | 5 min | AirBnB: Get to Know the Design Team
 
 ### Lección 03: [Research Question](/02-educacion-continua/03-ux-research/Unidad-1/03-Research-question.md)
 
