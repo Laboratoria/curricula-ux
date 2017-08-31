@@ -1,7 +1,7 @@
 ## Introducción al curso
 <!--- Prueba de CSS para hacer resize --->
 <!--- //Prueba de CSS para hacer resize --->
-<div class="intrinsic-container"><div class=".intrinsic-container-16x9"><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSqqEgaZsWq0u_GrbhFGH02NAG8uPWgCtriA9D5GB478LWLydJIBFWhbJprNQOfT9zbxUEqhz7l-x6K/embed?start=false&loop=false&delayms=60000" frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></div></div>
+<div class="intrinsic-container"><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSqqEgaZsWq0u_GrbhFGH02NAG8uPWgCtriA9D5GB478LWLydJIBFWhbJprNQOfT9zbxUEqhz7l-x6K/embed?start=false&loop=false&delayms=60000" frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" overflow="hidden"></iframe></div>
 
 ### Bienvenida
 
