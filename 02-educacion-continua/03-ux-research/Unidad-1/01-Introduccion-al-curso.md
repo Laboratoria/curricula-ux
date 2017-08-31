@@ -1,26 +1,7 @@
 ## Introducción al curso
 <!--- Prueba de CSS para hacer resize --->
-<style>
-.fluidMedia {
-    position: relative;
-    padding-bottom: 56.25%; /* proportion value to aspect ratio 16:9 (9 / 16 = 0.5625 or 56.25%) */
-    padding-top: 30px;
-    height: 0;
-    overflow: hidden;
-}
-
-.fluidMedia iframe {
-    position: absolute;
-    top: 0; 
-    left: 0;
-    width: 100%;
-    height: 100%;
-}
-</style>
 <!--- //Prueba de CSS para hacer resize --->
-<div class="fluidMedia">
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSqqEgaZsWq0u_GrbhFGH02NAG8uPWgCtriA9D5GB478LWLydJIBFWhbJprNQOfT9zbxUEqhz7l-x6K/embed?start=false&loop=false&delayms=60000" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-</div>
  
 ### Bienvenida
 
