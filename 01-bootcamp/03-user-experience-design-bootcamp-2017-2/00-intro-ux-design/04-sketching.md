@@ -1,7 +1,7 @@
 # Sketching
 
-- Formato: `self-learning`
-- Tipo: `lectura`
+- Formato: `guiado`
+- Tipo: `taller`
 - Duración: `15min`
 
 ## Objetivos de Aprendizaje
@@ -16,7 +16,7 @@ Sketchear o dibujar es una actividad muy común e importante dentro del proceso 
 
 **¿Por qué?**
 
-* Los sketches son una forma de expresar y “materializar” nuestras ideas. * 
+* Los sketches son una forma de expresar y “materializar” nuestras ideas.  
 * Fáciles para compartir y recibir feedback 
 * Económicos (solo papel y lapicero)
 * Rápidos 
@@ -25,15 +25,14 @@ Sketchear o dibujar es una actividad muy común e importante dentro del proceso 
 
 TODOS. Olvidate del temor. 
 
-Mira este [video](https://youtu.be/L1pBhHjGKvI?t=23m00s)
 
-**Ejercicio 1**
+### Agenda
 
-Dibuja un círculo, un triángulo, un cuadrado y una línea.
+1. Miremos este [video](https://youtu.be/L1pBhHjGKvI?t=23m00s)
 
-**Ejercicio 2**
+2. Dibuja un círculo, un triángulo, un cuadrado y una línea.
 
-Haz un sketch replicando la pantalla del feed de Instagram. 
+3. Haz un sketch replicando la pantalla del feed de Instagram. 
 
 ![](http://www.marficom.com/wp-content/uploads/instagram-stories.jpg)
 
