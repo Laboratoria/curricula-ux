@@ -52,18 +52,18 @@ Las alumnas tienen que elegir un proyecto en el que quieran trabajar durante el 
 
 | # | Tipo | Duración | Tópico
 | - | ---- | -------- | ------
-| 01 | charla | 10 min | Introducción de alumnas: que esperan aprender?
+| 01 | charla | 10 min | Introducción: ¿Qué esperan aprender?
 | 02 | charla | 15 min | Introducción a los objetivos del curso 
 
 
 ### Lección 02: [Una mirada al “User Research”](/02-educacion-continua/03-ux-research/Unidad-1/02-Una-mirada-al-User-Research.md)
 
-30 min (presencial)
+60 min (presencial)
 
 | # | Tipo | Duración | Tópico
 | - | ---- | -------- | ------
-| 01 | charla | 20 min | ¿Porque hacemos user research?
-| 02 | charla | 5 min | ¿Cuando hacemos user research?
+| 01 | charla | 20 min | ¿Por qué hacemos UX Research?
+| 02 | charla | 5 min | ¿Cuándo hacemos user research?
 | 03 | charla | 5 min | Human-Centered Design
 | 04 | charla | 10 min | Research Sprint (Google Ventures)
 | 05 | charla | 5 min | Lean User Research
@@ -72,49 +72,52 @@ Las alumnas tienen que elegir un proyecto en el que quieran trabajar durante el 
 
 ### Lección 03: [Research Question](/02-educacion-continua/03-ux-research/Unidad-1/03-Research-question.md)
 
-70 min (presencial)
+35 min (presencial)
 
 | # | Tipo | Duración | Tópico
 | - | ---- | -------- | ------
 | 01 | charla | 5 min | Research kick-off
-| 02 | workshop | 20 min | Research question
+| 02 | charla | 20 min | Research question
 | 03 | charla | 5 min | Metodo cientifico
 | 04 | ejercicio | 5 min | La pregunta de Research
 
 ### Lección 04: [Reclutamiento: ¿Con quién debemos hablar?](/02-educacion-continua/03-ux-research/Unidad-1/04-Reclutamiento.md)
 
-50 min (presencial)
+68 min (presencial)
 
 | # | Tipo | Duración | Tópico
 | - | ---- | -------- | ------
-| 01 | lectura | 1 min | Definiendo el target usuario
-| 02 | lectura | 14 min | Número de usuarios con los que necesitamos hablar y por qué
-| 03 | lectura | 15 min | Buscando target usuarios en los datos
-| 04 | clase | 15 min | Escribiendo un screener survey
-| 05 | tarea | 2 min | Escribir y ejecutar un screener survey
+| 01 | video | 13 min | Google Ventures: User Research-Recruiting
+| 02 | charla| 5 min | Proceso de Reclutamiento - 6 Pasos
+| 03 | ejercicio | 5 min | Explicación Paso 1
+| 04 | ejercicio | 15 min | Screener survey Paso 2
+| 05 | ejercicio | 5 min | Explicación Paso 3
+| 06 | ejercicio | 15 min | Screener survey Paso 4
+| 07 | ejercicio | 5 min | Explicación Paso 5
+| 08 | ejercicio | 5 min | Screener survey Paso 6
 
-### Lección 05: [Reflexión y introducción](/02-educacion-continua/03-ux-research/Unidad-2/05-reflexion-e-introduccion.md)
+### Lección 05: [Reflexión e introducción](/02-educacion-continua/03-ux-research/Unidad-2/05-reflexion-e-introduccion.md)
 
 20 min (presencial)
 
 | # | Tipo | Duración | Tópico
 | - | ---- | -------- | ------
-| 01 | charla | 15 min | Reflexión sobre la tarea
-| 02 | lectura | 5 min | Objetivos de la unidad
+| 01 | charla | 15 min | Reflexión e Introducción
+| 02 | lectura | 5 min | Objetivos de la unidad 2
 
 
 ### Lección 06: [Preguntas para entrevistas](/02-educacion-continua/03-ux-research/Unidad-2/06-preguntas-para-entrevistas.md)
 
-30 min (presencial)
+80 min (presencial)
 
 | # | Tipo | Duración | Tópico
 | - | ---- | -------- | ------
-| 01 | charla | 10 min | Cómo hacer más preguntas y ser curiosa
-| 02 | video | 16 min | [Tomer Sharon - How to ask the right interview question](https://www.youtube.com/watch?v=8tiuWYs5Z-A&t=155s)
-| 03 | ejercicio | 10 min | Pregunta por que 5 veces
-| 04 | charla | 15 min | Cómo hacer mejores preguntas
-| 05 | video | 15 min | Dan Moulthrop - The art of asking questions
-| 04 | ejercicio | 15 min | 5 maneras de hacer la misma pregunta
+| 01 | charla | 15 min | ¿Cómo hacer más preguntas y ser curiosa?
+| 02 | video | 10 min | Michael Stevens- Why do we ask questions?
+| 03 | ejercicio | 15 min | Pregunta por que 5 veces
+| 04 | charla | 15 min | ¿Cómo hacer mejores preguntas?
+| 05 | video | 10 min | Dan Moulthrop - The art of asking questions
+| 06 | ejercicio | 15 min | 5 maneras de hacer la misma pregunta
 
 ### Lección 07: [Preparación para las entrevistas](/02-educacion-continua/03-ux-research/Unidad-2/07-preparacion-para-las-entrevistas.md)
 
@@ -122,7 +125,7 @@ Las alumnas tienen que elegir un proyecto en el que quieran trabajar durante el 
 
 | # | Tipo | Duración | Tópico
 | - | ---- | -------- | ------
-| 01 | lectura | 10 min | Maneras de involucrar los stakeholders
+| 01 | charla | 10 min | ¿Cómo crear una guía para entrevistas con usuarios?
 | 02 | video | 6 min | [Renato Verdugo: Research as co-development](https://www.youtube.com/watch?v=QOkE86Q8lUI)
 | 03 | ejercicio | 15 min | Logistica de una entrevista (checklist)
 
