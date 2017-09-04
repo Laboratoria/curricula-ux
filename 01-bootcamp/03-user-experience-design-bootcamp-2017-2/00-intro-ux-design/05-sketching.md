@@ -41,3 +41,8 @@ TODOS. Olvidate del temor.
 
 * [Mobile sketches template](https://drive.google.com/open?id=0B0NdG2VNCDPzRHRXdk96VDFFd2M)
 * [Desktop sketches template](https://drive.google.com/open?id=0B0NdG2VNCDPzaWRsQXNpSWtSQ1U)
+
+
+*** 
+
+[Continuar](/01-bootcamp/03-user-experience-design-bootcamp-2017-2/00-intro-ux-design/06-quiz-1.md)

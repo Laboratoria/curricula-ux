@@ -21,3 +21,5 @@
  5. Revisemos los [ejercicios guiados](07-ejercicios-guiados.md) que resolveremos en la próxima clase para que intentes resolverlos por tu cuenta primero. Veamos un par de tips :)
 
 ***
+
+[Continuar](/01-bootcamp/03-user-experience-design-bootcamp-2017-2/00-intro-ux-design/08-ejercicios-guiados.md)

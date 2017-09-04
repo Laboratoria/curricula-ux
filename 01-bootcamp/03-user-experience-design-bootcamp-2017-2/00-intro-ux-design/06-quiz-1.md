@@ -16,3 +16,5 @@ _Nota: este quiz sólo puede ser completado una vez y **no** podrás cambiar tus
 [Link]()
 
 ***
+
+[Continuar](/01-bootcamp/03-user-experience-design-bootcamp-2017-2/00-intro-ux-design/07-lecture.md)

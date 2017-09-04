@@ -139,4 +139,7 @@ Ahora, lee el [capítulo 6 - Señales en la calle y migas de pan ](https://drive
 ## Referencias
 
 * [No me hagas pensar](https://www.amazon.com/Dont-Make-Think-Revisited-Usability/dp/0321965515), Steve Krug, 2011.
-	
+
+***
+
+[Continuar](/01-bootcamp/03-user-experience-design-bootcamp-2017-2/00-intro-ux-design/05-sketching.md)	

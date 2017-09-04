@@ -44,4 +44,4 @@ Ahora intenta hacer un sketch del dashboard de Laboratoria.
 
 
 ***
-[Continuar]()
+[Continuar](/01-bootcamp/03-user-experience-design-bootcamp-2017-2/00-intro-ux-design/10-solutions-challenge.md)

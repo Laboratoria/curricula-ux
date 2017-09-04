@@ -14,3 +14,4 @@ para reflexionar sobre lo que aprendiste y cuéntanos cómo te sientes.
 
 ***
 
+[Continuar](/01-bootcamp/03-user-experience-design-bootcamp-2017-2/00-intro-ux-design/13-closing.md)

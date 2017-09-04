@@ -31,3 +31,7 @@ Para empezar, es bueno saber qué entendemos por UX. Para ello mira este video, 
 Para entender un poco más sobre el proceso de UX Design mira este video:
 
 [![](https://lh5.googleusercontent.com/OHW33sLkmWQv1eljJlycGHozE-ozx6WXVE-rnYKOmke4hqXzXyKhD67dGEDw_ILwsyFMiYT29n4ECRatw5Gfd4tnjs8Q3HZh5nT8qZOiffp7HuLZSDA_IMzD5MoGqvI_2f71IfGOgG4)](https://youtu.be/SBIvPTSy1QM)
+
+***
+
+[Continuar](/01-bootcamp/03-user-experience-design-bootcamp-2017-2/00-intro-ux-design/03-ux-design-vs-ui-design.md)

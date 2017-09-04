@@ -33,4 +33,4 @@ ante el resto de la clase y así ayduar al resto de tus compañeras :)
 
 
 ***
-[Continuar]()
+[Continuar](/01-bootcamp/03-user-experience-design-bootcamp-2017-2/00-intro-ux-design/09-ux-challenges.md)

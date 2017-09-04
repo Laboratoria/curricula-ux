@@ -43,4 +43,4 @@ Ahora, intenta responer estas preguntas:
 
 ***
 
-[Continuar](#)
+[Continuar](/01-bootcamp/03-user-experience-design-bootcamp-2017-2/00-intro-ux-design/04-navigation.md)
