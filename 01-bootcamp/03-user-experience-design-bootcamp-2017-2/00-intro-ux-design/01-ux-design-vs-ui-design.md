@@ -14,7 +14,7 @@ En esta unidad aprenderemos:
 
 ## User Interface Design vs User Experience Design
 
-Para poder entender la diferencia, similitud y relación entre UI y UX, lee el siguiente artículo: [UX vs UI](http://blog.acantu.com/que-es-ux-y-ui/) . 
+Para poder entender la diferencia, similitud y relación entre UI y UX, lee el siguiente artículo: <a href="http://blog.acantu.com/que-es-ux-y-ui/" target="_blank">UX vs UI</a>. 
 
 Luego de leer este artículo, intenta responder las siguientes preguntas:
 
