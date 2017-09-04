@@ -8,7 +8,7 @@
 
 En esta unidad aprenderemos:
 
-* La direncia entre UX y UI.
+* La diferencia entre UX y UI.
 
 ***
 
@@ -21,10 +21,16 @@ Luego de leer este artículo, intenta responder las siguientes preguntas:
 * ¿Qué es UX y qué es UI?
 * ¿Cuál es la relación entre UX y UI Design?
 
+### UX Designer vs UI Designer
+
 Para dedicarnos a ser UX o UI Designer tenemos que tener ciertas características que puedes ver en el siguiente video: [UX vs UI Design roles](https://www.youtube.com/watch?v=ft5TzxG-LAc)
 
+Ahora, intenta responer estas preguntas:
 
-## UX != UI
+* ¿Cómo es la personalidad de un UX Designer?
+* ¿Cómo es la personalidad de un UI Designer?
+
+### UX != UI
 
 **UI**
 
@@ -36,3 +42,5 @@ Para dedicarnos a ser UX o UI Designer tenemos que tener ciertas característica
 > People, happiness, solving problems, understanding needs, love, efficiency, entertainment, pleasure, delight, smiles, soul, warmth, personality, joy, satisfaction, gratification, elation, exhilaration, bliss, euphoria, convenience, enchantment, magic, productivity, effectiveness, etc. etc. etc.
 
 ***
+
+[Continuar](#)

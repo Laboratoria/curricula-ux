@@ -10,9 +10,9 @@
 
 ## Agenda
 
- 1. Entendamos bien el concepto de UX y UI
-
- 3. Hagamos una relación entre como Systems Thinking es valioso para el proceso de desarrollo
+ 1. Conversemos sobre los roles en un equipo de desarrollo con el ejemplo de `Spotify`
+ 
+ 2. Entendamos bien el concepto de UX y la diferencia con UI
  
  3. Por medio de ejemplos nos aseguramos que entendemos cómo encuentran las personas cosas en la web
 

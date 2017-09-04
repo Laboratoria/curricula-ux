@@ -7,8 +7,8 @@
 
 En esta unidad aprenderás:
 
+* Qué es UX y qué es UX Design
 * Cuál es la diferencia entre UX Design y UI Design
-* A pensar en términos de sistemas 
 * A identificar los distintos tipos de navegación que existen en productos digitales
 * A externalizar tus ideas a través de sketches
 
@@ -30,11 +30,13 @@ Cuando empezamos a estudiar un tema nuevo, es útil tener una idea de los concep
 
 A continuación te presentamos una serie de preguntas que debes ser capaz de responder al terminar esta unidad. Utiliza estas preguntas como guía para orientar tus esfuerzos de aprendizaje. Regresa a ellas constantemente a medida que avanzas para validar que estás avanzando en la dirección correcta. Que te sirva como un "checklist" que vas marcando a medida que vas progresando.
 
-- [ ] ¿Cuál es la diferencia entre UX y UI design?
+- [ ] ¿Qué roles conforman el equipo de desarrollo de un producto digital?
+- [ ] ¿Cuál es el rol de un UX Designer y cuál el de un UI Designer?
 - [ ] ¿Cómo encuentran los usuarios cosas en la web?
+- [ ] ¿Qué tipos de navegación existen?
 - [ ] ¿Por qué son importantes los sketches?
 
 
 ***
 
-[Continuar](#)
+[Continuar](/01-bootcamp/03-user-experience-design-bootcamp-2017-2/00-intro-ux-design/01-el-equipo-de-desarrollo.md)

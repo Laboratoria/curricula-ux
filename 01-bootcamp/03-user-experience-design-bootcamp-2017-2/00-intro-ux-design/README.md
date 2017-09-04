@@ -1,4 +1,6 @@
 ### [02: Maquetado web con HTML & CSS](#)
+| # | Tipo | Duración | Tópico
+| - | ---- | -------- | ------
 | 08 | self-learning | 30min | [Usabilidad](/01-bootcamp/03-user-experience-design-bootcamp-2017-2/00-intro-ux-design/02-08-usability.md)
 | 09 | self-learning | 30min | [Visual Design](/01-bootcamp/03-user-experience-design-bootcamp-2017-2/00-intro-ux-design/02-09-visual-design.md)
 

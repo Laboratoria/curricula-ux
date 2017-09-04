@@ -22,7 +22,22 @@ poner tus conocimientos a prueba.
  
 ## 3. Crea un sketch para la herramienta del dashboard de Laboratoria. 
 
-* Ten en cuenta lo elementos de navegación en tus sketches.
+**El dashboard** es una herramienta utilizada por profesores, training managers, directores y el C-suite de Laboratoria para ver rápidamente qué está pasando en el salón de clases de Laboratoria. En el dashboard, los usuarios mencionados pueden ver rápidamente estadísticas y datos en tiempo real como:
+
+- \# de alumnas inscritas
+- \# de alumnas que desertaron
+- \# y % de alumnas que pasan el criterio mínimo de evaluación
+- Promedio de notas por sprint
+- Promedio de notas HSE
+- Promedio de notas técnicas
+
+Un ejemplo de dashboard en otro contexto es este: ![](https://cdn.colorlib.com/wp/wp-content/uploads/sites/2/free-bootstrap-admin-dashboard-templates.jpg)
+
+
+
+Ahora intenta hacer un sketch del dashboard de Laboratoria.
+
+* Ten en cuenta los elementos de navegación en tus sketches.
 * Utiliza títulos y textos reales.
 
 
