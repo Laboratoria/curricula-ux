@@ -121,24 +121,24 @@ Las alumnas tienen que elegir un proyecto en el que quieran trabajar durante el 
 
 ### Lección 07: [Preparación para las entrevistas](/02-educacion-continua/03-ux-research/Unidad-2/07-preparacion-para-las-entrevistas.md)
 
-35 min (presencial)
+25 min (presencial)
 
 | # | Tipo | Duración | Tópico
 | - | ---- | -------- | ------
 | 01 | charla | 10 min | ¿Cómo crear una guía para entrevistas con usuarios?
-| 02 | video | 6 min | [Renato Verdugo: Research as co-development](https://www.youtube.com/watch?v=QOkE86Q8lUI)
-| 03 | ejercicio | 15 min | Logistica de una entrevista (checklist)
+| 02 | charla | 5 min | Involucrando los Stakeholders en el proceso de Research
+| 03 | charla | 10 min | Una sesión de brainstorming
 
-### Lección 08: [Introducción a las metodologías de user research](/02-educacion-continua/03-ux-research/Unidad-2/08-introduccion-a-metodologias-de-user-research.md)
+### Lección 08: [Metodologías de user research](/02-educacion-continua/03-ux-research/Unidad-2/08-introduccion-a-metodologias-de-user-research.md)
 
-75 min (presencial)
+57 min (presencial)
 
 | # | Tipo | Duración | Tópico
 | - | ---- | -------- | ------
-| 01 | lectura | 30 min | Introducción a algunas metodologías comunes:  La diferencia entre metodologías generativas y evaluativas
-| 02 | video | 15 min | Ejemplos de las metodologías de investigación generativa y evaluativa
-| 03 | ejercicio | 30 min | ¿qué metodología? ¿cuándo?
-| 04 | tarea | x min | Escribir una guia para las entrevistas
+| 01 | charla | 10 min | Una mirada a las metodologías de Research
+| 02 | ejercicio | 30 min | Investigación en grupo sobre las metodologías
+| 03 | charla | 15 min | Categorías de metodologías de investigación: Exploratoria, generativa y evaluativa
+| 04 | videos| 2 min | Investigación generativa y evaluativa
 
 ### Lección 09: [Reflexión e introducción](/02-educacion-continua/03-ux-research/Unidad-3/09-reflexion-e-introduccion.md)
 
@@ -147,79 +147,89 @@ Las alumnas tienen que elegir un proyecto en el que quieran trabajar durante el 
 | # | Tipo | Duración | Tópico
 | - | ---- | -------- | ------
 | 01 | charla | 15 min | Reflexión sobre la tarea
-| 02 | lectura | 5 min | Objetivos de la unidad
+| 02 | lectura | 5 min | Objetivos de la unidad 3
 
 ### Lección 10: [Arco de una entrevista](/02-educacion-continua/03-ux-research/Unidad-3/10-arco-de-una-entrevista.md)
 
-20 min (presencial)
+35 min (presencial)
 
 | # | Tipo | Duración | Tópico
 | - | ---- | -------- | ------
-| 01 | charla | 10 min | Arco de la entrevista
-| 02 | video | 10 min | [GV - Arco de la Entrevista](https://www.youtube.com/watch?v=WpzmOH0hrEM) 
+| 01 | charla | 5 min | Arco de la entrevista
+| 02 | charla | 15 min | Building rapport con usuarios
+| 03 | video | 15 min | Michael Margolis-Arc of an Interview
 
 ### Lección 11: [El arte de entrevistar](/02-educacion-continua/03-ux-research/Unidad-3/11-el-arte-de-entrevistar.md)
 
+46 min (presencial)
+
+| # | Tipo | Duración | Tópico
+| - | ---- | -------- | ------
+| 01 | charla | 20 min | Problemas comunes en entrevistas
+| 02 | workshop| 20 min | Corregir problemas comunes en entrevistas 
+| 03 | video| 6 min | Gv Sprint: How to do a user interview
+
+### Lección 12: Iteraciones de Research
+
+25 min (presencial)
+
+| # | Tipo | Duración | Tópico
+| - | ---- | -------- | ------
+| 01 | charla | 5 min | Reserach iterativo
+| 02 | charla| 10 min | Mentalidad iterativa
+| 03 | charla| 10 min | ¿Cómo podemos dar feedback constructivo?
+
+### Lección 13: Practicando entrevistar
+
 20 min (presencial)
 
 | # | Tipo | Duración | Tópico
 | - | ---- | -------- | ------
-| 01 | charla | 10 min | Building rapport con usuarios
-| 02 | workshop| 30 min | Errores comunes al entrevistar 
-| 03 | video| 10 min | [The Five-Act Interview](https://www.youtube.com/watch?v=U9ZG19XTbd4)
+| 01 | ejercicio | 40 min | Practicando entrevistas en pareja
+| 02 | ejercicio| 15 min | Feedback constructivo
+| 03 | ejercicio| 10 min | Plan de acción
 
-### Lección 12: [Practicando a entrevistar](/02-educacion-continua/03-ux-research/Unidad-3/12-practicando-a-entrevistar.md)
+### Lección 14: [Reflexión e introducción](/02-educacion-continua/03-ux-research/Unidad-4/13-reflexion-e-introduccion.md)
 
-20 min (presencial)
-
-| # | Tipo | Duración | Tópico
-| - | ---- | -------- | ------
-| 01 | ejercicio | 40 min | Practicando las entrevistas con una pareja
-| 02 | charla| 10 min | Cómo se puede dar feedback constructivo
-| 03 | ejercicio| 20 min | Research "critique"
-| 04 | ejercicio| 10 min | Revisar las guías y incorporar el feedback 
-| 05 | tarea|  min | Entrevistar 5 usuarios y anotar qué han aprendido
-
-### Lección 13: [Reflexión e introducción](/02-educacion-continua/03-ux-research/Unidad-4/13-reflexion-e-introduccion.md)
-
-20 min (presencial)
+15 min (presencial)
 
 | # | Tipo | Duración | Tópico
 | - | ---- | -------- | ------
-| 01 | charla | 15 min | Reflexión sobre la tarea
-| 02 | lectura | 5 min | Objetivos de la unidad
+| 01 | charla | 10 min | Reflexión sobre la tarea
+| 02 | charla | 5 min | Objetivos de la unidad 4
 
-### Lección 14: [Buscando temas y patrones](/02-educacion-continua/03-ux-research/Unidad-4/14-buscando-temas-y-patrones.md)
+### Lección 15: [Buscando temas y patrones](/02-educacion-continua/03-ux-research/Unidad-4/14-buscando-temas-y-patrones.md)
 
-60 min (presencial)
+45 min (presencial)
 
 | # | Tipo | Duración | Tópico
 | - | ---- | -------- | ------
-| 01 | lectura | 20 min | 3 maneras diferentes de analizar los paternos (affinity, temas, spreadsheet)
-| 02 | video | 10 min |  Análisis para UX research
-| 03 | ejercicio | 30 min | Buscando patrones en los datos
+| 01 | charla | 10 min | El proceso de análisis
+| 02 | charla | 10 min |  El proceso de síntesis
+| 03 | ejercicio | 25 min | Buscando patrones en los datos
 
-### Lección 15: [Sesión de Análisis](/02-educacion-continua/03-ux-research/Unidad-4/15-sesion-de-analisis.md)
+### Lección 16: [Sesión de Análisis](/02-educacion-continua/03-ux-research/Unidad-4/15-sesion-de-analisis.md)
 
 40 min (presencial)
 
 | # | Tipo | Duración | Tópico
 | - | ---- | -------- | ------
-| 01 | lectura | 15 min | ¿Cómo se puede involucrar a sus stakeholders en el proceso de análisis 
-| 02 | lectura | 15 min | Tips para una sesión de análisis 
-| 03 | video | 10 min | Sesión de análisis con stakeholders
+| 01 | charla | 5 min | ¿Cómo se puede involucrar a sus stakeholders en el proceso de análisis?
+| 02 | charla | 10 min | Pasos para facilitar una sesión de análisis
 
-### Lección 16: [Storytelling](/02-educacion-continua/03-ux-research/Unidad-4/16-storytelling.md)
+### Lección 17: [Presentaciones y Storytelling](/02-educacion-continua/03-ux-research/Unidad-4/16-storytelling.md)
 
 60 min (presencial)
 
 | # | Tipo | Duración | Tópico
 | - | ---- | -------- | ------
-| 01 | lectura | 15 min | Formato de una presentación sobre los findings de una investigación 
-| 02 | ejercicio | 30 min | Recomendaciones del diseño basado en el feedback de los usuarios
-| 03 | video | 15 min | El poder de storytelling 
-| 04 | tarea |  min | Analizar los findings y hacer una presentación
-
+| 01 | charla | 5 min | Formato de una presentación
+| 02 | charla | 10 min | Tips para presentaciones
+| 03 | video | 7 min | How Louis CK Tells a Joke
+| 04 | charla |  10 min | Sroytelling tips
+| 05 | video |  2 min | Strorytelling at AirBnB
+| 06 | ejercicio|  25 min | Preparación para la presentación
+| 07 | ejercicio |  25 min | Presentaciones
 
 ## Evaluación 
 
