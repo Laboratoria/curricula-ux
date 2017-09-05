@@ -45,7 +45,7 @@ Las alumnas tienen que elegir un proyecto en el que quieran trabajar durante el 
 
 ## Syllabus
 
-### Lección 01: [Introducción al curso](/02-educacion-continua/03-ux-research/Unidad-1/01-Introduccion-al-curso.md)
+### Lección 01: Introducción al curso
 
 
 35 min (presencial)
@@ -56,7 +56,7 @@ Las alumnas tienen que elegir un proyecto en el que quieran trabajar durante el 
 | 02 | charla | 15 min | Introducción a los objetivos del curso 
 
 
-### Lección 02: [Una mirada al “User Research”](/02-educacion-continua/03-ux-research/Unidad-1/02-Una-mirada-al-User-Research.md)
+### Lección 02: Una mirada al “User Research
 
 60 min (presencial)
 
@@ -70,7 +70,7 @@ Las alumnas tienen que elegir un proyecto en el que quieran trabajar durante el 
 | 06 | charla | 10 min | UX Research en Organizaciones
 | 07 | video | 5 min | AirBnB: Get to Know the Design Team
 
-### Lección 03: [Research Question](/02-educacion-continua/03-ux-research/Unidad-1/03-Research-question.md)
+### Lección 03: Research Question
 
 35 min (presencial)
 
@@ -81,7 +81,7 @@ Las alumnas tienen que elegir un proyecto en el que quieran trabajar durante el 
 | 03 | charla | 5 min | Metodo cientifico
 | 04 | ejercicio | 5 min | La pregunta de Research
 
-### Lección 04: [Reclutamiento: ¿Con quién debemos hablar?](/02-educacion-continua/03-ux-research/Unidad-1/04-Reclutamiento.md)
+### Lección 04: Reclutamiento: ¿Con quién debemos hablar?
 
 68 min (presencial)
 
@@ -96,7 +96,7 @@ Las alumnas tienen que elegir un proyecto en el que quieran trabajar durante el 
 | 07 | ejercicio | 5 min | Explicación Paso 5
 | 08 | ejercicio | 5 min | Screener survey Paso 6
 
-### Lección 05: [Reflexión e introducción](/02-educacion-continua/03-ux-research/Unidad-2/05-reflexion-e-introduccion.md)
+### Lección 05: Reflexión e introducción
 
 20 min (presencial)
 
@@ -106,7 +106,7 @@ Las alumnas tienen que elegir un proyecto en el que quieran trabajar durante el 
 | 02 | lectura | 5 min | Objetivos de la unidad 2
 
 
-### Lección 06: [Preguntas para entrevistas](/02-educacion-continua/03-ux-research/Unidad-2/06-preguntas-para-entrevistas.md)
+### Lección 06: Preguntas para entrevistas
 
 80 min (presencial)
 
@@ -119,7 +119,7 @@ Las alumnas tienen que elegir un proyecto en el que quieran trabajar durante el 
 | 05 | video | 10 min | Dan Moulthrop - The art of asking questions
 | 06 | ejercicio | 15 min | 5 maneras de hacer la misma pregunta
 
-### Lección 07: [Preparación para las entrevistas](/02-educacion-continua/03-ux-research/Unidad-2/07-preparacion-para-las-entrevistas.md)
+### Lección 07: Preparación para las entrevistas
 
 25 min (presencial)
 
@@ -140,7 +140,7 @@ Las alumnas tienen que elegir un proyecto en el que quieran trabajar durante el 
 | 03 | charla | 15 min | Categorías de metodologías de investigación: Exploratoria, generativa y evaluativa
 | 04 | videos| 2 min | Investigación generativa y evaluativa
 
-### Lección 09: [Reflexión e introducción](/02-educacion-continua/03-ux-research/Unidad-3/09-reflexion-e-introduccion.md)
+### Lección 09: Reflexión e introducción
 
 20 min (presencial)
 
@@ -149,7 +149,7 @@ Las alumnas tienen que elegir un proyecto en el que quieran trabajar durante el 
 | 01 | charla | 15 min | Reflexión sobre la tarea
 | 02 | lectura | 5 min | Objetivos de la unidad 3
 
-### Lección 10: [Arco de una entrevista](/02-educacion-continua/03-ux-research/Unidad-3/10-arco-de-una-entrevista.md)
+### Lección 10: Arco de una entrevista
 
 35 min (presencial)
 
@@ -159,7 +159,7 @@ Las alumnas tienen que elegir un proyecto en el que quieran trabajar durante el 
 | 02 | charla | 15 min | Building rapport con usuarios
 | 03 | video | 15 min | Michael Margolis-Arc of an Interview
 
-### Lección 11: [El arte de entrevistar](/02-educacion-continua/03-ux-research/Unidad-3/11-el-arte-de-entrevistar.md)
+### Lección 11: El arte de entrevistar
 
 46 min (presencial)
 
@@ -189,7 +189,7 @@ Las alumnas tienen que elegir un proyecto en el que quieran trabajar durante el 
 | 02 | ejercicio| 15 min | Feedback constructivo
 | 03 | ejercicio| 10 min | Plan de acción
 
-### Lección 14: [Reflexión e introducción](/02-educacion-continua/03-ux-research/Unidad-4/13-reflexion-e-introduccion.md)
+### Lección 14: Reflexión e introducción
 
 15 min (presencial)
 
@@ -198,7 +198,7 @@ Las alumnas tienen que elegir un proyecto en el que quieran trabajar durante el 
 | 01 | charla | 10 min | Reflexión sobre la tarea
 | 02 | charla | 5 min | Objetivos de la unidad 4
 
-### Lección 15: [Buscando temas y patrones](/02-educacion-continua/03-ux-research/Unidad-4/14-buscando-temas-y-patrones.md)
+### Lección 15: Buscando temas y patrones
 
 45 min (presencial)
 
@@ -208,7 +208,7 @@ Las alumnas tienen que elegir un proyecto en el que quieran trabajar durante el 
 | 02 | charla | 10 min |  El proceso de síntesis
 | 03 | ejercicio | 25 min | Buscando patrones en los datos
 
-### Lección 16: [Sesión de Análisis](/02-educacion-continua/03-ux-research/Unidad-4/15-sesion-de-analisis.md)
+### Lección 16: Sesión de Análisis
 
 40 min (presencial)
 
@@ -217,7 +217,7 @@ Las alumnas tienen que elegir un proyecto en el que quieran trabajar durante el 
 | 01 | charla | 5 min | ¿Cómo se puede involucrar a sus stakeholders en el proceso de análisis?
 | 02 | charla | 10 min | Pasos para facilitar una sesión de análisis
 
-### Lección 17: [Presentaciones y Storytelling](/02-educacion-continua/03-ux-research/Unidad-4/16-storytelling.md)
+### Lección 17: Presentaciones y Storytelling
 
 60 min (presencial)
 
