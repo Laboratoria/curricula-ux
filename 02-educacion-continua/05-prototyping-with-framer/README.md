@@ -275,6 +275,11 @@ Lee sobre los componentes de sliders disponibles en Framer.JS: Slider y Range Sl
 | # | Tipo | Duración | Tópico
 | - | ---- | -------- | ------
 | 01 | Lectura | 10 min | [Framer Cheat Sheet: Loops & arrays](https://blog.framer.com/framer-cheat-sheet-loops-arrays-5155b216413c?source=user_profile---------4----------------), Tess Gadd
+| 02 | Lectura | 10 min | [Framer Cheat Sheet: Utils](https://medium.com/the-school-of-do/framer-cheatsheet-the-versatility-of-utils-bed26e1614e2), Tess Gadd
+| 03 | Lectura | 10 min | [Framer Cheat Sheet: Utils.modulate](https://medium.com/the-school-of-do/framer-cheat-sheets-utils-modulate-b88e359fdcc6), Tess Gadd
+
+
+
 
 
 ##### En clase
