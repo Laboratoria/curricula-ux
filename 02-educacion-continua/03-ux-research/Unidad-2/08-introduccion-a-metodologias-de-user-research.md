@@ -68,14 +68,13 @@ Qué han entendido del video?
 Aquí hay un ejemplo de investigación evaluativa que se hizo alrededor de la compra online. Qué has entendido?
 Cómo es esto distinto de la investigación generativa? 
 
-Tarea:
+### Después de clases
+
 La tarea para la semana es desarrollar la guía de discusión y practicarla con 3 personas distintas - puedes practicar con familia o amigos, o incluso gente de la calle, porque vamos a hacer pruebas con usuarios reales la próxima semana.
 
 La idea es tener práctica y aprender qué cosas funcionan y cuáles no.
 
 También hay un gran video por un investigador de UX chileno en YouTube que deberían ver. Es largo (45 minutos) pero intenten al menos mirar el inicio del video.
-
-
 
 ### Autoevaluación
 
