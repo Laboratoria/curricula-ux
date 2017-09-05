@@ -30,19 +30,13 @@ Muchos investigadores hablan de la importancia de "construir rapport", que esenc
 
 Es importante que no empieces inmediatamente con preguntas detalladas para la entrevista. Por ejemplo, nunca saltes directo a preguntas de testeo de usabilidad porque realmente necesitas que tu usuario se acostumbre y se sienta cómodo contigo primero. Usa los primeros minutos para preguntarle un poco sobre sí mismo.
 
-SLIDE 9
 Algunos consejos que pueden ayudarte mientras te preparas para entrevistar usuarios.
-Métete en el personaje de "investigador" - Muchos investigadores hablan de "meterse en el personaje" antes de una entrevista. La entrevista no es momento de ser crítico o juzgar a tu interlocutor, así que prepárate antes de la entrevista para tener una mente abierta. Muchos de nosotros estamos acostumbrados a demostrar todo lo que sabemos sobre nuestros productos, tecnología o diseños de nuestro trabajo diario, pero este no es un momento para presumir. No importa para nada lo que tú sabes, ya que estás ahí para escuchar, observar y aprender de tus usuarios.
-Sonríe - te ayudará mucho a poner cómodo a tu participante. Algunos investigadores incluso recomiendan sonreír en entrevistas por teléfono: tu voz simplemente suena diferente cuando sonríes.
-Estar realmente interesado y conectado con lo que dice el usuario ayuda muchísimo.
-Demuestra que estás escuchando - No hace falta que respondas a cada cosa que dicen.
-Alienta a tus participantes para que compartan feedback, comentarios y críticas constructivas.
-No juzgues las opiniones de tus usuarios - No te preocupes, tendrás mucho tiempo luego para analizar todo el comportamiento que observaste, y las cosas que aprendiste durante la entrevista.
-No lances ideas - Esta no es una oportunidad para proponerle ideas nuevas a nadie. Trata de mantenerte lo más neutral posible para conseguir buena data.
+- Métete en el personaje de "investigador" - Muchos investigadores hablan de "meterse en el personaje" antes de una entrevista. La entrevista no es momento de ser crítico o juzgar a tu interlocutor, así que prepárate antes de la entrevista para tener una mente abierta. Muchos de nosotros estamos acostumbrados a demostrar todo lo que sabemos sobre nuestros productos, tecnología o diseños de nuestro trabajo diario, pero este no es un momento para presumir. No importa para nada lo que tú sabes, ya que estás ahí para escuchar, observar y aprender de tus usuarios.
+- Sonríe - te ayudará mucho a poner cómodo a tu participante. Algunos investigadores incluso recomiendan sonreír en entrevistas por teléfono: tu voz simplemente suena diferente cuando sonríes.
+- Estar realmente interesado y conectado con lo que dice el usuario ayuda muchísimo.
+- Demuestra que estás escuchando - No hace falta que respondas a cada cosa que dicen.
+- Alienta a tus participantes para que compartan feedback, comentarios y críticas constructivas.
+- No juzgues las opiniones de tus usuarios - No te preocupes, tendrás mucho tiempo luego para analizar todo el comportamiento que observaste, y las cosas que aprendiste durante la entrevista.
+- No lances ideas - Esta no es una oportunidad para proponerle ideas nuevas a nadie. Trata de mantenerte lo más neutral posible para conseguir buena data.
 
-SLIDE 10:
-Nota al profesor:
-En la primera sesión con Michael Margolis mostramos parte de este video. La parte del video que habla del arco de la entrevista y da algunos consejos va desde 0:45 hasta 1:10, pero puedes acortarla porque es bastante que mostrar para una clase. Los primeros 10-15 minutos son los más importantes.
 
-Qué pensaron del video?
-Qué entendieron?
