@@ -79,7 +79,8 @@ From ‘Sprint’ The Five Act Interview
 
 También hay un gran video por un investigador de UX chileno en YouTube que deberían ver. Es largo (45 minutos) pero intenten al menos mirar el inicio del video. Este video es opcional de ver dado que está en Inglés.
 ISA16. Renato Verdugo: Research as co-development
-https://www.youtube.com/watch?v=QOkE86Q8lUI&index=11&list=PLuVRYVCdqQJMaTSTEfDAIZlm61Gb3Vai_
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QOkE86Q8lUI" frameborder="0" allowfullscreen></iframe>
 
 ### Autoevaluación
 
