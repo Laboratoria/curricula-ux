@@ -74,7 +74,8 @@ La tarea para la semana es desarrollar la guía de discusión y practicarla con 
 
 También debes de ver el siguiente video: 
 From ‘Sprint’ The Five Act Interview
-https://youtu.be/1jULaA68HS0
+
+<iframe width="560" height="315" src="https://youtu.be/1jULaA68HS0" frameborder="0" allowfullscreen></iframe>
 
 También hay un gran video por un investigador de UX chileno en YouTube que deberían ver. Es largo (45 minutos) pero intenten al menos mirar el inicio del video. Este video es opcional de ver dado que está en Inglés.
 [ISA16] Renato Verdugo: Research as co-development
