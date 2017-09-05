@@ -79,4 +79,3 @@ Sería excelente si tienes la oportunidad de hacer una reunión de kick-off de i
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLScEL9uYB4fQiVwRo3yQYcAGkymSBqhjdmtDNlJ0Bjj3gy9_kg/viewform?embedded=true" width="760" height="1600" frameborder="0" marginheight="0" marginwidth="0">Cargando…</iframe>
 
 
-
