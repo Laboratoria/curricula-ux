@@ -28,7 +28,7 @@ Esta semana, la tarea va a ser salir a entrevistar 5 de sus usuarios objetivo, d
 
 Cuando estén haciendo esas entrevistas, traten de concentrarse en el plan de acción que crearon para las áreas en las que quieren mejorar.
 
-Por último, y más importante, por favor tomne notas de las cosas principales que están aprendiendo en cada entrevista. Esto será muy útil para el análisis de la próxima semana.
+Por último, y más importante, por favor tomes notas de las cosas principales que están aprendiendo en cada entrevista. Esto será muy útil para el análisis de la próxima semana.
 
 ### Autoevaluación
 
