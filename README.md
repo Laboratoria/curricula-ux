@@ -48,12 +48,12 @@ Las alumnas tienen que elegir un proyecto en el que quieran trabajar durante el 
 ### Lección 01: Introducción al curso
 
 
-35 min (presencial)
+20 min (presencial)
 
 | # | Tipo | Duración | Tópico
 | - | ---- | -------- | ------
 | 01 | charla | 10 min | Introducción: ¿Qué esperan aprender?
-| 02 | charla | 15 min | Introducción a los objetivos del curso 
+| 02 | charla | 10 min | Introducción a los objetivos del curso 
 
 
 ### Lección 02: Una mirada al “User Research
@@ -129,7 +129,7 @@ Las alumnas tienen que elegir un proyecto en el que quieran trabajar durante el 
 | 02 | charla | 5 min | Involucrando los Stakeholders en el proceso de Research
 | 03 | charla | 10 min | Una sesión de brainstorming
 
-### Lección 08: [Metodologías de user research](/02-educacion-continua/03-ux-research/Unidad-2/08-introduccion-a-metodologias-de-user-research.md)
+### Lección 08: Metodologías de user research
 
 57 min (presencial)
 
