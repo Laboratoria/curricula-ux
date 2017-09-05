@@ -18,9 +18,11 @@ Luego de eso cambiarán los roles 2 veces más, para que cada una tenga la oport
 En base a algunas de las buenas prácticas que revisamos más temprano, la persona que estuvo grabando dará críticas constructivas en el formato de "Sandwich de Feedback".
 
 Ahora vamos a escribir un plan de acciones de 1-3 cosas en particular que queremos mejorar en nuestra práctica de entrevista.
-En qué te vas a enfocar y cómo?
-Cómo vas a practicarlo?
-Cuales son las formas en que puedes medir cuánto has avanzado?
+- ¿En qué te vas a enfocar y cómo?
+- ¿Cómo vas a practicarlo?
+- ¿Cuáles son las formas en que puedes medir cuánto has avanzado?
+
+### Después de clases
 
 Esta semana, la tarea va a ser salir a entrevistar 5 de sus usuarios objetivo, de los que identificaron durante el ejercicio de reclutamiento (con la encuesta de filtro) de la primera semana.
 
@@ -28,7 +30,8 @@ Cuando estén haciendo esas entrevistas, traten de concentrarse en el plan de ac
 
 Por último, y más importante, por favor tomne notas de las cosas principales que están aprendiendo en cada entrevista. Esto será muy útil para el análisis de la próxima semana.
 
+### Autoevaluación
 
-
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScT7Eg6LxNlPHCn5oyrP2RUPodY4G4I33Ufucs96ol_aSO7Sw/viewform?embedded=true" width="750" height="1500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
 
 
