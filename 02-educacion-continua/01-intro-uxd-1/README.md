@@ -68,14 +68,14 @@ Bienvenida al curso, detalles del formato y logística de la Clase. Conceptos in
 | 04 | discusión | 10 min | [¿Qué características tiene un buen UX Designer?](#)
 | 05 | Clase | 5 min | [Disciplinas involucradas en UX Design](#)
 | 06 | Clase | 10 min | [El proceso de UX Design](#)
-| 06 | Lectura | 20 min | [Los 13 principios de LEAN UX](https://drive.google.com/file/d/0B0NdG2VNCDPzNXJaYlpEdTgwLWM/view)
+| 06 | Lectura | 20 min | [Los 15 principios de LEAN UX](https://drive.google.com/file/d/0B0NdG2VNCDPzNXJaYlpEdTgwLWM/view)
 
 
 ### Lección 02: [Metodologías / ideologías relacionadas con User Experience Design](/02-educacion-continua/01-intro-uxd-1/Unidad-1/02-Metodologias-relacionas-con-UXD.md)
 
 20 min (self-paced)
 
-Human Centered Design, Lean UX, Lean Startup son algunas de las metodologías que escuchamos a diario en el mundo tecnológico y del emprendimiento. En esta clase aprenderás un poco de cada uno y sabrás cuáles son sus diferencias y similitudes, y cómo es que estas disciplinas están involucradas con el UX Design. 
+`human centered design`, `Lean UX`, `Lean Startup` son algunas de las metodologías que escuchamos a diario en el mundo tecnológico y del emprendimiento. En esta clase aprenderás un poco de cada una y sabrás cuáles son sus diferencias y similitudes, y cómo es que estas disciplinas están involucradas con el UX Design. 
 
 | # | Tipo | Duración | Tópico
 | - | ---- | -------- | ------
@@ -111,7 +111,7 @@ La usabilidad es una característica muy valiosa en nuestros productos digitales
 | 03 | Workshop | 15 min | Encontrar problemas de usabilidad en webs y aplicaciones
 
 
-### Lección 05: [Introducción a User Research](#)
+### Lección 05: [Introducción a User Research](/02-educacion-continua/01-intro-uxd-1/Unidad-1/05-introduccion-user-reseach.md)
 
 55min (self-paced)
 
@@ -121,11 +121,12 @@ El research es la etapa más importante del proceso de diseño, ya que nos ayuda
 | # | Tipo | Duración | Tópico
 | - | ---- | -------- | ------
 | 01 | video | 3 min | [Qué es User Research](https://www.youtube.com/watch?v=A_gHQq9iLxg)
-| 02 | video | 5 min | [La importancia de la Data en el Research](#)
+| 02 | video | 5 min | [La importancia del Research en un proceso de diseño](#)
 | 03 | lectura | 40 min | [Understanding the problem](https://drive.google.com/file/d/0B0NdG2VNCDPzWG1yekM3X0RjZjg/view?usp=sharing)
-| 04 | video | 10 min | [Análisis competitivo y comparativo](#)
+| 04 | audio | 30 min | [UX Research entrevista a Stephanie Agotborde](#)
 
-### Lección 06: [Creación de un Research Plan](#)
+
+### Lección 06: [Creación de un Research Plan](/02-educacion-continua/01-intro-uxd-1/Unidad-1/06-research-plan.md)
 
 40min (presencial)
  
@@ -135,19 +136,19 @@ El research es la etapa más importante del proceso de diseño, ya que nos ayuda
 | 01 | Clase | 10 min | [Componentes de un plan de research](#)
 | 02 | Workshop | 20 min | [Creación de research plan](#)
 | 03 | Workshop | 10 min | [Creación de BS Personas](#)
+| 04 | Workshop | 10 min | [Análisis competitivo y comparativo](#)
 
 
-### Lección 07: [User Research Big Data](#)
+### Lección 07: [User Research Big Data](/02-educacion-continua/01-intro-uxd-1/Unidad-1/07-research-big-data.md)
 
 50min (presencial)
 
 | # | Tipo | Duración | Tópico
 | - | ---- | -------- | ------
 | 01 | Clase | 10 min | [¿Qué es Big Data?](#)
-| 02 | Clase | 20 min | [Herramientas de analítica](#)
-| 03 | Workshop | 20 min | [Hands on Mix Panel y/o Google Analytics](#)
+| 02 | Clase | 20 min | [Herramientas](#)
 
-### Lección 08: [User Research Small Data - Entrevistas y tests de usabilidad](#)
+### Lección 08: [User Research Small Data - Entrevistas y tests de usabilidad](/02-educacion-continua/01-intro-uxd-1/Unidad-1/08-research-small-data.md)
 
 85min (presencial)
 
@@ -162,7 +163,7 @@ El research es la etapa más importante del proceso de diseño, ya que nos ayuda
 
 
 
-### Lección 09: [Introducción a Síntesis y definición](#)
+### Lección 09: [Introducción a Síntesis y definición](/02-educacion-continua/01-intro-uxd-1/Unidad-1/09-introduccion-sintesis-y-definicion.md)
 
 30 min (self-paced)
 
@@ -176,7 +177,7 @@ El research es la etapa más importante del proceso de diseño, ya que nos ayuda
 
 
 
-### Lección 10: [Síntesis](#)
+### Lección 10: [Síntesis](/02-educacion-continua/01-intro-uxd-1/Unidad-1/10-sintesis.md)
 
 70min (presencial)
 
@@ -187,7 +188,7 @@ El research es la etapa más importante del proceso de diseño, ya que nos ayuda
 | 03 | Workshop | 20 min | [User Personas](#)
 
 
-### Lección 11: [Problem Statements y HMW](#)
+### Lección 11: [Problem Statements y HMW](/02-educacion-continua/01-intro-uxd-1/Unidad-1/11-problem-statements-y-hmw.md)
 
 65min (presencial)
 
@@ -200,7 +201,7 @@ El research es la etapa más importante del proceso de diseño, ya que nos ayuda
 | 05 | Workshop | 20 min | [	Elaboración de HMW questions](#)
 
 
-### Lección 12: [Priorización](#)
+### Lección 12: [Priorización](/02-educacion-continua/01-intro-uxd-1/Unidad-1/12-priorizacion.md)
 
 30min (presencial)
 
@@ -211,7 +212,7 @@ El research es la etapa más importante del proceso de diseño, ya que nos ayuda
 | 03 | Workshop | 10 min | [Definición de MVP](#)
 
 
-### Lección 13: [Ideación y decisión](#)
+### Lección 13: [Ideación y decisión](/02-educacion-continua/01-intro-uxd-1/Unidad-1/13-ideacion-y-decision.md)
 
 30 min (self-paced)
 
@@ -223,7 +224,7 @@ El research es la etapa más importante del proceso de diseño, ya que nos ayuda
 
 
 
-### Lección 14: [Ideación](#)
+### Lección 14: [Ideación](/02-educacion-continua/01-intro-uxd-1/Unidad-1/14-ideacion.md)
 
 90min (presencial)
 
@@ -236,7 +237,7 @@ El research es la etapa más importante del proceso de diseño, ya que nos ayuda
 | 05 | Workshop | 10 min | [Crazy 8s](#)
 | 06 | Workshop | 30 min | [Solution sketch in 3 parts](#)
 
-### Lección 15: [Decisión](#)
+### Lección 15: [Decisión](/02-educacion-continua/01-intro-uxd-1/Unidad-1/15-decision.md)
 
 45min (presencial)
 
@@ -249,7 +250,7 @@ El research es la etapa más importante del proceso de diseño, ya que nos ayuda
 | 05 | Workshop | 5 min | [Supervote](#)
 | 06 | Workshop | 5 min | [Decide](#)
 
-### Lección 16: [Wireframing](#)
+### Lección 16: [Wireframing](/02-educacion-continua/01-intro-uxd-1/Unidad-1/16-wireframing.md)
 
 30min (presencial)
 
