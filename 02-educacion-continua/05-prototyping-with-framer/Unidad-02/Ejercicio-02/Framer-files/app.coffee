@@ -1,3 +1,13 @@
+################################################
+################################################
+
+# Unidad - 02
+# Ejercicio - 02
+# Recreando una terjeta de Iris App
+
+################################################
+################################################
+
 Device = new DeviceComponent
 Device.setupContext()
 Device.deviceType = "apple-iphone-6s-space-gray"
