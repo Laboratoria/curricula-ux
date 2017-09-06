@@ -111,7 +111,7 @@ La usabilidad es una característica muy valiosa en nuestros productos digitales
 | 03 | Workshop | 15 min | Encontrar problemas de usabilidad en webs y aplicaciones
 
 
-### Lección 05: [Introducción a User Research](/02-educacion-continua/01-intro-uxd-1/Unidad-1/05-introduccion-user-reseach.md)
+### Lección 05: [Introducción a User Research](/02-educacion-continua/01-intro-uxd-1/Unidad-2/05-introduccion-user-reseach.md)
 
 55min (self-paced)
 
@@ -126,7 +126,7 @@ El research es la etapa más importante del proceso de diseño, ya que nos ayuda
 | 04 | audio | 30 min | [UX Research entrevista a Stephanie Agotborde](#)
 
 
-### Lección 06: [Creación de un Research Plan](/02-educacion-continua/01-intro-uxd-1/Unidad-1/06-research-plan.md)
+### Lección 06: [Creación de un Research Plan](/02-educacion-continua/01-intro-uxd-1/Unidad-2/06-research-plan.md)
 
 40min (presencial)
  
@@ -139,7 +139,7 @@ El research es la etapa más importante del proceso de diseño, ya que nos ayuda
 | 04 | Workshop | 10 min | [Análisis competitivo y comparativo](#)
 
 
-### Lección 07: [User Research Big Data](/02-educacion-continua/01-intro-uxd-1/Unidad-1/07-research-big-data.md)
+### Lección 07: [User Research Big Data](/02-educacion-continua/01-intro-uxd-1/Unidad-2/07-research-big-data.md)
 
 50min (presencial)
 
@@ -148,7 +148,7 @@ El research es la etapa más importante del proceso de diseño, ya que nos ayuda
 | 01 | Clase | 10 min | [¿Qué es Big Data?](#)
 | 02 | Clase | 20 min | [Herramientas](#)
 
-### Lección 08: [User Research Small Data - Entrevistas y tests de usabilidad](/02-educacion-continua/01-intro-uxd-1/Unidad-1/08-research-small-data.md)
+### Lección 08: [User Research Small Data - Entrevistas y tests de usabilidad](/02-educacion-continua/01-intro-uxd-1/Unidad-2/08-research-small-data.md)
 
 85min (presencial)
 
@@ -163,7 +163,7 @@ El research es la etapa más importante del proceso de diseño, ya que nos ayuda
 
 
 
-### Lección 09: [Introducción a Síntesis y definición](/02-educacion-continua/01-intro-uxd-1/Unidad-1/09-introduccion-sintesis-y-definicion.md)
+### Lección 09: [Introducción a Síntesis y definición](/02-educacion-continua/01-intro-uxd-1/Unidad-3/09-introduccion-sintesis-y-definicion.md)
 
 30 min (self-paced)
 
@@ -177,7 +177,7 @@ El research es la etapa más importante del proceso de diseño, ya que nos ayuda
 
 
 
-### Lección 10: [Síntesis](/02-educacion-continua/01-intro-uxd-1/Unidad-1/10-sintesis.md)
+### Lección 10: [Síntesis](/02-educacion-continua/01-intro-uxd-1/Unidad-3/10-sintesis.md)
 
 70min (presencial)
 
@@ -188,7 +188,7 @@ El research es la etapa más importante del proceso de diseño, ya que nos ayuda
 | 03 | Workshop | 20 min | [User Personas](#)
 
 
-### Lección 11: [Problem Statements y HMW](/02-educacion-continua/01-intro-uxd-1/Unidad-1/11-problem-statements-y-hmw.md)
+### Lección 11: [Problem Statements y HMW](/02-educacion-continua/01-intro-uxd-1/Unidad-3/11-problem-statements-y-hmw.md)
 
 65min (presencial)
 
@@ -201,7 +201,7 @@ El research es la etapa más importante del proceso de diseño, ya que nos ayuda
 | 05 | Workshop | 20 min | [	Elaboración de HMW questions](#)
 
 
-### Lección 12: [Priorización](/02-educacion-continua/01-intro-uxd-1/Unidad-1/12-priorizacion.md)
+### Lección 12: [Priorización](/02-educacion-continua/01-intro-uxd-1/Unidad-3/12-priorizacion.md)
 
 30min (presencial)
 
@@ -212,7 +212,7 @@ El research es la etapa más importante del proceso de diseño, ya que nos ayuda
 | 03 | Workshop | 10 min | [Definición de MVP](#)
 
 
-### Lección 13: [Ideación y decisión](/02-educacion-continua/01-intro-uxd-1/Unidad-1/13-ideacion-y-decision.md)
+### Lección 13: [Ideación y decisión](/02-educacion-continua/01-intro-uxd-1/Unidad-4/13-ideacion-y-decision.md)
 
 30 min (self-paced)
 
@@ -224,7 +224,7 @@ El research es la etapa más importante del proceso de diseño, ya que nos ayuda
 
 
 
-### Lección 14: [Ideación](/02-educacion-continua/01-intro-uxd-1/Unidad-1/14-ideacion.md)
+### Lección 14: [Ideación](/02-educacion-continua/01-intro-uxd-1/Unidad-4/14-ideacion.md)
 
 90min (presencial)
 
@@ -237,7 +237,7 @@ El research es la etapa más importante del proceso de diseño, ya que nos ayuda
 | 05 | Workshop | 10 min | [Crazy 8s](#)
 | 06 | Workshop | 30 min | [Solution sketch in 3 parts](#)
 
-### Lección 15: [Decisión](/02-educacion-continua/01-intro-uxd-1/Unidad-1/15-decision.md)
+### Lección 15: [Decisión](/02-educacion-continua/01-intro-uxd-1/Unidad-4/15-decision.md)
 
 45min (presencial)
 
@@ -250,7 +250,7 @@ El research es la etapa más importante del proceso de diseño, ya que nos ayuda
 | 05 | Workshop | 5 min | [Supervote](#)
 | 06 | Workshop | 5 min | [Decide](#)
 
-### Lección 16: [Wireframing](/02-educacion-continua/01-intro-uxd-1/Unidad-1/16-wireframing.md)
+### Lección 16: [Wireframing](/02-educacion-continua/01-intro-uxd-1/Unidad-4/16-wireframing.md)
 
 30min (presencial)
 
