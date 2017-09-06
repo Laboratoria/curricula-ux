@@ -1,4 +1,4 @@
-var Device, card, image, parrafo, titulo;
+var Device, imagen, parrafo, tarjeta, titulo;
 
 Device = new DeviceComponent;
 
@@ -6,17 +6,23 @@ Device.setupContext();
 
 Device.deviceType = "apple-iphone-6s-space-gray";
 
-card = new Layer({
-  borderRadius: 10,
-  width: Framer.Screen.width - 32,
-  height: Framer.Screen.height - 32,
-  point: 16,
-  backgroundColor: 'white'
+Screen.backgroundColor = "#00AAFF";
+
+tarjeta = new Layer({
+  borderRadius: 10
 });
 
-image = new Layer({
-  image: Utils.randomImage(),
-  parent: card,
+tarjeta.width = Framer.Screen.width - 32;
+
+tarjeta.height = Framer.Screen.height - 32;
+
+tarjeta.point = 16;
+
+tarjeta.backgroundColor = 'white';
+
+imagen = new Layer({
+  image: 'images/img.jpg',
+  parent: tarjeta,
   borderRadius: 10,
   size: 120,
   point: 12
@@ -28,8 +34,8 @@ titulo = new TextLayer({
   text: "Maria Apellido",
   fontFamily: 'arial',
   color: 'black',
-  parent: card,
-  width: card.width - 120 - 24,
+  parent: tarjeta,
+  width: tarjeta.width - 120 - 24,
   height: 100
 });
 
@@ -41,17 +47,17 @@ parrafo = new TextLayer({
   fontSize: 20,
   fontFamily: 'arial',
   color: 'black',
-  parent: card,
-  width: card.width - 24,
+  parent: tarjeta,
+  width: tarjeta.width - 24,
   height: 100
 });
 
-card.onClick(function() {
-  return print('CARD!');
+tarjeta.onClick(function() {
+  return print('TARJETA!');
 });
 
-image.onClick(function() {
-  return print('IMAGE!');
+imagen.onClick(function() {
+  return print('IMAGEN!');
 });
 
 titulo.onClick(function() {
