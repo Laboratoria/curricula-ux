@@ -8,19 +8,23 @@
 Para empezar esta clase introductoria es bueno saber qué entendemos por UX. 
 
 
-<!--- Slide 2 --->
+<!--- Slide 2 -->
 
 ***¿Qué es UX?***
 > UX = User Experience son todas las experiencias que vive/experimenta una persona al usar un producto. Una silla, una mesa y un computador, todos tienen una experiencia al usarlos. 
 > Una web, un app o cualquier producto digital también tienen distintas experiencias para el usuario. Estas experiencias no siempre son iguales, en muchos casos pueden variar dependiendo del entorno en el que son usados. Por ejemplo, la experiencia de uso de Youtube puede variar dependiendo de la velocidad de la conexión a internet que estemos usando, o de las publicidades que se nos interpongan antes o durante la ejecución del contenido que queremos ver.
 
-<!--- Slide 3 --->
+Puedes ver a Don Norman, el primero en usar el término `User Experience`, hablando sobre UX.
+
+<iframe width="390" style="width:100%" src="https://www.youtube.com/embed/9BdtGjoIN4E" frameborder="0" allowfullscreen></iframe>
+
+<!-- Slide 3 -->
 
 ***¿Qué es UX Design?***
 
 > UX Design es el trabajo de los profesionales "UX Designers". Es el proceso mediante el cual se diseñan las experiencias que vivirá un usuario al usar un producto. 
 
-<!--- Slide 4 --->
+<!-- Slide 4 -->
 
 **Definición formal de UX Design** 
 
@@ -29,11 +33,11 @@ Para empezar esta clase introductoria es bueno saber qué entendemos por UX.
 **Video**
 
 En clase, ver el siguiente video sobre [qué es UX](https://generalassembly.wistia.com/medias/k97v3wng8m)
-<!--- Slide 5 --->
-<!--- Slide 6 --->
-<!--- Slide 7 --->
-<!--- Slide 8 --->
-<!--- Slide 9 --->
+<!-- Slide 5 -->
+<!-- Slide 6 -->
+<!-- Slide 7 -->
+<!-- Slide 8 -->
+<!-- Slide 9 -->
 
 ## ¿Por qué debemos estudiar UX Design?
 
@@ -77,7 +81,7 @@ Adicionalmente, existen algunas estadísticas que prueban el valor que añade el
 ## El proceso de UX Design
 
 1. **Descubrimiento e investigación:** cuando identificamos las necesidades de los usuarios y buscamos data e inspiración para diseñar un producto.
-2. **Síntesis y definición:** usamos los datos coleccionados en la fase 1 buscando tendencias e insights valiosos para el desarrollo del producto, y entendemos los deseos y necesidades del público al que estará dirigido nuestro producto. Finalmente, definimos los componentes/funcionalidades que tendrá nuestro MVP.
+2. **Síntesis y definición:** usamos los datos coleccionados en la fase 1 buscando tendencias e insights valiosos para el desarrollo del producto, y entendemos los deseos y necesidades del público al que estará dirigido nuestro producto. Finalmente, definimos los componentes/funcionalidades que tendrá nuestro MVP.
 
 3. **Ideación:** buscamos las mejores maneras para ejecutar/desarrollar las funcionalidades definidas en la fase 2. Se elaboran sketches y se decide qué propuesta se ejecutará.
 

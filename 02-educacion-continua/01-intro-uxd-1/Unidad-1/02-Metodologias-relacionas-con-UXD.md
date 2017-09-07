@@ -7,7 +7,7 @@ Cuando trabajamos en UX Design, y en tecnologia, hay muchos términos de metodol
 En realidad ninguna metodología es independiente a la otra, sino que son complementarias. Y de hecho, tienen una gran cosa en común: **aprender**
 
 En estas metodología, aprendemos a través de un experimento, prototipo o MVP, “saliendo del edificio” y probando con usuarios reales.
-En general aprendemos de:
+En general aprendemos de:
 
 * los usuarios
 * las ideas
@@ -19,16 +19,21 @@ En estas metodología, aprendemos a través de un experimento, prototipo o MVP,
 
 Es una metodología para generar ideas innovadoras que centra su eficacia en entender y dar solución a las necesidades reales de los **_usuarios_**. Se empezó a desarrollar de forma teórica en la Universidad de Stanford en California (EEUU) a partir de los años 70, y su primera aplicabilidad con fines lucrativos como "Design Thinking" la llevó a cabo la consultora de diseño IDEO, siendo hoy en día su principal precursora.
 
-Fases del proceso:1. Empatizar
+Fases del proceso:
+
+1. Empatizar
 2.  Definir
 3. Idear
 4. Prototipar
-5. Testear![Design thinking hexágonos]()
-La experimentación en el `design thinking` se basa en siempre mostrarle algo (un prototipo) al usuario para obtener su feedback.
+5. Testear
+
+![Design thinking hexágonos]()
+La experimentación en el `design thinking` se basa en siempre mostrarle algo (un prototipo) al usuario para obtener su feedback.
 
 ## Lean Startup
 
-Esta metodología se enfoca en crear un MVP rápidamente para poder aprender de los usuarios y poder evolucionar o corregir el producto. Su ideal es tener la mayor cantidad de “validated learning” con el menor esfuerzo posible.
+Esta metodología se enfoca en crear un MVP rápidamente para poder aprender de los usuarios y poder evolucionar o corregir el producto. Su ideal es tener la mayor cantidad de “validated learning” con el menor esfuerzo posible.
+
 * **Minimum:** utilizando el menor esfuerzo y recursos
 * **Viable:** el mínimo estado del “producto” que permita coleccionar información (feedback)
 * **Product:** cualquier cosa que se pueda vender (producto, servicio, app, idea) o que quieras que el usuario se inscriba
@@ -38,7 +43,11 @@ Esta metodología se enfoca en crear un MVP rápidamente para poder aprender d
 ![Video Lean Startup One Month]()
 ## Lean UX
 
-Lean UX combina ideas de `design thinking`, `lean startup` y `agile` en el campo del UX. Busca hacer el trabajo de UX más rápido, enfocándose más en los resultados que en los “entregables”.Fases:* Declarar supuestos
+Lean UX combina ideas de `design thinking`, `lean startup` y `agile` en el campo del UX. Busca hacer el trabajo de UX más rápido, enfocándose más en los resultados que en los “entregables”.
+
+Fases:
+
+* Declarar supuestos
 * Crear un MVP
 * Realizar experimentos 
 * Obtener feedback
@@ -51,13 +60,16 @@ Metodología creada en GV (Google Ventures) que busca probar una idea en 5 dí
 
 ![Imagen sprint]()
 
-Etapas del proceso:* Lunes: Map
+Etapas del proceso:
+
+* Lunes: Map
 * Martes: Sketch
 * Miércoles: Decide
 * Jueves: Prototype
 * Viernes: Test
 
 ![Video Gimlet]()
+
 
 ***
 
@@ -67,3 +79,11 @@ Adicionalmente, tenemos el Agile manifiesto, del cual podemos rescatar lo siguie
 2. El productos funcionales es más importante que la documentación exhaustiva
 3. La colaboración con los clientes es más importante que la negociación de contratos con ellos
 4. La respuesta a los cambios es más importante que la planificación
+
+***
+
+### Después de clases 
+
+Como algo opcional, puedes mirar esta entrevista a Jake Knapp, Tim Brown y Eric Ries hablando sobre Sprint, Design Thinking y Lean Startup. 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bvFnHzU4_W8?cc_lang_pref=es&cc_load_policy=1" frameborder="0" allowfullscreen></iframe>
