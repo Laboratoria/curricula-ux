@@ -2,3 +2,15 @@
 
 DP0
 
+### Identificar una necesidad
+
+Entrevista a un partner.
+
+### Idear
+
+### Sketchear
+
+### Producir
+
+### Presentar
+
