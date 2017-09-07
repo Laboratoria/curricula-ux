@@ -1,7 +1,6 @@
 # Lección 01: Introducción a User Experience Design
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTCnLlcFGKw7vJuHg3Bn0sWko8L-pEg7wHOJ8CB_K54FY10yKcovGX76Sp7_CB3KZ9tJXSRRgmrqBTb/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTCnLlcFGKw7vJuHg3Bn0sWko8L-pEg7wHOJ8CB_K54FY10yKcovGX76Sp7_CB3KZ9tJXSRRgmrqBTb/embed?start=false&loop=true&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 
 ## ¿Qué es User Experience Design?

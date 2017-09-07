@@ -1,5 +1,7 @@
 # Lección 02: Metodologías relacionadas
 
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQNsMPxQxnhsxjrPBjz_9EKTuB_WPWZp-fsbtJfLSWSFxyX4rDSGVTBWau3cMlqgeZgdHiGWndoLEkm/embed?start=false&loop=true&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
 Cuando trabajamos en UX Design, y en tecnologia, hay muchos términos de metodologías y frameworks que vamos a escuchar o leer seguido. Entre ellos `design thinking` o `human centered design`, `lean startup`, `lean UX`, `design sprints`, entre otros. 
 
 En realidad ninguna metodología es independiente a la otra, sino que son complementarias. Y de hecho, tienen una gran cosa en común: **aprender**
