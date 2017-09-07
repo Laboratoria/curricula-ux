@@ -1,5 +1,8 @@
 # Lección 01: Introducción a User Experience Design
 
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTCnLlcFGKw7vJuHg3Bn0sWko8L-pEg7wHOJ8CB_K54FY10yKcovGX76Sp7_CB3KZ9tJXSRRgmrqBTb/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+
 
 ## ¿Qué es User Experience Design?
 
@@ -85,7 +88,7 @@ Adicionalmente, existen algunas estadísticas que prueban el valor que añade el
 
 ## Los 15 principios de LEAN UX - Lectura
 
-Leer y comentar en clase los 13 principios de Lean UX:
+Leer y comentar en clase los 15 principios de Lean UX:
 
 1. Equipos multifuncionales
 2. Pequeños, dedicados y co-ubicados
@@ -97,7 +100,7 @@ Leer y comentar en clase los 13 principios de Lean UX:
 8. Get out of the building: la nueva centralidad del usuario
 9. Entendimiento común (shared understanding)
 10. Antimodelos: estrellas, gurús y ninjas
-11. Extereorización del trabajo
+11. Exteriorización del trabajo
 12. Hacer en lugar de analizar
 13. Aprendizaje en lugar de crecimiento
 14. Permiso para equivocarse
