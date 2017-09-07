@@ -2,18 +2,30 @@ var layer;
 
 layer = new Layer;
 
+layer.states.initialState = {
+  x: 100,
+  backgroundColor: 'red'
+};
+
 layer.states = {
-  active: {
-    backgroundColor: "#00aeff"
+  start: {
+    x: 200,
+    backgroundColor: 'yellow'
   },
-  inactive: {
-    backgroundColor: "#000000"
+  finish: {
+    x: 300,
+    backgroundColor: 'orange'
   }
 };
 
-delete layer.states["default"];
+print(layer.states);
 
-layer.stateSwitch("active");
+layer.states.initialState = {
+  x: 100,
+  backgroundColor: 'red'
+};
+
+print(layer.states);
 
 layer.onClick(function() {
   return layer.stateCycle();
