@@ -58,15 +58,15 @@ Adicionalmente, existen algunas estadísticas que prueban el valor que añade el
 
 ## ¿Qué características tiene un buen UX Designer?
 
-* Empatía
-* Trabajo en equipo
-* Negociador
-* Problem solver
-* Problem checker
-* Problem finder
-* Diseño
-* Negocios
-* Tecnología
+* **Empatía:** es una de las características principales de UX Designer. Para poder crear productos exitosos, es necesario entender a nuestros usuarios, y para ello necesitamos empatizar con ellos para poder entender sus problemas desde su perspectiva. 
+
+
+* **Trabajo en equipo:** un UX Designer no solo va a tener relación con sus usuarios, sino que también va a trabajar con un equipo de desarrollo de producto que puede incluir product managers, visual designers, desarrolladores, QAs y analistas de negocio. Para ello, trabajar en equipo es clave para un UX Designer.
+* **Negociador:** el trabajo en equipo trae consigo también mucha negociación, por temas de recursos, principalmente.
+* **Problem solver:** los UX Designers tienen pasión por resolver problemas, los de sus usuarios y los de sus negocios.
+* **Problem checker:** muchas veces los UX Designers van a recibir de las áreas de negocio o escuchar de sus usuarios 'problemas' que no necesariamente lo son. Su curiosidad y pensamiento crítico lo ayudan a poder validar si esos problemas realmente existen. No queremos perder valioso tiempo de desarrollo, trabajando sobre problemas que no existen.
+* **Problem finder:** durante la validación de problemas o durante el proceso de diseño en general el UX Designer tiene que ser capaz de indentificar problemas o necesidades que existen tanto para el usuario como para el negocio. 
+* **Diseño, negocios y tecnología:** se dice que los product / ux designers más exitosos entienden de estos 3 temas. Diseño porque son quienes lideran el proceso de diseño y porque esto les ayuda a entender a los usuarios. Negocios porque no solo tiene que ayudar a crear productos deseables, sino también rentables. Y de tecnología porque tiene que tener cierta idea de la factilbilidad de desarrollo de los productos que propone.
 
 ## Disciplinas involucradas en UX Design
 
