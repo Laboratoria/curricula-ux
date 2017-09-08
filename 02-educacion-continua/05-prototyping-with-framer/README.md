@@ -110,7 +110,6 @@ Explora qué son los estados (state) en Framer.JS que puedes crear para cada cap
 ### Unidad 04: [Aún más vida: animaciones en Framer](#) **TBD min**
 	
 Input para los ejercicios:
-* https://blog.framer.com/learn-framer-with-kanye-32bc68eb80d8
 * http://www.prototypingwithframer.com/twitter-birthday-balloon-animation/
 * http://www.prototypingwithframer.com/twitter-birthday-balloon-animation/
 * http://www.prototypingwithframer.com/creating-a-button-loading-animation/
@@ -279,9 +278,6 @@ Lee sobre los componentes de sliders disponibles en Framer.JS: Slider y Range Sl
 | 03 | Lectura | 10 min | [Framer Cheat Sheet: Utils.modulate](https://medium.com/the-school-of-do/framer-cheat-sheets-utils-modulate-b88e359fdcc6), Tess Gadd
 
 
-
-
-
 ##### En clase
 
 | # | Tipo | Duración | Tópico
@@ -300,6 +296,7 @@ Lee sobre los componentes de sliders disponibles en Framer.JS: Slider y Range Sl
 | # | Tipo | Duración | Tópico
 | - | ---- | -------- | ------
 | 01 | Lectura | 10 min | [Floating Action Button](https://medium.com/@baisampayans/ufloating-action-button-with-gooey-effect-tutorial-in-framerjs-b019eedb75d4), Baisampayan Saha
+| 02 | Lectura | 10 min | [Twitter Heart animation tutorial in FramerJS](https://medium.com/@baisampayans/twitter-heart-animation-tutorial-in-framerjs-39f677429e25), Baisampayan Saha
 
 
 ##### En clase
@@ -322,7 +319,6 @@ Lee sobre los componentes de sliders disponibles en Framer.JS: Slider y Range Sl
 | # | Tipo | Duración | Tópico
 | - | ---- | -------- | ------
 | 01 | Lectura | 10 min | [Framer Cheat Sheet: Loops & arrays](https://blog.framer.com/framer-cheat-sheet-loops-arrays-5155b216413c?source=user_profile---------4----------------), Tess Gadd
-| 02 | Lectura | 10 min | [Twitter Heart animation tutorial in FramerJS](https://medium.com/@baisampayans/twitter-heart-animation-tutorial-in-framerjs-39f677429e25), Baisampayan Saha
 
 ##### En clase
 
