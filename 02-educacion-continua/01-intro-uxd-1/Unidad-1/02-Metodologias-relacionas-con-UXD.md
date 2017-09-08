@@ -94,19 +94,4 @@ Como algo opcional, puedes mirar esta entrevista a Jake Knapp, Tim Brown y Eric 
 
 <div class="iframeWrapper">
 	<iframe width="560" height="315" src="https://www.youtube.com/embed/bvFnHzU4_W8?cc_lang_pref=es&cc_load_policy=1" frameborder="0" allowfullscreen></iframe>
-	<style type="text/css">
-		.iframeWrapper {
-			position: relative;
-			padding-bottom: 56.25%; /* 16:9 */
-			padding-top: 25px;
-			height: 0;
-		}
-		.iframeWrapper iframe {
-			position: absolute;
-			top: 0;
-			left: 0;
-			width: 100%;
-			height: 100%;
-		}
-	</style>
 </div>

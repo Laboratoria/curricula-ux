@@ -2,21 +2,6 @@
 
 <div class="iframeWrapper">
 	<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTCnLlcFGKw7vJuHg3Bn0sWko8L-pEg7wHOJ8CB_K54FY10yKcovGX76Sp7_CB3KZ9tJXSRRgmrqBTb/embed?start=false&loop=true&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-		<style type="text/css">
-		.iframeWrapper {
-			position: relative;
-			padding-bottom: 56.25%; /* 16:9 */
-			padding-top: 25px;
-			height: 0;
-		}
-		.iframeWrapper iframe {
-			position: absolute;
-			top: 0;
-			left: 0;
-			width: 100%;
-			height: 100%;
-		}
-	</style>
 </div>
 
 ## ¿Qué es User Experience Design?

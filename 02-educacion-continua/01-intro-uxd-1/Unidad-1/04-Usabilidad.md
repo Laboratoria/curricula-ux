@@ -1,6 +1,8 @@
 # Lección 04: Usabilidad
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQ_O0tj1nTc3BPe2KP78snclLMOEKRsJuF3Ns7M0Oq7P3RupMsaLInWMqqSYeahKR9ygSnpPC-XxI-j/embed?start=false&loop=true&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<div class="iframeWrapper">
+	<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQ_O0tj1nTc3BPe2KP78snclLMOEKRsJuF3Ns7M0Oq7P3RupMsaLInWMqqSYeahKR9ygSnpPC-XxI-j/embed?start=false&loop=true&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+</div>
 
 ## Usabilidad
 
