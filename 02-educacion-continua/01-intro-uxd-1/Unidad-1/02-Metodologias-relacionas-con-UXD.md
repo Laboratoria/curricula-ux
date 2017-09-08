@@ -1,6 +1,8 @@
 # Lección 02: Metodologías relacionadas
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQNsMPxQxnhsxjrPBjz_9EKTuB_WPWZp-fsbtJfLSWSFxyX4rDSGVTBWau3cMlqgeZgdHiGWndoLEkm/embed?start=false&loop=true&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<div class="iframeWrapper">
+	<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQNsMPxQxnhsxjrPBjz_9EKTuB_WPWZp-fsbtJfLSWSFxyX4rDSGVTBWau3cMlqgeZgdHiGWndoLEkm/embed?start=false&loop=true&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+</div>
 
 Cuando trabajamos en UX Design, y en tecnologia, hay muchos términos de metodologías y frameworks que vamos a escuchar o leer seguido. Entre ellos `design thinking` o `human centered design`, `lean startup`, `lean UX`, `design sprints`, entre otros. 
 
@@ -91,20 +93,20 @@ Adicionalmente, tenemos el Agile manifiesto, del cual podemos rescatar lo siguie
 Como algo opcional, puedes mirar esta entrevista a Jake Knapp, Tim Brown y Eric Ries hablando sobre Sprint, Design Thinking y Lean Startup. 
 
 <div class="iframeWrapper">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bvFnHzU4_W8?cc_lang_pref=es&cc_load_policy=1" frameborder="0" allowfullscreen></iframe>
-<style type="text/css">
-	.iframeWrapper {
-	position: relative;
-	padding-bottom: 56.25%; /* 16:9 */
-	padding-top: 25px;
-	height: 0;
-}
-.iframeWrapper iframe {
-	position: absolute;
-	top: 0;
-	left: 0;
-	width: 100%;
-	height: 100%;
-}
-</style>
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/bvFnHzU4_W8?cc_lang_pref=es&cc_load_policy=1" frameborder="0" allowfullscreen></iframe>
+	<style type="text/css">
+		.iframeWrapper {
+			position: relative;
+			padding-bottom: 56.25%; /* 16:9 */
+			padding-top: 25px;
+			height: 0;
+		}
+		.iframeWrapper iframe {
+			position: absolute;
+			top: 0;
+			left: 0;
+			width: 100%;
+			height: 100%;
+		}
+	</style>
 </div>
