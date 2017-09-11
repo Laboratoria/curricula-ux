@@ -1,4 +1,4 @@
-# Experience Design
+# User Experience Design
 
 Este repositorio es el lugar donde vamos a ir continuamente _diseñando_ nuestro
 programa de formación en **User Experience Design**.
@@ -27,13 +27,12 @@ lado, los _cursos_ de **educación continua** están dirigidos a un público que
 trabaja, y por lo tanto tiene mucho menos disponibilidad de tiempo (aprox. 4h
 por semana).
 
-Los _cursos_ se dividen en 3 _fases_:
+Los _cursos_ se dividen en 2 _fases_:
 
 * [**Bootcamp**](#bootcamp): cursos blended part-time, 6 meses
 * [**Educación continua**](#educación-continua): cursos blended 4 horas por
   semana, 18 meses
 
-***
 
 ***
 
@@ -203,11 +202,10 @@ Tiempo estimado: _4 semanas_.
 1. [UX Leadership](#)
 2. [Intro a UX Design](#)
 
-### Cursos dictaos en el pasado pasados
+### Cursos dictados en el pasado
 
 1. [Tech, UX and UI talks](/01-bootcamp/01-talks/)
-2. [3 weeks UX Bootcamp](/01-bootcamp/02-user-experience-design-bootcamp/)
-3. [User Experience Design Bootcamp](/01-bootcamp/03-user-experience-design-bootcamp-2017-2/)
+2. [Inmersión UX - 3 semanas](/01-bootcamp/02-user-experience-design-bootcamp/)
 
 *** 
 

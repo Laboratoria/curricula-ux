@@ -90,8 +90,8 @@ Adicionalmente, tenemos el Agile manifiesto, del cual podemos rescatar lo siguie
 
 ### Después de clases 
 
-Como algo opcional, puedes mirar esta entrevista a Jake Knapp, Tim Brown y Eric Ries hablando sobre Sprint, Design Thinking y Lean Startup. 
+Como algo opcional, puedes mirar esta entrevista a Jake Knapp, Tim Brown y Eric Ries hablando sobre Sprint, Design Thinking y Lean Startup respectivamente.
 
 <div class="iframeWrapper">
-	<iframe width="560" height="315" src="https://www.youtube.com/embed/bvFnHzU4_W8?cc_lang_pref=es&cc_load_policy=1" frameborder="0" allowfullscreen></iframe>
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/bvFnHzU4_W8?cc_lang_pref=en&cc_load_policy=1" frameborder="0" allowfullscreen></iframe>
 </div>
