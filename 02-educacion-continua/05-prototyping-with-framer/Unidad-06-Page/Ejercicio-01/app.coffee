@@ -26,6 +26,7 @@ page = new PageComponent
     scrollVertical: false
 
 # Creemos una primera pagina
+# Agreguemosla al page component. Aqui tambien lo agregamos a un layer content (page.content) que es el que contiene las paginas
 pageOne = new Layer
     width: page.width
     height: page.height
