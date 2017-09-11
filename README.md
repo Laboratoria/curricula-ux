@@ -12,7 +12,13 @@ y _cursos_.
 Como guía en el proceso de diseño de la malla estamos usando un "mapa" de
 _conceptos_, _tecnologías_ y _herramientas_ que queremos cubrir en la currícula.
 Este mapa es un mapa vivo, se basa en feedback de empleadores, instructores y
-alumnas. Si tienes alguna sugerencia o comentario no dudes en
+alumnas. Si tienes alguna sugerencia o comentario no dudes en abrir un issue. 
+
+Los temas incluídos en esta currícula tienen las siguientes referencias:
+
+* [Jared Spool on UX design](https://blog.intercom.com/jared-spool-on-ux-design/)
+* [Let’s stop talking about THE design process](https://medium.com/stanford-d-school/lets-stop-talking-about-the-design-process-7446e52c13e8)
+* [InVision’s Aarron Walter on design culture](https://blog.intercom.com/invisions-aarron-walter-on-design-culture/)
 
 ## Los _cursos_
 
