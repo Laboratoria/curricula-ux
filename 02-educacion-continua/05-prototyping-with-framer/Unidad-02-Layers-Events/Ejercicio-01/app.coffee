@@ -74,6 +74,12 @@ titulo = new TextLayer
   width: tarjeta.width - 120 - 24
   height: 100
 
+############# !!!!!!
+
+# Actualmente hay un bug donde si no defines un fontFamily, saltara un error.
+# Tener esto muy en cuenta.
+
+############# !!!!!!
 
 # A continuacion, un parrafo (usando un TextLayer nuevamente)
 
