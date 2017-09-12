@@ -52,6 +52,7 @@ Una introducción a Framer.JS, cómo funciona, lo que puedes crear con Framer y 
 | 04 | Charla | ? min | [Ejemplos creados con Framer.JS](https://docs.google.com/document/d/1ixC0Erfi8iILZFKI2WadLOYlJe7b5JODdlseU6NJDP0/edit?usp=sharing)
 | 05 | Charla | ? min | [Como usar Framer.JS](https://docs.google.com/presentation/d/1uhG6qJnMMNyuTa6JLijSeaUpgx81UzTkeKL-EIAkUVo/edit?usp=sharing)
 
+
 ##### Links
 * [Run Framer on Windows](https://medium.com/microsoft-design/how-to-run-framer-js-on-windows-94e6a06abfe4)
 
@@ -66,10 +67,11 @@ Practica una vez mas como empezar un proyecto de Framer.JS en tu computadora. Lu
 | # | Tipo | Duración | Tópico
 | - | ---- | -------- | ------
 | 01 | Ejercicio | ? min | Inicia un proyecto de Framer en tu computadora
-| 02 | Lectura + Ejercicio | ? min | [Framer Cheat Sheet: Layer Styling](https://blog.framer.com/framer-cheat-sheet-layer-styling-9d32246716e8?source=user_profile---------6----------------), Tess Gadd
-| 03 | Lectura + Ejercicio | ? min | [The A-Z of Framer’s Text Layer](https://blog.framer.com/the-a-to-z-of-framers-text-layers-e4b99aa7a008), Tes Mat
-| 04 | Explora | 12 min | [Proyectos de Framer en Dribbble](https://dribbble.com/tags/framer)
-| 05 | Explora | 12 min | [Proyectos de Framer en el grupo de Facebook](https://www.facebook.com/groups/framerjs)
+| 02 | Lectura | ? min | [Framer intro to programming](https://framer.com/getstarted/guides/programming/?utm_source=twitter&utm_medium=koenbok&utm_campaign=programming)
+| 03 | Lectura + Ejercicio | ? min | [Framer Cheat Sheet: Layer Styling](https://blog.framer.com/framer-cheat-sheet-layer-styling-9d32246716e8?source=user_profile---------6----------------), Tess Gadd
+| 04 | Lectura + Ejercicio | ? min | [The A-Z of Framer’s Text Layer](https://blog.framer.com/the-a-to-z-of-framers-text-layers-e4b99aa7a008), Tes Mat
+| 05 | Explora | 12 min | [Proyectos de Framer en Dribbble](https://dribbble.com/tags/framer)
+| 06 | Explora | 12 min | [Proyectos de Framer en el grupo de Facebook](https://www.facebook.com/groups/framerjs)
 
 
 ##### En clase
