@@ -13,31 +13,11 @@ En esta lección las estudiantes conocerán qué es User Experience, qué es Use
 | - | ---- | -------- | ------
 | 01 | video | 3 min | [Qué es User Experience Design](https://www.youtube.com/watch?v=A_gHQq9iLxg)
 | 02 | video | 5 min | [¿Por qué estudiamos UX?](#)
-| 03 | video | 5 min | [Estado actual del UX Design en latinoamérica](#)
-| 04 | video | 5 min | [¿Qué características tiene un buen UX Designer?](#)
-| 05 | lectura | 20 min | [User Experience Design - Why it matters](https://drive.google.com/file/d/0B0NdG2VNCDPzb0hzVnc1MjVzc28/view)
-| 06 | clase | 20 min | Metodología involucradas en UX Design - Human Centered Design y LEAN Startup 
-| 07 | clase | 20 min | El proceso de UX Design 
-| 08 | ejercicio | 90 min | [The 90 minute prototype](http://toolbox.hyperisland.com/90-minute-prototypes)
-
-
-
-### Lección 02: [Flows](/01-bootcamp/03-user-experience-design-bootcamp-2017-2/02-flows.md)
-4h (presencial)
-
-¿Qué es un sistema? ¿Cómo somos todos partes de un sistema? Durante esta sesión las estudiantes aprenderán sobre sistemas y "System Thinking". Terminarán construyendo flujos de usuarios que las ayude a visualizar el camino que seguirán los usuarios para completar tareas en sus aplicaciones.
-
-| # | Tipo | Duración | Tópico
-| - | ---- | -------- | ------
-| 01 | video | 15 min | [What is a system?](https://www.youtube.com/watch?v=OqEeIG8aPPk)
-| 02 | lectura | 20 min | [Intro to system thinking](https://thesystemsthinker.com/introduction-to-systems-thinking/) 
-| 03 | clase | 20 min | ¿Cómo aplicamos System Thinking en la creación de productos digitales?
-| 04 | clase | 30 min | Tasks - User Flows
-| 05 | ejercicios | 20 min | Crear User Flow de Log - in / Sign - up de Facebook
-| 06 | ejercicios | 60 min | Identificar principales tareas del `dashboard`
-| 07 | ejercicios | 60 min | Crear User Flow de 4 tareas del `dashboard`
-
-
+| 03 | video | 5 min | [¿Qué características tiene un buen UX Designer?](#)
+| 04 | lectura | 20 min | [User Experience Design - Why it matters](https://drive.google.com/file/d/0B0NdG2VNCDPzb0hzVnc1MjVzc28/view)
+| 05 | clase | 20 min | Metodología involucradas en UX Design - Human Centered Design y LEAN Startup 
+| 06 | clase | 20 min | El proceso de UX Design 
+| 07 | ejercicio | 90 min | [The 90 minute prototype]()
 
 
 ### Lección 03: [Sketching](/01-bootcamp/03-user-experience-design-bootcamp-2017-2/03-sketching.md)
@@ -67,8 +47,7 @@ Toda persona que trabaje en tecnología debería conocer principios de visual de
 | - | ---- | -------- | ------
 | 01 | Video | 30 min | [Visual Design for non-designers](https://www.youtube.com/watch?v=uKpfO331DY4)
 | 02 | Lectura | 30 min | [7 rules for creating gorgous UI - part I](https://medium.com/@erikdkennedy/7-rules-for-creating-gorgeous-ui-part-1-559d4e805cda)
-| 03 | Lectura | 30 min | [7 rules for creating gorgous UI - part II](https://medium.com/@erikdkennedy/7-rules-for-creating-gorgeous-ui-part-2-430de537ba96
-)
+| 03 | Lectura | 30 min | [7 rules for creating gorgous UI - part II](https://medium.com/@erikdkennedy/7-rules-for-creating-gorgeous-ui-part-2-430de537ba96)
 | 04 | Ejercicio | 30 min | Design Critique app TBD
 | 05 | Ejercicio | 30 min | Design Critique `Dashboard`
 
