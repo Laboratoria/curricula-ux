@@ -78,8 +78,6 @@ Secondary tags: `ui`
 Tiempo estimado: _1 semana_.
 
 
-
-
 #### User Experience Design
 
 En este track se encontrarán las estudiantes que sientan una mayor afinidad con
@@ -102,6 +100,7 @@ el diseño de experiencia de usuario, de tal manera que puedan especializarse en
 ***
 
 ### Educación continua 
+
 
 #### [01: Intro a UX Design 1](/02-educacion-continua/01-intro-uxd-1/)
 
@@ -229,5 +228,7 @@ Todos los materiales de este repo son (c) 2017 [Laboratoria](http;//laboratoria.
 
 [![Creative Commons License](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-nc-nd/4.0/)
 
+
 Este trabajo está publicado bajo la licencia [Creative commons
 Attribution-ShareAlike 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+
