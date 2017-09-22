@@ -10,4 +10,4 @@ Una introducción a Framer.JS, cómo funciona, lo que puedes crear con Framer y 
 
 | # | Tipo | Duración | Tópico
 | - | ---- | -------- | ------
-| 01 | Lectura | ? min | [Introducción a Framer](/intro.md)
+| 01 | Lectura | ? min | [Introducción a Framer](/Unidad-01-Intro/intro.md)
