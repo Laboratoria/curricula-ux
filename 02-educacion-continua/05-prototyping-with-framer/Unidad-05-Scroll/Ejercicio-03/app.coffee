@@ -19,10 +19,6 @@ Screen.backgroundColor = "#FFF"
 scroll = new ScrollComponent
     size: Framer.Screen
 
-# En este ejemplo, tambien tendremos que cambiar como ubicamos los layers en el eje x e y, ya que deben posicionarse hacia la derecha para poder ser luego 'scrolleadas' horiontalmente.
-
-# En el modelo vertical, las ponemos una debajo de la otra
-
 # Añadamos un layer
 layerA = new Layer
     parent: scroll.content
@@ -44,6 +40,3 @@ layerC = new Layer
 # Con esta linea, el componente de scroll solo funcionara para moverse horizontalmente
 
 scroll.scrollVertical = false
-
-# En el siguiente ejercicio haremos algo interesante: un scroll dentro de un scroll
-# Esto presenta una serie de retos que usando eventos podemos resolver
