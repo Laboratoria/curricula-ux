@@ -87,6 +87,7 @@ Durante el curso las estudiantes trabajarán en proyectos cortos y rápidos usan
 
 ## Links
 * [Framer Modules](https://github.com/kysely/framer-modules#docs), Radek Kyselý
+* [Using Web Fonts with Framer](http://framergroup.com/posts/580251878768554.html)
 * [Sticky Headers Module](https://github.com/72/StickyHeaders-for-Framer), Juan Mena
 * [Framer Code](http://framerco.de), Jordan Robert Dobson
 * [Framed: Windows Framer app](https://www.microsoft.com/en-us/store/p/framed/9nblggh4nxcp), Weston Thayer

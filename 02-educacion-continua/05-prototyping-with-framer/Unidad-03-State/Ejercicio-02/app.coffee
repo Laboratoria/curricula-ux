@@ -3,7 +3,7 @@
 
 # Unidad - 03
 # Ejercicio - 03
-# Puesta de sol
+# Creando un boton con states
 
 ################################################
 ################################################
@@ -15,7 +15,7 @@ Device.deviceType = "apple-iphone-7-silver"
 
 Screen.backgroundColor = "#fff"
 
-# Empezemos creando un Layer
+# Empezemos creando un el boton
 
 button = new Layer
   borderRadius: 4
@@ -31,30 +31,12 @@ button = new Layer
     'justify-content' : 'center'
     'color' : 'rgba(0,0,0,.8)'
 
-# Para cada estado podemos definir como se animara un cambio a ella.
-# Esto se hace asi:
-# layer.state.exampleState =
-#   x: 100
-#   animationOptions:
-#      time: 0.25
-#      curve: 'ease-in'
-
-# No es necesario entrar en el detalle, pero animationOptions es en realidad un objeto
-# Asi que podemos crear una variable que sea un objeto si vamos a usar una y otra vez estos valores
-# Asi podemos cambiar convenientemente los valores para las animaciones de varios estados en un solo lugar
+# Creando el objeto buttonAnimation que tendra el tiempo de nuestras animaciones
 
 buttonAnimation =
       time: 0.5
 
-# Tambien pudimos haber hecho
-# myTime = 0.5
-# y luego
-# ...
-#  animationOptions:
-#      time: myTime
-
-# Si ves alguna propiedad que no reconozcas, recuerda que todo esta en https://framer.com/docs
-# Igual, la mejor forma de entenderlos y acordartelos va a ser que juegues con ellos aqui cambiandolos.
+# Creando los estados del boton
 
 button.states =
   rest:
@@ -77,13 +59,12 @@ button.states =
     scale: .98
     animationOptions: buttonAnimation
 
-# Luego, creemos una serie de eventos que usaremos para llamar los cambios de estado
-# Como cuando mouse esta sobre el boton
+# Cuando hacemo hover
 
 button.on Events.MouseOver, ->
   button.animate('hover')
 
-# Cuando sale
+# Cuando dejamos de hacer hover
 
 button.on Events.MouseOut, ->
   button.animate('rest')
@@ -97,12 +78,3 @@ button.on Events.MouseDown, ->
 
 button.on Events.MouseUp, ->
   button.animate('hover')
-
-# Un detalle a resaltar:
-# Fijate como escribimos estos eventos diferente al que usamos en la clase pasada:
-
-# button.onClick ->
-# VS
-# button.on Events.MouseDown, ->
-
-# Hay una ',' despues de 'Events.MouseDown' que siempre hay que colocar

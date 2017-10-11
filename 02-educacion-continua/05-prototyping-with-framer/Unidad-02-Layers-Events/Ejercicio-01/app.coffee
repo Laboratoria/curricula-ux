@@ -13,39 +13,25 @@ Device = new DeviceComponent
 Device.setupContext()
 Device.deviceType = "apple-iphone-6s-space-gray"
 
-# Podemos cambiar facilmente el color de fondo de la pantalla
+# Cambiando el color de fondo de la pantalla
 Screen.backgroundColor = "#00AAFF"
 
-# Como primer paso, aprendamos a crear un Layer
-# En Framer, lo que hacemos es crear objetos (de JavaScript)
-# Este curso sera muy practico, asi que no entraremos aqui en detalle
-
-# Creemos entonces un Layer (capa) llamado tarjeta
-# Y cambiemos el borderRadius, una de sus propiedades, a 10
+# Creando un Layer con border radius de 10
 
 tarjeta = new Layer
   borderRadius: 10
 
-# Cuando creamos un objeto, como viste, podemos editar sus propiedades.
-# Todos los objetos vienen con valores por defecto en todas sus propiedades
-# Una vez que hemos creado un objeto, si queremos editar una de sus propiedades, se hace de esta forma
-# (En este caso, editaremos el ancho(width), alto(height), x,y y color de fondo)
+# Editando el width de tarjeta luego de crearlo
 
 tarjeta.width = Framer.Screen.width - 32
 
-# Ojo que aqui usamos '=' en vez de ':' para las propiedades
+# Ojo que aqui usamos '=' en vez de ':' para editar los valores de las propiedades
 
 tarjeta.height = Framer.Screen.height - 32
 tarjeta.point = 16
 tarjeta.backgroundColor = 'white'
 
-
-# Coloquemos ahora una imagen
-# Las imagenes son tambien capas, simplemente definimos la imagen que vamos a usar.
-# Framer viene con un folder llamado 'images'.
-# En realidad podriamos poner la imagen en cualquier folder,
-# pero por orden y para respetar como se suelen organizar los proyectos en Framer,
-# recomiendo ponerlos alli
+# Creando una imagen
 
 imagen = new Layer
   image: 'images/img.jpg'
@@ -54,15 +40,7 @@ imagen = new Layer
   size: 120
   point: 12
 
-# Un detalle importante a resaltar es la propiedad 'parent'
-# Las coordenadas (x, y) seran calculadas en base al padre
-# Ademas, en esta segunda capa usamos la propiedad 'point' en vez de x e y.
-# Point: 12 === x: 12, y: 12
-# Size hace lo mismo, donde size: 120 === height: 120, width: 120
-
-# Luego, creemos un titulo con un TextLayer
-# El TextLayer es una capa que permite anadir texto
-# tiene algunas propiedades adicionales, como manejo inteligente de las dimensiones del objeto y mas
+# Creando un TextLayer
 
 titulo = new TextLayer
   x: 12 + 120 + 12
@@ -120,4 +98,4 @@ titulo.onClick ->
 parrafo.onClick ->
   print 'PARRAFO!'
 
-# Hay muchos otros tipos de eventos, revisalos y exploralos
+# Hay muchos otros tipos de eventos, revisalos y exploralos en los Docs de Framer.

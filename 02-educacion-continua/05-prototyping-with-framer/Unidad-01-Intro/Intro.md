@@ -4,8 +4,8 @@
 
 * Que es Framer
 * Por que Framer
+* Como usaremos Framer.JS
 * Ejemplos creados con Framer
-* Como usar Framer.JS
 
 ## Que es Framer
 
@@ -35,6 +35,37 @@ Pregunte en el grupo de Framer en Facebook...por que Framer. Esto es lo que me r
 ![Comentario 4](comment-4.png)
 ![Comentario 5](comment-5.png)
 
+## Como usaremos Framer.JS
+
+Aqui los pasos que seguiremos para iniciar un proyecto de Framer.JS.
+
+1. [Descarga](https://builds.framerjs.com/version/latest/Framer.zip?utm_source=GitHub%2C%20framerjs%2C%20readme&utm_medium=Github) la ultima version estable de Framer
+2. Veras que haz descargado un folder con esto:
+
+![Estructura del folder](file.png)
+
+A lo que tenemo que prestarle atencion realmente es al folder "project". Y especificamente, el archivo con el que trabajaremos es "app.js".
+
+3. Antes de abrir "app.js", cambia su nombre a "app.coffee".
+4. Te recomiendo usar el editor de texto Atom y la extension "coffee-compile". Lo que esto hara es que nos permitira trabajar con un archivo CoffeeScript, y cada vez que guardes tu archivo, lo compilara en JS. Esto se puede hacer tambien via el Command Line o Terminal, pero con esta extension es mucho mas rapido.
+
+Una vez que hayas instalado la extension "coffee-compile", asegurate de que esten marcadas estos checkboxes en los settings de la extension:
+
+![Seleccionar estas dos opciones asi](settings.png)
+
+*¿Por que no usar js?*: si bien Framer.JS es un framework de JS, como Framer (el app), usa CoffeeScript, todos los tutoriales y ejemplos que encontraras online tambien lo usan.
+
+5. Con eso ya esta todo listo para prototipar con Framer. Lo unico que tienes que hacer es trabajar en el archivo app.coffee, y ver tu prototipo abrir index.html.
+
+6. **Extra:** Puedes usar BSi abres tu Command Line / Terminal, navegas al folder de Framer
+
+Puedes leer esto mas detalle en este [tutorial](http://www.prototypingwithframer.com/framer-on-windows-with-atom/).
+
+Crear un hello world con print
++ CoffeeScript
++ dispositivo
++ Browser sync: http://browsersync.io/
+
 ## Ejemplos creados con Framer
 
 Estos son algunos ejemplos de lo que puedes crear con Framer. Presta atencion a lo que es posible, y luego te invito a abrir los proyectos en tu editor de texto y trates de empezar a entender el codigo.
@@ -52,3 +83,4 @@ Estos son algunos ejemplos de lo que puedes crear con Framer. Presta atencion a 
 * Transiciones: https://framer.cloud/QcHRZ/
 * Scroll y esconder: https://framer.cloud/nvTZi/
 * Páginas: https://framer.cloud/mCgFk
+

@@ -3,7 +3,7 @@
 
 # Unidad - 02
 # Ejercicio - 02
-# Recreando una terjeta de Iris App
+# Recreando una tarjeta de Iris App
 
 ################################################
 ################################################
