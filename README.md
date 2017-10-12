@@ -108,11 +108,194 @@ La definición de qué temas irán en c/u es WIP.
 
 ##### [06: User Experience Design 01](/01-bootcamp/01-User-Experience-Design-1)
 
+
+###### Research 1
+
+| # | Tipo | Duración | Tópico
+| - | ---- | -------- | ------
+| 01 | TBD | TDB | [Asking the right question](#)
+| 02 | TBD | TDB | [The research plan](#)
+| 03 | TBD | TDB | [Intro to interviews](#)
+| 04 | TBD | TDB | [Usability testing](#)
+
+
+
+###### Synthesizing 1 
+
+| # | Tipo | Duración | Tópico
+| - | ---- | -------- | ------
+| 01 | TBD | TDB | [Affinity mapping](#)
+| 02 | TBD | TDB | [HMW 1](#)
+
+
+
+###### Visual Design 
+
+
+| # | Tipo | Duración | Tópico
+| - | ---- | -------- | ------
+| 01 | TBD | TDB | [Patterns](#)
+| 02 | TBD | TDB | [Trends](#)
+| 03 | TBD | TDB | [Critique](#)
+| 04 | TBD | TDB | [Accessibility](#)
+
+
+
+###### Prototyping 1
+
+| # | Tipo | Duración | Tópico
+| - | ---- | -------- | ------
+| 01 | TBD | TDB | [Prototyping mindset](#)
+| 02 | TBD | TDB | [Figma](#)
+| 03 | TBD | TDB | [Marvel](#)
+
+
 ##### [07: User Experience Design 02](/01-bootcamp/02-User-Experience-Design-2)
+
+###### Information Architecture
+
+
+| # | Tipo | Duración | Tópico
+| - | ---- | -------- | ------
+| 01 | Video | 05 min | [¿Qué es arquitectura de la información?](#)
+| 02 | Video |30 min |[How to make sense of any mess](https://vimeo.com/139025676)
+| 03 | Video |10 min | [Intro a Card Sorting]()
+| 04 | Ejercicio | 10 min | Online Card Sorting
+| 05 | Clase | 30 min | Plan de una actividad de Card Sorting para el Dashboard
+| 06 | Ejercicio | 30 min | Actividad de Card Sorting con usuarios
+
+
+
+###### Research 2
+
+| # | Tipo | Duración | Tópico
+| - | ---- | -------- | ------
+| 01 | TBD | TDB | [The art of interviewing](#)
+| 02 | TBD | TDB | [Recruiting users](#)
+
+
+
+###### Competitive Analysis
+
+| # | Tipo | Duración | Tópico
+| - | ---- | -------- | ------
+| 01 | TBD | TDB | [Competitive Analysis](#)
+
+
+
+###### Synthesizing 2
+
+| # | Tipo | Duración | Tópico
+| - | ---- | -------- | ------
+| 00 | TBD | TDB | [User Personas](#)
+| 01 | TBD | TDB | [Putting personas to work](https://vimeo.com/212958539)
+| 02 | TBD | TDB | [Customer Journey Maps](#)
+| 03 | TBD | TDB | [Problem statements](#)
+| 04 | TBD | TDB | [Advanced HMW](#)
+| 05 | TBD | TDB | [What if](#)
+| 06 | TBD | TDB | [Prioritization](#)
+| 07 | TBD | TDB | [MVP definition](#)
+
+
+
+###### Ideation techniques
+
+| # | Tipo | Duración | Tópico
+| - | ---- | -------- | ------
+| 01 | TBD | TDB | [Benchmarks](#)
+| 02 | TBD | TDB | [Crazy 8s](#)
+| 03 | TBD | TDB | [Prioritization](#)
+
 
 ##### [08: User Experience Design 03](/01-bootcamp/02-User-Experience-Design-3)
 
+###### Research 3
+
+| # | Tipo | Duración | Tópico
+| - | ---- | -------- | ------
+| 01 | TBD | TDB | [Data analysis](#)
+| 02 | TBD | TDB | [Evaluative data](#)
+| 03 | TBD | TDB | [Generative data](#)
+
+
+
+###### Interaction Design
+
+| # | Tipo | Duración | Tópico
+| - | ---- | -------- | ------
+| 01 | TBD | TDB | [Gestures](#)
+| 02 | TBD | TDB | [Capabilities](#)
+
+
+###### Interactive prototyping
+
+| # | Tipo | Duración | Tópico
+| - | ---- | -------- | ------
+| 01 | TBD | TDB | [Framer](#)
+| 02 | TBD | TDB | [Squarespace](#)
+
+
+
+###### Systems & flows 2
+
+| # | Tipo | Duración | Tópico
+| - | ---- | -------- | ------
+| 01 | TBD | TDB | [Styleguides](#)
+| 02 | TBD | TDB | [User flows](#)
+| 03 | TBD | TDB | [Storyboards](#)
+
+
 ##### [09: User Experience Design 04](/01-bootcamp/02-User-Experience-Design-4)
+
+###### Communications
+
+| # | Tipo | Duración | Tópico
+| - | ---- | -------- | ------
+| 01 | TBD | TDB | [Presenting](#)
+| 02 | TBD | TDB | [Storytelling](#)
+| 03 | TBD | TDB | [Documentation](#)
+| 04 | TBD | TDB | [UX writing](#)
+
+
+
+###### Design sprints
+
+| # | Tipo | Duración | Tópico
+| - | ---- | -------- | ------
+| 01 | TBD | TDB | [Usage](#)
+| 02 | TBD | TDB | [Importance](#)
+| 03 | TBD | TDB | [Process](#)
+| 04 | TBD | TDB | [Monday](#)
+| 05 | TBD | TDB | [Tuesday](#)
+| 06 | TBD | TDB | [Wednesday](#)
+| 07 | TBD | TDB | [Thrusday](#)
+| 08 | TBD | TDB | [Friday](#)
+
+
+
+###### Metrics
+
+| # | Tipo | Duración | Tópico
+| - | ---- | -------- | ------
+| 01 | TBD | TDB | [HEART Framework](#)
+
+
+
+###### Growth
+
+| # | Tipo | Duración | Tópico
+| - | ---- | -------- | ------
+| 01 | TBD | TDB | [Conversion funnels](#)
+| 02 | TBD | TDB | [Landing page optimization](#)
+
+
+
+###### Browser Prototyping and MVPs
+
+| # | Tipo | Duración | Tópico
+| - | ---- | -------- | ------
+| 01 | TBD | TDB | [HTML / CSS / JS](#)
+| 02 | TBD | TDB | [Firebase](#)
 
 
 
