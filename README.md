@@ -58,7 +58,7 @@ con la intención de descubrir su afinidad, no se verán todos los temas en
 profundidad, pero sí lo necesario para poder entender en qué track
 especializarse.
 
-##### [04: Intro a User Experience Design](/01-bootcamp/03-user-experience-design-bootcamp-2017-2/00-intro-ux-design)
+##### [04: Intro a User Experience Design](/01-bootcamp/00-intro-ux-design)
 
 Autor: _Lalo Gonzalez_
 
@@ -86,14 +86,32 @@ el diseño de experiencia de usuario, de tal manera que puedan especializarse en
 
 ### Bootcamp
 
+En estos cursos aprenderemos sobre los siguientes temas:
 
-##### [06: User Experience Design 01](/01-bootcamp/03-user-experience-design-bootcamp-2017-2/01-User-Experience-Design-1)
 
-##### [07: User Experience Design 02](/01-bootcamp/03-user-experience-design-bootcamp-2017-2/02-User-Experience-Design-2)
+| Research | Sintesis| Ideación | Prototipado
+| -------- | --------| ---------|-------------
+| Entrevistas| Diagramas de afinidad| Inspiración | Sketches
+| Observación| Scope canvas| Museo de arte | Wireframes
+| Análitica| User Personas | Crazy 8s | Visual Design
+| Benchmarks (Análisis competitivo y comparativo)| Mapas de empatía| Brainstorming| Prototipo navegable
+| Analítica| User Flows | Storyboards| Prototipo interactivo
+| Encuestas| Costumer journey maps | Priorización - decisión| 
+| Auditoría (contenido)| Stakeholde maps |          | 
+| Análisis heurísitico| HMW - What if|          | 
+| Card Sorting| Priorización - MVPs|          | 
+| Tree testing| Presentación a stakeholders |          | 
+| KPIs| Historias de usuarios |          | 
 
-##### [08: User Experience Design 03](/01-bootcamp/03-user-experience-design-bootcamp-2017-2/02-User-Experience-Design-3)
 
-##### [09: User Experience Design 04](/01-bootcamp/03-user-experience-design-bootcamp-2017-2/02-User-Experience-Design-4)
+
+##### [06: User Experience Design 01](/01-bootcamp/01-User-Experience-Design-1)
+
+##### [07: User Experience Design 02](/01-bootcamp/02-User-Experience-Design-2)
+
+##### [08: User Experience Design 03](/01-bootcamp/02-User-Experience-Design-3)
+
+##### [09: User Experience Design 04](/01-bootcamp/02-User-Experience-Design-4)
 
 
 
@@ -138,7 +156,7 @@ Tiempo estimado: _4 semanas_.
 
 Autor: _Lalo Gonzalez_
 
-En este curso se aprenderán a fondo técnicas de UX Research. Principalmente técnicas cualitativas como `entrevistas` y `tests de usabilidad`. 
+Este curso es la continuación de Intro a UX Design 1. En este curso aprenderemos a usar Figma y Marvel como herramientas de prototipado y aprenderemos a llevar a cabo sesiones de Usability Testing. S
 
 * **Producto**: 
 
@@ -164,7 +182,7 @@ Tiempo estimado: _4 semanas_.
 
 #### [04: Visual Design](/02-educacion-continua/04-visual-design/)
 
-Autor: _Eduardo Alarcón_
+Autor: _Luisa Mancera_
 
 En este curso se aprenderán las bases del diseño visual. 
 
@@ -172,7 +190,7 @@ En este curso se aprenderán las bases del diseño visual.
 
 Main tags: `ux design`, `ui design`, `visual design`
 
-Secondary tags: `contraste`, `repeticion`,`alineacion`,`proximidad`,`jerarquia visual`, `tipogragría`,`teoría de gestalt`, `teoría del color`
+Secondary tags: `contraste`, `repeticion`,`alineacion`,`proximidad`,`jerarquia visual`, `tipogragría`, `teoría del color`
 
 Tiempo estimado: _4 semanas_.
 
@@ -183,22 +201,16 @@ Autor: _Arturo Goicochea_
 En este curso se aprenderán las bases y la importancia de usar [Framerjs](http://www.framer.com) para prototipar interacciones más reales. Utilizaremos la librería de `javascript` de Framer y también usaremos Figma como herramienta para el diseño visual. Durante el curso, se construirán 4 prototipos, uno en cada sesión:
 
 
-* **Producto 1**: 
-* **Producto 2**:
-* **Producto 3**:
-* **Producto 4**: 
-
-
 Main tags: `ux design`, `prototipado`, `framer`
 
 Secondary tags: `coffee-script`
 
 Tiempo estimado: _4 semanas_.
 
+#### [06: Comunicación para diseñadores](#)
+#### [07: Arquitectura de la información](#)
+#### [08: Service Design](#)
 
-#### [06: Ideation techniques](#)
-#### [07: Service Design](#)
-#### [08: Comunicación para diseñadores](#)
 
 *** 
 
