@@ -53,7 +53,7 @@ Practica una vez mas como empezar un proyecto de Framer.JS en tu computadora. Lu
 
 | # | Tipo | Duración | Tópico
 | - | ---- | -------- | ------
-| 01 | Ejercicio | ? min | Inicia un proyecto de Framer en tu computadora
+| 01 | Ejercicio | 10 min | Inicia un proyecto de Framer en tu computadora
 | 02 | Lectura | ? min | [Framer intro to programming](https://framer.com/getstarted/guides/programming/?utm_source=twitter&utm_medium=koenbok&utm_campaign=programming)
 | 03 | Lectura + Ejercicio | ? min | [Framer Cheat Sheet: Layer Styling](https://blog.framer.com/framer-cheat-sheet-layer-styling-9d32246716e8?source=user_profile---------6----------------), Tess Gadd
 | 04 | Lectura + Ejercicio | ? min | [The A-Z of Framer’s Text Layer](https://blog.framer.com/the-a-to-z-of-framers-text-layers-e4b99aa7a008), Tes Mat
