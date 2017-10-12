@@ -1,8 +1,4 @@
-**::::::::: DRAFT :::::::::**
-
-Ver status en: [Status Curso Framer](https://docs.google.com/spreadsheets/d/13WpVO5qfp_j7b94xdRIdzHhDC-smxiMNW9koRcQDQwI/edit?usp=sharing)
-
-# Semana 2 - Unidad 01: Usando los componentes de Framer: Scroll
+# Lección 05: Usando los componentes de Framer: Scroll
 
 TBD min
 
