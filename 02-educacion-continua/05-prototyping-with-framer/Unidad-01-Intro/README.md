@@ -23,7 +23,7 @@ Una introducción a Framer.JS, cómo funciona, lo que puedes crear con Framer y 
 * Como usaremos Framer.JS
 * Ejemplos creados con Framer
 
-### Que es Framer
+### Qué es Framer
 
 “Framer Library” o Framer.JS es un framework open source de JavaScript para crear prototipos de alta fidelidad. Usalo para diseñar animaciones e interacciones sin ninguna limitante. Usa “real spring physics” o anima con efectos 3D, todo es posible.
 
@@ -34,13 +34,13 @@ Luego, tambien existe Framer (antes llamado Framer Studio), que es un app para M
 
 Framer (el app de Mac), es una herramienta de diseno para Mac que te permite diseñar sin límites. Está basada en Framer Library, y ofrece la familiaridad de un editor gráfico con la flexibilidad del código. Incluye un previsualizador de dispositivo, versión control, y compartir con un solo click.
 
-### Cual es realmente la diferencia
+### Cuél es realmente la diferencia
 
 En cuanto a usar las capacidades de Framer como framework de JavaScript, ninguna. El app de Mac lo hace un poco mas facil y autmoatizado, ademas de añadir un modo de diseño. Luego, puedes crear lo mismo.
 
-### Por que Framer
+### Por qué Framer
 
-* **El poder del codigo**: Lo que separa a Framer del resto, es que tienes el poder y flexibilidad del codigo a tu disposición. Y el framework está hecho de tal forma que hace construir prototipos mas facil y rapido.
+* **El poder del código**: Lo que separa a Framer del resto, es que tienes el poder y flexibilidad del codigo a tu disposición. Y el framework está hecho de tal forma que hace construir prototipos mas facil y rapido.
 * **El poder de la comunidad**: La comunidad de personas que usa Framer también es genial. Verás que quien lo usa, lo ama y defiende...y le encanta ayudar. El grupo de Facebook de Framer es gran prueba de ayuda, donde se publican preguntas y comparten proyectos.
 
 Pregunte en el grupo de Framer en Facebook...por que Framer. Esto es lo que me respondieron (incluido el mio):
@@ -59,12 +59,12 @@ Igual que puedes usar Sass o Less y transpilarlos a CSS, con CoffeeScript sucede
 
 Esto significa que el codigo que usaremos en Framer sera un poco diferente. Esto fue hecho porque, en su momento, JavaScript no era tan amigable (ahora tenemos ES6).
 
-### Como usaremos Framer.JS
+### Cómo usaremos Framer.JS
 
 Aqui los pasos que seguiremos para iniciar un proyecto de Framer.JS.
 
-1. [Descarga](https://builds.framerjs.com/version/latest/Framer.zip?utm_source=GitHub%2C%20framerjs%2C%20readme&utm_medium=Github) la ultima version estable de Framer
-2. Veras que haz descargado un folder con esto:
+1. [Descarga](https://builds.framerjs.com/version/latest/Framer.zip?utm_source=GitHub%2C%20framerjs%2C%20readme&utm_medium=Github) la ultima versión estable de Framer
+2. Verás que haz descargado un folder con esto:
 
 ![Estructura del folder](file.png)
 

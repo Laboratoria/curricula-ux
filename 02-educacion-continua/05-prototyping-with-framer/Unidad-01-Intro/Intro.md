@@ -7,7 +7,7 @@
 * Como usaremos Framer.JS
 * Ejemplos creados con Framer
 
-## Que es Framer
+## Qué es Framer
 
 “Framer Library” o Framer.JS es un framework open source de JavaScript para crear prototipos de alta fidelidad. Usalo para diseñar animaciones e interacciones sin ninguna limitante. Usa “real spring physics” o anima con efectos 3D, todo es posible.
 
@@ -16,13 +16,13 @@ Luego, tambien existe Framer (antes llamado Framer Studio), que es un app para M
 ![Framer para Mac](dribbble.gif "Framer")
 
 
-Framer (el app de Mac), es una herramienta de diseno para Mac que te permite diseñar sin límites. Está basada en Framer Library, y ofrece la familiaridad de un editor gráfico con la flexibilidad del código. Incluye un previsualizador de dispositivo, versión control, y compartir con un solo click.
+Framer (el app de Mac), es una herramienta de diseño para Mac que te permite diseñar sin límites. Está basada en Framer Library, y ofrece la familiaridad de un editor gráfico con la flexibilidad del código. Incluye un previsualizador de dispositivo, versión control, y compartir con un solo click.
 
-## Cual es realmente la diferencia
+## Cuél es realmente la diferencia
 
-En cuanto a usar las capacidades de Framer como framework de JavaScript, ninguna. El app de Mac lo hace un poco mas facil y autmoatizado, ademas de añadir un modo de diseño. Luego, puedes crear lo mismo.
+En cuanto a usar las capacidades de Framer como framework de JavaScript, ninguna. El app de Mac lo hace un poco mas fácil y autmoatizado, además de añadir un modo de diseño. Luego, puedes crear lo mismo.
 
-## Por que Framer
+## Por qué Framer
 
 * **El poder del codigo**: Lo que separa a Framer del resto, es que tienes el poder y flexibilidad del codigo a tu disposición. Y el framework está hecho de tal forma que hace construir prototipos mas facil y rapido.
 * **El poder de la comunidad**: La comunidad de personas que usa Framer también es genial. Verás que quien lo usa, lo ama y defiende...y le encanta ayudar. El grupo de Facebook de Framer es gran prueba de ayuda, donde se publican preguntas y comparten proyectos.
