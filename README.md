@@ -86,7 +86,7 @@ el diseño de experiencia de usuario, de tal manera que puedan especializarse en
 
 ### Bootcamp
 
-En estos cursos aprenderemos sobre los siguientes temas:
+Los 4 cursos del UX Bootcamp, incluirán los siguientes temas ordenados para que se puedan pasar por ciclos completos de diseño durante cada curso:
 
 
 | Research | Sintesis| Ideación | Prototipado
@@ -104,6 +104,7 @@ En estos cursos aprenderemos sobre los siguientes temas:
 | KPIs| Historias de usuarios |          | 
 
 
+La definición de qué temas irán en c/u es WIP.
 
 ##### [06: User Experience Design 01](/01-bootcamp/01-User-Experience-Design-1)
 
