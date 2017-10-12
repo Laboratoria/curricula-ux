@@ -85,3 +85,5 @@ Hay muchos otros tipos de eventos, revisalos y exploralos en los [Docs de Framer
 ## Ejercicio 02: Recreando una tarjeta de Iris App
 
 Ahora es tu turno. Dentro de la carpeta Ejercicio-02, hay una imagen de una tarjeta de salud que implementa Iris, un app muy interesante (del que puedes leer mas en [getiris.com](http://getiris.com)). Intenta recrearla con Framer.
+
+![Iris](/Ejercicio-02/iris-iphone.png)
