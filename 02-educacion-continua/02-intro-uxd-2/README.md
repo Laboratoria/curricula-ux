@@ -62,7 +62,7 @@ Durante este curso, seguirás desarrollando tus habilidades como UX Designer y c
 | 02 | Video | 30 min | [Marvel](#)
 | 03 | Ejercicio | 50 min | [Prototipado con Marvel y Figma](#)
 
-### Lección: [Visual Design](#)
+### Lección: [Conceptos de Visual Design](#)
 
 20min (Self-paced)
 
@@ -84,8 +84,6 @@ Durante este curso, seguirás desarrollando tus habilidades como UX Designer y c
 ## Autor(es) / Colaboradores
 
 * Lalo González
-* TBD
-* TBD
 
 ## Libros
 
