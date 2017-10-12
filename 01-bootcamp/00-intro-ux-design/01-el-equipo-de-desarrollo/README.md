@@ -29,7 +29,3 @@ Luego de ver el video, intenta responder las siguientes preguntas:
 * ¿Qué hace un Product Manager?
 * ¿Qué hace un Growth Hacker?
 
-
-*** 
-
-[Continuar](/01-bootcamp/03-user-experience-design-bootcamp-2017-2/00-intro-ux-design/02-ux-design.md)
