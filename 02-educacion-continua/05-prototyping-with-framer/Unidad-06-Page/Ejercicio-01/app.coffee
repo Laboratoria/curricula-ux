@@ -14,19 +14,13 @@ Device.setupContext()
 Device.deviceType = "apple-iphone-7-silver"
 Screen.backgroundColor = "#FFF"
 
-# Los page components son muy versatiles.
-# Vayas a crear Layers del tamaño completo de la pantalla (fullscreen) o no, lo que los hace especiales son los gestos con los que vienen.
-
-# Usa este ejercicio para familiarizarte con como se interactua con ellos.
-# Intenta arrastrar hacia los lados las paginas y mira como sin tener que arrastrarlas del todo, llega un punto en que la siguiente pagina toma el centro del iPhone.
-
+# Creando el Page Component
 page = new PageComponent
     width: Screen.width
     height: Screen.height
     scrollVertical: false
 
-# Creemos una primera pagina
-# Agreguemosla al page component. Aqui tambien lo agregamos a un layer content (page.content) que es el que contiene las paginas
+# Creando las paginas
 pageOne = new Layer
     width: page.width
     height: page.height
@@ -40,6 +34,5 @@ pageTwo = new Layer
     # parent: page.content
     # x: pageOne.width
 
-# Aunque pudimos haber agregado la segunda pagina al page component con las propiedades comentadas para que no corran
-# Hagamoslo con esta funcion que es parte del page component
+# Agregando la página
 page.addPage(pageTwo, "right")
