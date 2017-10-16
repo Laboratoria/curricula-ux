@@ -13,17 +13,6 @@
    * [Componentes de Framer: Slider + Range Slider](/02-educacion-continua/05-prototyping-with-framer/Unidad-07-Sliders/README.md)
    * [Componentes de Framer: Flow, y trabajando con Figma](/02-educacion-continua/05-prototyping-with-framer/Unidad-08-Figma-Flow/README.md)
    * [Autoevaluación]()
-* [UNIDAD 3]() 
-   * []()
-   * []()
-   * []()
-   * []()
-   * [Autoevaluación]()
-* [UNIDAD 4]() 
-   * []()
-   * []()
-   * []()
-   * []()
-   * [Autoevaluación]()
+
 
  

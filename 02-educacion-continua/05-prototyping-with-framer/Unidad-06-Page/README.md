@@ -1,8 +1,4 @@
-# ::::::::: DRAFT :::::::::
-
-Ver status en: [Status Curso Framer](https://docs.google.com/spreadsheets/d/13WpVO5qfp_j7b94xdRIdzHhDC-smxiMNW9koRcQDQwI/edit?usp=sharing)
-
-### Semana 2 - Unidad 06: Usando los componentes de Framer: Page
+### Lección 06: Usando los componentes de Framer: Page
 
 TBD min
 

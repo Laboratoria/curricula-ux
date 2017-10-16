@@ -1,8 +1,4 @@
-# ::::::::: DRAFT :::::::::
-
-Ver status en: [Status Curso Framer](https://docs.google.com/spreadsheets/d/13WpVO5qfp_j7b94xdRIdzHhDC-smxiMNW9koRcQDQwI/edit?usp=sharing)
-
-### Semana 2 - Unidad 07: Usando los componentes de Framer: Slider + Range Slider
+### Lección 07: Usando los componentes de Framer: Slider + Range Slider
 
 TBD min
 

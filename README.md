@@ -185,13 +185,6 @@ Lee sobre los componentes de sliders disponibles en Framer.JS: Slider y Range Sl
 | 04 | Discusión de clase | 5 min | Compartir lo discutido con la clase entera
 
 
-### Lección 10: Funciones Utils		
-### Lección 11:	Creando funciones		
-### Lección 12:	Creando classes		
-### Lección 13:	Usando funciones y classes juntos		
-### Lección 14:	Flexbox		
-### Lección 15:	Modules
-
 ## Autor(es) / Colaboradores
 
 * [Arturo Goicochea](https://www.linkedin.com/in/arturogoicochea/)
