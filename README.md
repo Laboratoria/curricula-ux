@@ -7,7 +7,7 @@ Empezaremos con lo básico y llegaremos a crear prototipos complejos y poderosos
 
 ## Público objetivo
 
-Egresadas del bootcamp de Laboratoria que no hayan llevado la especialización de User Experience Design.
+Egresadas del bootcamp de Laboratoria que hayan llevado la especialización de User Experience Design.
 
 
 ## Requerimientos previos
