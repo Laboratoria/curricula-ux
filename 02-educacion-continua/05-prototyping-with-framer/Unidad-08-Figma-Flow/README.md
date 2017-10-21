@@ -28,8 +28,8 @@ Las imagenes de la tienda que te llevaran a la pagina de cada uno de los product
 
 Por como lo hice en este caso, voy a colocar layers encima de las imagenes correspondientes de cada libreta. Para ayudarme a colocarlos, les puse primero color de fondo azul. Luego lo deje en '', que es una forma rapida de hacerlos transparentes (y no tener que escribir rgba(0,0,0,0)).
 
-# Ahora agreguemos las paginas de cada item:
-# Un detalle importante: el flow component siempre estirara las imagenes para que cubran, asi que asegurate que sean igual o mas anchas y altas. Es decir, si tienes un flow de 100 de ancho y 100 de alto, asegurate que lo que agregues sea 100 o mas de ancho y alto.
+Ahora agreguemos las paginas de cada item:
+Un detalle importante: el flow component siempre estirara las imagenes para que cubran, asi que asegurate que sean igual o mas anchas y altas. Es decir, si tienes un flow de 100 de ancho y 100 de alto, asegurate que lo que agregues sea 100 o mas de ancho y alto.
 
 # El flow component debes crearlo al final (SIEMPRE) de todas las capas que este contendra
 
@@ -46,5 +46,8 @@ Por como lo hice en este caso, voy a colocar layers encima de las imagenes corre
 
 # Primero la imagen que usaremos para el menu
 
+Puse primero el boton de quitar para que cuando añada el boton de añadir, vaya encima (arriba en el eje Z).
+
+Solo agregamos un item al carrito (cuando aprendas de loops y arrays, te reto a que pruebes agregar los demas items al carrito de forma dinamica).
 
 ## Ejercicio 02

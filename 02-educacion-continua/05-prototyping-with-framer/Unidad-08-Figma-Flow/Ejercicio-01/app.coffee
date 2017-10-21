@@ -28,7 +28,7 @@ framerNotebookLink = new Layer
   backgroundColor: 'blue'
   backgroundColor: ''
 
-fileNotesLink = new Layer
+fieldNotesLink = new Layer
   size: 351
   x: 12, y: 379
   parent: store
@@ -107,6 +107,27 @@ menuButton.onClick ->
     menuButton.animate('open')
     return
 
+# Agregando el carrito
+
+cart = new Layer
+  image: 'images/cart.jpg'
+  width: 240
+  height: 667
+  x: Framer.Screen.width
+  custom:
+    state: false
+
+cart.states =
+  show:
+    maxX: Framer.Screen.width
+    options:
+      time: .2
+  hide:
+    x: Framer.Screen.width
+    options:
+      time: .2
+
+
 # Agreguemos el boton para regresar
 
 backButton = new Layer
@@ -126,19 +147,106 @@ backButton.states =
     options:
       time: .2
 
+# Agreguemos el boton del carrito de compras
+
+cartButton = new Layer
+  image: 'images/cart-button.png'
+  size: 40
+  x: Framer.Screen.width, y: 24
+
+cartButton.states =
+  enabled:
+    maxX: Framer.Screen.width - 24
+    options:
+      time: .2
+  disabled:
+    x: Framer.Screen.width
+    options:
+      time: .2
+  open:
+    image: 'images/cart-button.png'
+    options:
+      time: .2
+  close:
+    image: 'images/close.png'
+    options:
+      time: .2
+
+# Agreguemos el los botones de quitar cada item del carrito
+
+#### Para Framer Notebook
+framerRemoveFromCart = new Layer
+  image: 'images/remove.jpg'
+  parent: framerItemPage
+  width: 351
+  height: 56
+  x: Align.center()
+  y: 578
+
+framerRemoveFromCart.states =
+  on:
+    opacity: 1
+    options:
+      time: .1
+
+framerRemoveFromCart.onClick ->
+  cartButton.animate('disabled')
+  framerCartItem.animate('off')
+  framerAddToCart.bringToFront()
+  # Hide item
+  # Hide cart
+
+# Agreguemos el los boton de agregar al carrito
+
+#### Para Framer Notebook
+framerAddToCart = new Layer
+  image: 'images/add-to-cart.jpg'
+  parent: framerItemPage
+  width: 351
+  height: 56
+  x: Align.center()
+  y: 578
+
+framerAddToCart.onClick ->
+  cartButton.animate('enabled')
+  framerCartItem.animate('on')
+  framerRemoveFromCart.bringToFront()
+
+# Añadiendo el item al carrito
+
+framerCartItem = new Layer
+  image: 'images/cart-framer.jpg'
+  width: 192
+  height: 76
+  parent: cart
+  x: 24
+  y: 93
+  opacity: 0
+
+framerCartItem.states =
+  on:
+    opacity: 1
+    options:
+      time: 0
+  off:
+    opacity: 0
+    options:
+      time: 0
+
+# Añadiendo los links a las paginas de cada item
 framerNotebookLink.onTap ->
   flow.showNext(framerItemPage)
   backButton.animate('on')
   menuButton.animate('right')
   backButton.visible = true
 
-fileNotesLink.onClick ->
+fieldNotesLink.onTap ->
   flow.showNext(fieldItemPage)
   backButton.animate('on')
   menuButton.animate('right')
   backButton.visible = true
 
-denikNotebookLink.onClick ->
+denikNotebookLink.onTap ->
   flow.showNext(denikItemPage)
   backButton.animate('on')
   menuButton.animate('right')
@@ -149,3 +257,21 @@ backButton.onClick ->
   backButton.animate('off')
   menuButton.animate('left')
   backButton.visible = false
+
+# Abrir el carrito
+cartButton.onClick ->
+  if !cart.custom.state
+    cartButton.animate('close')
+    flow.showOverlayRight(cart)
+    cart.custom.state = true
+    return
+  else
+    flow.showPrevious()
+    cart.custom.state = false
+    cartButton.animate('open')
+    return
+
+
+# Añadir al carrito
+
+# Quitar del carrito

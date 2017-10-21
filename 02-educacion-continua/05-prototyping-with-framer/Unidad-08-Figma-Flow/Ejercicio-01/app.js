@@ -1,4 +1,4 @@
-var Device, backButton, denikItemPage, denikNotebookLink, fieldItemPage, fileNotesLink, flow, framerItemPage, framerNotebookLink, menu, menuButton, store;
+var Device, backButton, cart, cartButton, denikItemPage, denikNotebookLink, fieldItemPage, fieldNotesLink, flow, framerAddToCart, framerCartItem, framerItemPage, framerNotebookLink, framerRemoveFromCart, menu, menuButton, store;
 
 Device = new DeviceComponent;
 
@@ -22,7 +22,7 @@ framerNotebookLink = new Layer({
   backgroundColor: ''
 });
 
-fileNotesLink = new Layer({
+fieldNotesLink = new Layer({
   size: 351,
   x: 12,
   y: 379,
@@ -113,6 +113,31 @@ menuButton.onClick(function() {
   }
 });
 
+cart = new Layer({
+  image: 'images/cart.jpg',
+  width: 240,
+  height: 667,
+  x: Framer.Screen.width,
+  custom: {
+    state: false
+  }
+});
+
+cart.states = {
+  show: {
+    maxX: Framer.Screen.width,
+    options: {
+      time: .2
+    }
+  },
+  hide: {
+    x: Framer.Screen.width,
+    options: {
+      time: .2
+    }
+  }
+};
+
 backButton = new Layer({
   image: 'images/back.png',
   opacity: 0,
@@ -136,6 +161,104 @@ backButton.states = {
   }
 };
 
+cartButton = new Layer({
+  image: 'images/cart-button.png',
+  size: 40,
+  x: Framer.Screen.width,
+  y: 24
+});
+
+cartButton.states = {
+  enabled: {
+    maxX: Framer.Screen.width - 24,
+    options: {
+      time: .2
+    }
+  },
+  disabled: {
+    x: Framer.Screen.width,
+    options: {
+      time: .2
+    }
+  },
+  open: {
+    image: 'images/cart-button.png',
+    options: {
+      time: .2
+    }
+  },
+  close: {
+    image: 'images/close.png',
+    options: {
+      time: .2
+    }
+  }
+};
+
+framerRemoveFromCart = new Layer({
+  image: 'images/remove.jpg',
+  parent: framerItemPage,
+  width: 351,
+  height: 56,
+  x: Align.center(),
+  y: 578
+});
+
+framerRemoveFromCart.states = {
+  on: {
+    opacity: 1,
+    options: {
+      time: .1
+    }
+  }
+};
+
+framerRemoveFromCart.onClick(function() {
+  cartButton.animate('disabled');
+  framerCartItem.animate('off');
+  return framerAddToCart.bringToFront();
+});
+
+framerAddToCart = new Layer({
+  image: 'images/add-to-cart.jpg',
+  parent: framerItemPage,
+  width: 351,
+  height: 56,
+  x: Align.center(),
+  y: 578
+});
+
+framerAddToCart.onClick(function() {
+  cartButton.animate('enabled');
+  framerCartItem.animate('on');
+  return framerRemoveFromCart.bringToFront();
+});
+
+framerCartItem = new Layer({
+  image: 'images/cart-framer.jpg',
+  width: 192,
+  height: 76,
+  parent: cart,
+  x: 24,
+  y: 93,
+  opacity: 0
+});
+
+framerCartItem.states = {
+  on: {
+    opacity: 1,
+    options: {
+      time: 0
+    }
+  },
+  off: {
+    opacity: 0,
+    options: {
+      time: 0
+    }
+  }
+};
+
 framerNotebookLink.onTap(function() {
   flow.showNext(framerItemPage);
   backButton.animate('on');
@@ -143,14 +266,14 @@ framerNotebookLink.onTap(function() {
   return backButton.visible = true;
 });
 
-fileNotesLink.onClick(function() {
+fieldNotesLink.onTap(function() {
   flow.showNext(fieldItemPage);
   backButton.animate('on');
   menuButton.animate('right');
   return backButton.visible = true;
 });
 
-denikNotebookLink.onClick(function() {
+denikNotebookLink.onTap(function() {
   flow.showNext(denikItemPage);
   backButton.animate('on');
   menuButton.animate('right');
@@ -162,4 +285,16 @@ backButton.onClick(function() {
   backButton.animate('off');
   menuButton.animate('left');
   return backButton.visible = false;
+});
+
+cartButton.onClick(function() {
+  if (!cart.custom.state) {
+    cartButton.animate('close');
+    flow.showOverlayRight(cart);
+    cart.custom.state = true;
+  } else {
+    flow.showPrevious();
+    cart.custom.state = false;
+    cartButton.animate('open');
+  }
 });
