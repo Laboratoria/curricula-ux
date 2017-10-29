@@ -1,7 +1,3 @@
-# ::::::::: DRAFT :::::::::
-
-Ver status en: [Status Curso Framer](https://docs.google.com/spreadsheets/d/13WpVO5qfp_j7b94xdRIdzHhDC-smxiMNW9koRcQDQwI/edit?usp=sharing)
-
 ### Semana 3 - Unidad 11: Creando nuestras propias funciones
 
 TBD min
@@ -24,3 +20,5 @@ Lee sobre los componentes de sliders disponibles en Framer.JS: Slider y Range Sl
 | 02 | Ejercicio | 10 min | Creando ...
 | 03 | Discusión grupal | 5 min | Qué fue fácil, difícil y qué piensan
 | 04 | Discusión de clase | 5 min | Compartir lo discutido con la clase entera
+
+## Ejercicio 01: Funciones en Framer

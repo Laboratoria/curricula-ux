@@ -11,4 +11,4 @@
 # Best Modules
 # Go to this page: https://github.com/podo/awesome-framer#modules
 
-# Specially recommend Sticky Headers module
+# Revisar el ejemplo de Sticky Header
