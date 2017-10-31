@@ -14,20 +14,20 @@
 
 # Empecemos por entender que son, como funcionan los loops, y para que los podemos usar.
 
-# Asi es como se escribe un loop. He puesto 2 ejemplos, asi que fijate en la diferencia de usar 2 '.' (..) y 3 '. (...)' en la primera linea
+# Asi es como se escribe un loop. He puesto 2 ejemplos, asi que fijate en la diferencia de usar 2 puntos '.' (..) y 3 puntos '. (...)' en la primera linea
 
-print "Empieza primer loop"
+print "**********************"
 
 for i in [0...3]
-  print "i" + i
+  print "i corre " + (i + 1) + " vez/veces"
 
-print "Fin primer loop"
-print "Empieza segundo loop"
+print "**********************"
 
 for x in [0..3]
-  print "x" + x
+  print "x corre " + (x + 1) + " vez/veces"
 
-print "Fin segundo loop"
+print "**********************"
+
 
 # Si te fijas en el archivo, en el primer loop, vemos que corre 3 veces (0,1,2), en cambio en el segundo loop corre cuatro veces (0,1,2,3).
 

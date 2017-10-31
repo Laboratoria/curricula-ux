@@ -5,9 +5,7 @@
 
 Lee sobre el componente que permite añadir el gesto de  “scrollear” a tus prototipos: el scroll component.
 
-| # | Tipo | Duración | Tópico
-| - | ---- | -------- | ------
-| 01 | Lectura | 10 min | [Framer Cheat Sheet: Scroll Components](https://blog.framer.com/framer-cheat-sheet-scroll-components-25825be636ae?source=user_profile---------2----------------), Tess Gadd
+* [Framer Cheat Sheet: Scroll Components](https://blog.framer.com/framer-cheat-sheet-scroll-components-25825be636ae?source=user_profile---------2----------------), Tess Gadd
 
 
 ## En clase

@@ -175,6 +175,13 @@ Lee sobre los componentes de sliders disponibles en Framer.JS: Slider y Range Sl
 | 02 | Lectura | 10 min | [Framer Cheat Sheet: Utils](https://medium.com/the-school-of-do/framer-cheatsheet-the-versatility-of-utils-bed26e1614e2), Tess Gadd
 | 03 | Lectura | 10 min | [Framer Cheat Sheet: Utils.modulate](https://medium.com/the-school-of-do/framer-cheat-sheets-utils-modulate-b88e359fdcc6), Tess Gadd
 
+
+
+### Lección 10: Funciones Utils
+### Lección 11:	Creando funciones y classes
+### Lección 12:	Usando Modules
+
+
 ##### En clase
 
 | # | Tipo | Duración | Tópico
@@ -208,6 +215,7 @@ Lee sobre los componentes de sliders disponibles en Framer.JS: Slider y Range Sl
 
 
 ## Links
+* [Framer Programming Guide](https://framer.com/getstarted/guides/programming)
 * [Framer Modules](https://github.com/kysely/framer-modules#docs), Radek Kyselý
 * [Using Web Fonts with Framer](http://framergroup.com/posts/580251878768554.html)
 * [Sticky Headers Module](https://github.com/72/StickyHeaders-for-Framer), Juan Mena

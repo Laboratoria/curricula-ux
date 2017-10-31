@@ -1,20 +1,18 @@
 var colores, i, j, k, l, square, x;
 
-print("Empieza primer loop");
+print("**********************");
 
 for (i = j = 0; j < 3; i = ++j) {
-  print("i" + i);
+  print("i corre " + (i + 1) + " vez/veces");
 }
 
-print("Fin primer loop");
-
-print("Empieza segundo loop");
+print("**********************");
 
 for (x = k = 0; k <= 3; x = ++k) {
-  print("x" + x);
+  print("x corre " + (x + 1) + " vez/veces");
 }
 
-print("Fin segundo loop");
+print("**********************");
 
 colores = ['blue', 'red', 'green'];
 
