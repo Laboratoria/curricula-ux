@@ -15,7 +15,7 @@ Lee un poco sobre qué es el Flow component y lo que te permite construir (pista
 
 Antes de meternos al codigo, consulta este [archivo de Figma](https://www.figma.com/file/Hm1B6rHdcKgfO7GOYU3e09X5/cart-Page-1)
 
-Diseñe una tienda muy basica de libretas. No es un prototipo completo, pero nos permitira usar todo lo que puede hacer un flow component. Trabajar con Figma y Framer es muy facil, es solo cuestion de diseñar y ordenar lo que diseñas pensando que lo usaras en Framer.
+Diseñe una tienda muy basica de libretas. No es un prototipo completo, pero nos permitira usar todo lo que puede hacer un flow component. Trabajar con Figma y Framer es muy fácil, es solo cuestion de diseñar y ordenar lo que diseñas pensando que lo usaras en Framer.
 
 No hay una forma correcta de hacerlo, pero esta es una que funciona.
 
