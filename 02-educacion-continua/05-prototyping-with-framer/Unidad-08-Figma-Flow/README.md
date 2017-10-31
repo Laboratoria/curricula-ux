@@ -32,20 +32,20 @@ Por como lo hice en este caso, voy a colocar layers encima de las imagenes corre
 Ahora agreguemos las paginas de cada item:
 Un detalle importante: el flow component siempre estirara las imagenes para que cubran, asi que asegurate que sean igual o mas anchas y altas. Es decir, si tienes un flow de 100 de ancho y 100 de alto, asegurate que lo que agregues sea 100 o mas de ancho y alto.
 
-# El flow component debes crearlo al final (SIEMPRE) de todas las capas que este contendra
+* El flow component debes crearlo al final (SIEMPRE) de todas las capas que este contendra
 
-# Cuando agregamos Layers que son mas altos que el Flow Component, estas se insertaran automaticamente (para ayudarnos) en un scroll component (que ya estara dentrol del scroll component).
+* Cuando agregamos Layers que son mas altos que el Flow Component, estas se insertaran automaticamente (para ayudarnos) en un scroll component (que ya estara dentrol del scroll component).
 
-# Este scroll sin embargo, es por defecto blanco, asi que podemos cambiar el color de fondo asi:
+* Este scroll sin embargo, es por defecto blanco, asi que podemos cambiar el color de fondo asi:
 
-# Ojo al detalle: para el primer hotspot (linea 89), usa onTap.
-# Si usas onClick, veras que si haces scroll sobre un Layer con onclick, al terminar el scroll, lo tomara como un click, salvo que tu cursor (o dedo), al terminar el scroll, ya no este encima del Layer.
+* Ojo al detalle: para el primer hotspot (linea 89), usa onTap.
+* Si usas onClick, veras que si haces scroll sobre un Layer con onclick, al terminar el scroll, lo tomara como un click, salvo que tu cursor (o dedo), al terminar el scroll, ya no este encima del Layer.
 
-# Con onTap, si ocurre un scroll, no se considera como "tap". Pruebalo!
+* Con onTap, si ocurre un scroll, no se considera como "tap". Pruebalo!
 
-# Ahora agreguemos el boton para abrir el menu:
+* Ahora agreguemos el boton para abrir el menu:
 
-# Primero la imagen que usaremos para el menu
+* Primero la imagen que usaremos para el menu
 
 Puse primero el boton de quitar para que cuando añada el boton de añadir, vaya encima (arriba en el eje Z).
 
