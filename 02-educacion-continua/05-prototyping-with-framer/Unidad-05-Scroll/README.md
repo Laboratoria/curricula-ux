@@ -1,6 +1,5 @@
 # Lección 05: Usando los componentes de Framer: Scroll
 
-TBD min
 
 ## Antes de la clase
 

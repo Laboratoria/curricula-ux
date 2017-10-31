@@ -1,4 +1,5 @@
-# Semana 2 - Unidad 07: Usando los componentes de Framer: Slider + Range Slider
+### Lección 07: Usando los componentes de Framer: Slider + Range Slider
+
 
 TBD min
 
