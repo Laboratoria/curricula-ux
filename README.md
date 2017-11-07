@@ -7,7 +7,7 @@ Empezaremos con lo básico y llegaremos a crear prototipos complejos y poderosos
 
 ## Público objetivo
 
-Egresadas del bootcamp de Laboratoria que no hayan llevado la especialización de User Experience Design.
+Egresadas del bootcamp de Laboratoria que hayan llevado la especialización de User Experience Design.
 
 
 ## Requerimientos previos
@@ -176,12 +176,10 @@ Lee sobre los componentes de sliders disponibles en Framer.JS: Slider y Range Sl
 | 03 | Lectura | 10 min | [Framer Cheat Sheet: Utils.modulate](https://medium.com/the-school-of-do/framer-cheat-sheets-utils-modulate-b88e359fdcc6), Tess Gadd
 
 
+
 ### Lección 10: Funciones Utils
-### Lección 11:	Creando funciones
-### Lección 12:	Creando classes
-### Lección 13:	Usando funciones y classes juntos
-### Lección 14:	Flexbox
-### Lección 15:	Modules
+### Lección 11:	Creando funciones y classes
+### Lección 12:	Usando Modules
 
 
 ##### En clase
@@ -192,7 +190,6 @@ Lee sobre los componentes de sliders disponibles en Framer.JS: Slider y Range Sl
 | 02 | Ejercicio | 10 min | Creando ...
 | 03 | Discusión grupal | 5 min | Qué fue fácil, difícil y qué piensan
 | 04 | Discusión de clase | 5 min | Compartir lo discutido con la clase entera
-
 
 
 ## Autor(es) / Colaboradores

@@ -1,8 +1,4 @@
-# Semana 2 - Unidad 06: Usando los componentes de Framer: Page
-
-TBD min
-
-## Antes de empezar
+### Lección 06: Usando los componentes de Framer: Page
 
 Lee sobre el componente de “páginas” de Framer.JS en este genial post en Medium.
 
