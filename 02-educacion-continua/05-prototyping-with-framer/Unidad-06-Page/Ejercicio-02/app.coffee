@@ -14,50 +14,20 @@ Device.setupContext()
 Device.deviceType = "apple-iphone-7-silver"
 Screen.backgroundColor = "#FFF"
 
-# Un uso interesante, por ejemplo, es para prototipar el onboarding de un app.
-# Recuerda que el Page Component es un componente hecho por el equipo de Framer
-# Tiene funcionalidades que ya vienen por defecto. Esto es bueno porque te ahorra mucho trabajo.
-# Funciones como el gesto de no tener que arrastrar completamente hacia derecha o izquierda un layer para terminar de cambiar a la siguiente o anterior pagina del page component.
-
-# Sin embargo, esto quiere decir que a veces tenemos que 'hackearlo' un poco para que funcione como queremos.
-# A medida que vas probando y usando los componentes de Framer esto te sera mas facil.
-
-# Por ejemplo, en este caso, queremos simular el onboarding de un app, con 3 imagenes que la persona puede revisar.
-
-# El producto final que queremos son 3 imagenes que podemos explorar arrastrando (como un carrusel)
-
-# Cuando cualquiera de las imagenes sea mostrada, queremos que este centrada.
-
-# Lo que queremos del page component es aprovechar todo lo que nos trae "gratis" (sin hacer ningun trabajo)
-
+# Creando el Page Component
 page = new PageComponent
     width: Screen.width
     height: (Screen.width - 60) / 2 * 3
     scrollVertical: false
     y: 30
 
-# Creemos una primera pagina y agreguemosla al page component. En el page component tambien lo agregamos a un layer llamado content, contenido dentro del layer page (page.content)
-
-# Page (layer padre)
-# -> content (layer hijo)
-
-# page.content contiene las paginas
-
-# page
-# -> content
-# -> -> pageOne
-# -> -> pageTwo
-# -> -> pageThree
-
+# Creando las paginas
 pageOne = new Layer
     width: Screen.width
     height: page.height
     parent: page.content
     backgroundColor: ""
     name: 'page 1'
-
-# La segunda capa queremos que este a la derecha de la primera
-# Especificamente, el ancho de la primera pagina
 
 pageTwo = new Layer
     width: Screen.width
@@ -67,8 +37,6 @@ pageTwo = new Layer
     parent: page.content
     name: 'page 2'
 
-# Hacemos lo mismo para esta tercera pagina
-
 pageThree = new Layer
     width: Screen.width
     height: page.height
@@ -77,18 +45,13 @@ pageThree = new Layer
     parent: page.content
     name: 'page 3'
 
-# Cada pagina nos servira de contenedor para las imagenes que queremos mostrar
-
-# Agreguemos ahora las imagenes
-
+# Agregando las imagenes
 img1 = new Layer
   width: 315
   height: 473
   parent: pageOne
   point: Align.center()
   image: 'images/img1.jpg'
-
-# Repitiendo esto para las demas imagenes
 
 img2 = new Layer
   width: 315
@@ -104,12 +67,7 @@ img3 = new Layer
   point: Align.center()
   image: 'images/img3.jpg'
 
-# Agreguemos 3 circulos que serviran de indicadores
-# Indicaran que hay 3 imagenes que ver (ya que habran 3 circulos)
-# E indicaran en que imagen estas ya que el circulo correspondiente tendra un color mas oscuro
-
-# Para facilitar centrar los circulos creemos un layer que los contendra
-
+# Creando los indicadores de página
 circleContainer = new Layer
   backgroundColor: ''
   width: (12 * 3) + (12 * 2)
@@ -121,8 +79,6 @@ circle1 = new Layer
   parent: circleContainer
   backgroundColor: 'black'
   borderRadius: 100
-
-# Ademas, cada circulo necesitara un estado para ambos colores
 
 circle1.states =
   selected:
@@ -156,12 +112,7 @@ circle3.states =
   notSelected:
     backgroundColor: '#ccc'
 
-# Luego, queremos que segun la "pagina" del page component que estemos viendo, los circulos cambien de acuerdo a estemos
-
-# Si te percataste, para cada pagina agregue una propiedad 'name'
-
-# Es con esto que sabremos en que pagina estamos
-
+# Creando los eventos para que funcione el indicador de página
 page.on "change:currentPage", ->
     # print page.currentPage.name
     if page.currentPage.name == 'page 1'
@@ -177,8 +128,7 @@ page.on "change:currentPage", ->
       circle1.animate('notSelected')
       circle2.animate('notSelected')
 
-# Y para terminar, un par de botones abajo para hacerlo mas veridico
-
+# Agregando botones
 buttons = new Layer
   image: 'images/buttons.png'
   x: Align.center()

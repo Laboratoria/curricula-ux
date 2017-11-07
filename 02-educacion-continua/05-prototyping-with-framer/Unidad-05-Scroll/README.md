@@ -1,18 +1,11 @@
-**::::::::: DRAFT :::::::::**
+# Lección 05: Usando los componentes de Framer: Scroll
 
-Ver status en: [Status Curso Framer](https://docs.google.com/spreadsheets/d/13WpVO5qfp_j7b94xdRIdzHhDC-smxiMNW9koRcQDQwI/edit?usp=sharing)
-
-# Semana 2 - Unidad 01: Usando los componentes de Framer: Scroll
-
-TBD min
 
 ## Antes de la clase
 
 Lee sobre el componente que permite añadir el gesto de  “scrollear” a tus prototipos: el scroll component.
 
-| # | Tipo | Duración | Tópico
-| - | ---- | -------- | ------
-| 01 | Lectura | 10 min | [Framer Cheat Sheet: Scroll Components](https://blog.framer.com/framer-cheat-sheet-scroll-components-25825be636ae?source=user_profile---------2----------------), Tess Gadd
+* [Framer Cheat Sheet: Scroll Components](https://blog.framer.com/framer-cheat-sheet-scroll-components-25825be636ae?source=user_profile---------2----------------), Tess Gadd
 
 
 ## En clase

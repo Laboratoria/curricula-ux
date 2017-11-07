@@ -1,17 +1,6 @@
-**::::::::: DRAFT :::::::::**
+# Lección 04: Aún más vida: animaciones en Framer
 
-Ver status en: [Status Curso Framer](https://docs.google.com/spreadsheets/d/13WpVO5qfp_j7b94xdRIdzHhDC-smxiMNW9koRcQDQwI/edit?usp=sharing)
-
-# Semana 1 - Unidad 04: Aún más vida: animaciones en Framer
-
-TBD min
-
-Input para los ejercicios:
-* http://www.prototypingwithframer.com/twitter-birthday-balloon-animation/
-* http://www.prototypingwithframer.com/creating-a-button-loading-animation/
-* http://www.prototypingwithframer.com/zero-inbox-animation/
-
-## Antes de la clase
+## Antes de empezar
 
 **Tener en cuenta:** hace poco, Framer cambio como se crean las animaciones. Especificamente, ha cambiado la forma en que especificamos el layer que estamos animando.
 
@@ -34,24 +23,13 @@ Adicionalmente, antes se usaba `properties` para definir cosas como `time`, `del
 
 Ten esto en cuenta cuando leas las siguientes lecturas.
 
-| # | Tipo | Duración | Tópico
-| - | ---- | -------- | ------
-| 01 | Lectura | ? min | [Animation Docs](https://framer.com/docs/#animation.animation)
-| 01 | Lectura | ? min | [Twitter Birthday Balloon]()
-| 01 | Lectura | ? min | [Creating a button loading animation]()
-| 01 | Lectura | ? min | [Zero inbox animation]()
+* [Animation Docs](https://framer.com/docs/#animation.animation)
+* [Twitter Birthday Balloon]()
+* [Creating a button loading animation]()
+* [Zero inbox animation]()
 
 
-## En clase
-
-| # | Tipo | Duración | Tópico
-| - | ---- | -------- | ------
-| 01 | Charla | 10 min | [Usando animaciones en Framer.JS](#)
-| 02 | Ejercicio 01 | 10 min | Animaciones Parte 1
-| 02 | Ejercicio 02 | 10 min | Animaciones Parte 2
-| 02 | Ejercicio 03 | 10 min | El regreso del Sunset
-| 03 | Discusión grupal | 5 min | Qué fue fácil, difícil y qué piensan
-| 04 | Discusión de clase | 5 min | Compartir lo discutido con la clase entera
+## Usando animaciones en Framer.JS
 
 ## Ejercicio 01
 
@@ -137,3 +115,10 @@ En realidad, queremos que esta animacion corra desde el comienzo, asi que no tie
 ## Ejercicio 03
 
 Ahora es tu turno. Intenta animar un atardecer, esta vez usando animaciones en ves de state.
+
+
+
+Input para los ejercicios:
+* http://www.prototypingwithframer.com/twitter-birthday-balloon-animation/
+* http://www.prototypingwithframer.com/creating-a-button-loading-animation/
+* http://www.prototypingwithframer.com/zero-inbox-animation/
