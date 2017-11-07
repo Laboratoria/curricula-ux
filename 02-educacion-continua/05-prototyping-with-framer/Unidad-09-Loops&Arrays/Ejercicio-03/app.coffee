@@ -8,9 +8,6 @@
 ################################################
 ################################################
 
-# Ahora, usemos un loop, esta vez agregando eventos de click a cada Layer que creamos.
-# Tambien tendremos una forma de saber a que le hicimos click
-
 LayerContainer = []
 
 for i in [0...3]
@@ -34,11 +31,6 @@ for i in [0...3]
     # print aLayer.custom.name
     # aLayer.animate('red')
 
-# A cada layer en este loop, ademas, le creamos un nombre unico usando el valor de i
-# Ademas, cuando le agregamos el evento onClick, usamos @custom.name y @animate
-# '@' es lo mismo que 'this'
-# Si hubieramos usado 'aLayer' en vez de '@', al hacer click en cualquiera de las capas, habria cambiado solo la ultima.
-# intentalo
 
 turnBlueButton = new Layer
   width: 220

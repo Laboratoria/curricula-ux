@@ -21,4 +21,24 @@ Lee sobre los componentes de sliders disponibles en Framer.JS: Slider y Range Sl
 | 03 | Discusión grupal | 5 min | Qué fue fácil, difícil y qué piensan
 | 04 | Discusión de clase | 5 min | Compartir lo discutido con la clase entera
 
-## Ejercicio 01: Funciones en Framer
+## Ejercicio 01: Classes en Framer
+
+Cada vez que creamos un Layer, lo que realmente estamos haciendo es crear un objeto de clase Layer.
+
+¡En Framer, puedes crear tus propios objetos! En este ejercicio, fijate como hemos creado un boton. Mi recomendacion es simplemente copiar y pegar esta notacion. En este caso, estamos extendiendo la clase Layer. Es decir, estamos creando el objeto Button copiando y modificando la clase Layer.
+
+Si consultas la [guia de programacion](https://framer.com/getstarted/guides/programming/#classes) de Framer podras ver algunas diferentes formas de crear clases y sus implicancias.
+
+En las **( Linea 19 ) ** y **( Linea 22 ) ** podras ver ademas como especifique dos propiedades que luego se definen al crear un objeto de clase Button.
+
+## Ejercicio 02
+
+Otra forma de crear un boton una y otra vez de forma facil es con una funcion. En este caso las dos propiedades (texto y color) los especifique como argumentos de la funcion.
+
+## Ejercicio 03
+
+Y aqui es que se pone interesante. Una forma poderosa de trabajar es combinando el poder de las funciones, loops y las clases. De esta forma, podemos generar una serie de botones de forma programatica.
+
+## Ejercicio 04
+
+Por ultimo, fijate como podemos incluso agregar funciones a una clase e integrarlas.

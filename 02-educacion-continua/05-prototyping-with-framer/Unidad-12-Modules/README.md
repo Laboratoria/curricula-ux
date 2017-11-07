@@ -24,3 +24,7 @@ Lee sobre los componentes de sliders disponibles en Framer.JS: Slider y Range Sl
 | 02 | Ejercicio | 10 min | Creando ...
 | 03 | Discusión grupal | 5 min | Qué fue fácil, difícil y qué piensan
 | 04 | Discusión de clase | 5 min | Compartir lo discutido con la clase entera
+
+## Hackathon / Demo
+
+Revisar los mejores modulos de: https://github.com/podo/awesome-framer#modules

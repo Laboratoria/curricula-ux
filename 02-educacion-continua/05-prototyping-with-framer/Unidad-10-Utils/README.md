@@ -19,3 +19,29 @@ Una introducción a Framer.JS, cómo funciona, lo que puedes crear con Framer y 
 
 ##### Links
 * [Run Framer on Windows](https://medium.com/microsoft-design/how-to-run-framer-js-on-windows-94e6a06abfe4)
+
+## Ejercicio 01
+
+Framer incluye una serie de funciones llamadas Utils (corto para utilidades).
+
+Usemos algunas de las más populares:
+
+### randomImageLayer **( Linea 14 ) **
+Usando Unsplash, genera una imagen al azar. Especifica el Layer con el cual la estaras usando como argumento.
+
+randomColor **( Linea 20 ) **
+Genera un color al azar. Puedes incluir opcionalmente la opacidad del color.
+
+delay **( Linea 26 ) **
+Demora lo que luego especifiques en la funcion (lo que tu quieras).
+
+cycle **( Linea 37 ) **
+Al especificar una serie de cosas, esta funcion retorna de la primera a la ultima (en orden), y luego empieza nuevamente.
+
+## Ejercicio 02
+
+Deje para este segundo ejercicio una de mis funciones favoritas: Utils.modulate.
+
+Para entender como funciona, he replicado un joystick.
+
+Fijate como en base a que ese "joystick" se mueve en el eje "X" **( Linea 34 ) ** e "Y" **( Linea 37 ) ** cambian la opacidad y el tamaño de la capa square.
