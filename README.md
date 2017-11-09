@@ -47,8 +47,6 @@ En esta entrevista, Judy Wert, nos habla de que el top 1% de diseñadores en el 
 
 ### [Daniel Burka - Design is the scientific method of businesses, if done right](https://www.youtube.com/watch?v=t44kmZ_PFOU)
 
-### [Facebook what designers do](https://TODO-link-entrevista)
-
 *** 
 
 
