@@ -45,7 +45,20 @@ En esta entrevista, Judy Wert, nos habla de que el top 1% de diseñadores en el 
 
 ### [Jared Spool - How to hire designers](https://blog.intercom.com/jared-spool-on-ux-design/)
 
+En esta entrevista, Jared Spool, co-founder de Center Centre, explica cómo es la mejor manera de contratar un diseñador. Y cuestiona la relación entre seniority y años de experiencia. 
+
 ### [Daniel Burka - Design is the scientific method of businesses, if done right](https://www.youtube.com/watch?v=t44kmZ_PFOU)
+
+
+### [Paul Sherman - The unicorn is dead. Soft skills kill coding skills](https://www.youtube.com/watch?v=tSkDLYDsbBc)
+
+En este talk Paul comenta sobre la importancia de los soft skills para un UX Designer. Y destaca los siguientes:
+
+* Comunicación e influencia
+* Colaboración
+* Empatía
+* Pensamiento crítico (judgment)
+* Iniciativa
 
 *** 
 
