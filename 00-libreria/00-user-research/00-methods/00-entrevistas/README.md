@@ -12,3 +12,9 @@ Las entrevistas con usuarios son una herramienta muy importante para poder obten
 - Usa el silencio:** Las personas se sienten obligadas a rellenar los silencios.
 - Haz preguntas simples:** ¿Qué medios de pago usas cuando compras online?
 - Pregunta ¿por qué seguido?:** Me puedes hablar un poco más sobre eso. 
+
+
+## Referencias 
+
+- [The Art of the User Interview](https://blog.marvelapp.com/art-user-interview/)
+
