@@ -1,6 +1,6 @@
 # Diseño Visual
 
-## Unidad 1 - Fundamentos
+## Fundamentos
 
 ### Historia breve de diseño visual para web
 
