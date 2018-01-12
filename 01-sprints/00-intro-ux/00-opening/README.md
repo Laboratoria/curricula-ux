@@ -10,16 +10,15 @@
 
 En esta lección aprenderemos:
 
-- Qué son los frameworks y para qué los usamos.
+- Qué es el diseño centrado en el usuario
+- Cuáles son las características de un buen UX Designer
+- Cómo entender las necesidades de los usuarios para poder crear productos basados en estas necesidades
+- Cómo prototipar y testear rápidamente nuestras ideas de productos
 
 
-## ¿Por qué aprender a ?
+## ¿Por qué aprender a UX?
 
-Usar frameworks nos hace personas más felices ya que nos evita escribir código
-repetitivo, nos ayuda a desarrollar más rápido y a utilizar buenas prácticas.
-
-El reto que tenemos en este curso es aprender "en qué, cuándo y cómo"
-hacer uso de los **frameworks**.
+Para poder generar 
 
 ## Guía de preguntas y conceptos clave
 
@@ -33,10 +32,7 @@ orientar tus esfuerzos de aprendizaje. Regresa a ellas constantemente a
 medida que avanzas para validar que estás avanzando en la dirección correcta.
 Que te sirva como un "checklist" que vas marcando a medida que vas progresando.
 
-- ¿Qué es un Framework?
-
-- ¿Cuál es la diferencia entre Bootstrap y Materialize?
-
-- ¿Qué framework es el ideal?
-
-- ¿Qué ventajas tiene el usarlos en nuestros proyectos?
+- ¿Qué es UX?
+- ¿Cuál es el propósito de la etapa de research?
+- ¿Cuáles son las claves de una buena entrevista?
+- ¿Qué buscamos con un prototipo?

@@ -1,1 +1,0 @@
-Clase guiada

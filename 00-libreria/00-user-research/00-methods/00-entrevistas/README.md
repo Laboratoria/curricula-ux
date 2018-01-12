@@ -72,7 +72,7 @@ Algunos consejos que pueden ayudarte mientras te preparas para entrevistar usuar
 
 ## El Arte de entrevistar
 
-***Para ser un gran investigador, tienes que conversar como conductor de televisión, pensar como escritor, entender el subtexto como un psicoanalista y tener el oído de un músico.***
+- **Para ser un gran investigador, tienes que conversar como conductor de televisión, pensar como escritor, entender el subtexto como un psicoanalista y tener el oído de un músico.***
 
 
 ¿Qué entendiste de esta frase?
@@ -126,9 +126,9 @@ Otro error común es preguntar a los usuarios exactamente qué quieren tener en 
 Como mencioné, una forma de evitar preguntar qué quieren las personas es hacer más preguntas acerca del contexto de usar el producto.
 
 Aquí hay 3 preguntas fáciles que te pueden ayudar a llegar al objetivo de identificar lo que los usuarios necesitan o quieren:
-- Qué estás intentando hacer?
-- Que estás haciendo en este momento?
-- Qué podría mejorar de cómo lo estás haciendo actualmente?
+- ¿Qué estás intentando hacer?
+- ¿Qué estás haciendo en este momento?
+- ¿Qué podría mejorar de cómo lo estás haciendo actualmente?
 
 ### Los usuarios siempre quieren una respuesta cuando tienen dudas sobre el flujo de un producto digital
 
