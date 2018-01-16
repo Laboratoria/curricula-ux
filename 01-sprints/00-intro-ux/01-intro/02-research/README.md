@@ -297,7 +297,6 @@ algunos tips.
 - [How to hack your body language for better interviews](https://library.gv.com/how-to-hack-your-body-language-for-better-interviews-2b28b99ece6d)
 - [Get better data from user studies: 16 interviewing tips](https://library.gv.com/get-better-data-from-user-studies-16-interviewing-tips-328d305c3e37)
 - [How to Build Better Rapport For Better Research Interviews](https://library.gv.com/how-to-build-better-rapport-for-better-research-interviews-869952b6a71d)
-- [Renato Verdugo: Research as co-development](https://www.youtube.com/watch?v=QOkE86Q8lUI)
 - [dSchool Bootcamp Bootleg](https://dschool.stanford.edu/resources/the-bootcamp-bootleg)
 - [Ideo insights for innovation](https://www.ideou.com/products/insights-for-innovation)
 - [Entrevista a Stephanie Agotborde, Analista de User Research en Mercado Libre](https://ar.ivoox.com/es/02-entrevista-stephanie-agotborde-audios-mp3_rf_13160515_1.html)
