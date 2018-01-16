@@ -72,12 +72,6 @@ En este talk Paul comenta sobre la importancia de los soft skills para un UX Des
 
 En este curso trabajaremos en nuestro primer proyecto de diseño, aprendiendo las mejores prácticas de research cualitativo, pasando por técnicas de síntesis, ideación y priorización hasta llegar al prototipado y testeo de la solución. 
 
-construirá un sitio dinámico desde cero pasando por las
-diversas fases del desarrollo de un producto web. A lo largo de este curso, se
-verán temas de maquetación (`HTML` y `CSS`), lógica (`JS`), herramientas de
-flujo de trabajo (`git`), además de interacción con el `DOM` para agregar
-dinamismo a través de `eventos`.
-
 * **Venta de pasajes de bus**: El entregable final del curso será un prototipo validado de una aplicación de venta de pasajes de bus. 
 
 Main tags: `research`, `entrevistas`, `observación`, `prototipado`, `mvp`, `testing`, `priorizacion`, `content prototyping`, `customer journey maps`, `user personas`.
