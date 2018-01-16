@@ -13,10 +13,8 @@
 
 ## Agenda
 
-1. Qué es UX
-2. Por qué estudiamos UX
-3. Cuáles son las características de un buen UX Designer
-4. Cuáles son las etapas de un proceso de diseño
-5. Un día en la vida de un UX Designer
-
-
+- Qué es UX
+- Por qué estudiamos UX
+- Cuáles son las características de un buen UX Designer
+- Cuáles son las etapas de un proceso de diseño
+- Un día en la vida de un UX Designer

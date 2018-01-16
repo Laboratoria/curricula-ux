@@ -12,13 +12,9 @@ En esta lección aprenderemos:
 
 - Qué es el diseño centrado en el usuario
 - Cuáles son las características de un buen UX Designer
-- Cómo entender las necesidades de los usuarios para poder crear productos basados en estas necesidades
+- Cómo entender las necesidades de los usuarios para poder crear productos
+  basados en estas necesidades
 - Cómo prototipar y testear rápidamente nuestras ideas de productos
-
-
-## ¿Por qué aprender a UX?
-
-Para poder generar 
 
 ## Guía de preguntas y conceptos clave
 

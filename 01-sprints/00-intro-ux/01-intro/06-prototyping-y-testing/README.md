@@ -22,4 +22,3 @@
 - Realizar sesiones de testing
 - Iterar
 - Testear nuevamente
-

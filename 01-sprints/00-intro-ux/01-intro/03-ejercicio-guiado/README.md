@@ -13,7 +13,6 @@
 
 ## Ejercicios
 
-
 - El instructor resolverá las dudas que se hayan generado sobre UX research
 - Observar los detalles de la casa de una usuaria
 - Observar a varios usuarios intentando usar por primera vez una nueva máquina
@@ -24,6 +23,6 @@
 
 ### Producto del Sprint
 
-- Conoce el producto en el que trabajaremos 
+- Conoce el producto en el que trabajaremos
 - Planeamiento de las actividades de research
 - Presentación + feedback
