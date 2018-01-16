@@ -17,5 +17,6 @@
 2. Por qué estudiamos UX
 3. Cuáles son las características de un buen UX Designer
 4. Cuáles son las etapas de un proceso de diseño
+5. Un día en la vida de un UX Designer
 
 

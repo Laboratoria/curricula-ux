@@ -37,9 +37,9 @@ Lee este extracto de la entrevista a [Aron Walter, VP of Design Education at Inv
 
 El research y la data cuantitativa nos ayudan a entender la situación actual del problema que queremos resolver. Por ejemplo:
 
-* Cuántos visitantes tenemos en nuestro site
-* Cuántos compran X o Y producto
-* Dónde tenemos el mayor ratio de abandono dentro del proceso de compra
+- Cuántos visitantes tenemos en nuestro site
+- Cuántos compran X o Y producto
+- Dónde tenemos el mayor ratio de abandono dentro del proceso de compra
 
 En este [artículo](https://www.uxmatters.com/mt/archives/2012/09/strengths-and-weaknesses-of-quantitative-and-qualitative-research.php) de UX Matters nos dicen lo siguiente: 
 
@@ -54,26 +54,26 @@ Las principales herramientas que usamos dentro del research cuantitativo son las
 
 Dependiendo de la robustez de los analytics que tenga la empresa podemos revisar: 
 
-* Dispositivos desde los que acceden
-	* Entran más desde móviles o desktop
-	* ¿Qué resoluciones de pantallas utilizan?
-* Ciudades / Países desde los que acceden
-	* ¿ Son la mayoría de la capital? ¿o de otras ciudades del interior? ¿Otros países?
-* Engagement con las campañas de email 
-	* % de emails que son abiertos
-	* % de personas que dieron clic a un link
-* Funneles de conversión 
-	* ¿Dónde está la mayor caída en las conversiones
+- Dispositivos desde los que acceden
+	- Entran más desde móviles o desktop
+	- ¿Qué resoluciones de pantallas utilizan?
+- Ciudades / Países desde los que acceden
+	- ¿ Son la mayoría de la capital? ¿o de otras ciudades del interior? ¿Otros países?
+- Engagement con las campañas de email 
+	- % de emails que son abiertos
+	- % de personas que dieron clic a un link
+- Funneles de conversión 
+	- ¿Dónde está la mayor caída en las conversiones
 
 
 **Herramientas de analítica:**
 
-* Mixpanel
-* Google Analytics
-* Visual Web Optimizer
-* Hotjar
-* Segment
-* Intercom
+- Mixpanel
+- Google Analytics
+- Visual Web Optimizer
+- Hotjar
+- Segment
+- Intercom
 
 ![](https://lh3.googleusercontent.com/NsPbuYZN6yjWdnuvjoBBhlI227jjXoVXwzofHlP7DrK8AuA_jVzYBKkGUufY__NVAiUriv0ZLZJYw5vEId34zl8Tiu25ui_3b31cSnHpFty4NWzobbrbrK965vLoTvQ3nFW2jnaNK80)
 
@@ -81,10 +81,10 @@ Dependiendo de la robustez de los analytics que tenga la empresa podemos revisar
 
 En el caso que tengamos un producto digital existente, pero no tengamos Analytics. Es recomendable obtener analytics de al menos una semana. Para ello podemos utilizar las siguientes herramientas:
 
-* Google Analytics
-* Mixpanel
-* Hotjar
-* VWO
+- Google Analytics
+- Mixpanel
+- Hotjar
+- VWO
 
 #### Estadísticas de uso
 
@@ -104,10 +104,10 @@ Revisar todas las estadísticas que podamos tener del producto.
 
 Revisar los estudios de mercado que estén disponibles.
 
-* % de participación
-* Características de la población
-* Proyecciones de crecimiento económico
-* Encuestas de satisfacción
+- % de participación
+- Características de la población
+- Proyecciones de crecimiento económico
+- Encuestas de satisfacción
 
 ![](https://lh5.googleusercontent.com/uLknPlR5Wii0Ftvm2n58XZi5zqGwTCOXXZi3Jeo775sqkBdSE5p-d4YO3umLt_0iXnYF3GJXfpmgpEwVSwux9H7i_Ex63BZuMUYSk6ajkbihRcymvfRMvBGTYfzErQWiI7ITi-OCxKY)
 
@@ -115,12 +115,12 @@ Revisar los estudios de mercado que estén disponibles.
 
 Revisar los documentos internos que puedan servir como parte del análisis
 
-* Planes de marketing
-* Reportes de equipos de ventas
-* Reportes de equipos de servicio al cliente 
-* Focus groups anteriores
-* Estudios de usabilidad
-* Reportes de campañas de marketing
+- Planes de marketing
+- Reportes de equipos de ventas
+- Reportes de equipos de servicio al cliente 
+- Focus groups anteriores
+- Estudios de usabilidad
+- Reportes de campañas de marketing
 
 ![](https://lh4.googleusercontent.com/G3JkQKrZ8HmNAjH3NlQ_zIMFoLlDwYozNtNkmn47jS0NwrjxHfOktXoKCSxiW71yxzbciWdM1ZBGXNnDx_PXdDrpOmODJL3V4g_0Q1E_-ddbIIScsmn3Wgv7reEfZaMd5S0WbJVxwjs)
 
@@ -128,14 +128,14 @@ Revisar los documentos internos que puedan servir como parte del análisis
 
 Buscar en la web sobre temas relevantes al problema que estamos enfrentando. 
 
-* Grupos de facebook (el buen dato)
-* Fan pages
-* Reddit
-* Twitter
-* Otras redes sociales
-* Blogs
-* Yahoo respuestas
-* Foros
+- Grupos de facebook (el buen dato)
+- Fan pages
+- Reddit
+- Twitter
+- Otras redes sociales
+- Blogs
+- Yahoo respuestas
+- Foros
 
 
 ![Queja banco peruano](https://lh6.googleusercontent.com/D9TJpHB4tRuiHlRUY59wt_kaIUZie36FKEFEWBEq2J59XUx_fj03XLrnGCnaezlcqsnJ7GpE-rjZfLDQKGWpyI4PGpoenjPL2juf4Pgk22oJKcuh-imKijKkLPHsgdDPE13OywQs3fU)
@@ -154,16 +154,16 @@ Adicionalmente, el libro de [AboutFace](https://www.amazon.com/About-Face-Essent
 
 Adicionalmente nos mencionan que la investigación cualitatita nos permite entender lo siguente:
 
-> * Comportamientos, actitudes y aptitudes de los usuarios de productos potenciales y existentes
-> * Los contextos técnicos, empresariales y ambientales -el dominio- del producto a ser diseñado
-> * Vocabulario y otros aspectos sociales del dominio en cuestión
-> * Cómo se utilizan los productos existentes
+> - Comportamientos, actitudes y aptitudes de los usuarios de productos potenciales y existentes
+> - Los contextos técnicos, empresariales y ambientales -el dominio- del producto a ser diseñado
+> - Vocabulario y otros aspectos sociales del dominio en cuestión
+> - Cómo se utilizan los productos existentes
 
 Además, la investigación cualitativa también puede ayudar durante el progreso de los proyectos de diseño:
 
-> * Da credibilidad y autoridad al equipo de diseño, porque las decisiones de diseño pueden ser rastreadas hasta los resultados de la investigación.
-> * Le da al equipo una comprensión común de los problemas de los usuarios.
-> * Permite a la gerencia tomar decisiones más informadas sobre el diseño del producto, cuestiones que de otro modo estarían basadas en conjeturas o preferencias personales.
+> - Da credibilidad y autoridad al equipo de diseño, porque las decisiones de diseño pueden ser rastreadas hasta los resultados de la investigación.
+> - Le da al equipo una comprensión común de los problemas de los usuarios.
+> - Permite a la gerencia tomar decisiones más informadas sobre el diseño del producto, cuestiones que de otro modo estarían basadas en conjeturas o preferencias personales.
 
 ### Herramientas
 
@@ -171,8 +171,8 @@ Además, la investigación cualitativa también puede ayudar durante el progreso
 
 Durante este análisis revisamos:
 
-* nuestros productos y prototipos actuales y anteriores
-* los productos de la competencia directa e indirecta
+- nuestros productos y prototipos actuales y anteriores
+- los productos de la competencia directa e indirecta
 
 Este análisis nos ayudará a saber cómo estamos en relación a la competencia. Al final de este análisis podremos realizar una tabla como el ej, que nos ayude a tener un mejor panorama.
 
@@ -182,11 +182,11 @@ Este análisis nos ayudará a saber cómo estamos en relación a la competencia.
 
 Dependiendo del producto tendremos distintos expertos que nos brindarán datos sobre el mercado o el producto. Entre ellos encontramos:
 
-* Ejecutivos de ventas
-* Ejecutivos de servicio al cliente
-* Community managers
-* Antiguos developers, diseñadores o product managers
-* Otros expertos de la industria 
+- Ejecutivos de ventas
+- Ejecutivos de servicio al cliente
+- Community managers
+- Antiguos developers, diseñadores o product managers
+- Otros expertos de la industria 
 
 
 #### Investigación Contextual
@@ -240,3 +240,4 @@ Las entrevistas con usuarios son una herramienta muy importante para poder obten
 - [Renato Verdugo: Research as co-development](https://www.youtube.com/watch?v=QOkE86Q8lUI)
 - [dSchool Bootcamp Bootleg](https://dschool.stanford.edu/resources/the-bootcamp-bootleg)
 - [Ideo insights for innovation](https://www.ideou.com/products/insights-for-innovation)
+- [Entrevista a Stephanie Agotborde, Analista de User Research en Mercado Libre](https://ar.ivoox.com/es/02-entrevista-stephanie-agotborde-audios-mp3_rf_13160515_1.html)

@@ -8,6 +8,6 @@
 
 ## Instrucciones
 
-- Lleva a cabo las actividades de research que tenías planeadas. Recuerda documentar todo y hacer un diagrama de afinidad con lo que observaste.
+- Lleva a cabo las actividades de research que tenías planeadas. Recuerda documentar todo y subrilo en un repositorio de Github
 
 - Define cuáles son los principales problemas que están enfrentando los usuarios

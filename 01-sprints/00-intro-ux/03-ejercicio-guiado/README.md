@@ -14,14 +14,13 @@
 ## Ejercicios
 
 
-- El instructor resolverá las dudas que se hayan generado sobre UX research. 
-- Observar los detalles de la casa de una usuaria. 
-- Observar a varios usuarios intentando usar por primera vez una nueva máquina. 
-- Diagramas de afinidad con observaciones del video de la máquina de café.
-- Entrevistas mudas.
-- Planeación de entrevista para el usuario de la máquina de café
+- El instructor resolverá las dudas que se hayan generado sobre UX research
+- Observar los detalles de la casa de una usuaria
+- Observar a varios usuarios intentando usar por primera vez una nueva máquina
+- Diagramas de afinidad con observaciones del video anterior
+- Planeación de entrevista para el usuario de la máquina anterior
+- Entrevistas mudas
 - Entrevistas entre estudiantes sobre máquinas de café
-
 
 ### Producto del Sprint
 
