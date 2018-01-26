@@ -18,6 +18,7 @@ En squads divídanse el contenido de UX Research:
 - Qué es UX Reseach
 - Research cuantitativo
 - Research cualitativo
+- Qué son LMS
 
 Busquen información adicional sobre él contenido y explíquense entre uds qué es
 cada cosa. Su objetivo es que todo el squad entienda los tres puntos mencionados.
