@@ -2,7 +2,7 @@
 
 - Tipo: `lectura`
 - Formato: `self-paced`
-- Duración: `40min`
+- Duración: `90min`
 
 ***
 
@@ -151,3 +151,41 @@ por el momento podemos tomar paletas prestadas de
 [Dribbble](https://dribbble.com/search?q=color+palettes) (buscar `Color
 Palettes` y encontrar alguna que te guste) o
 [Adobe Color CC](https://color.adobe.com/create/color-wheel/).
+
+## Ejercicio
+
+Vamos a tomar [esta página](https://www.figma.com/file/K63sY2evS5vTUchefcUo1p19/pagina_ejercicio?node-id=0%3A136)
+e irla mejorando y metiendo más personalidad a lo largo de las siguientes
+lecciones. Primero vamos a definir algunos puntos importantes que sirvan como
+base del proyecto y después meter manos a la masa para empezar a mejorar la
+página según las reglas básicas que aprendimos en esta lección. Empecemos por
+saber que va a ser:
+
+- Una página de marketing para un producto digital
+- El producto funciona como asistente personal para agendar citas
+
+En base a esto, cada estudiante puede definir algunos de los siguientes puntos
+para darle vida al proyecto. No tiene que ser muy acercado a la realidad —
+podría ser un servicio para niños de kinder que quieran saltarse a sus mamás y
+agendar citas directamente con sus amigos por ejemplo. O podría ser un servicio
+para ancianos que quieran agendar citas con sus compañeros del dominó.
+¡Sean creativas!
+
+### Bases
+
+1. Definir quiénes serán los usuarios: ¿Hombres? ¿Mujeres? ¿Niños? ¿Adultos?
+  ¿Viejos? ¿Dónde viven? ¿A qué se dedican? ¿Por qué les interesaría un
+  asistente digital? etc. etc.
+1. Definir cómo será el servicio: ¿Formal? ¿Casual? ¿Elegante? ¿Juguetón?
+   ¿Masculino? ¿Femenimo? etc. etc.
+
+### Mejoras
+
+Una vez definidos estos puntos, que cada alumna tome la página y la mejore según
+las 5 reglas que vimos en esta unidad:
+
+1. Contraste
+1. Casi negro
+1. Contenido importante primero (jerarquia)
+1. Alinear todo
+1. Tamaño y espaciado del texto

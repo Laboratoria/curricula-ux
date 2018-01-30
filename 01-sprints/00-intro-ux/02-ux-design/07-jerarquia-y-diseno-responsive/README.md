@@ -1,4 +1,16 @@
-# Unidad 4 - Jerarquía y diseño responsivo
+# Jerarquía y diseño responsivo
+
+- Tipo: `lectura`
+- Formato: `self-paced`
+- Duración: `90min`
+
+***
+
+## Objetivos de aprendizaje
+
+- Identificar técnicas comunes para utilizar jerarquizar el contenido de
+  nuestras interfaces
+- Conocer los siete principios básicos de diseño responsivo
 
 ## Jerarquía: crear equilibrio y organizar el resto de tu diseño
 
@@ -222,3 +234,27 @@ entonces se presentará alguna otra tipografía default.
   - [15 Reasons Why Using a Grid-Based Approach Will Improve Your Designs](https://learn.canva.com/learn/grid-design/)
   - [Responsive web design: What the Internet looks like in 2016](https://www.canva.com/learn/responsive-web-design/)
   - [The principles of adaptive design](http://bradfrost.com/blog/post/the-principles-of-adaptive-design/)
+
+## Ejercicio
+
+Evaluar tu página según los últimos conceptos que aprendimos — jerarquía,
+simetría, espacios vacíos, líneas de dirección, etc. Puedes hacer cambios y
+ajustes como creas convenientes. Después, actualizar su archivo y alinear todo
+al grid tamaño 1440px (sus composiciones igual pueden variar pero cada elemento
+debe de ir alineado al grid). Una vez diseñada la página para computadora,
+diseñar la versión tablet y la versión móvil en base al grid ya definido en el
+archivo.
+
+Después presentar diseños finales resumiendo la meta de la página, el público
+definido. Hablar de elecciones de colores y composición y justificar esas
+decisiones en base a la meta y el público. Abajo hay una serie de preguntas que
+pueden ayudar a evaluar un diseño bien logrado.
+
+1. ¿Tiene un punto de enfoque?
+1. ¿Tiene buen flow visual?
+1. ¿El diseño se siente equilibrado?
+1. ¿El mensaje y el tono van de la mano?
+1. ¿Tiene contraste suficiente?
+1. ¿Aprovecha bien el espacio?
+1. ¿La paleta de colores es harmoniosa? ¿Va con el tono definido?
+1. ¿Sigue las bases que definiste al principio?
