@@ -8,10 +8,12 @@
 
 - Resolver dudas que quedaron de la primera parte del reto final
 - Trabajar en nuevos conceptos como benchmarking
+
 ***
 
 ## Agenda
 
 - De la primera parte del proyecto qué dudas quedaron o qué conceptos les
-gustaría reforzar
+  gustaría reforzar
+
 - Benchmark: ¿Qué tienen en común Airbnb con un Banco?
