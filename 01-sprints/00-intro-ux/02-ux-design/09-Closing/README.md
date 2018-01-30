@@ -2,7 +2,7 @@
 
 - Tipo: `seminario`
 - Formato: `guiado`
-- Duración: `60min`
+- Duración: `1h`
 
 ***
 
@@ -14,10 +14,8 @@
 
 ### 3. Respondamos las preguntas del opening
 
-- ¿Qué es UX?
-
-- ¿Cuál es el propósito de la etapa de research?
-
-- ¿Cuáles son las claves de una buena entrevista?
-
-- ¿Qué buscamos con un prototipo?
+- ¿Qué es un Customer Journey Map?
+- ¿Para qué nos sirve el Storytelling? ¿Cuándo debemos usarlo?
+- ¿Cuáles son las reglas básicas de diseño visual?
+- ¿Cuáles son los siete principios básicos de diseño responsivo?
+- ¿Cuáles son los beneficios de utilizar herramientas como Figma y Marvel?

@@ -10,11 +10,11 @@
 
 En esta lección aprenderemos:
 
-- Qué es el diseño centrado en el usuario
-- Cuáles son las características de un buen UX Designer
-- Cómo entender las necesidades de los usuarios para poder crear productos
-  basados en estas necesidades
-- Cómo prototipar y testear rápidamente nuestras ideas de productos
+- Herramientas como Customer Journey Maps y Storytelling y cómo las usamos para
+  complementar a nuestros User personas
+- Qué son User Flows y cómo nos ayudan a ayudar a nuestros usuarios
+- Los fundamentos del Diseño Visual para poder diseñar mejores interfaces
+- Crear prototipos digitales con herramientas como Figma y Marvel
 
 ## Guía de preguntas y conceptos clave
 
@@ -28,7 +28,8 @@ orientar tus esfuerzos de aprendizaje. Regresa a ellas constantemente a
 medida que avanzas para validar que estás avanzando en la dirección correcta.
 Que te sirva como un "checklist" que vas marcando a medida que vas progresando.
 
-- ¿Qué es UX?
-- ¿Cuál es el propósito de la etapa de research?
-- ¿Cuáles son las claves de una buena entrevista?
-- ¿Qué buscamos con un prototipo?
+- ¿Qué es un Customer Journey Map?
+- ¿Para qué nos sirve el Storytelling? ¿Cuándo debemos usarlo?
+- ¿Cuáles son las reglas básicas de diseño visual?
+- ¿Cuáles son los siete principios básicos de diseño responsivo?
+- ¿Cuáles son los beneficios de utilizar herramientas como Figma y Marvel?
