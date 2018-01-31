@@ -45,8 +45,16 @@ práctica los conocimientos aprendidos para crear los siguientes productos web:
 
 ### Unidad 01: [Primer proyecto UX](01-intro)
 
-70 - 80 hrs
+50 - 55 hrs
 
 En este curso trabajaremos en nuestro primer proyecto de diseño, aprendiendo
 las mejores prácticas de research cualitativo, pasando por técnicas de síntesis,
 ideación y priorización hasta llegar al prototipado y testeo de la solución.
+
+### Unidad 02: [Iterando el primer proyecto de UX](02-ux-design)
+
+20 hrs
+
+En este curso mejoraremos el proyecto que trabajamos en la unidad anterior,
+utilizando nuevas herramientas como Figma, Marvel, Customer Journey Maps,
+Storytelling y nuevos conceptos como Visual Design.
