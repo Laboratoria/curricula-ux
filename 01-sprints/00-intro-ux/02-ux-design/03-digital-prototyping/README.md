@@ -56,8 +56,6 @@ saber que Figma nos permite tener varios files para un proyecto.
 - [Figma Course](https://learnux.io/course/figma)
 - [Figma vs Sketch](https://medium.com/@mengto/figma-vs-sketch-c01e5e74eddd)
 
-### Marvel
-
 ## Ejercico Instagram
 
 ### Crear un nuevo file
