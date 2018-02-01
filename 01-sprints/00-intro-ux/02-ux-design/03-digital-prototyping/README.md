@@ -162,6 +162,10 @@ crea la pantalla del home de Instagram en blanco y negro.
 
 Siéntete libre de hacer la pantalla lo más real posible.
 
+Un ejemplo:
+
+![home](https://lh3.googleusercontent.com/4uXmyT-Ko2WFjjCXDBElcXXmlxmlX1RAYhv_qgGbYrDDjvCGbA-lwNIf2Y_ohUz5TJVjDQ5R0xSUpj-jy9trmuT5F9vwthBTuAIaJqj8xK_AZgakboxEk9CTFdAV5PDAXdjxSkKkR_M)
+
 Una vez que tengas la pantalla principal, intenta hacer una segunda pantalla del
-app. [Aquí](https://www.figma.com/file/EpsvygdY7mlFAlfjT1Hp7vJM/Instagram) un
-ejemplo hecho por nosotros.
+app. [Aquí](https://www.figma.com/file/EpsvygdY7mlFAlfjT1Hp7vJM/Instagram) otras
+pantallas de ejemplo hechas por nosotros.
