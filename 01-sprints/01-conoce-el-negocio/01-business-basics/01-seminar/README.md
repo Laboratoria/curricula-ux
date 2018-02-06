@@ -26,6 +26,18 @@
 
 ### Por qué una UXD tiene que saber de Negocios y Tecnología
 
+Te lo explicamos con dos gráficos muy parecidos. 
+
+El primero nos dice que un producto digital exitoso es una mezcla de Diseño,
+Tecnología y Negocios. 
+
+![succesul product](https://lh4.googleusercontent.com/EigZnNr6llXzx9v0DIxDObubSES4CVDyppnIBFjEfZNFJnFPGndJwoCjdY_Tozs6WO1LrJ42ee90hGSZRq8OcJZF_N4FVd_Uq0JOEQd7aNirYm8P_POSItcjhKDMuCx0iaKStFo7S84)
+
+El segundo gráfico del libro [AboutFace]() va un poco más allá y nos dice que 
+
+https://lh4.googleusercontent.com/BCBkpIcgCtBfWKM6lgDDj5JVo18O-DGofWRGt0g7cCPEr2BuKVXLSWfrASN2pGXBS7X3BplKzo-IighQ41kVKvOz7Ru9PnjrGgCqpRIgWKymFrAuSaYVQH0Aapd6BUGCovKLZnoIwJ8
+
+
 ### Cuáles son los 4 tipos de empresas en las que trabajaremos
 
 Cómo ya te hemos mencionado en distintas charlas, al salir de Laboratoria
