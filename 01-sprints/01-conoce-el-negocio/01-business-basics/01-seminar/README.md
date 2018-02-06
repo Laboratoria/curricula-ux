@@ -135,6 +135,8 @@ Las cosas que se rescatan de este video son:
 
 #### Facebook
 
+[Video de Facebook](https://www.youtube.com/watch?time_continue=580&v=Lb4IcGF5iTQ)
+
 Las cosas que se rescatan de esta entrevista son:
 
 - Las empresas son organismos que aprenden, si NO están aprendiendo
