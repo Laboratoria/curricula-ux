@@ -35,26 +35,21 @@ Secondary tags: `startups`, `transformación digital`, `software factory`,
 
 ## Productos a desarrollar
 
-Con este curso desarrollarás tus primeros productos digitales. Pondrás en
-práctica los conocimientos aprendidos para crear los siguientes productos web:
+En este curso trabajaremos en conociendo las bases del mundo digital y de los
+negocios. Trabajando en un proyecto clásico de las empresas financiera más
+grandes de Latinoamérica.
 
-1. **Nueva experiencia en empresas de buses**: crearás una solución para un
-   problema de un emprendedor.
+- **Nuevo banco digital**: El entregable final del curso será un prototipo
+  validado de una solución para un banco 100% digital.
 
 ## Syllabus
 
-### Unidad 01: [Primer proyecto UX](01-intro)
+### Unidad 01: [Lecciones básicas de negocios](01-business-basics)
 
 50 - 55 hrs
 
-En este curso trabajaremos en nuestro primer proyecto de diseño, aprendiendo
-las mejores prácticas de research cualitativo, pasando por técnicas de síntesis,
-ideación y priorización hasta llegar al prototipado y testeo de la solución.
-
-### Unidad 02: [Iterando el primer proyecto de UX](02-ux-design)
-
-20 hrs
-
-En este curso mejoraremos el proyecto que trabajamos en la unidad anterior,
-utilizando nuevas herramientas como Figma, Marvel, Customer Journey Maps,
-Storytelling y nuevos conceptos como Visual Design.
+En este curso aprenderás la diferencia entre una compañia y una startup. Las
+estrategias que siguen las empresas que están liderando el mundo digital. Los
+modelos de negocios de los principales tipos de empresas que trabajan en el
+mundo digital. Conociendo este contexto, cómo trabajar un producto de diseño en
+una empresa inmersa en e contexto de transformación digital.
