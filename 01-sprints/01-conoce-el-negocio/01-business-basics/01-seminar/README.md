@@ -33,10 +33,41 @@ Tecnología y Negocios.
 
 ![succesul product](https://lh4.googleusercontent.com/EigZnNr6llXzx9v0DIxDObubSES4CVDyppnIBFjEfZNFJnFPGndJwoCjdY_Tozs6WO1LrJ42ee90hGSZRq8OcJZF_N4FVd_Uq0JOEQd7aNirYm8P_POSItcjhKDMuCx0iaKStFo7S84)
 
-El segundo gráfico del libro [AboutFace]() va un poco más allá y nos dice que 
+El segundo gráfico del libro [AboutFace](https://www.amazon.com/About-Face-Essentials-Interaction-Design/dp/1118766571/ref=sr_1_1?ie=UTF8&qid=1517959313&sr=8-1&keywords=aboutface) va un poco más allá
+y nos dice que un producto exitoso tiene que ser deseable (diseño), viable
+(negocios) y posible (tecnología). 
 
-https://lh4.googleusercontent.com/BCBkpIcgCtBfWKM6lgDDj5JVo18O-DGofWRGt0g7cCPEr2BuKVXLSWfrASN2pGXBS7X3BplKzo-IighQ41kVKvOz7Ru9PnjrGgCqpRIgWKymFrAuSaYVQH0Aapd6BUGCovKLZnoIwJ8
+![overall product success](https://lh4.googleusercontent.com/BCBkpIcgCtBfWKM6lgDDj5JVo18O-DGofWRGt0g7cCPEr2BuKVXLSWfrASN2pGXBS7X3BplKzo-IighQ41kVKvOz7Ru9PnjrGgCqpRIgWKymFrAuSaYVQH0Aapd6BUGCovKLZnoIwJ80)
 
+Un producto no será exitoso si es que tiene pérdidas económicas para una
+empresa. Por otro lado, si un producto no es factible de ser construido por el
+equipo técnico de una empresa, este no verá la luz nunca. Y por último, si una
+empresa construye un producto sin pensar en el usuario, es posible que no sea
+exitoso tampoco. 
+
+La imagen nos da unos ejemplos adicionales (que están cambiando/actualizándose):
+
+- Apple: en sus primeras décadas, se enfocaba solo en la experiencia de sus
+  usuarios, sin pensar mucho en el lado de negocio. Finalmente, sobrevivió por
+  la lealtad de sus usuarios.
+- Microsoft: por muchos años fue una compañía muy enfocada en los negocios. Pero
+  no logró hacer que sus productos sean "deseables" por los usuarios. Lo que le
+  dio pie a otras empresas de abrirse campo en el mercado (como Apple).
+- [Novell](https://es.wikipedia.org/wiki/Novell): fue una empresa que se dedicó
+  mucho a la tecnología y que sin poder lograr tener un modelo de negocio
+  exitoso, terminó cerrando. 
+
+Es por eso que buscamos que todas las UX Designers de Laboratoria conozcan un
+poco de cada una de estas disciplinas.
+
+De todos modos, como te estarás preguntando, en algunos casos el componente de
+diseño es mayor, en otros el de tecnología y en otros el de negocio. Como
+muestra este gráfico (puedes leer más en este [artículo](https://uxdesign.cc/the-evolution-of-ux-challenges-5e1748b82ede)):
+
+![distintos pesos en ux,business y tech](https://cdn-images-1.medium.com/max/1600/1*HlaP27dGpKAqFbWm8-kBOQ.png)
+
+Antes de empezar a hablar de negocios, hablaremos de las empresas en las que
+trabajaremos y luego conoceremos un poco más de c/u de sus negocios.
 
 ### Cuáles son los 4 tipos de empresas en las que trabajaremos
 
