@@ -68,7 +68,7 @@ En este talk Paul comenta sobre la importancia de los soft skills para un UX Des
 
 * Track: _UX Design_
 * Autor: [Lalo Gonzalez](https://github.com/lalogf)
-* Tiempo estimado: _2 semanas_
+* Tiempo estimado: _4 semanas_
 
 En este curso trabajaremos en nuestro primer proyecto de diseño, aprendiendo las mejores prácticas de research cualitativo, pasando por técnicas de síntesis, ideación y priorización hasta llegar al prototipado y testeo de la solución. 
 
@@ -78,6 +78,20 @@ Main tags: `research`, `entrevistas`, `observación`, `prototipado`, `mvp`, `tes
 
 Secondary tags: `sketching`, `paper prototyping`, `content prototyping`, `interactive prototype`,
 `investigación contextual`, `encuestas`, `Figma`, `Marvel`.
+
+### [02. Conociendo los negocios](01-sprints/01-conoce-el-negocio)
+
+* Track: _UX Design_
+* Autor: [Lalo Gonzalez](https://github.com/lalogf)
+* Tiempo estimado: _2 semanas_
+
+En este curso trabajaremos en nuestro primer proyecto de diseño, aprendiendo las mejores prácticas de research cualitativo, pasando por técnicas de síntesis, ideación y priorización hasta llegar al prototipado y testeo de la solución. 
+
+* **Nuevo banco digital**: El entregable final del curso será un prototipo validado de una solución para un banco 100% digital.
+
+Main tags: `liderazgo digital`, `modelos de negocios`, `business model canvas`, `project scoping`, `stakeholders`, `arquitectura de la informacion`, `sistemas de diseño`, `interface guidelines`.
+
+Secondary tags: `startups`, `transformación digital`, `software factory`, `project planning`.
 
 *** 
 
