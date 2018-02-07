@@ -88,3 +88,4 @@ como referencia para:
 - Crear el Business Model Canvas de Netflix
 - Crear el Business Model Canvas de una startup local
 - Crear el Business Model Canvas de una empresa de transformación digital local
+- Leer este [artículo](https://blog.continuum.cl/innovaciones-que-no-funcionan-parte-1-business-as-usual-disfrazado-de-innovaci%C3%B3n-61b45bd17165)

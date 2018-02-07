@@ -35,7 +35,7 @@ Que te sirva como un "checklist" que vas marcando a medida que vas progresando.
 - ¿Qué es una startup?
 - ¿Qué es un modelo de negocio?
 - ¿Cuál es la utilidad de un Business Model Canvas?
-- ¿Qué es Arquitectura de la Información?
+- ¿Qué son los stakeholders y por qué son importantes dentro de un proyecto?
 
 ## Recordatorio
 

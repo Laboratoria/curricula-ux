@@ -67,6 +67,8 @@ muestra este gráfico (puedes leer más en este [artículo](https://uxdesign.cc/
 
 ![distintos pesos en ux,business y tech](https://cdn-images-1.medium.com/max/1600/1*HlaP27dGpKAqFbWm8-kBOQ.png)
 
+[Aquí un artículo adicional que habla sobre estos 3 aspectos](https://medium.com/@gorilas/los-tres-factores-del-%C3%A9xito-de-un-producto-digital-12f600f4e2e8)
+
 Antes de empezar a hablar de negocios, hablaremos de las empresas en las que
 trabajaremos y luego conoceremos un poco más de c/u de sus negocios.
 

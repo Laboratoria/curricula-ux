@@ -72,6 +72,15 @@ también afectan la experiencia de nuestros usuarios. Así que el estar cerca de
 ellos, entenderlos y sobre todo trabajar de la mano, nos ayudará a tener
 proyectos y productos exitosos.
 
+### En qué momentos debo involucrar a los stakeholders
+
+- Al iniciar un proyecto
+- Al vender un proyecto
+- Al hacer reviews
+- Al hacer sesiones de ideación
+- Al hacer sersiones de testing
+- Al presentar resultados
+
 ## Ejercicio
 
 Imagina que trabajas en el centro de innovación de una aseguradora y que estás
