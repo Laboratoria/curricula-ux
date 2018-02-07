@@ -37,7 +37,7 @@ El segundo gráfico del libro [AboutFace](https://www.amazon.com/About-Face-Esse
 y nos dice que un producto exitoso tiene que ser deseable (diseño), viable
 (negocios) y posible (tecnología). 
 
-![overall product success](https://lh4.googleusercontent.com/BCBkpIcgCtBfWKM6lgDDj5JVo18O-DGofWRGt0g7cCPEr2BuKVXLSWfrASN2pGXBS7X3BplKzo-IighQ41kVKvOz7Ru9PnjrGgCqpRIgWKymFrAuSaYVQH0Aapd6BUGCovKLZnoIwJ80)
+![overall product success](https://lh4.googleusercontent.com/BCBkpIcgCtBfWKM6lgDDj5JVo18O-DGofWRGt0g7cCPEr2BuKVXLSWfrASN2pGXBS7X3BplKzo-IighQ41kVKvOz7Ru9PnjrGgCqpRIgWKymFrAuSaYVQH0Aapd6BUGCovKLZnoIwJ8)
 
 Un producto no será exitoso si es que tiene pérdidas económicas para una
 empresa. Por otro lado, si un producto no es factible de ser construido por el
