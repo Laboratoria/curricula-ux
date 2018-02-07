@@ -6,8 +6,9 @@
 
 ## Objetivos
 
-- Conoceremos son
-- Conocer el por qué es importante esta especialidad
+- Conocer el por qué es importante entender de negocios
+- Conocer las estrategias que siguen las empresas que están liderando el mundo
+  digital
 
 ***
 
@@ -26,26 +27,26 @@
 
 ### Por qué una UXD tiene que saber de Negocios y Tecnología
 
-Te lo explicamos con dos gráficos muy parecidos. 
+Te lo explicamos con dos gráficos muy parecidos.
 
 El primero nos dice que un producto digital exitoso es una mezcla de Diseño,
-Tecnología y Negocios. 
+Tecnología y Negocios.
 
 ![succesul product](https://lh4.googleusercontent.com/EigZnNr6llXzx9v0DIxDObubSES4CVDyppnIBFjEfZNFJnFPGndJwoCjdY_Tozs6WO1LrJ42ee90hGSZRq8OcJZF_N4FVd_Uq0JOEQd7aNirYm8P_POSItcjhKDMuCx0iaKStFo7S84)
 
-El segundo gráfico del libro [AboutFace](https://www.amazon.com/About-Face-Essentials-Interaction-Design/dp/1118766571/ref=sr_1_1?ie=UTF8&qid=1517959313&sr=8-1&keywords=aboutface) va un poco más allá
-y nos dice que un producto exitoso tiene que ser deseable (diseño), viable
-(negocios) y posible (tecnología). 
+El segundo gráfico del libro [AboutFace](https://www.amazon.com/About-Face-Essentials-Interaction-Design/dp/1118766571/ref=sr_1_1?ie=UTF8&qid=1517959313&sr=8-1&keywords=aboutface)
+va un poco más allá y nos dice que un producto exitoso tiene que ser deseable
+(diseño), viable (negocios) y posible (tecnología).
 
-![overall product success](https://lh4.googleusercontent.com/BCBkpIcgCtBfWKM6lgDDj5JVo18O-DGofWRGt0g7cCPEr2BuKVXLSWfrASN2pGXBS7X3BplKzo-IighQ41kVKvOz7Ru9PnjrGgCqpRIgWKymFrAuSaYVQH0Aapd6BUGCovKLZnoIwJ8)
+![overall product success](https://lh3.googleusercontent.com/5264A7D9H-6W5lKlReph2ljW4gpP4BbyO9ufbS_WzI2EfZdaympBnt-ZIITXOgqbLj8K_88vLLQKZdfhymI4y7HzXAXrBNkfHSmMlRXkKQ6CcYUNT77jqpM7hve3apOpKtLEEdsn414)
 
 Un producto no será exitoso si es que tiene pérdidas económicas para una
 empresa. Por otro lado, si un producto no es factible de ser construido por el
 equipo técnico de una empresa, este no verá la luz nunca. Y por último, si una
 empresa construye un producto sin pensar en el usuario, es posible que no sea
-exitoso tampoco. 
+exitoso tampoco.
 
-La imagen nos da unos ejemplos adicionales (que están cambiando/actualizándose):
+El libro nos da unos ejemplos adicionales (que están cambiando/actualizándose):
 
 - Apple: en sus primeras décadas, se enfocaba solo en la experiencia de sus
   usuarios, sin pensar mucho en el lado de negocio. Finalmente, sobrevivió por
@@ -55,7 +56,7 @@ La imagen nos da unos ejemplos adicionales (que están cambiando/actualizándose
   dio pie a otras empresas de abrirse campo en el mercado (como Apple).
 - [Novell](https://es.wikipedia.org/wiki/Novell): fue una empresa que se dedicó
   mucho a la tecnología y que sin poder lograr tener un modelo de negocio
-  exitoso, terminó cerrando. 
+  exitoso, terminó cerrando.
 
 Es por eso que buscamos que todas las UX Designers de Laboratoria conozcan un
 poco de cada una de estas disciplinas.

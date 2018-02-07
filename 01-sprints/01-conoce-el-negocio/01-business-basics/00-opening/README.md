@@ -36,3 +36,8 @@ Que te sirva como un "checklist" que vas marcando a medida que vas progresando.
 - ¿Qué es un modelo de negocio?
 - ¿Cuál es la utilidad de un Business Model Canvas?
 - ¿Qué es Arquitectura de la Información?
+
+## Recordatorio
+
+Esta unidad tiene muchos videos que tienen subtítulos en español. Recuerda
+activarlos antes de ver los videos.
