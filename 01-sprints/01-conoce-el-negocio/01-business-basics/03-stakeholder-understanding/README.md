@@ -24,7 +24,7 @@
 Antes de empezar a hablar de stakeholders (grupos de interés), recordemos este
 video.
 
-[el equipo de desarrollo](https://www.youtube.com/watch?v=ge4h5uJN6KI)
+[el equipo de desarrollo](https://youtu.be/UI1pUqfKitU)
 
 Discutamos, en este tipo de empresas:
 
