@@ -6,18 +6,18 @@
 
 ## Objetivos
 
-- Entender cómo están conformados los equipos de producto en los distintos tipos
-  de empresa
-- Identificar stakeholders necesarios de involucrar en un proceso de diseño
+- Entender cuál es la pregunta de research antes de empezar un proyecto
+- Definir el alcance de un proyecto
+- Crear un research plan
 
 ***
 
 ## Agenda
 
-- Qué son los stakeholders
-- Quiénes son los stakeholders dependiendo del tipo de compañía
-- Por qué es importante identifcar stakeholders
-- Ejercicio
+- Definiendo el alcance del proyecto
+- Research kick-off
+- Research question
+- Research plan
 
 ## Definiendo el alcance del proyecto
 

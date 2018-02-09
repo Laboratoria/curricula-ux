@@ -85,7 +85,7 @@ proyectos y productos exitosos.
 
 Imagina que trabajas en el centro de innovación de una aseguradora y que estás
 trabajando en la nueva plataforma digital de ventas de seguros de vida para
-poder competir con la inminente llegade de [Lemonade](https://www.lemonade.com/)
+poder competir con la inminente llegada de [Lemonade](https://www.lemonade.com/)
 a latinoamérica.
 
 - Identifica quiénes de la siguiente lista serían tus stakeholders y por qué:
