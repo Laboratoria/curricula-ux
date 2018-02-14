@@ -54,7 +54,7 @@ modelos de negocios de los principales tipos de empresas que trabajan en el
 mundo digital. Conociendo este contexto, cómo trabajar un producto de diseño en
 una empresa inmersa en e contexto de transformación digital.
 
-### Unidad 02: [Lecciones sobre diseño y tecnología](02-desgin)
+### Unidad 02: [Lecciones sobre diseño y tecnología](02-design)
 
 30 - 40 hrs
 
