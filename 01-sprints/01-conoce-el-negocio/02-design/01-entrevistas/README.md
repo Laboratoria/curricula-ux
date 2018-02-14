@@ -2,7 +2,7 @@
 
 Tipo: `seminario`
 Formato: `guiado`
-Duración: `360min`
+Duración: `6h`
 
 ## Objetivos
 

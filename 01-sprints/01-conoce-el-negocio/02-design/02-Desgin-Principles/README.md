@@ -2,7 +2,7 @@
 
 Tipo: `lectura`
 Formato: `self-paced`
-Duración: `120min`
+Duración: `2h`
 
 ## Objetivos
 
