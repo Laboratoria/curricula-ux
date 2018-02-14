@@ -10,14 +10,8 @@
 
 En esta lección aprenderemos:
 
-- A identificar y entender el modelo de negocio de una empresa
-- 5 razones que hacen del mundo digital un gran recurso para la innovación
-- 4 estrategias que aplican las compañías que se destacan en el mundo digital
-- A crear un Business Model Canvas para identificar y entender el modelo de
-  negocio de una empresa
-- Cuál es el rol del diseño en un negocio
-- A identificar el problema/reto de negocio/producto en una empresa antes de una
-  investigación
+- 
+- 
 
 ## Guía de preguntas y conceptos clave
 
@@ -31,11 +25,7 @@ orientar tus esfuerzos de aprendizaje. Regresa a ellas constantemente a
 medida que avanzas para validar que estás avanzando en la dirección correcta.
 Que te sirva como un "checklist" que vas marcando a medida que vas progresando.
 
-- ¿Qué es una compañía?
-- ¿Qué es una startup?
-- ¿Qué es un modelo de negocio?
-- ¿Cuál es la utilidad de un Business Model Canvas?
-- ¿Qué son los stakeholders y por qué son importantes dentro de un proyecto?
+- ¿Preguntas?
 
 ## Recordatorio
 
