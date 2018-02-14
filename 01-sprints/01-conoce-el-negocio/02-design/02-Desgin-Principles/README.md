@@ -6,7 +6,9 @@ Duración: `120min`
 
 ## Objetivos
 
--
+- Entender cuáles son los principios de diseño según Don Norman.
+- Identificar y aplicar los conceptos de `affordances`, `signifiers`,
+  `discoverability` y `feedback`.
 
 ***
 
@@ -95,6 +97,16 @@ lo que puedo hacer? ¿Qué acciones son posibles? ¿Cuáles son mis alternativas
 respuesta a una acción tomada. Lleva al concepto de retroalimentación(feedback
 ) ¿Cómo sé lo que pasó? ¿Que pasó? ¿Funcionó? Qué significa eso? ¿Esta bien?
 ¿He logrado mi objetivo?
+
+## Ejercicio
+
+- Revisa esta [web](http://www.pacifico.com.pe/) e identifica cuáles son los
+  affordances y signifiers. Además, análizala en términos de discoverability y
+  feedback.
+- Analiza [la web de hipmunk](https://www.hipmunk.com/) en términos de modelos
+  conceptuales e imagen del sistema.
+- Analiza la web de [Virgin América](https://www.virginamerica.com/book)
+  basándote en los 6 principios de diseño.
 
 ## Referencias
 

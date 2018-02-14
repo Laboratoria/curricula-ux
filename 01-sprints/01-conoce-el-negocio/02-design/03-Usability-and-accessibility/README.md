@@ -8,6 +8,7 @@
 
 - Entender cuáles son las 10 heurísiticas de usabilidad de Nielsen
 - Relacionar las heurísticas de usabilidad con los principios de diseño
+- Conocer qué es accesibilidad y por qué es importante en el diseño de productos
 
 ***
 
@@ -152,9 +153,9 @@ Mira este video y reflexiona sobre el concepto de accesibilidad [video](https://
 Accesibilidad según la [W3org](https://www.w3.org/WAI/intro/accessibility.php):
 
 > La accesibilidad web significa que los sitios web, las herramientas y las
-  tecnologías están diseñados y desarrollados para que las personas con
-  capacidades diferentes puedan usarlos. Más específicamente, las personas 
-  pueden:
+tecnologías están diseñados y desarrollados para que las personas con
+capacidades diferentes puedan usarlos. Más específicamente, las personas
+pueden:
 > - percibir, comprender, navegar e interactuar con la Web
 > - contribuir a la web
 
@@ -184,7 +185,7 @@ consideraciones sobre accesibilidad.
 ## Ejercicio 2
 
 - Encontrar problemas de accesibilidad en una web financiera, listarlos y
-  presentarlos al salón. 
+  presentarlos al salón.
 
 ## Referencias
 
