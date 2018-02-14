@@ -2,7 +2,7 @@
 
 - Tipo: `seminario`
 - Formato: `guiado`
-- Duración: `120min`
+- Duración: `20min`
 
 ***
 
@@ -14,12 +14,9 @@
 
 ### 3. Respondamos las preguntas del opening
 
-- ¿Qué es una compañía?
-
-- ¿Qué es una startup?
-
-- ¿Qué es un modelo de negocio?
-
-- ¿Cuál es la utilidad de un Business Model Canvas?
-
-- ¿Qué son los stakeholders y por qué son importantes dentro de un proyecto?README.md
+- ¿Qué tips debo seguir para conducir una buena sesión de entrevistas?
+- ¿Cómo debo tomar los principios de `affordances`, `signifiers`,
+  `discoverability` y `feedback` en una interfaz digital?
+- ¿Cuáles son las heurísticas de usabilidad?
+- ¿Por qué es importante la accesibilidad?
+- ¿Cuál es la diferencia entre un app nativa y un web app?

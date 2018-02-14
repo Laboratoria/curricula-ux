@@ -6,7 +6,11 @@
 
 ## Objetivos
 
-- Conocer qué es un 
+- Conocer qué es una web app y una app nativa
+- Cuáles son las diferencias en costos y capacidades en la creación de
+  aplicaciones web y nativas
+- Qué son los human interface guidelines
+- Qué es una guía de estilos  
 
 ***
 
@@ -59,7 +63,7 @@ En mucho, primero que tienes que entender bien cómo es que funcionan estos dos
 tipos de aplicaciones al momento de proponer una solución. También, debes saber
 cuál es el tipo de solución que mejor se adapta a las necesidades de tus
 usuarios, del producto que estás diseñando, de la capacidad técnica del equipo y
-de las necesidades del negocio. 
+de las necesidades del negocio.
 
 #### Costos y tiempos de implementación
 
@@ -78,7 +82,7 @@ móvil nativa, tienes que hacer un desarrollo para iOS y otro para Android.
 #### Posibilidades técnicas
 
 Cuando hacemos aplicaciones nativas aprovechamos todas las capacidades que nos
-da el dispositivo y su sistema operativo. Por ejemplo: 
+da el dispositivo y su sistema operativo. Por ejemplo:
 
 - Biometría: en muchos dispositivos y sistemas operativos, puedes usar la huella
   dactilar o el iris o hasta la cara para poder hacer operaciones que involucran
@@ -146,7 +150,7 @@ será algo que tendrás que tener en cuenta.
 
 Para poder ayudar a los diseñadores y developers sobre las mejores maneras de
 interactuar con sus dispositivos, Apple y Google tienen algunas guías. Que las
-llaman `interface guidelines`. Estas guías tienen en cuenta también 
+llaman `interface guidelines`. Estas guías tienen en cuenta también
 
 - Apple [Human Interface Guidelines](https://developer.apple.com/ios/human-interface-guidelines/overview/themes/)
 - Google [Android Human Interface Guidelines](https://developer.android.com/guide/practices/ui_guidelines/index.html)

@@ -10,8 +10,13 @@
 
 En esta lección aprenderemos:
 
-- 
-- 
+- Más sobre las entrevistas, mejores prácticas y tips
+- Principios de diseño: `affordances`, `signifiers`, `discoverability` y
+  `feedback`
+- Qué es usabilidad
+- Qué es accesibilidad
+- Las diferencias y capacidades entre web apps y apps nativas
+- Arquitectura de la información
 
 ## Guía de preguntas y conceptos clave
 
@@ -25,7 +30,12 @@ orientar tus esfuerzos de aprendizaje. Regresa a ellas constantemente a
 medida que avanzas para validar que estás avanzando en la dirección correcta.
 Que te sirva como un "checklist" que vas marcando a medida que vas progresando.
 
-- ¿Preguntas?
+- ¿Qué tips debo seguir para conducir una buena sesión de entrevistas?
+- ¿Cómo debo tomar los principios de `affordances`, `signifiers`,
+  `discoverability` y `feedback` en una interfaz digital?
+- ¿Cuáles son las heurísticas de usabilidad?
+- ¿Por qué es importante la accesibilidad?
+- ¿Cuál es la diferencia entre un app nativa y un web app?
 
 ## Recordatorio
 
