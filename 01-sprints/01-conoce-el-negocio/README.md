@@ -54,16 +54,6 @@ modelos de negocios de los principales tipos de empresas que trabajan en el
 mundo digital. Conociendo este contexto, cómo trabajar un producto de diseño en
 una empresa inmersa en e contexto de transformación digital.
 
-### Unidad 01: [Lecciones básicas de negocios](01-business-basics)
-
-50 - 55 hrs
-
-En este curso aprenderás la diferencia entre una compañia y una startup. Las
-estrategias que siguen las empresas que están liderando el mundo digital. Los
-modelos de negocios de los principales tipos de empresas que trabajan en el
-mundo digital. Conociendo este contexto, cómo trabajar un producto de diseño en
-una empresa inmersa en e contexto de transformación digital.
-
 ### Unidad 02: [Lecciones sobre diseño y tecnología](02-desgin)
 
 30 - 40 hrs
