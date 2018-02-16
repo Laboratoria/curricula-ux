@@ -14,7 +14,7 @@
 ## Nueva banco digital para millenials
 
 ¿Recuerdas el caso del nuevo banco digital para millenials? Bueno, seguiremos
-trabajando en eso. Ahora, te pedimos que con: las respuestas de sus stakeholders
+trabajando en eso. Ahora, te pedimos que con las respuestas de tus stakeholders
 replantees tu plan de research.
 
 Además, deberás:

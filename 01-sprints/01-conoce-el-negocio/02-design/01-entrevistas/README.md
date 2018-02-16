@@ -161,13 +161,15 @@ compartir con tus stakeholders.
 
 #### Ejercicio
 
-- Crea una guía de entrevista para el caso del Banco Millenial. Los stakeholders
-  han pedido empezar entendiendo a sus clientes más nuevos y jóvenes. Es decir,
-  usuarios que lleven menos de 1 año como clientes de algún banco y que no pasen
-  los 30 años. Su idea es entender qué les gusta y qué no de la forma en como
-  interactuan con son finanzas actualmente y qué es lo que se esperaban antes de
-  ser clientes del banco. Además, de entender bien cuáles son sus referencias en
-  términos de tecnología (apps, dispositivos, etc).
+- Crea una guía de entrevistas para el caso del Banco Millenial. Los
+  stakeholders te han pedido empezar entendiendo a los usuarios más nuevos y
+  jóvenes. Que sean clientes del Banco País o de cualquier otro banco, por menos
+  de 1 año y que no tengan más de 30 años de edad. Su idea es entender a este
+  tipo de usuarios para saber qué les gusta y qué no cuando interactuan con sus
+  finanzas personales. Además, les interesa saber qué es lo que esperaban estos
+  usuarios de un banco antes de ser sus clientes. Y, finalmente, quieren
+  entender bien cuáles son las referencias que tienen estos usuarios en términos
+  de tecnología (apps, dispositivos, etc).
 
 ### El Arco de una entrevista
 
@@ -407,7 +409,7 @@ Mira este video de GV:
 #### Ejercicio entrevistas
 
 - Ahora que sabes más sobre entrevistas, regresa a tu guía de entrevistas y si
-  tienes que hacer algún ajuste, ahora es el momento.
+  tienes que hacer algún ajuste, házlo ahora.
 - Júntense en grupos de 3 personas y entrevistense entre ustedes usando su guía
   de entrevistas.
   - Una es la entrevistadora, otra la entrevistada y la 3 anotará los
