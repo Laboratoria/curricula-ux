@@ -21,7 +21,7 @@ Duración: `2h`
 
 ## Los principios de diseño
 
-En su libro y curso [The Design of Everyday Things](http://udacity.com/courses/design101)
+En su libro y curso [The Design of Everyday Things](https://www.udacity.com/course/intro-to-the-design-of-everyday-things--design101)
 , Don Norman nos habla de distintos principios de diseño que revisaremos en esta
 lección.
 
