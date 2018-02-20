@@ -10,7 +10,7 @@
 - Cuáles son las diferencias en costos y capacidades en la creación de
   aplicaciones web y nativas
 - Qué son los human interface guidelines
-- Qué es una guía de estilos  
+- Qué es una guía de estilos
 
 ***
 
