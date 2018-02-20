@@ -114,7 +114,7 @@ cuál sería la mejor manera de organizar la información que tenemos. Es una
 técnica común cuando hablamos de organizar el contenido para un producto
 digital.
 
-Mira estos videos:
+Mira estos video:
 
 [Card sorting](https://youtu.be/TbEfjaE94sU)
 
