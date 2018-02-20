@@ -155,6 +155,50 @@ llaman `interface guidelines`. Estas guías tienen en cuenta también
 - Apple [Human Interface Guidelines](https://developer.apple.com/ios/human-interface-guidelines/overview/themes/)
 - Google [Android Human Interface Guidelines](https://developer.android.com/guide/practices/ui_guidelines/index.html)
 
+## Guías de estilo / sistemas de diseño
+
+La mejor definición que encontramos sobre sistemas de diseño es esta:
+
+> Un sistema de diseño es una colección de componentes reutilizables, guiados
+por estándares claros, que se pueden ensamblar para crear cualquier cantidad de
+aplicaciones.
+
+Si nos detenmos a pensar un segundo en esta definición, nos daremos cuenta que
+frameworks como [Bootstrap](https://getbootstrap.com/) o [Materialize](http://materializecss.com/)
+cumplen exactamente con las características de la definición. Son componentes
+reutilizables que se pueden usar para ensamblar o crear cualquier cantidad de
+aplicaciones.
+
+Estos sistemas de diseño o guías de estilo normalmente siguen muchos estándares
+como las heurísticas de usabilidad que ya vimos o los principios de diseño o los
+fundamentos de diseño visual y hasta los lineamientos de accesibilidad.
+
+Estos sistemas son muy valiosos tanto para la comunicación y trabajo interno
+en un equipo de diseño, como para la comunicación entre equipos de diseño y
+equipos de desarrollo. Es por eso, que muchas compañías están creando sus
+propios sistemas de diseño para así tener más consistencia en sus componentes
+y facilitarle la vida a sus diseñadores y desarrolladores.
+
+En estos sistemas de diseño encontramos piezas muy atómicas como los colores de
+la marca para la que trabajamos o las fuentes y tamaños a utilizar para cada
+tipo de heading y textos; hasta componentes más avanzados como Cards o
+Formularios y sus respectivos HTML y CSS. Dale una mirada a estos sistemas de
+diseño de referencia:
+
+- [Shopify](https://polaris.shopify.com)
+- [Mailchimp](https://ux.mailchimp.com/patterns/forms)
+- [Yelp](https://www.yelp.com/styleguide)
+
+Es como si estas empresas hubieran dicho, tengamos nuestro propio bootstrap para
+así poder crear nuestros productos mucho más rápido y teniendo siempre una gran
+consistencia. De hecho, bootstrap nació así, como el sistema de diseño de
+Twitter. Por eso, antes se llamaba `Twitter Bootstrap` y aún ahora hay mucha
+gente que lo sigue llamando así.
+
+Es probable que la compañia a la que te incorpores al acabar la especialización
+tenga su propio sistema de diseño y así tendrás un trabajo un poco más fácil a
+la hora de prototipar.
+
 ## Referencias
 
 - [The mobile question](https://youtu.be/Xi4CfgQEYuc)
