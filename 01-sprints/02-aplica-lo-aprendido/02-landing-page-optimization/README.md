@@ -24,7 +24,7 @@ Si quieres saber más sobre landing pages mira este [link](https://drive.google.
 
 Dependiendo del tipo de producto en el que estemos trabajando, este tendrá
 distintos objetivos. Y, al cumplimiento de esos objetivos los llamamos
-conversión. 
+conversión.
 
 Algunos ejemplos de conversión pueden ser que un usuario:
 
@@ -33,6 +33,27 @@ Algunos ejemplos de conversión pueden ser que un usuario:
 - descargue un documento
 - descargue un app
 - compre un producto
+
+### Experimentos
+
+Dado que los landing pages son súper importantes para generar la conversión
+es muy común que se hagan muchos experimentos en estos landings. Normalmente
+se experimenta con los siguientes componentes para poder observar cuáles tienen
+mejor conversión.
+
+- El título principal
+- CTA (La llamada a la acción)
+- Imagen destacada
+- Diseño de botón
+- Color del botón
+- Extensión del formulario
+- Contenido
+
+En muchos casos se hacen testeos A/B o A/B testings para poder comparar cuáles
+funcionan mejor. Mira este ejemplo de Basecamp:
+
+![longitud de los textos y layout](https://lh6.googleusercontent.com/mX_P2SlzUyk7W4R-SROznWdD7kcOB91eU0tgPK0zO7zpVW2aZMB6KclHlBpGsawYIY01Mz812ppS2uYAc6F60HqJQ4YqaMJF0Vze6iUJq_kj452OQKKfUBvvPkzQHGbLY0dmu_HX5os)
+![fotos](https://lh6.googleusercontent.com/T4quRfBbEylYjn0q65HyR2Mc_NpLQ5iLy_izXOthHBYiNUbH78nJQvmBgwIBgULAjhRgiJQjUMKFasuQROCqsoeeMHQmTvSVY6sz615tnYRgd-nnJIk-yg1qtlYKv-GWElNCcOWuZGM)
 
 ## Métricas
 
@@ -133,21 +154,21 @@ vistos en Instagram.
 
 Mide los nuevos usuarios que están usando un producto o funcionalidad.
 
-Ej. # de actualizaciones a la última versión o las compras hechas por nuevos
-usuarios.
+Por ejemplo: # de actualizaciones a la última versión o las compras hechas por
+nuevos usuarios.
 
 #### Retention
 
 Mide el ratio por el cuál los usuarios están retornando a un producto.
 
-Ej. # de usuarios activos en 3 meses o # de recompras.
+Por ejemplo: # de usuarios activos en 3 meses o # de recompras.
 
 #### Task success
 
 Mide la eficiencia, la eficacia y el ratio de error al usar un producto.
 
-Ej. resultados de búsqueda exitosos o el tiempo de carga de una foto o la
-creación de un nuevo perfil.
+Por ejemplo: resultados de búsqueda exitosos o el tiempo de carga de una foto o
+la creación de un nuevo perfil.
 
 Si quieres saber más sobre los HEART metris mira este [link](https://www.dtelepathy.com/ux-metrics/).
 
