@@ -202,3 +202,4 @@ la hora de prototipar.
 ## Referencias
 
 - [The mobile question](https://youtu.be/Xi4CfgQEYuc)
+- [Sistemas de diseño en tiempos revueltos](https://medium.com/startups-es/sistemas-de-dise%C3%B1o-90c25180bb08)
