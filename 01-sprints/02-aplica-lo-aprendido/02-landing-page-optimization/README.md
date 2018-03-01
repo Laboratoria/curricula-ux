@@ -11,11 +11,46 @@ Duración: `2h`
 
 ***
 
-## Landing Page
+## Landing pages
+
+Un landing page o página de aterrizaje es cualquier web/vista que recibe a un
+usuario que navega en internet. Sin embargo, cuando se habla de landing page en
+el ámbito del internet y del marketing, nos referimos mayormente a una página
+web que fue diseñada con un solo propósito en mente: conversión.
+
+Si quieres saber más sobre landing pages mira este [link](https://drive.google.com/open?id=1MIUwhBibzd8Axxg3VjtGtYNgslSpBJEr).
+
+### Conversión
+
+Dependiendo del tipo de producto en el que estemos trabajando, este tendrá
+distintos objetivos. Y, al cumplimiento de esos objetivos los llamamos
+conversión. 
+
+Algunos ejemplos de conversión pueden ser que un usuario:
+
+- deje su email
+- cree una cuenta
+- descargue un documento
+- descargue un app
+- compre un producto
 
 ## Métricas
 
-### Conversión Funnel (embudo de conversión)
+Para que un usuario se "convierta" o que llegue a hacer la tarea que buscamos,
+pasará por una serie de fases. Todos nuestros usuarios empezarán en la fase 1,
+sin embargo, no todos llegarán hacía el final. Solo algunos cuantos llegarán
+a convertirse. Toda esta trayectoria de los usuarios hacía la conversión se
+llama el conversion funnel o embudo de conversión.
+
+### Conversion Funnel (embudo de conversión)
+
+El embudo de conversión junta una serie de métricas que nos permiten ir midiendo
+cómo va nuestra conversión y poder identificar dónde estamos teniendo problemas
+que podemos solucionar en busca de una mayor conversión.
+
+A las fases del embudo de conversión también las llaman métricas piratas, porque
+su acrónimo se lee "AAARRR": awareness, acquisition, activation, revenue,
+retention y referral.
 
 #### Awareness
 
@@ -29,46 +64,70 @@ o un amigo estuvimos en la fase de awareness.
 #### Acquisition
 
 La fase de adquisición es cuando un usuario viene a nuestro site o landing page,
-o al app store en busca de nosotros. 
+o al app store en busca de nosotros.
 
 Por ejemplo, luego de enterarte de Uber o de ver su publicidad podrías haber
 hecho clic en la publicidad o haber ingresado a Uber.com. En ese momento es que
 estás siendo "adquirido" como usuario.
 
-
 #### Activation
 
 La fase de activación es cuando un usuario ha realizado la acción esperada en el
-producto como dejar su email.
+producto como dejar su email o empieza una prueba del producto.
+
+Por ejemplo, te creas una cuenta en Uber o empiezas el trial de Spotify. En el
+caso de Laboratoria, la activación es cuando una postulante llena el primer
+formulario del landing page.
 
 #### Revenue
 
-Venta
+La venta se refiere a la primera transacción monetaria de un usuario. Cuando
+se decide y empieza a pagar por tu producto. En algunos casos la venta no es
+necesariamente monetaria.
+
+Por ejemplo, luego de probar Spotify o Netflix por un mes te decides a pagar
+mensualmente y haces tu primer pago. Por otro lado, un ejemplo de un revenue
+no monetario es cuando una postulante de Laboratoria completa los cuestionarios.
 
 #### Retention
 
-La retención es cuando un usuario está recomprando o simplemente volviendo a un
-producto.
+La retención es cuando un usuario está recomprando, o loggeandose a un producto
+por segunda vez o si es que no deja de pagar.
+
+Por ejemplo, si compras un segundo curso en una plataforma como Udemy o cuando
+te loggeas por segunda o tercera vez en Facebook o Twitter o si es que no
+eliminas tu cuenta de Netflix o Spotify.
 
 #### Referral
 
 La fase de referencia es cuando un usuario satisfecho refiere el producto a un
 amigo o conocido.
 
+Esta fase es normalmente a través de una recomendación personal como un
+comentario, un email o un whatsapp. Sin embargo las compañías se han ido dando
+cuenta de lo valioso de las referencias y han añadido recompensas cuando uno
+hace una referencia como Uber o Airbnb que te dan crédito cuando le recomiendas
+el servicio a alguien.
+
 ### HEART metrics
 
-#### Hapiness
+Otro tipo de métricas que utilizamos, y que están relacionadas más a la
+experiencia de usuario son los HEART metrics, por sus siglas en inglés:
+happiness, engagement, adoption, retention, task success.
+
+#### Happiness
 
 Mide la satisfacción de un usuario con el producto. Regularmente es obtenida
-vía una encuesta. 
+vía una encuesta o a través del NPS.
 
-Ej: Satisfacción al usar un producto.
+Por ejemplo: Satisfacción al usar Spotify.
 
 #### Engagement
 
 Mide qué tan involucrado está un usuario con el producto.
 
-Ej. # de visitas por semana o # de stories subidos o # de stories vistos.
+Por ejemplo: # de visitas por semana o # de stories subidos o # de stories
+vistos en Instagram.
 
 #### Adoption
 
@@ -89,3 +148,14 @@ Mide la eficiencia, la eficacia y el ratio de error al usar un producto.
 
 Ej. resultados de búsqueda exitosos o el tiempo de carga de una foto o la
 creación de un nuevo perfil.
+
+Si quieres saber más sobre los HEART metris mira este [link](https://www.dtelepathy.com/ux-metrics/).
+
+## Ejercicio
+
+Piensa en [Platzi](https://platzi.com) e identifica:
+
+- Cuáles son los objetivos que tiene en sus distintos landing pages
+- Cómo es que llegan sus usuarios a estos landing pages
+- Cómo sería su funnel/embudo de conversión y qué items mediría
+- Qué items mediría en sus HEART Metrics
