@@ -60,6 +60,10 @@ etc.
 Squarespace tiene una plataforma también para crear logos rápidamente y para
 comprar dominios.
 
+Puedes ver un video sobre Squarespace aquí:
+
+![video squarespace](https://www.useloom.com/share/a615eb9aef87428fa95f58d0a445b70e)
+
 ### Unbounce
 
 [Unbounce](http://www.unbounce.com/) está enfocada principalmente en landing
@@ -68,6 +72,10 @@ para empezar rápido.
 
 ![unbounce](https://lh3.googleusercontent.com/92G11Pfr4A_ou2UZndNFPu1_AKCdwl00Al2MjKxfz_-mAolVi6FExcU5YI0VaHQzQNvqSAKmWI_zLJF-NCUZS0I80vxPzhBXQIhP5HXuLlx5VDYMhl8dQqOXHX0LJDEh8YWBHLuUeGY)
 
+Puedes ver un video sobre Unbounce aquí:
+
+![video Unbounce](https://www.useloom.com/share/cb166089b7044b07a405e22d6b7a5743)
+
 ### Instapage
 
 [Instapage](http://www.instapage.com) también es una plataforma para landing
@@ -75,6 +83,10 @@ pages, tiene muchos templates y te permite crear rápidamente una web / prototip
 e incluso hacer modificaciones para las vistas en móvil.
 
 ![Instapage](https://lh6.googleusercontent.com/5zkvgg0zy605vzK12on1282xHuY1OrCI52AYzcSfOo44I-QN-oFWjlj4cpQVEy09gd5mm2USjoCBVf7zo3nrUVGDb7YiDGweNLZyfWm08I-d0EPnURv30nbsrJHlpojtYxrOrMJ2RFs)
+
+Puedes ver un video sobre Instapage aquí:
+
+![video Instapage](https://www.useloom.com/share/c576de34126142e18f322e480f6c6942)
 
 ## Herramientas de programación
 
