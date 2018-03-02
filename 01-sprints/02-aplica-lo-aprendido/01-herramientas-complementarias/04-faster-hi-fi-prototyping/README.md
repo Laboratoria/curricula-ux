@@ -62,7 +62,7 @@ comprar dominios.
 
 Puedes ver un video sobre Squarespace aquí:
 
-![video squarespace](https://www.useloom.com/share/a615eb9aef87428fa95f58d0a445b70e)
+[video squarespace](https://www.useloom.com/share/a615eb9aef87428fa95f58d0a445b70e)
 
 ### Unbounce
 
@@ -74,7 +74,7 @@ para empezar rápido.
 
 Puedes ver un video sobre Unbounce aquí:
 
-![video Unbounce](https://www.useloom.com/share/cb166089b7044b07a405e22d6b7a5743)
+[video Unbounce](https://www.useloom.com/share/cb166089b7044b07a405e22d6b7a5743)
 
 ### Instapage
 
@@ -86,7 +86,7 @@ e incluso hacer modificaciones para las vistas en móvil.
 
 Puedes ver un video sobre Instapage aquí:
 
-![video Instapage](https://www.useloom.com/share/c576de34126142e18f322e480f6c6942)
+[video Instapage](https://www.useloom.com/share/c576de34126142e18f322e480f6c6942)
 
 ## Herramientas de programación
 
