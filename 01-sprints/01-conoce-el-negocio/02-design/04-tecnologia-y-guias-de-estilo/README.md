@@ -189,6 +189,9 @@ diseño de referencia:
 - [Mailchimp](https://ux.mailchimp.com/patterns/forms)
 - [Yelp](https://www.yelp.com/styleguide)
 
+En este [link](http://styleguides.io/) también puedes encontrar un repositorio
+de guías de estilo y sistemas de diseño de muchas organizaciones.
+
 Es como si estas empresas hubieran dicho, tengamos nuestro propio bootstrap para
 así poder crear nuestros productos mucho más rápido y teniendo siempre una gran
 consistencia. De hecho, bootstrap nació así, como el sistema de diseño de
@@ -202,3 +205,4 @@ la hora de prototipar.
 ## Referencias
 
 - [The mobile question](https://youtu.be/Xi4CfgQEYuc)
+- [Sistemas de diseño en tiempos revueltos](https://medium.com/startups-es/sistemas-de-dise%C3%B1o-90c25180bb08)
