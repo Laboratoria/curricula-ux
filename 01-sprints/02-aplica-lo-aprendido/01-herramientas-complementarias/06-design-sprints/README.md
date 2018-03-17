@@ -27,6 +27,83 @@ caso hablamos de un "Design Sprint", que es un Sprint de Diseño. Es decir, un
 período corto, de 5 días, donde trabajamos un proceso establecido para, a
 través del diseño, solucionar un problema de negocio.
 
+### Los 5 días
+
+Aunque en muchos equipos se le han hecho modificaciones, un Design Sprint
+debería durar 5 días de trabajo, de lunes a viernes de 10 a 17 horas.
+
+Puedes ver este video introductorio sobre Design Sprints contado por Jake Knapp:
+
+[Sprint in 90 seconds](https://youtu.be/K2vSQPh6MCE)
+
+Transcripción:
+
+> Hola Soy Jake de GV y esta es una intro súper rápida al proceso de Sprint. La
+idea de un Sprint es crear y testear un prototipo en solo 5 días. Es como
+avanzar rápidamente al futuro para ver cómo tus usuarios reaccionarían, pero
+antes de invertir tiempo y dinero en crear un producto real. Cada sprint empieza
+con un gran reto, un equipo de aproximadamente 7 personas y un calendario claro.
+El lunes, crearás un mapa del problema y elegirás un objetivo específico. El
+martes, crearás soluciones a tu problema pero en lugar de una bulliciosa sesión
+de brainstorming, trabajarás por tu cuenta para crear soluciones detalladas. El
+miércoles, elegirás las mejores soluciones. En lugar de debates interminables,
+utilizarás un proceso de toma de decisiones estructurado. El jueves, crearás 1,
+2 o hasta 3 prototipos realistas. Estos prototipos son solo una fachada del
+producto final. Puedes usar herramientas como Keynote, Marvel o Invision para
+crear apps y websites que parezcan reales o, para prototipar rápidamente un
+producto físico puedes usar una impresora 3d o modificar un producto existente o
+solo prototipar los materiales de marketing para ese producto. El viernes
+testearás tus prototipos en 5 entrevistas 1 a 1. Encontrarás algunos patrones
+obvios, algunas soluciones funcionarán bien y otras no. De todos modos, tendrás
+claridad de qué hacer después. Y será un gran comienzo para ese gran reto.
+
+#### Lunes: map
+
+[Video lunes](https://www.youtube.com/watch?v=7zOBMxRYJ7I)
+
+1. Empezar por el final
+1. Mapa
+1. Preguntar a los expertos
+1. Objetivo
+
+#### Martes: sketch
+
+[Video martes](https://www.youtube.com/watch?v=_ITJ5lAXQhg )
+
+1. Demos rápidas
+1. Sketches
+ - Notas
+ - Ideas
+ - Crazy 8s
+ - Solución en 4 pasos
+
+#### Miércoles: decisión
+
+[Video miércoles](https://www.youtube.com/watch?v=7BKBFOOKbNo )
+
+1. Museo de Arte
+1. Mapa de calor
+1. Evaluación veloz
+1. Votación silenciosa
+1. Supervoto
+1. Storyboard
+
+#### Jueves: prototipar
+
+[Video jueves](https://www.youtube.com/watch?v=IGcwFV76t7o )
+
+1. Construir una fachada
+1. Ensayar
+1. Guión para la entrevista
+
+#### Viernes: testear
+
+[Video viernes](https://youtu.be/jQmBuKN10VY )
+
+1. Entrevistas
+1. Aprender
+1. Buscar patrones
+
 ### Las claves de un Design Sprint
 
 Por como lo vemos en Laboratoria y por las experiencias que hemos tenido, las
@@ -66,81 +143,6 @@ introduccíon a este tipo de preguntas.
 
 #### Todo tiene un tiempo / estructura
 
-#### Mapa
-
-### Los 5 días
-
-Aunque en muchos equipos se le han hecho modificaciones, un Design Sprint
-debería durar 5 días de trabajo, de lunes a viernes de 10 a 17 horas.
-
-Puedes ver este video introductorio sobre Design Sprints contado por Jake Knapp:
-
-[Sprint in 90 seconds](https://youtu.be/K2vSQPh6MCE)
-
-Transcripción:
-
-> Hola Soy Jake de GV y esta es una intro súper rápida al proceso de Sprint. La
-idea de un Sprint es crear y testear un prototipo en solo 5 días. Es como
-avanzar rápidamente al futuro para ver cómo tus usuarios reaccionarían, pero
-antes de invertir tiempo y dinero en crear un producto real. Cada sprint empieza
-con un gran reto, un equipo de aproximadamente 7 personas y un calendario claro.
-El lunes, crearás un mapa del problema y elegirás un objetivo específico. El
-martes, crearás soluciones a tu problema pero en lugar de una bulliciosa sesión
-de brainstorming, trabajarás por tu cuenta para crear soluciones detalladas. El
-miércoles, elegirás las mejores soluciones. En lugar de debates interminables,
-utilizarás un proceso de toma de decisiones estructurado. El jueves, crearás 1,
-2 o hasta 3 prototipos realistas. Estos prototipos son solo una fachada del
-producto final. Puedes usar herramientas como Keynote, Marvel o Invision para
-crear apps y websites que parezcan reales o, para prototipar rápidamente un
-producto físico puedes usar una impresora 3d o modificar un producto existente o
-solo prototipar los materiales de marketing para ese producto. El viernes
-testearás tus prototipos en 5 entrevistas 1 a 1. Encontrarás algunos patrones
-obvios, algunas soluciones funcionarán bien y otras no. De todos modos, tendrás
-claridad de qué hacer después. Y será un gran comienzo para ese gran reto.
-
-#### Lunes: map
-
-1. Empezar por el final
-1. Mapa
-1. Preguntar a los expertos
-1. Objetivo
-
-[Video lunes](https://www.youtube.com/watch?v=7zOBMxRYJ7I)
-
-#### Martes: sketch
-
-1. Demos rápidas
-1. Sketches
- - Notas
- - Ideas
- - Crazy 8s
- - Solución en 4 pasos
-
-[Video martes](https://www.youtube.com/watch?v=_ITJ5lAXQhg )
-
-#### Miércoles: decisión
-
-1. Museo de Arte
-1. Mapa de calor
-1. Evaluación veloz
-1. Votación silenciosa
-1. Supervoto
-1. Storyboard
-
-[Video miércoles](https://www.youtube.com/watch?v=7BKBFOOKbNo )
-
-#### Jueves: prototipar
-
-1. Construir una fachada
-1. Ensayar
-1. Guión para la entrevista
-
-[Video jueves](https://www.youtube.com/watch?v=IGcwFV76t7o )
-
-#### Viernes: testear
-
-1. Entrevistas
-1. Aprender
-1. Buscar patrones
-
-[Video viernes](https://youtu.be/jQmBuKN10VY )
+Otra de las claves del Design Sprint es que el tiempo limitado que le da a las
+distintas activades. Seguir estos tiempos permite poder cumplir con los 5 días y
+evitar enfrascarnos en largas discusiones.
