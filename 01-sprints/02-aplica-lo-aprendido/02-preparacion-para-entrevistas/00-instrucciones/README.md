@@ -123,8 +123,8 @@ Utiliza este framework para resolver uno o varios de los ejercicios listados
 
 Intenta eligiendo 3 ejercicios, resuelve uno en 15-30 minutos, otro en 1 - 2
 horas y para el tercero tómate un día. Muchas veces tenemos este tipo de
-ejercicios en entrevistas, unos son muy rápidos, solo para ver como razonamos,
-otros tomar un poco más de tiempo y generalmente son con un equipo de trabajo
+ejercicios en entrevistas, unos son muy rápidos, solo para ver cómo razonamos,
+otros toman un poco más de tiempo y generalmente son con un equipo de trabajo
 y nos da un tiempo para poder sustentar un poco más nuestras decisiones y para
 tener la oportunidad de hacer buenas preguntas. En las entrevistas, las
 preguntas que hacemos son casi tan importantes como las respuestas. Finalmente,
