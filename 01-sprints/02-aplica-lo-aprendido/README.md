@@ -44,3 +44,10 @@ aprendido.
 
 En este curso conoceremos nuevas herramientas que nos ayudarán a tener un
 mejor flujo de trabajo y también podremos aplicar temas de métricas y analítica.
+
+### Unidad 02: [Preparación para entrevistas](02-preparacion-para-entrevistas)
+
+10 - 16 hrs
+
+En esta unidad tendrás acceso a varios ejercicios que puedes resolver para
+prepararte para las entrevistas técnicas.
