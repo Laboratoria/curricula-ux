@@ -30,7 +30,7 @@ dominar. Tienes que saber hacer las preguntas correctas, hacer que los usuarios
 se sientan cómodos conversando contigo y asegurarte de manejar adecuadamente tu
 lenguaje corporal. La calidad de la data que obtengamos de las entrevistas
 dependerá mucho de qué tan cuidadosos seamos con el arte de entrevistar. Durante
-las próximas 4 semanas, nos enfocaremos tanto en el arte como en la ciencia de
+las próximas semanas, nos enfocaremos tanto en el arte como en la ciencia de
 la Investigación con Usuarios.
 
 Para la primera clase, lo primero que haremos será revisar juntos nuestras
@@ -49,10 +49,10 @@ aprendamos los unos de los otros y de nuestras experiencias en el trabajo, así
 que si tienen anécdotas de cómo han implementado métodos de investigación  en su
 trabajo, por favor compártelas con los demás.
 
-Como muchas de ustedes ya deben saber, el curso durará 4 semanas y esperamos que
-las clases también duren 4 semanas. Durante estas 4 semanas, van a estar
-trabajando en un proyecto que ustedes mismas han seleccionado, ya sea de su
-trabajo, o de la lista de proyectos que Laboratoria ha propuesto.
+Como muchas de ustedes ya deben saber, el curso durará 6 semanas. Durante estas 
+semanas, van a estar trabajando en un proyecto que ustedes mismas han
+seleccionado,ya sea de su trabajo, o de alguna otra idea que ustedes
+propongan y quieran investigar.
 
 ## Fases del proceso de Investigación
 
