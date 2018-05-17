@@ -40,18 +40,18 @@ podemos convencer a nuestros equipos/jefes/compañeros de que invertir en UX nos
 beneficiará a todos. Qué disciplinas están involucradas en UX Design. Cuáles son
 las características de un buen UX Designer.
 
-### Unidad 02: [Human centered design](/00-libreria/00-intro-ux/01-el-proceso-de-diseno)
+### Unidad 02: [El proceso de diseño](/00-libreria/00-intro-ux/01-el-proceso-de-diseno)
 
 Introducción al proceso de diseño. Cuáles son sus fases. Cuál es la importancia
 de cada fase dentro del proceso.
 
-### Unidad 03: [Metodologías relacionadas](/00-libreria/00-intro-ux/03-metodologias-relacionadas)
+### Unidad 03: [Metodologías relacionadas](/00-libreria/00-intro-ux/02-metodologias-relacionadas)
 
 Cuando hablemos de UX Design vamos a tener que hablar o escuchar de otras
 metodologías relacionadas. En esta unidad te explicamos sobre esas metodologías
 y qué tienen en común.
 
-### Unidad 04: [Documental Design Disruptors](/00-libreria/00-intro-ux/04-design-disruptors)
+### Unidad 04: [Documental Design Disruptors](/00-libreria/00-intro-ux/03-design-disruptors)
 
 Documental creado por [Invision](http://invisionapp.com/) en el que nos muestran
 el estado actual del diseño de productos y de experiencia de usario en las
