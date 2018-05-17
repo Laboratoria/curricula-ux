@@ -1,7 +1,7 @@
 # Clase de Conceptos
 
-- Tipo: `seminario`
-- Formato: `guiado`
+- Tipo: `lectura`
+- Formato: `self-paced`
 - Duración: `1h`
 
 ***
