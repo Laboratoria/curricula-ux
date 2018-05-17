@@ -41,7 +41,7 @@ podemos convencer a nuestros equipos/jefes/compañeros de que invertir en UX nos
 beneficiará a todos. Qué disciplinas están involucradas en UX Design. Cuáles son
 las características de un buen UX Designer.
 
-### Unidad 02: [Human centered design](/00-libreria/00-intro-ux/01-human-centered-desgin)
+### Unidad 02: [Human centered design](/00-libreria/00-intro-ux/01-human-centered-design)
 
 Introducción al proceso de diseño. Cuáles son sus fases. Cuál es la importancia
 de cada fase dentro del proceso.
