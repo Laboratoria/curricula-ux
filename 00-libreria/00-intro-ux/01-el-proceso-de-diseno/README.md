@@ -103,7 +103,9 @@ feedback.
 
 ## Documentos adicionales
 
-En estos links puedes encontrar nuevos
+En estos links puedes encontrar recursos adicionales con herramientas y
+actividades utilizadas en UX Design. En las siguientes unidades profundizaremos
+en ellas, pero puedes irlas mirando y probando.
 
 - [guía del proceso creativo](https://drive.google.com/open?id=1z7xAMMRKtTQbwMJ-mUhcDKwWbdN1x04P)
 - [design thinking para educadores](https://drive.google.com/file/d/1rpCnnRjzdvLlVRQzSNnudj9QzkCQ09XW/view?usp=sharing)
