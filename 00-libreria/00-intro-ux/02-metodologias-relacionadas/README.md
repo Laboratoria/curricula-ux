@@ -47,8 +47,10 @@ Fases del proceso:
 La experimentación en el `design thinking` se basa en siempre mostrarle algo
 (un prototipo) al usuario para obtener su feedback.
 
-Adicionalmente, puedes ver este [video](https://youtu.be/McabDMc9Z4Y) de cómo
-IDEO ideó un nuevo carrito de supermercado en una semana.
+Adicionalmente, puedes ver este video de cómo IDEO ideó un nuevo carrito de
+supermercado en una semana.
+
+[video](https://youtu.be/McabDMc9Z4Y)
 
 ### Lean Startup
 
@@ -99,8 +101,9 @@ Etapas del proceso:
 * Jueves: Prototipar
 * Viernes: Testeara
 
-Puedes ver también como en ![Gimlet Media crearon y validaron un prototipo usando esta metodología](https://youtu.be/iqGLrMjBLZ4)
- respuesta a los cambios es más importante que la planificación
+Puedes ver también como en Gimlet Media crearon y validaron un prototipo usando
+esta metodología.
+[video]((https://youtu.be/iqGLrMjBLZ4))
 
 *** 
 
