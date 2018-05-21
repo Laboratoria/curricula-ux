@@ -8,8 +8,7 @@
 
 ## Objetivos de aprendizaje
 
-- Identificar técnicas comunes para utilizar jerarquizar el contenido de
-  nuestras interfaces
+- Identificar técnicas comunes para utilizar jerarquizar el contenido de nuestras interfaces
 - Conocer los siete principios básicos de diseño responsivo
 
 ## Jerarquía: crear equilibrio y organizar el resto de tu diseño
