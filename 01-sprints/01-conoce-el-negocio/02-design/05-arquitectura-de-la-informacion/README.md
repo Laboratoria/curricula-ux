@@ -1,8 +1,8 @@
 # Clase de Conceptos
 
-Tipo: `lectura`
-Formato: `self-paced`
-Duración: `2h`
+- Tipo: `lectura`
+- Formato: `self-paced`
+- Duración: `2h`
 
 ## Objetivos
 

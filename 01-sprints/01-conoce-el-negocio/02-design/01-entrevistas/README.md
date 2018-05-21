@@ -1,8 +1,8 @@
 # Clase de Conceptos
 
-Tipo: `seminario`
-Formato: `guiado`
-Duración: `6h`
+- Tipo: `seminario`
+- Formato: `guiado`
+- Duración: `6h`
 
 ## Objetivos
 
@@ -11,6 +11,8 @@ Duración: `6h`
 - Aprender a `construir rapport` durante una entrevista
 - Identificar los problemas qué pueden surgir en una entrevista para poder estar
   preparada
+
+***
 
 ## Entrevistas
 

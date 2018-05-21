@@ -1,8 +1,8 @@
 # Clase de Conceptos
 
-Tipo: `seminario`
-Formato: `guiado`
-Duración: `2h`
+- Tipo: `seminario`
+- Formato: `guiado`
+- Duración: `2h`
 
 ## Objetivos
 
