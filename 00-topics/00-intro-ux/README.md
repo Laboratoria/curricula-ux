@@ -1,4 +1,4 @@
-# 01. Intro a User Experience Design
+# Intro a User Experience Design
 
 En este curso empezarás a formar el mindset que todo UX Designer debe tener:
 pensar en el usuario, pensar en el negocio y entender cómo los prototipos se
