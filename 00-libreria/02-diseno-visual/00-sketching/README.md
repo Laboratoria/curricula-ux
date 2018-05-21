@@ -58,7 +58,3 @@ Como has podido ver, el hacer un sketch es un proceso totalmente creativo que re
 **Consejo:** Practica, practica y practica.
 
 Mira el siguiente video para ejemplificar mejor este proceso: https://vimeo.com/35986473
-
-## RETO
-***
-Realiza un sketch de la plataforma de instagram. Y en el proceso  reflexiona sobre el porqué de la distribución de los elementos, la información, la priorización y el flujo en las diferentes tareas a realizar.
