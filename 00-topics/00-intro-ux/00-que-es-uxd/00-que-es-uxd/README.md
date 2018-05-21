@@ -1,5 +1,11 @@
 # User Experience Design
 
+- Tipo: `lectura`
+- Formato: `self-paced`
+- Duración: `1h`
+
+***
+
 ## ¿Qué es User Experience Design?
 
 Para empezar, es bueno saber qué entendemos por UX. Para ello mira este video,
