@@ -104,29 +104,52 @@ términos distintos.
 
 ## ¿Qué características tiene un buen UX Designer?
 
-* **Empatía:** es una de las características principales de UX Designer. Para poder crear productos exitosos, es necesario entender a nuestros usuarios, y para ello necesitamos empatizar con ellos para poder entender sus problemas desde su perspectiva. 
+* **Empatía:** es una de las características principales de UX Designer. Para
+poder crear productos exitosos, es necesario entender a nuestros usuarios, y
+para ello necesitamos empatizar con ellos para poder entender sus problemas
+desde su perspectiva.
 
 
-* **Trabajo en equipo:** un UX Designer no solo va a tener relación con sus usuarios, sino que también va a trabajar con un equipo de desarrollo de producto que puede incluir product managers, visual designers, desarrolladores, QAs y analistas de negocio. Para ello, trabajar en equipo es clave para un UX Designer.
-* **Negociador:** el trabajo en equipo trae consigo también mucha negociación, por temas de recursos, principalmente.
-* **Problem solver:** los UX Designers tienen pasión por resolver problemas, los de sus usuarios y los de sus negocios.
-* **Problem checker:** muchas veces los UX Designers van a recibir de las áreas de negocio o escuchar de sus usuarios 'problemas' que no necesariamente lo son. Su curiosidad y pensamiento crítico lo ayudan a poder validar si esos problemas realmente existen. No queremos perder valioso tiempo de desarrollo, trabajando sobre problemas que no existen.
-* **Problem finder:** durante la validación de problemas o durante el proceso de diseño en general el UX Designer tiene que ser capaz de indentificar problemas o necesidades que existen tanto para el usuario como para el negocio. 
-* **Diseño, negocios y tecnología:** se dice que los product / ux designers más exitosos entienden de estos 3 temas. Diseño porque son quienes lideran el proceso de diseño y porque esto les ayuda a entender a los usuarios. Negocios porque no solo tiene que ayudar a crear productos deseables, sino también rentables. Y de tecnología porque tiene que tener cierta idea de la factilbilidad de desarrollo de los productos que propone.
+* **Trabajo en equipo:** un UX Designer no solo va a tener relación con sus
+  usuarios, sino que también va a trabajar con un equipo de desarrollo de
+  producto que puede incluir product managers, visual designers,
+  desarrolladores, QAs y analistas de negocio. Para ello, trabajar en equipo es
+  clave para un UX Designer.
+* **Negociador:** el trabajo en equipo trae consigo también mucha negociación,
+  por temas de recursos, principalmente.
+* **Problem solver:** los UX Designers tienen pasión por resolver problemas, los
+  de sus usuarios y los de sus negocios.
+* **Problem checker:** muchas veces los UX Designers van a recibir de las áreas
+  de negocio o escuchar de sus usuarios 'problemas' que no necesariamente lo
+  son. Su curiosidad y pensamiento crítico lo ayudan a poder validar si esos
+  problemas realmente existen. No queremos perder valioso tiempo de desarrollo,
+  trabajando sobre problemas que no existen.
+* **Problem finder:** durante la validación de problemas o durante el proceso de
+  diseño en general el UX Designer tiene que ser capaz de indentificar problemas
+  o necesidades que existen tanto para el usuario como para el negocio.
+* **Diseño, negocios y tecnología:** se dice que los product / ux designers más
+  exitosos entienden de estos 3 temas. Diseño porque son quienes lideran el
+  proceso de diseño y porque esto les ayuda a entender a los usuarios. Negocios
+  porque no solo tiene que ayudar a crear productos deseables, sino también
+  rentables. Y de tecnología porque tiene que tener cierta idea de la
+  factilbilidad de desarrollo de los productos que propone.
 
 ### T-shaped skills
 
-Las personas con habilidades en T (en inglés T-shaped people) aquellas que tienen conocimiento profundo en una o dos áreas, combinado con una comprensión razonable de una variedad de otras áreas relevantes.
+Las personas con habilidades en T (en inglés T-shaped people) aquellas que
+tienen conocimiento profundo en una o dos áreas, combinado con una comprensión
+razonable de una variedad de otras áreas relevantes.
 
-![T-shaped skills](https://fotos.subefotos.com/96bdd078734baef5f177c55bc9c05a78o.png
-)
+![T-shaped skills](https://fotos.subefotos.com/96bdd078734baef5f177c55bc9c05a78o.png)
 
-Por ejemplo un UX designer pueder ser un experto en UX research y prototipado y  tener conocimiento no necesariamente tan profundo en UX writing y arquitectura de información.
+Por ejemplo un UX designer pueder ser un experto en UX research y prototipado y
+tener conocimiento no necesariamente tan profundo en UX writing y arquitectura
+de información.
 
 
 ## Puestos relacionados al UX
 
-![Puestos relacionados a UX](https://fotos.subefotos.com/8e6469bf296f6e99f434ab723e68534do.jpg
-)
+![Puestos relacionados a UX](https://fotos.subefotos.com/8e6469bf296f6e99f434ab723e68534do.jpg)
 
-En las empresas grandes los puestos tienden a ser más especializados y en las empresas más pequeñas combinan diferentes especialidades.
+En las empresas grandes los puestos tienden a ser más especializados y en las
+empresas más pequeñas combinan diferentes especialidades.
