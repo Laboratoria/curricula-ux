@@ -1,1 +1,0 @@
-# Lección 06: Creación de un Research Plan
