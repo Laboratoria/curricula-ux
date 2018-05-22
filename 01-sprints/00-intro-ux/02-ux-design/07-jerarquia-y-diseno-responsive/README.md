@@ -8,8 +8,7 @@
 
 ## Objetivos de aprendizaje
 
-- Identificar técnicas comunes para utilizar jerarquizar el contenido de
-  nuestras interfaces
+- Identificar técnicas comunes para utilizar jerarquizar el contenido de nuestras interfaces
 - Conocer los siete principios básicos de diseño responsivo
 
 ## Jerarquía: crear equilibrio y organizar el resto de tu diseño
@@ -56,7 +55,7 @@ carteras crean la forma de la bandera británica (el anuncio es para una empresa
 inglesa de productos de piel y también apuntan directamente hacia la marca. Esta
 es una técnica componente que se llama líneas de dirección.
 
-![regla de los tercios](https://lh6.googleusercontent.com/Ut19gw21Gv1vWmwJiu3aDwp3GNt-8Eww3A_3kDp3oEtpwE2FZ7KmBRf2XY55XTtU1OMPAnMnmm4f3mAolFadyS9WA12bZQPqXqp2r3UTU_0GPPYVusPGTIlCNMGu_I23bGZm9cby5Qc)
+![regla de los tercios](https://image.ibb.co/gGEn17/Rule_of_Thirds.png)
 
 ### Considera la simetría
 
@@ -65,7 +64,7 @@ diseño. Un diseño simétrico (aunque no sea exacto) mejora el equilibrio visua
 de un layout. El diseño abajo tiene simetría tanto vertical como horizontal
 entonces aunque sea de un diseño muy recargado, mantiene cierto equilibrio.
 
-![simetria](https://lh5.googleusercontent.com/oE_JadektBo9P3XrPF2HKO431c8rQsd8y4wc-IGsZhcMwIoQTLqb2PTnT-wtXLIiW-t4iDAGTHNnpl49QiEzbP-LguejIomy2pXe8m_3EM2YHUQmn1jE76zoje4UoMzgSNK4Ha1bgt0)
+![simetria](https://speckyboy.com/wp-content/uploads/2013/01/symmetry_06.jpg)
 
 ### Deja algo de espacio vacío
 
