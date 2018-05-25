@@ -7,6 +7,28 @@ En este repo se irán _ordenando_, _desarrollando_, _discutiendo_ y
 _proponiendo_ todo lo que tenga que ver con el diseño de nuestros _contenidos_
 y _sus ejercicios_.
 
+En Laboratoria, vemos UX como un mix entre diseño, tecnología y negocios.
+
+- **Diseño:** En la parte de diseño,  nuestras estudiantes aprenden las bases
+  del diseño centrado en el usuario (HCD) y diseño visual. Aprenden distintas
+  técnicas de investigación para empatizar y entender a profundidad a los
+  usuarios durante todo el proceso de diseño, y a encontrar sentido de lo
+  observado en estas investigaciones para poder llegar a insights que les
+  permitan priorizar sus decisiones de diseño. Además, aprenden sobre técnicas
+  de ideación, storytelling, arquitectura de la información, usabilidad y
+  accesibilidad. Experimentan también con distintas herramientas y técnicas
+  de prototipado.
+
+- **Negocios:** aprenden a relacionarse e involucrar stakeholders en su proceso
+  de trabajo, a entender modelos de negocio y a tomar en cuenta los objetivos de
+  negocio en sus decisiones de diseño.
+
+- **Tecnología:** conocen cómo funcionan los productos digitales y conocen
+  sobre las distintas tecnologías disponibles para proponer productos. Su
+  conocimiento de cómo funciona la web y su experiencia previa de HTML, CSS y
+  JavaScript en el common core les permite comunicarse de una mejor manera con
+  equipos de desarrollo y poder trabajar de la mano con ellos.
+
 ## Mapa de conceptos, tecnologías y herramientas
 
 Como guía en el proceso de diseño de la malla estamos usando un "mapa" de
@@ -14,7 +36,6 @@ _conceptos_ y _habilidades_ que queremos cubrir en la currícula. Lo puedes
 encontrar en este [link](https://trello.com/b/P5neOZ0T/laboratoria-ux-mindmap).
 Este mapa es un mapa vivo, se basa en feedback de empleadores, instructores y
 alumnas. Si tienes alguna sugerencia o comentario no dudes en hacerlo. 
-
 
 Además del feedback de empleadores, instructores y alumnas. Hemos tenido en
 cuenta comentarios y artítuclos de referentes en el diseño. Aquí algunas de
@@ -76,51 +97,6 @@ Designer. Y destaca los siguientes:
 - Empatía
 - Pensamiento crítico (judgment)
 - Iniciativa
-
-*** 
-
-## Bootcamp
-
-### [01. Primer proyecto de UX](01-sprints/00-intro-ux)
-
-- Track: _UX Design_
-- Autor: [Lalo Gonzalez](https://github.com/lalogf)
-- Tiempo estimado: _4 semanas_
-
-En este curso trabajaremos en nuestro primer proyecto de diseño, aprendiendo las
-mejores prácticas de research cualitativo, pasando por técnicas de síntesis,
-ideación y priorización hasta llegar al prototipado y testeo de la solución.
-
-* **Venta de pasajes de bus**: El entregable final del curso será un prototipo
-validado de una aplicación de venta de pasajes de bus.
-
-Main tags: `research`, `entrevistas`, `observación`, `prototipado`, `mvp`,
-`testing`, `priorizacion`, `content prototyping`, `customer journey maps`, `user
-personas`.
-
-Secondary tags: `sketching`, `paper prototyping`, `content prototyping`,
-`interactive prototype`, `investigación contextual`, `encuestas`, `Figma`,
-`Marvel`.
-
-### [02. Conociendo los negocios](01-sprints/01-conoce-el-negocio)
-
-- Track: _UX Design_
-- Autor: [Lalo Gonzalez](https://github.com/lalogf)
-- Tiempo estimado: _2 semanas_
-
-En este curso trabajaremos en nuestro primer proyecto de diseño, aprendiendo las
-mejores prácticas de research cualitativo, pasando por técnicas de síntesis,
-ideación y priorización hasta llegar al prototipado y testeo de la solución.
-
-* **Nuevo banco digital**: El entregable final del curso será un prototipo
-validado de una solución para un banco 100% digital.
-
-Main tags: `liderazgo digital`, `modelos de negocios`, `business model canvas`,
-`project scoping`, `stakeholders`, `arquitectura de la informacion`, `sistemas
-de diseño`, `interface guidelines`.
-
-Secondary tags: `startups`, `transformación digital`, `software factory`,
-`project planning`.
 
 *** 
 
