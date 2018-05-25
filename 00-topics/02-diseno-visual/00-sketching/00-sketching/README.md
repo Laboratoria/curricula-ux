@@ -12,14 +12,15 @@ Entender la importancia del proceso de sketch durante la creación de un proyect
 digital.
 
 ## Qué es un Sketch
+
 Es un dibujo o esbozo de la solución del proyecto que queremos realizar de una
 manera simple y ordenada. En él se encuentran todos los elementos necesarios
 para la planeación de un proyecto/plataforma digital.
 
 ![Sketch](https://image.ibb.co/hyZVfo/sketch.jpg)
 
-## Por qué
-***
+## ¿Por qué hacerlo?
+
 Cuando te dan un proyecto a realizar ¿no te ha pasado que en automático tu
 cerebro comienza a trabajar e idear? Y no ves la hora de comenzar a trabajar, ya
 sea en el diseño o el desarrollo. Pero ¡alto! Te estás saltando varios pasos
@@ -31,14 +32,11 @@ Antes que nada debes tener en cuenta que para comenzar a planear un producto
 digital hay un flujo de trabajo:
 
 1. Tener un problema que resolver
-2. Pensar diversas soluciones que puedan resolver las necesidades del cliente y
-   del usuario en armonía
+2. Pensar diversas soluciones que puedan resolver las necesidades del cliente y del usuario en armonía
 3. Hacer listas de los contenidos necesarios a mostrar
-4. Comenzar a materializar esas ideas en un sketch, tomando en cuenta los
-   contenidos y elementos gráficos
+4. Comenzar a materializar esas ideas en un sketch, tomando en cuenta los contenidos y elementos gráficos
 5. Probar y experimentar hasta que llegues a la mejor solución
-6. Y cuando este punto te haya satisfecho, puedes comenzar a pensar en visual
-   design para empezar a hacer tu prototipo
+6. Y cuando este punto te haya satisfecho, puedes comenzar a pensar en visual design para empezar a hacer tu prototipo
 
 Cuando estás en ese momento entre lo que quieres proponer y el cómo lo vas a
 hacer, la mejor estrategia es hacer uno o varios _sketches._
@@ -61,7 +59,7 @@ _‘No hay nada más simple que papel y lápiz para aterrizar ideas’._
 
 **Herramientas necesarias:** Dos herramientas indispensables: papel y lápiz.
 
-## Preguntas necesarias que debes hacerte antes de comenzar a idear sketches:
+## Preguntas necesarias que debes hacerte antes de practicar sketching
 
 *¿Cuento con todos los elementos necesarios para comenzar?* Debes pensar en
   todo: la información a transmitir (en este punto te recomiendo hacer listas de
