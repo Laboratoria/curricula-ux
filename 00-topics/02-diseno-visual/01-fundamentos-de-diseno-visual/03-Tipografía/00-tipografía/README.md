@@ -1,4 +1,4 @@
-# Color
+# Tipografía
 
 - Tipo: `lectura`
 - Formato: `self-paced`
