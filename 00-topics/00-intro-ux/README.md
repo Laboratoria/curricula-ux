@@ -9,9 +9,9 @@ práctica trabajando en un producto.
 
 ## Público objetivo
 
-Este curso está dirigido a personas sin conocimientos previos de diseño de
-UX Design que tienen el interés de aventurarse al mundo del diseño de
-experiencias. Será tu primer paso en la ruta de aprendizaje.
+Este curso está dirigido a personas sin conocimientos previos de diseño que
+tienen el interés de aventurarse al mundo del diseño de experiencias. Será tu
+primer paso en la ruta de aprendizaje.
 
 ## Requerimientos previos
 

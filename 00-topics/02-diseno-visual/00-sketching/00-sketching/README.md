@@ -32,11 +32,14 @@ Antes que nada debes tener en cuenta que para comenzar a planear un producto
 digital hay un flujo de trabajo:
 
 1. Tener un problema que resolver
-2. Pensar diversas soluciones que puedan resolver las necesidades del cliente y del usuario en armonía
+2. Pensar diversas soluciones que puedan resolver las necesidades del cliente y
+   del usuario en armonía
 3. Hacer listas de los contenidos necesarios a mostrar
-4. Comenzar a materializar esas ideas en un sketch, tomando en cuenta los contenidos y elementos gráficos
+4. Comenzar a materializar esas ideas en un sketch, tomando en cuenta los
+   contenidos y elementos gráficos
 5. Probar y experimentar hasta que llegues a la mejor solución
-6. Y cuando este punto te haya satisfecho, puedes comenzar a pensar en visual design para empezar a hacer tu prototipo
+6. Y cuando este punto te haya satisfecho, puedes comenzar a pensar en visual
+   design para empezar a hacer tu prototipo
 
 Cuando estás en ese momento entre lo que quieres proponer y el cómo lo vas a
 hacer, la mejor estrategia es hacer uno o varios _sketches._
