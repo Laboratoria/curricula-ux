@@ -14,8 +14,7 @@ diferentes.
 
 Sobre esto:
 
-- Preguntar sobre qué transmite cada página con base a la paleta de colores y
-documentarlo en un README.md
+- Preguntar sobre qué transmite cada página con base a la paleta de colores y documentarlo en un README
 
 ## RETO 2
 
@@ -28,5 +27,3 @@ README.md que el reto de arriba.
 - Infantil
 - Inclusión
 - Tecnología
-
-**Have fun      :D**
