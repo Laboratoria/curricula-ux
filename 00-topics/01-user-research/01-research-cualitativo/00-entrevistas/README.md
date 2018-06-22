@@ -153,6 +153,7 @@ puntos un poquito. (Algunas veces la gente necesita un poco de tiempo para
 pensar antes de poder articular lo que funcionó y lo que no funcionó.)
 
 Algunos ejemplos de preguntas de informe:
+
 - Entonces, ¿cuál fue tu impresión en general de lo que viste hoy?
 - ¿Cuáles son algunos de tus pensamientos generales?
 - ¿Qué partes te gustaron?
@@ -197,7 +198,6 @@ usuarios:
 - No lances ideas - Esta no es una oportunidad para proponerle ideas nuevas a
   nadie. Trata de mantenerte lo más neutral posible para conseguir buena data.
 
-
 ## Los 5 actos de una entrevista
 
 [La entrevista en 5 actos](https://www.youtube.com/watch?v=1jULaA68HS0)
@@ -220,7 +220,7 @@ _¿Qué entendiste de esta frase?_
   escuchar lo que dicen.
 - Tener el oído de un músico - escucha cuidadosamente todo lo que los usuarios
   dicen. No es tu turno de mostrar todo lo que sabes.
- 
+
 ## Los problemas más comunes
 
 ### Las personas normalmente no te dan a conocer sus malos hábitos
@@ -251,6 +251,7 @@ mientras entra a una página web con su contraseña, en lugar de preguntarle si
 usa una contraseña segura.
 
 ### Las entrevistas ofrecen información sobre lo que la gente dice que hará
+
 ...pero esto no es una buena representación de su comportamiento real
 
 El segundo problema común es que muchas veces en entrevistas hacemos preguntas
@@ -276,8 +277,7 @@ sobre el precio.
 Apégate al dicho "Mostrar, no contar" siempre que puedas, porque el feedback que
 recibas será mucho más rico y valioso.
 
-
-### Los humanos tienen problemas de memoria que el cerebro trata de compensar 
+### Los humanos tienen problemas de memoria que el cerebro trata de compensar
 
 Otro problema frecuente que vemos como investigadores es que la gente normalmente
 no tiene tan buena memoria para recordar cualquier cosa que haya pasado hace más
@@ -293,6 +293,7 @@ Nuevamente, sería mucho mejor si tienes la opción de observar gente pasando po
 un flujo de registro.
 
 ### Los usuarios no son diseñadores
+
 ...y no están calificados para dar feedback sobre el diseño o saber exactamente
 qué quieren en un producto
 
@@ -344,7 +345,7 @@ Algunos consejos para tener en mente:
   ejemplo, si el usuario hace o dice algo que no esperabas, trata de no verte
   sorprendido o confundido.
 
-## Referencias 
+## Referencias
 
 - [The Art of the User Interview](https://blog.marvelapp.com/art-user-interview/)
 - [How to hack your body language for better interviews](https://library.gv.com/how-to-hack-your-body-language-for-better-interviews-2b28b99ece6d)

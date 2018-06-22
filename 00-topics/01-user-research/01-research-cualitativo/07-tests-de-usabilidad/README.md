@@ -13,16 +13,15 @@ En los tests de usabilidad probamos nuestros productos en cualquier versión
 tareas en ellos. Durante esta etapa vemos cómo los usuarios interactuan con los
 productos y qué problemas pueden tener para completar las tareas.
 
-
 ## Planeamiento
 
 - **Reclutamiento:** asegúrate que reclutas usuarios que sean relevantes
   para tu producto.
-	- Es mejor si no son conocidos
-	- Hazle llenar un screener
-	- Ofrece una recompensa
+  - Es mejor si no son conocidos
+  - Hazle llenar un screener
+  - Ofrece una recompensa
 - **Tareas:** elabora una lista de tareas que los usuarios tendrán que completar
-  con el prototipo. 
+  con el prototipo.
 - **Script:** prepara un script donde detalles lo que le dirás al usuario. Cómo
   le presentarás el producto y la sesión.
 - **Autorización** haz un documento de autorización en la que el usuario te da
@@ -34,7 +33,7 @@ productos y qué problemas pueden tener para completar las tareas.
   sentir cómodo. Explícale que estamos buscando su feedback para crear un mejor
   producto.
 - **Preguntas sobre el contexto del usuario:** ten una mejor idea de qué hace el
-  usuario en el día a día, que tanto usa tecnología, internet, mobile, etc. Haz 
+  usuario en el día a día, que tanto usa tecnología, internet, mobile, etc. Haz
   las primeras preguntas sobre el tema del que quieres aprender.
 - **Introducción a los prototipos:** Recuerdale al usuario que algunas cosas
   quizás no funcionen y que estás testeando el prototipo y no a él. Pídele que
@@ -44,3 +43,7 @@ productos y qué problemas pueden tener para completar las tareas.
   hagan que el usuario piense en voz alta.
 - **Cierre - debrief:** haz preguntas que hagan que el usuario resuma su
   experiencia. Luego agradécele por su ayuda y entrégale el regalo.
+
+## Video
+
+Mira este [video](https://laboratoria-1.wistia.com/medias/yfga40vxmh)

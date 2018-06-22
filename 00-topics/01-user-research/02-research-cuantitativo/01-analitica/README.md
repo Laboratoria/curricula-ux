@@ -12,16 +12,16 @@ Dependiendo de la robustez de los analytics que tenga la empresa podemos
 revisar:
 
 - Dispositivos desde los que acceden
-  * Entran más desde móviles o desktop
-  * ¿Qué resoluciones de pantallas utilizan?
+  - Entran más desde móviles o desktop
+  - ¿Qué resoluciones de pantallas utilizan?
 - Ciudades / Países desde los que acceden
-  * ¿ Son la mayoría de la capital? ¿o de otras ciudades del interior? ¿Otros
+  - ¿ Son la mayoría de la capital? ¿o de otras ciudades del interior? ¿Otros
   países?
 - Engagement con las campañas de email
-  * % de emails que son abiertos
-  * % de personas que dieron clic a un link
+  - % de emails que son abiertos
+  - % de personas que dieron clic a un link
 - Funneles de conversión
-  * ¿Dónde está la mayor caída en las conversiones
+  - ¿Dónde está la mayor caída en las conversiones
 
 **Herramientas de analítica:**
 

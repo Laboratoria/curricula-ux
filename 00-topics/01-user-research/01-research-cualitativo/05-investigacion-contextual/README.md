@@ -14,7 +14,7 @@ iPhone, casa vs trabajo vs auto, etc.)
 
 ## Observación
 
-### Ventajas:
+### Ventajas
 
 - Nos permite observar sus reacciones y frustraciones naturales
 - Previenen de tomar supuestos riesgosos, ayudándonos a asegurarnos que estamos
@@ -41,9 +41,9 @@ negativa?
 Por qué está haciendo lo que está haciendo y en la manera en que lo está
 haciendo. En este paso normalmente requerimos hacer suposiciones informadas
 sobre las motivaciones y emociones. Este paso revelerá ciertas supocisiones que
-podrás validar luego en una entrevista con el usuario. 
+podrás validar luego en una entrevista con el usuario.
 
-## Referencias 
+## Referencias
 
 - [dSchool Bootcamp Bootleg](https://dschool.stanford.edu/resources/the-bootcamp-bootleg)
 - [Ideo insights for innovation](https://www.ideou.com/products/insights-for-innovation)
