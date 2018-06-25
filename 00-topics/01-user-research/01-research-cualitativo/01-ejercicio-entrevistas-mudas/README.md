@@ -1,6 +1,6 @@
 # Ejercicio entrevistas mudas
 
-- Tipo: `ejercicio`
+- Tipo: `lectura`
 - Formato: `self-paced`
 - Duración: `30min`
 

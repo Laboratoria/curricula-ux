@@ -1,6 +1,6 @@
 # Ejercicio Observación´
 
-- Tipo: `ejercicio`
+- Tipo: `workshop`
 - Formato: `self-paced`
 - Duración: `10min`
 
