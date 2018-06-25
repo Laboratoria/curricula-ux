@@ -15,6 +15,8 @@ algunos tips.
 
 ### Ser Curiosa
 
+![curiosity](https://www.jpl.nasa.gov/images/msl/20160613/pia20602-16.jpg)
+
 La foto de la presentación, es una foto del explorador "Curiosity" de Marte,
 que fue lanzado por la NASA en el 2011 con la meta de determinar si Marte algún
 día sería capaz de sostener vida microscópica. La segunda meta del explorador

@@ -13,7 +13,28 @@ En los tests de usabilidad probamos nuestros productos en cualquier versión
 tareas en ellos. Durante esta etapa vemos cómo los usuarios interactuan con los
 productos y qué problemas pueden tener para completar las tareas.
 
-## Planeamiento
+## Por qué
+
+Mira este video de Jakob Nielsen contando por qué y cómo testear con usuarios:
+
+[video](https://youtu.be/v8JJrDvQDF4)
+
+## Cuándo testear
+
+Las UX Designers estamos constantemente haciendo testeos de los productos con
+los que trabajamos. Testeamos en distintos tipos de fidelidad, desde nuestros
+primeros wireframes o sketches en papel, nuestros prototipos interactivos y
+también el producto "final" (como estamos constantemente mejorando, rara vez
+un producto es el final) en código. Para empezar, miira los siguientes ejemplos
+de cómo se pueden hacer tests de usabilidad con un prototipo en papel e incluso
+con frutas. Intenta anotar todos los aprendizajes que se van teniendo con esta
+técnica.
+
+[video](https://youtu.be/9wQkLthhHKA)
+
+[video 2](https://youtu.be/3Qg80qTfzgU)
+
+## Planificación
 
 - **Reclutamiento:** asegúrate que reclutas usuarios que sean relevantes
   para tu producto.
@@ -27,7 +48,7 @@ productos y qué problemas pueden tener para completar las tareas.
 - **Autorización** haz un documento de autorización en la que el usuario te da
   permiso para grabarlo y para usar la grabación para los fines del estudio.
 
-## Durante la sesión
+## La sesión de testing
 
 - **Bienvenida cálida e introducción:** Dale la bienvenida al usuario y hazlo
   sentir cómodo. Explícale que estamos buscando su feedback para crear un mejor
@@ -44,6 +65,9 @@ productos y qué problemas pueden tener para completar las tareas.
 - **Cierre - debrief:** haz preguntas que hagan que el usuario resuma su
   experiencia. Luego agradécele por su ayuda y entrégale el regalo.
 
-## Video
+## Técnicas para facilitar un test de usabilidad
 
-Mira este [video](https://laboratoria-1.wistia.com/medias/yfga40vxmh)
+Mira este video de NNgroup contándonos valiosos tips para facilitar tests de
+usabilidad:
+
+[video](https://youtu.be/V-An4Jfplew)

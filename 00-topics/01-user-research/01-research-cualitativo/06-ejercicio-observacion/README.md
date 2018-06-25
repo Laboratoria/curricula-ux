@@ -8,5 +8,11 @@
 
 ## Indicaciones
 
-Realiza este [ejercicio](https://embedwistia-a.akamaihd.net/deliveries/9ef0b8b6824e19f39ba11497a1101a3b6c193c41/file.mp4)
-propuesto por IDEO.
+Pídele a 5 personas distintas, de distintos contextos que te manden los
+screenshots (pantallazos, print screens) de las 2 o 3 primeras pantallas de su
+celular. Revisando estas imágenes:
+
+- qué es lo que te causa más curiosidad
+- qué es lo que te parece más extraño
+- qué puedes inferir de esta persona
+- haz una lista de preguntas que le harías a esta persona para entenderla mejor
