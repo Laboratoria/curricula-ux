@@ -1,4 +1,11 @@
 # User Research Entregables
-* Affinity maps
-* User journeys
-* User Personas
+
+- Tipo: `lectura`
+- Formato: `self-paced`
+- Duración: `10min`
+
+***
+
+- Affinity maps
+- User journeys
+- User Personas

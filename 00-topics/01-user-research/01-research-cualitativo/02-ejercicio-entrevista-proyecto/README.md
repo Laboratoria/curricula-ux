@@ -1,6 +1,6 @@
 # Ejercicio plan de entrevista
 
-- Tipo: `ejercicio`
+- Tipo: `lectura`
 - Formato: `self-paced`
 - Duración: `30min`
 

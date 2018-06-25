@@ -1,6 +1,6 @@
 # Ejercicio guía de entrevistas
 
-- Tipo: `ejercicio`
+- Tipo: `workshop`
 - Formato: `self-paced`
 - Duración: `1h`
 

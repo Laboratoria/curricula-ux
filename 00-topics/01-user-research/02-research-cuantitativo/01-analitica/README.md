@@ -32,7 +32,7 @@ revisar:
 - Segment
 - Intercom
 
-![](https://lh3.googleusercontent.com/NsPbuYZN6yjWdnuvjoBBhlI227jjXoVXwzofHlP7DrK8AuA_jVzYBKkGUufY__NVAiUriv0ZLZJYw5vEId34zl8Tiu25ui_3b31cSnHpFty4NWzobbrbrK965vLoTvQ3nFW2jnaNK80)
+![Image](https://lh3.googleusercontent.com/NsPbuYZN6yjWdnuvjoBBhlI227jjXoVXwzofHlP7DrK8AuA_jVzYBKkGUufY__NVAiUriv0ZLZJYw5vEId34zl8Tiu25ui_3b31cSnHpFty4NWzobbrbrK965vLoTvQ3nFW2jnaNK80)
 
  _**¿Qué pasa si no tenemos analítica?**_
 
@@ -57,7 +57,7 @@ Revisar todas las estadísticas que podamos tener del producto.
 - \# usuarios activos
 - % de churn
 
-![](https://lh6.googleusercontent.com/GvrCmCsI_MnWKXNqDuYvJuNA1kDZM2_Ip9iTUkviOko1gvMvDyUyGQ6lQOBQLj6jp9nqe9zpKFFn8Ohip5Zyb1dG7m4D-nBLPUGKf7fIgu0dxTwkmkIEP04yYmokq4ZMAbHQB7rQp0s)
+![Image](https://lh6.googleusercontent.com/GvrCmCsI_MnWKXNqDuYvJuNA1kDZM2_Ip9iTUkviOko1gvMvDyUyGQ6lQOBQLj6jp9nqe9zpKFFn8Ohip5Zyb1dG7m4D-nBLPUGKf7fIgu0dxTwkmkIEP04yYmokq4ZMAbHQB7rQp0s)
 
 ## Estudios de mercado
 
@@ -68,7 +68,7 @@ Revisar los estudios de mercado que estén disponibles.
 - Proyecciones de crecimiento económico
 - Encuestas de satisfacción
 
-![](https://lh5.googleusercontent.com/uLknPlR5Wii0Ftvm2n58XZi5zqGwTCOXXZi3Jeo775sqkBdSE5p-d4YO3umLt_0iXnYF3GJXfpmgpEwVSwux9H7i_Ex63BZuMUYSk6ajkbihRcymvfRMvBGTYfzErQWiI7ITi-OCxKY)
+![Image](https://lh5.googleusercontent.com/uLknPlR5Wii0Ftvm2n58XZi5zqGwTCOXXZi3Jeo775sqkBdSE5p-d4YO3umLt_0iXnYF3GJXfpmgpEwVSwux9H7i_Ex63BZuMUYSk6ajkbihRcymvfRMvBGTYfzErQWiI7ITi-OCxKY)
 
 ## Documentos internos
 
@@ -81,7 +81,7 @@ Revisar los documentos internos que puedan servir como parte del análisis
 - Estudios de usabilidad
 - Reportes de campañas de marketing
 
-![](https://lh4.googleusercontent.com/G3JkQKrZ8HmNAjH3NlQ_zIMFoLlDwYozNtNkmn47jS0NwrjxHfOktXoKCSxiW71yxzbciWdM1ZBGXNnDx_PXdDrpOmODJL3V4g_0Q1E_-ddbIIScsmn3Wgv7reEfZaMd5S0WbJVxwjs)
+![Image](https://lh4.googleusercontent.com/G3JkQKrZ8HmNAjH3NlQ_zIMFoLlDwYozNtNkmn47jS0NwrjxHfOktXoKCSxiW71yxzbciWdM1ZBGXNnDx_PXdDrpOmODJL3V4g_0Q1E_-ddbIIScsmn3Wgv7reEfZaMd5S0WbJVxwjs)
 
 ## Búsquedas en la web
 
