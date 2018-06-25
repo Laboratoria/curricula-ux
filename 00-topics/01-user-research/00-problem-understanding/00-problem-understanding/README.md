@@ -2,22 +2,35 @@
 
 - Tipo: `lectura`
 - Formato: `self-paced`
-- Duración: `2 h`
+- Duración: `30 min`
 
 ***
 
-## Research Kick Off
+## Intro
 
-Una de las partes más importantes de la investigación en cualquier trabajo, es
-involucrar a los grupos de interés (stakeholders) en el proceso. La primera
-forma de involucrar a los stakeholders es con un kick-off o reunión de
-lanzamiento de la investigación, donde puedes descubrir más sobre los
-objetivos de la investigación, los usuarios y la plataforma con la que vas a
-trabajar. La reunión de kick-off de investigación también es un buen momento
-para gestionar las expectativas de los grupos de interés en lo que respecta a
-los tiempos, preguntas de investigación prioritarias, del público objetivo con
-el que vas a trabajar, sus drivers de negocio (qué busca el negocio) y sus
-capacidades o limitaciones técnicas.
+Al iniciar un proyecto para un cliente externo o interno, debemos entender bien
+cuáles son los objetivos del cliente, cuál es el estado actual del producto,
+qué problemas están habiendo (si es que hubiese algunos) y entender al actor
+principal: el usuario y saber quién es, qué problemas tiene, qué busca, etc.
+
+Un paso inicial para llegar a este entendimiento es la reunión de kick-off con
+el cliente.
+
+## Reunión de kick off
+
+Nos ayuda a conocer más a detalle el producto y los alcances del trabajo que
+vamos a realizar. En esta reunión deberíamos resolver las siguientes preguntas:
+
+- ¿Cuál es el producto o feature? ¿De qué trata?
+- ¿Quiénes son o serán los usuarios?
+- ¿Qué es lo que más necesitan los usuarios?
+- ¿Quiénes son los sponsors o las personas encargadas de tomar decisiones para
+  el largo plazo? (Agencia)
+- ¿Qué usuarios y/o clientes son los más importantes para el negocio?
+- ¿Quiénes son los principales competidores? ¿Inspiración?
+- ¿Qué documentos externos o internos deberíamos revisar para familiarizarnos
+  con el producto?
+
 
 ## Research Question
 
@@ -35,25 +48,3 @@ Algunas formas de enfocar las preguntas son:
 
 Una vez que tengamos claro esto podremos plantear cómo será nuestra
 investigación.
-
-## El research plan
-
-Luego de haber tenido la reunión de kick off con los stakeholders y conocer más
-acerca de la pregunta de investigación, podemos empezar a elaborar un research
-plan.
-
-En el research plan podemos listar las actividades que planteamos realizar para
-conocer más sobre los usuarios y sobre el problema y cuánto tiempo creemos que
-nos demoraremos en cada fase. Por ejemplo, para un "proyecto z" podemos planear
-que vamos a:
-
-- Revisar análitica (3 días)
-- Análisis competitivo y benchmark (3 días)
-- Hacer entrevistas con usuarios (5 días)
-- Hacer entrevistas con expertos (1 día)
-- Hacer sesiones de testing de la aplicación actual (4 día)
-- Sintetizar los findings (2 días)
-
-Podemos detallar cada item a profundidad y señalar el número de usuarios o
-referencias que se entrevistarán o revisarán. El tipo de usuarios. Y sobre todo
-listar el por qué se quieren hacer esas actividades de investigación.
