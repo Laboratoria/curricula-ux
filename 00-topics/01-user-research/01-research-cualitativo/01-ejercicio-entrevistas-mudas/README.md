@@ -1,7 +1,10 @@
-# Entrevistas mudas
+# Ejercicio entrevistas mudas
 
-- Objetivo:
-- Tiempo: 10 min
+- Tipo: `lectura`
+- Formato: `self-paced`
+- Duración: `30min`
+
+***
 
 ## Indicaciones
 
