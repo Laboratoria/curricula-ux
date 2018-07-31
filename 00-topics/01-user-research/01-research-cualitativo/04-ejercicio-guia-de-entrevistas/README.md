@@ -18,8 +18,8 @@ y si tienes que hacer algún ajuste, házlo ahora.
     entrevistadora durante la entrevista. La 3era también es la encargada de
     grabar la sesión para que la entrevistadora pueda ver/escuchar su grabación
     luego.
-    - Al terminar la primera entrevista, se le da el feedback a la entrevistada
-      y se rota para que las 3 pasen por los 3 roles.
+  - Al terminar la primera entrevista, se le da el feedback a la entrevistada
+    y se rota para que las 3 pasen por los 3 roles.
 - Teniendo en cuenta que fue la primera vez que probaste tu guía de entrevistas,
   utiliza el feedback que te dieron tus compañeras y la experiencia que tuviste
   con tu primera entrevista para adaptar/mejorar tu guía de entrevistas.
