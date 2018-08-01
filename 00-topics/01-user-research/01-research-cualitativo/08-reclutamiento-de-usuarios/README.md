@@ -48,7 +48,7 @@ o testeo.
 
 | |Nunca|Una vez al año|Una vez cada tres meses|Una vez al mes|Una vez por semana| 
 |:----------|----------|-----------|-------------|---------|---------|
-|Vacaciones| | | | | |
+|Vacaciones| [ ] | [ ] | | | |
 |Negocios| | | | | |
 |Diversión| | | | | |
 |Otros motivos| | | | | |
