@@ -182,11 +182,13 @@ El coach o jedi master te dará el ok para que puedas empezar.
 
 |Actividad|Descripción|Puntos|
 |:----|:---|:---:|
-|Entendimiento del problema y del negocio| Entender el contexto del negocio a través de entrevistas con el cliente (dueño del reto) | 25 |
+|Entendimiento del problema, la industria y el contexto| Entender el contexto del negocio y lo que existe hoy en día respecto de la industria del proyecto. | 15 |
+|Entrevistas con cliente|Realización de entrevistas con el cliente (dueño del reto) y establecimiento de sus metas y objetivos.|25|
 |Benchmark| Revisión de features de la competencia y referencias análogas. | 20 |
-|Entrevistas con usuarios| Entrevistas en profundidad con al menos 5 usuarios. | 50 |
+|Entrevistas con usuarios| Entrevistas en profundidad con al menos 5 usuarios. | 60 |
 |Observación contextual| Observación de al menos 5 usuarios en un contexto real de uso/compra. | 35 |
 |Inventario de contenidos| Inventario de todos los contenidos de un producto. | 15 |
+|Flujo / árbol de contenidos|Documento que estructura contenidos y su navegación|15|
 |Card Sorting| Actividad para entender el modelo mental de los usuarios en términos de organización de los contenidos. | 15 |
 |Testeo de soluciones actuales de la competencia| Sesiones de testing de productos actuales de la competencia para ver qué atributos valoran los usuarios. Al menos 5 usuarios.| 50 |
 |Testeos de prototipos| Sesiones de testing de la solución propuesta con al menos 5 usuarios. | 60 |
@@ -267,4 +269,4 @@ propia web desde 0.
 utilizando las tecnologías web que aprendiste en el common core: HTML, CSS y JS.
 Puedes usar los frameworks que quieras. Recuerda que la aplicación tiene que ser
 mobile-friendly. Despliega el código en GitHub Pages o Heroku.
-- Escribe un post en Medium contando tu proceso de investigación.
+- Escribe un post en Medium contando tu proceso de investigación
