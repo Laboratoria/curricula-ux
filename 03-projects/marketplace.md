@@ -22,21 +22,30 @@ todos puedan beneficiarse en el camino.
 Nos han contactado de la Asociación Nacional de Pequeños Comerciantes, una
 asociación que agrupa a pequeñas y medianas empresas productoras y fabricantes
 de alimentos naturales, postres, accesorios, vestimenta y calzado, y nos piden
-que asesoremos a alguno de sus miembros en crear un portal desde donde los
-consumidores compren sus productos sin intermediarios.
+que asesoremos a **uno** de sus miembros en crear un portal desde donde los
+consumidores compren sus productos sin intermediarios. Entre los miembros puedes
+elegir a: 
 
-En la ANPC están interesados en que hagamos un estudio inicial de cómo debería
-ser este portal (dependiendo del miembro y mercado que elijas) y cómo deben
-ofrecer los productos a los consumidores. Quieren que averigües cómo son los
-consumidores que desearían este servicio y cuáles son sus motivaciones, cómo es
-el mercado actual en el que quieren incursionar; y que propongas una visión de
-cómo podría plantearse este nuevo canal de ventas.
+- Empresa 1
+- Empresa 2
+- Empresa 3
+- Empresa 4
+- Empresa 5
+
+Luego de elegir con qué miembro trabajarás, la ANPC te pide que ayudes a ese
+miembro a hacer un estudio inicial de cómo debería ser este portal de ventas y
+cómo deben ofrecer los productos a los consumidores. Quieren que averigües cómo
+son los consumidores que utilizaría este canal de venta y cuáles son sus
+motivaciones, cómo es el mercado actual en el que incursionarán; y que propongas
+una visión de cómo podría plantearse este nuevo canal de ventas.
 
 Una vez conozcas a los posibles compradores debes formular una propuesta de
 valor. Esto quiere decir que debes pensar cómo este portal va a comunicar sus
-beneficios a los usuarios y cómo va a vender sus productos. Para que les guíes
-en entender tu visión esperan que les hagas una propuesta de cómo podría ser el
-portal donde las personas puedan buscar, ver, elegir y comprar sus productos.
+beneficios a los usuarios y cómo va a vender sus productos. Para que guíes a la
+empresa que elijas a entender tu visión, esperan que les hagas una propuesta de
+cómo podría ser el portal donde las personas puedan buscar, ver, elegir y
+comprar sus productos.
+
 
 ## Objetivos de aprendizaje
 
@@ -78,19 +87,18 @@ sentido, es esencial que practiques el modo en que te comunicas frente al
 cliente y el usuario. Debes pensar quiénes son y qué es lo que necesitan, y no
 sólo enfocarte en lo que tú quieres comunicar.
 
-* Relación con el cliente: la Asociación Nacional de Pequeños Comerciantes y la
-empresa miembro con la que te toque trabajar es tu cliente. Saber relacionarte
-con ellos no es fácil. Para comenzar una buena relación con el cliente debes
-escuchar de manera activa qué es lo que necesitan, haciendo preguntas que te
-ayuden a entender sus necesidades para luego buscar cómo resolverlas. No trates
-de dar soluciones inmediatas, escucha y pregunta, la curiosidad es clave para
-entender la problemática. El problema del cliente no siempre es el primero que
-parece, debes investigar la empresa y la competencia para entender lo que
-sucede. Para mantener una buena relación con los clientes debes mostrarle cómo
-se beneficiarán de lo que ofreces; enséñale los posibles resultados y el
-beneficio que ellos podrían obtener. También debes estudiar las mejores
-prácticas en la industria del comercio electrónico para poder mostrarle al
-cliente casos de éxito.
+* Relación con el cliente: la empresa miembro con la que te toque trabajar será
+tu cliente. Saber relacionarte con ellos no es fácil. Para comenzar una buena
+relación con el cliente debes escuchar de manera activa qué es lo que necesitan,
+haciendo preguntas que te ayuden a entender sus necesidades para luego buscar
+cómo resolverlas. No trates de dar soluciones inmediatas, escucha y pregunta, la
+curiosidad es clave para entender la problemática. El problema del cliente no
+siempre es el primero que parece, debes investigar la empresa y la competencia
+para entender lo que sucede. Para mantener una buena relación con los clientes
+debes mostrarle cómo se beneficiarán de lo que ofreces; enséñale los posibles
+resultados y el beneficio que ellos podrían obtener. También debes estudiar las
+mejores prácticas en la industria del comercio electrónico para poder mostrarle
+al cliente casos de éxito.
 
 * Benchmark: revisar referencias y dar referencias es clave para tu relación con
 el cliente. Antes de comenzar a crear cualquier producto debes revisar qué está
@@ -174,7 +182,7 @@ los recursos que tienes.
 
 ## Implementación
 
-Para poder realizar este proyecto tendrás un presupuesto de 280 puntos. Estos
+Para poder realizar este proyecto tendrás un presupuesto de 300 puntos. Estos
 puntos los podrás utilizar realizando las actividades del siguiente cuadro.
 Antes de empezar a realizar estas actividades tendrás que sustentar con tu coach
 o jedi master cómo es que distribuirás estos puntos en estas actividades.
@@ -270,3 +278,37 @@ utilizando las tecnologías web que aprendiste en el common core: HTML, CSS y JS
 Puedes usar los frameworks que quieras. Recuerda que la aplicación tiene que ser
 mobile-friendly. Despliega el código en GitHub Pages o Heroku.
 - Escribe un post en Medium contando tu proceso de investigación
+
+## Evaluación
+
+Recuerda revisar la rúbrica para ver la descripción detallada de cada habilidad
+y cada nivel. A continuación presentamos los niveles esperados de cada habilidad
+que deberías alcanzar al finalizar este proyecto:
+
+### UX Design
+
+|Habilidad|Nivel Esperado|
+|:---|:---|
+|User centricity| 4 |
+|Planificación| 3 |
+|Entrevistas y testing| 3 |
+|Observación| 2 |
+|Síntesis de resultados| 3 |
+|Flujos de usuario| 3 |
+|Arquitectura de la información| 3 |
+|Prototyping| 3 |
+|Business mindset| 4 |
+|Visual Design| 4 |
+
+### Habilidades blandas
+
+|Habilidad|Nivel Esperado|
+|:---|:---|
+|Planificación y organización| 4 |
+|Autoaprendizaje| 4 |
+|Solución de problemas| 4 |
+|Dar y recibir feedback| 4 |
+|Adaptabilidad| 4 |
+|Trabajo en equipo| 4 |
+|Comunicación eficaz| 4 |
+|Presentaciones| 4 |
