@@ -15,7 +15,12 @@ Existen 3 tipos de card-sorting:
   definidas por nosotros, pero tienen la libertad de crear nuevas categorías si
   lo encuentran necesario.
 
-Para realizar una sesión de card sorting primero tenemos que hacer un inventario del contenido que tenemos. Luego de eso, si es que tenemos mucho contenido, necesitamos decidir si le vamos a dar todo el contenido al usuario o si solo priorizaremos algunos. Después, podemos escribir estos contenidos en post-its, imprimirlos o usar una herramienta como [Optimal Workshop](http://optimalworkshop.com/) que nos permite realizar este tipo de técnica de manera remota.
+Para realizar una sesión de card sorting primero tenemos que hacer un inventario
+del contenido que tenemos. Luego de eso, si es que tenemos mucho contenido,
+necesitamos decidir si le vamos a dar todo el contenido al usuario o si solo
+priorizaremos algunos. Después, podemos escribir estos contenidos en post-its,
+imprimirlos o usar una herramienta como [Optimal Workshop](http://optimalworkshop.com/)
+que nos permite realizar este tipo de técnica de manera remota.
 
 Para entender más de card sorting puedes leer este [artículo](http://www.nosolousabilidad.com/articulos/cardsorting.htm)
 
