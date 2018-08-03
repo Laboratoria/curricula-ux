@@ -1,4 +1,4 @@
-# Intro a los negocios y al mundo digital
+# Introducción a los negocios
 
 - Tipo: `lectura`
 - Formato: `self-paced`

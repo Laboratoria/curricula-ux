@@ -36,16 +36,16 @@ Porque vamos a ser las encargadas de dirigir la solución hacia el área de
 armonía entre ambos. O sea, que se cumpla lo que quiere la empresa y que se
 cumpla lo que necesita el usuario de nuestra propuesta.
 
-## Existen diferentes objetivos dentro del negocio como:
+## Existen diferentes objetivos dentro del negocio
 
 ![model objectives](https://image.ibb.co/b2KwpJ/modelobj.png)
 
 Los principales objetivos de un negocio: vender más, tener más retención, bajar
 lo que les cuesta tener un nuevo cliente, vender a más usuarios, vender por más
 $$ el pedido, disminuir costos operativos, aumentar el margen de ganancias,
-disminuir cantidad de contactos al call center > menos personal > menores gastos
-+ satisfacción del cliente. Satisfacción del cliente = menor gasto en atención
-post venta = más ventas etc.
+disminuir cantidad de contactos al call center > menos personal > menores
+gastos + satisfacción del cliente. Satisfacción del cliente = menor gasto en
+atención post venta = más ventas etc.
 
 Existen muchos, y estos varian según la empresa o el producto en el que estás.
 Te recomendamos que al ingresar a una plataforma o profucto, lo primero que

@@ -19,7 +19,7 @@ ganancias, y sin ganancias tendrían que cerrar sus puertas. Lo mismo ha pasado
 con las empresas que no han sabido adaptar su modelo de negocio a los nuevos
 tiempos (por ejemplo BlockBuster, o Kodak).
 
-## ¿Qué es un modelo de negocios?
+## Qué es un modelo de negocios
 
 Es cómo una empresa crea valor para sí misma mientras entrega productos o
 servicios para sus clientes.

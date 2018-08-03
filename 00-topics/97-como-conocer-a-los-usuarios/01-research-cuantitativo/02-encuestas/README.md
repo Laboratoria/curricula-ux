@@ -45,7 +45,7 @@ actuales o futuros clientes de tu producto? Probablemente no. Piensa en las
 el candidato por el cuál votarían tus contactos, ¿la respuesta hubiera sido
 igual al resultado final? ¿Hubiera salido presidente la persona que finalmente
 ganó? ¿Hubiera ganado con la misma diferencia que tuvo en los resultados
-finales? Problemente no. 
+finales? Problemente no.
 
 Otro error en el que solemos caer es la formulación de preguntas. Hacemos
 preguntas sobre comportamientos futuros como: ¿usarías nuestro producto? ¿cuánto
@@ -69,4 +69,3 @@ encuestas a gente que de verdad sabe como hacerlas, como las personas que hacen
 encuestas de intención de voto en política, sabes por qué, porque son hechas por
 estadísticos que tienen en cuenta conceptos como muestreo y niveles de
 confianza.
-

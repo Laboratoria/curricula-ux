@@ -24,29 +24,29 @@ y muchas veces hasta tiene que trasladarse al lugar donde haremos la entrevista
 o testeo.
 
 1. Crea una lista de atributos
-	- Mínimo 5 atributos que tiene que tener el usuario para que sea valioso
-	  para tu investigación. Si tienes más de 5 genial. Es un buen punto de
-	  partida. Algunos ejemplos de atributos que pueden servirte:
-	  	- Utiliza un iphone
-	  	- Vive en x barrio
-	  	- Es usuario de snapchat
-	  	- Es menor de 20 años
-	  	- Estudia x carrera
+  - Mínimo 5 atributos que tiene que tener el usuario para que sea valioso
+    para tu investigación. Si tienes más de 5 genial. Es un buen punto de
+    partida. Algunos ejemplos de atributos que pueden servirte:
+    - Utiliza un iphone
+    - Vive en x barrio
+    - Es usuario de snapchat
+    - Es menor de 20 años
+    - Estudia x carrera
 
 2. Transforma estos atributos en criterios medibles
-	- Por ejemplo un criterio como "viajero de negocios" se vuelve medible
-	  cuando decimos "viaja por negocios una vez al mes". "Una vez al mes" sí se
-	  puede medir.
+  - Por ejemplo un criterio como "viajero de negocios" se vuelve medible
+    cuando decimos "viaja por negocios una vez al mes". "Una vez al mes" sí se
+    puede medir.
 
 3. Transforma este criterio medible en una pregunta para el screener
-	- Escribe la pregunta de una manera neutral para evitar que las personas
-	  que quieran participar solo por llevarse el regalo adivinen la respuesta
-	  "correcta".
-	- En lugar de preguntar *¿Qué tan seguido viajas por negicios?* puedes
-	  preguntar simplemente *¿Qué tan seguido viajas?* y dar las siguientes
-	  opciones:
+  - Escribe la pregunta de una manera neutral para evitar que las personas
+    que quieran participar solo por llevarse el regalo adivinen la respuesta
+    "correcta".
+  - En lugar de preguntar *¿Qué tan seguido viajas por negicios?* puedes
+    preguntar simplemente *¿Qué tan seguido viajas?* y dar las siguientes
+    opciones:
 
-| |Nunca|Una vez al año|Una vez cada tres meses|Una vez al mes|Una vez por semana| 
+| |Nunca|Una vez al año|Una vez cada tres meses|Una vez al mes|Una vez por semana|
 |:----------|----------|-----------|-------------|---------|---------|
 |Vacaciones| [ ] | [ ] | | | |
 |Negocios| | | | | |
@@ -54,16 +54,14 @@ o testeo.
 |Otros motivos| | | | | |
 
 4. Crea una tabla de 3 columnas
-	- En la primera pon el criterio que buscas en el usuario
-	- En la segunda cómo es que vas a medir e identificar este criterio
-	- En la tercera escribe la pregunta que pondrás en el screener
+  - En la primera pon el criterio que buscas en el usuario
+  - En la segunda cómo es que vas a medir e identificar este criterio
+  - En la tercera escribe la pregunta que pondrás en el screener
 
 5. Crea el screener
-	- Agrega todas las preguntas que necesitas en el screener
-	- Asegúrate que el cuestionario del screener pueda seguir un buen flujo
-	- Agrega preguntas adicionales sobre disponibilidad y datos de contacto	
+  - Agrega todas las preguntas que necesitas en el screener
+  - Asegúrate que el cuestionario del screener pueda seguir un buen flujo
+  - Agrega preguntas adicionales sobre disponibilidad y datos de contacto
 
 6. Distribuye el screener y elige a los participantes que cumplan los criterios
    que necesitan.
-
-

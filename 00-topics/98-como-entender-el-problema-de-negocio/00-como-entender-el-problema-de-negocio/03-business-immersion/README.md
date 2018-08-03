@@ -1,4 +1,4 @@
-# Objetivos de Negocio
+# Inmersión en el problema / oportunidad
 
 - Tipo: `lectura`
 - Formato: `self-paced`
@@ -6,16 +6,14 @@
 
 ***
 
-# Inmersión en el problema / oportunidad
-
 ## Entendimiento del problema
 
 Antes de comenzar a trabajar un proyecto de UX es importante saber tres cosas
 importantes por parte del cliente:
 
-* ¿Cuál es el objetivo de negocio?
-* ¿Cuál es el contexto de uso del producto?
-* ¿Cuáles son los objetivos del usuario?
+- ¿Cuál es el objetivo de negocio?
+- ¿Cuál es el contexto de uso del producto?
+- ¿Cuáles son los objetivos del usuario?
 
 Esto te va a ayudar a tener una clara idea de hacia dónde debes de ir, qué es lo
 que se espera, la información que necesites va a ir encaminada hacia ese
@@ -40,7 +38,7 @@ Es el ámbito de las características y funciones que caracterizan a un producto
 Pero antes debemos preguntarnos: ¿qué son las características o funciones de un
 producto?
 
-Son todas aquellas funcionalidades que nos permite realizar acciones. 
+Son todas aquellas funcionalidades que nos permite realizar acciones.
 Actualmente, estamos inmersos en productos repletos de funcionalidades
 increíbles, sin embargo estás cuando no tienen un contexto o relación completa
 con el usuario, se quedan como funcionalidades.
@@ -61,4 +59,3 @@ debe escuchar distintas voces a lo largo de su vida útil. Y saber quiénes son,
 desde el principio te de una base sólida para que lo que vas a diseñar satisfaga
 todas esas necesidades o encuentre un punto de equilibrio para hacerlo.
 Cuando los stakeholders están contentos, se dice que el producto es exitoso.
-
