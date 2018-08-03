@@ -46,6 +46,7 @@ empresa que elijas a entender tu visión, esperan que les hagas una propuesta de
 cómo podría ser el portal donde las personas puedan buscar, ver, elegir y
 comprar sus productos.
 
+
 ## Objetivos de aprendizaje
 
 El objetivo principal de aprendizaje de este proyecto es entender cómo pasamos
