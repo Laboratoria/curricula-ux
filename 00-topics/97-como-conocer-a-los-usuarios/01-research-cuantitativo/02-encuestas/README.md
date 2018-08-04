@@ -6,8 +6,6 @@
 
 ***
 
-## Encuestas
-
 Una encuesta es, probablemente, el método de investigación más rápido y
 económico que podemos implementar. Cualquiera puede crear una encuesta sobre su
 producto en 10 minutos, más aún como herramientas modernas como Google Forms o
