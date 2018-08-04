@@ -1,5 +1,11 @@
 # Sitemap
 
+- Tipo: `lectura`
+- Formato: `self-paced`
+- Duración: `10min`
+
+***
+
 El sitemap es uno de los outputs que tendremos luego de trabajar todo un proceso
 de Arquitectura de Información (AI). En el sitemap mostraremos las categorías
 que hemos definido luego de analizar los resultados de los usuarios y de tener
