@@ -1,5 +1,11 @@
 # Arquitectura de la Información (AI)
 
+- Tipo: `lectura`
+- Formato: `self-paced`
+- Duración: `1h`
+
+***
+
 Según [The Information Architecture Institute](https://www.iainstitute.org), la
 arquitectura de información es la práctica de decidir cómo organizar las partes
 de algo para que sea comprensible.
