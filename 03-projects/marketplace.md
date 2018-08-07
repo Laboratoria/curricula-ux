@@ -287,7 +287,7 @@ que deberías alcanzar al finalizar este proyecto:
 ### UX Design
 
 |Habilidad|Nivel Esperado|
-|:---|:---|
+|:---|:---:|
 |User centricity| 4 |
 |Planificación| 3 |
 |Entrevistas y testing| 3 |
@@ -302,7 +302,7 @@ que deberías alcanzar al finalizar este proyecto:
 ### Habilidades blandas
 
 |Habilidad|Nivel Esperado|
-|:---|:---|
+|:---|:---:|
 |Planificación y organización| 4 |
 |Autoaprendizaje| 4 |
 |Solución de problemas| 4 |
