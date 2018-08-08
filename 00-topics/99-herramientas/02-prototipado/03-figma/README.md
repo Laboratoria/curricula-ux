@@ -1,4 +1,4 @@
-# Digital prototyping
+# Figma
 
 - Tipo: `taller`
 - Formato: `guiado`
@@ -6,12 +6,7 @@
 
 ***
 
-## Agenda
-
-- Conocemos Figma y Marvel
-- Replicamos 2 pantallas del app de Instagram
-
-## Figma
+## Intro
 
 Figma es una de las muchas herramientas de diseño y prototipado que existen.
 Puedes escuchar qué herramientas existen en este [episodio](https://ar.ivoox.com/es/06-herramientas-prototipado-audios-mp3_rf_13550881_1.html)
