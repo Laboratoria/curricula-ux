@@ -1,15 +1,15 @@
 
 ## Proyecto 1: E-commerce
 
-- Flash messages
-- Credit Card forms
-- Check out forms
 - Forms
 - Buttons
 - Error messages
-- Videos
 - Photos
+- Videos
 - Calendar
+- Flash messages
+- Check out forms
+- Credit Card forms
 
 ## Proyecto 2: 
 
