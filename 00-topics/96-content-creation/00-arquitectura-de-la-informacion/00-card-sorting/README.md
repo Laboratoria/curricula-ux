@@ -1,5 +1,11 @@
 # Card - sorting
 
+- Tipo: `lectura`
+- Formato: `self-paced`
+- Duración: `1h`
+
+***
+
 El card sorting es una técnica que nos permite saber, desde el lado del usuario,
 cuál sería la mejor manera de organizar la información que tenemos. Es una
 técnica común cuando hablamos de organizar el contenido para un producto
@@ -28,7 +34,6 @@ Además ver este vídeo:
 
 [![Card Sorting NN Group](https://media.nngroup.com/media/videos/thumbnails/Card-Sorting-Thumbnail-6.jpg.720x405_q95_autocrop_crop-smart_upscale.jpg)](https://www.youtube.com/watch?v=TbEfjaE94sU)
 
-## Referencias 
+## Referencias
 
 - [Card Sorting: How to Best Organize Product Offerings - KATHRYN WHITENTON](https://www.nngroup.com/videos/card-sorting-organize-product-offerings/)
-

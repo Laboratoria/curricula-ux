@@ -1,5 +1,11 @@
 # Prototipado de Contenido (Content prototyping)
 
+- Tipo: `lectura`
+- Formato: `self-paced`
+- Duración: `1h`
+
+***
+
 Cuando se empieza a filmar una película, la historia que va a seguir ya está
 definida. Los productores y actores han leído el guión y están de acuerdo con el
 producto final, lo que viene después es sólo plasmar en escenas (con un poco de
