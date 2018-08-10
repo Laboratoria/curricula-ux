@@ -97,10 +97,3 @@ Buscar en la web sobre temas relevantes al problema que estamos enfrentando.
 - Foros
 
 ![Queja banco peruano](https://lh6.googleusercontent.com/D9TJpHB4tRuiHlRUY59wt_kaIUZie36FKEFEWBEq2J59XUx_fj03XLrnGCnaezlcqsnJ7GpE-rjZfLDQKGWpyI4PGpoenjPL2juf4Pgk22oJKcuh-imKijKkLPHsgdDPE13OywQs3fU)
-
-## Encuestas y cuestionarios
-
-Las clásicas encuestas que vemos normalmente en línea o dando vueltas por las
-redes sociales. Sirven para darnos una idea de cuántas personas dicen querer o
-necesitar algo, o qué tan dispuestos estarían a probar un nuevo producto, o qué
-tan satisfechos están de usar el producto actual.
