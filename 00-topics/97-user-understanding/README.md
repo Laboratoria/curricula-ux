@@ -26,12 +26,18 @@ experiencias que tengan en cuenta al usuario desde su concepción.
 
 ## Syllabus
 
-### Unidad 01: [Reserch cualitativo](00-research-cualitativo)
+### Unidad 01: [Reserch cualitativo](00-qualitative-research)
 
 Aprende distintas técnicas para empatizar con usuarios: entrevistas,
 observación y tests de usabilidad serán tus principales herramientas.
 
-### Unidad 02: [Research cuantitativo](01-research-cuantitativo)
+### Unidad 02: [Research cuantitativo](01-quantitative-research)
 
 Los productos digitales generan mucha data, con este curso, aprende a entender
 y a encontrar sentido de esta data para crear mejors productos.
+
+### Unidad 03: [Síntesis](02-synthesis)
+
+En esta unidad conocerás distintas herramientas utilizadas para encontrar
+sentido a lo que encontramos en nuestra investigación y para documentar estos
+hallazgos.
