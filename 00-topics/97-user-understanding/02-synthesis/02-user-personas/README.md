@@ -22,7 +22,7 @@ Hay que tener en cuenta que un User Persona es un arquetipo no un estereotipo.
 1. Nombre
 2. Foto
 3. Frase
-4. Información demográfica 
+4. Información demográfica
 5. Escenario
 6. Frustraciones
 7. Necesidades / metas
@@ -38,7 +38,7 @@ Hay que tener en cuenta que un User Persona es un arquetipo no un estereotipo.
 - **Mejoran la comunicación con stakeholders, desarrolladores y otros
   diseñadores.** Los User Personas proveen un lenguaje común para discutir temas
   de diseño y mantienen al equipo centrado en los usuarios en cada etapa del
-  proceso. 
+  proceso.
 - **Crean consenso y compromiso con el diseño. Con un lenguaje común viene un
   entendimiento común.** Los User Personas reducen la necesidad de crear modelos
   programáticos. Es fácil de entender todos los matices del comportamiento del
@@ -50,7 +50,7 @@ Hay que tener en cuenta que un User Persona es un arquetipo no un estereotipo.
   ventas.** Ayudan en campañas de marketing, estructuras organizacionales y
   centros de atención al cliente.
 
-## Además evitan los siguientes casos:
+## Además evitan los siguientes casos
 
 - **Usuario elástico:** cuando se tienen que tomar decisiones, el usuario se
   vuelve elástico. Ej. “A veces es power user, a veces es super tech, a veces no
