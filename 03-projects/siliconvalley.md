@@ -69,7 +69,7 @@ Después de la entrevista, la coordinadora de desarrollo personal conversará co
 ## Recursos externos
 * [Elementos a considerar al escribir tu CV](https://drive.google.com/file/d/17BL00Qd0z2NBQkTEeg2_BgvQNsytMaMu/view?usp=sharing).
 * [Guía de Laboratoria](https://drive.google.com/file/d/1hwayjQlU7m6acBts9g0G5VBK8ZCcAN2b/view?usp=sharing).
-* [Taller de preparación para entrevistas](https://docs.google.com/presentation/d/1IKc49cO4PQZVytL8pEgu9rogWYcuoguBcnKHgPKKXLs/edit?usp=sharing) 
+* [Taller de preparación para entrevistas](https://docs.google.com/presentation/d/1IKc49cO4PQZVytL8pEgu9rogWYcuoguBcnKHgPKKXLs/edit?usp=sharing).
 
 
 
