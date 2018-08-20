@@ -29,7 +29,7 @@ El objetivo principal de este reto es que conozcas lo que es un proceso de reclu
 
 Cualquier proceso de reclutamiento inicia cuando envías tu CV solicitando que te consideren para  el cargo de la empresa que te interesa.  
 
-Por suerte, tu compañera te ha enviado un mensaje con los elementos a considerar al escribir tu CV. Léelo con detenimiento y sigue sus recomendaciones. Un dato importante: tal como explica tu compañera, esta parte va más allá del CV, incluye también tu LinkedIn y tu portafolio - a los cuales se accede a través de tu CV.
+Por suerte, tu compañera te ha enviado un mensaje con los [elementos a considerar al escribir tu CV](https://drive.google.com/file/d/17BL00Qd0z2NBQkTEeg2_BgvQNsytMaMu/view?usp=sharing). Léelo con detenimiento y sigue sus recomendaciones. Un dato importante: tal como explica tu compañera, esta parte va más allá del CV, incluye también tu LinkedIn y tu portafolio - a los cuales se accede a través de tu CV.
 
 Una vez que completes tu CV (con los links a tu portafolio y LinkedIn actualizados), debes enviarlo a la coordinadora de desarrollo personal (psicóloga) de tu sede via e-mail incluyendo un breve párrafo indicando tu interés por el puesto. Ella revisará los documentos te dirá si estás preparada para avanzar a la parte II o si debes mejorar algunas cosas. 
 
@@ -67,11 +67,8 @@ Después de la entrevista, la coordinadora de desarrollo personal conversará co
 ## Parte V: Desafíos para resolver y entregar
 
 ## Recursos externos
-* [Guía de estilos de Airbnb](https://github.com/airbnb/javascript).
-* [Elementos a considerar al escribir tu CV](https://drive.google.com/file/d/1TUHy3SxgalOWBqH-rtHKbejsKCXoLxWD/view?usp=sharing).
 * [Guía de Laboratoria de Entrevistas](https://drive.google.com/file/d/1hwayjQlU7m6acBts9g0G5VBK8ZCcAN2b/view?usp=sharing).
-* [Taller de preparación para entrevistas](https://docs.google.com/presentation/d/1IKc49cO4PQZVytL8pEgu9rogWYcuoguBcnKHgPKKXLs/edit?usp=sharing).
-* [GitHub Entrevistas](https://github.com/h5bp/Front-end-Developer-Interview-Questions).
+
 
 
 
