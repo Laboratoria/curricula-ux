@@ -45,8 +45,8 @@ Si la coordinadora de desarrollo personal (psicóloga) de tu sede considera que 
 Aún cuando es de práctica, es importante que te prepares bien, dado que si no tienes un buen desempeño en este paso no podrás avanzar. 
 
 Para esto, te recomendamos revisar los siguientes recursos:
-* La guía de Laboratoria sobre cómo prepararte para una entrevista laboral.
-* El material del taller de preparación para entrevistas profesionales de Laboratoria.
+* La [guía de Laboratoria](https://drive.google.com/file/d/1hwayjQlU7m6acBts9g0G5VBK8ZCcAN2b/view?usp=sharing) sobre cómo prepararte para una entrevista laboral.
+* El [taller de preparación para entrevistas](https://docs.google.com/presentation/d/1IKc49cO4PQZVytL8pEgu9rogWYcuoguBcnKHgPKKXLs/edit?usp=sharing) profesionales de Laboratoria.
 * Al final de la entrevista, la coordinadora de desarrollo personal te dirá si estás preparada para avanzar a la parte III o si debes mejorar algunas cosas y repetir la entrevista de “práctica”.
 
 Ok… hagamos un check list con todo lo que deberías tener listo hasta ahora: 
@@ -67,7 +67,9 @@ Después de la entrevista, la coordinadora de desarrollo personal conversará co
 ## Parte V: Desafíos para resolver y entregar
 
 ## Recursos externos
-* [Guía de Laboratoria de Entrevistas](https://drive.google.com/file/d/1hwayjQlU7m6acBts9g0G5VBK8ZCcAN2b/view?usp=sharing).
+* [Elementos a considerar al escribir tu CV](https://drive.google.com/file/d/17BL00Qd0z2NBQkTEeg2_BgvQNsytMaMu/view?usp=sharing).
+* [Guía de Laboratoria](https://drive.google.com/file/d/1hwayjQlU7m6acBts9g0G5VBK8ZCcAN2b/view?usp=sharing).
+* [Taller de preparación para entrevistas](https://docs.google.com/presentation/d/1IKc49cO4PQZVytL8pEgu9rogWYcuoguBcnKHgPKKXLs/edit?usp=sharing) 
 
 
 
