@@ -105,6 +105,8 @@ agregar los documentos complementarios que sustenten tu proceso.
 
 ### Hacker edition
 
+Para el hacker edition puedes elegir una o varias de estas opciones:
+
 - Antes de empezar a desarrollar este proyecto, lista cuáles fueron tus
   aprendizajes durante el proyecto 1 y en qué cosas te gustaría mejorar durante 
   el proyecto 2. Al terminar el proyecto 2 vuelve a esta lista y chequea cómo te 
