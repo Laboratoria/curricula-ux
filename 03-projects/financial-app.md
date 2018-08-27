@@ -1,4 +1,4 @@
-# Plataforma de ventas en línea
+# Aplicación financiera
 
 ## Preámbulo
 
@@ -69,7 +69,8 @@ El objetivo principal de este proyecto es que te enfrentes al reto de rediseñar
 un producto ya existente. Muchas de ustedes terminarán trabajando en productos
 existentes y deben estar familiarizadas con el proceso de analizar la data del
 producto, complementar con investigación de campo y con esto definir una
-estrategia de crecimiento del producto.
+estrategia de crecimiento del producto. Puedes leer sobre el trabajo de un
+UX Designer en rediseño este [blogpost](https://blog.continuum.cl/preguntas-para-dejar-de-ser-ux-designer-y-empezar-a-ser-un-ux-redesigner-143e5467ec8d).
 
 En este proyecto pondrás en práctica habilidades de: análisis de datos,
 investigación de campo, pensamiento crítico, cuestionamiento, síntesis, diseño
