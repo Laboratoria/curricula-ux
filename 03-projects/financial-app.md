@@ -48,6 +48,8 @@ Manager del equipo les brinda el contexto:
   Ads… Yo no estoy tan seguro; quisiera que como parte de su trabajo estas
   próximas dos semanas, entendamos ese punto también.”
 
+![preview app de finanzas](https://lh3.googleusercontent.com/WyfUPurRuoXyyeZScQtdLhk063ZozToVlujoljul3TDwJW5KZy3Om_LvuB-TB9IcG2r_BCSpoXtXL-bZjIeGBFxQmL4GYEM2QXnQovq6EvixYaO_Z5-gFMvljM9jye7bVofendMteBI)
+
 ### Recursos
 
 En esta carpeta de [Google Drive](http://bit.ly/uxd-reto-2) y en los siguientes
