@@ -119,6 +119,11 @@ agregar los documentos complementarios que sustenten tu proceso.
   JS. Puedes usar los frameworks que quieras. Recuerda que la aplicación tiene
   que ser mobile-friendly. Despliega el código en GitHub Pages o Heroku.
 - Escribe un post en Medium contando tu proceso de investigación.
+- Crea un video mostrando el demo del app, aquí algunos ejemplos:
+  - [Genius Scan](https://youtu.be/wKqnB6_Z-J0)
+  - [Nequi](https://www.youtube.com/watch?v=BDLAXvSQCZ8)
+  - [Simple Bank](https://www.youtube.com/watch?v=0eqD5o6422M)
+  - [Pocket](https://www.youtube.com/watch?v=MoJHYNKmS2U)
 
 ## Otras consideraciones
 
