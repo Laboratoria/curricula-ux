@@ -1,7 +1,7 @@
-# Visual Design
+# Product Design
 
-En este curso aprenderás las bases fundamentales para hacer que tus interfaces
-luzcan profesionales usando los principios básicos del diseño visual.
+En este curso aprenderás las bases fundamentales para hacer que tus productos
+sean usables, accesibles y luzcan profesionales visualmente hablando.
 
 ## Público objetivo
 
