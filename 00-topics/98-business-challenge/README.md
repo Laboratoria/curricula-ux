@@ -17,3 +17,8 @@ UX Designer debe tener.
 Conceptos básicos sobre negocios y proyectos digitales que deberás tener en
 cuenta al trabajar en un proyecto. Cómo identificar y relacionarte con
 stakeholders. Cómo medir el éxito del proyecto a través de KPIs.
+
+### Unidad 02: [Métricas de un producto](01-product-metrics)
+
+Conoce cuáles son los estados del ciclo de vida de un producto y cómo es que se
+mide el crecimiento de un producto.

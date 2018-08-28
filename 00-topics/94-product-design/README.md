@@ -37,3 +37,13 @@ cuáles son las mejores técnicas.
 
 Conoce los fundamentos de diseño visual. Aprende cuáles son las reglas básicas
 del diseño visual, la teoría de color y el uso de tipografías.
+
+### Unidad 03: [El diseño de las cosas cotidianas](02-design-of-everyday-things)
+
+Conoce los principios de diseño qué debes tener en cuenta en todo producto ya
+sea físico o digital.
+
+### Unidad 04: [Usabilidad y accesibilidad](03-usability-and-accessibility)
+
+Aprende sobre heurísticas de usabilidad y los principios básicos para crear un
+producto accesible para todos.
