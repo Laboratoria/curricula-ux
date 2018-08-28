@@ -85,7 +85,7 @@ lo siguiente:
 
 README.md  detallando:
 
-* Objetivos iniciales proyecto
+* Objetivos iniciales del proyecto
 * Problemas encontrados tanto a nivel de negocio como a nivel de usuario
 * Recomendaciones de próximos pasos para el banco con respecto al app (estas
   recomendaciones tendrán que ser sustentadas por tu investigación):
@@ -111,8 +111,8 @@ Para el hacker edition puedes elegir una o varias de estas opciones:
 - Antes de empezar a desarrollar este proyecto, lista cuáles fueron tus
   aprendizajes durante el proyecto 1 y en qué cosas te gustaría mejorar durante 
   el proyecto 2. Al terminar el proyecto 2 vuelve a esta lista y chequea cómo te 
-  fue con esos retos, ¿los cumpliste?. Muestrános estas listas y esta reflexión
-  en un documento adicional. (en el formato que prefieras.)
+  fue con esos retos, ¿los cumpliste? Muestrános esta lista y esta reflexión
+  en un documento adicional (en el formato que prefieras).
 - Investiga sobre chatbots y sustenta si sería bueno incluir uno en alguna parte
   del journey del uso del producto. Si crees que un chatbot añadiría valor,
   prototípalo usando [Botsociety](http://bit.ly/ux-chatbot).
@@ -154,8 +154,8 @@ Existen varias herramientas que puedes utilizar para crear diseñar el producto,
 en este caso el diseño viene en Figma y el prototipo en Marvel, así que puedes
 seguir usando esas herramientas. Sin embargo, eres libre de utilizar otras
 como Adobe XD e Invision. Para el prototipo intenta utilizar Marvel o Invision,
-ya que tendrá que para el testing tendrás que usar una herramienta llamada
-[Maze](https://maze.design/) que funciona mejor con Marvel o Invision.
+ya que para el testing tendrás que usar una herramienta llamada
+[Maze](https://maze.design/) que funciona mejor con estas.
 
 Recuerda que el diseño que trabajes debe seguir los fundamentos de diseño visual
 como: contraste, alineación, jerarquía, entre otros.
