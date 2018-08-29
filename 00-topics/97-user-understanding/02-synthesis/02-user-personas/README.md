@@ -31,6 +31,8 @@ Hay que tener en cuenta que un User Persona es un arquetipo no un estereotipo.
 
 [video user personas](https://www.youtube.com/embed/khLWLtxmMGM?cc_load_policy=1&cc_lang_pref=es)
 
+[otro video sobre personas](https://vimeo.com/212958539)
+
 ## Por qué son importantes los User Personas
 
 - **Determinan qué debería hacer un producto y cómo debería hacerlo.** Las metas
@@ -62,3 +64,18 @@ Hay que tener en cuenta que un User Persona es un arquetipo no un estereotipo.
   (situaciones que probablemente no le sucedan a la mayoría de los usuarios).
   Los casos extremos no deberían ser el centro del diseño. Ej: crear un api para
   tu producto, pagar con bitcoin.
+
+## Tipos de User Personas
+
+
+## Referencias
+
+- [Creating personas](http://www.uxbooth.com/articles/creating-personas/)
+- [New MailChimp: User Persona Research](https://blog.mailchimp.com/new-mailchimp-user-persona-research/)
+- [A Closer Look At Personas: What They Are And How They Work](https://www.smashingmagazine.com/2014/08/a-closer-look-at-personas-part-1/)
+- [Why personas fail](https://www.nngroup.com/articles/why-personas-fail/)
+- [Personas a simple introduction](https://www.interaction-design.org/literature/article/personas-why-and-how-you-should-use-them)
+- [Getting From Research to Personas: Harnessing the Power of Data](https://www.cooper.com/journal/2002/11/getting_from_research_to_perso)
+- [Perfecting Your Personas](https://www.cooper.com/journal/2001/08/perfecting_your_personas)
+- [The origin of personas](https://www.cooper.com/journal/2008/5/the_origin_of_personas)
+- [Understanding Personas - An Interview with Alan Cooper](https://youtu.be/G7ljzXB40hw)
