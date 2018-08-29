@@ -68,10 +68,16 @@ Aquí otros ejemplos:
 - **Diseño autoreferenciado:** cuando diseñadores y desarrolladores proyectan
   sus propias metas, motivaciones, habilidades y modelos mentales en el diseño
   del producto.
+
+  Ej. Caso del rediseño del app de nike que eliminó una función que era muy
+  utilizada por los usuarios: "el correr por metas"
+
+  ![caso nike](https://lh6.googleusercontent.com/3sBkn4owUMKXrjvZE3uaB3vAxlj3cxGWBzJRrrlqs2PxtD4ZyavD_g6U04Q52wyBTexoW6HSUFjbjywn-qlGSHkHJedVr0bp6uECvH962N2LQ6SYdI3C8wpZuikyk20vMgEj0B-FcnY)
+
 - **Casos extremos:** los user personas evitan diseñar para casos extremos
   (situaciones que probablemente no le sucedan a la mayoría de los usuarios).
   Los casos extremos no deberían ser el centro del diseño. Ej: crear un api para
-  tu producto, pagar con bitcoin.
+  tu producto, agregar Bitcoin como medio de pago.
 
 ## Otras clasificaciones
 
@@ -125,6 +131,13 @@ Sin embargo, si entendemos que los usuarios son distintos, con distintas
 necesidades, podríamos llegar a soluciones como estas:
 
 ![auto para cada uno](https://lh6.googleusercontent.com/tN3Y9d3hm1Kz-0edbykBmN8eiM0f3_dKGpmtgPX6pOeKlpj8rLZihBe44AXInvOLoWuzyuw6cqg_SzG_cfSFmjNH2RdzmWLEpfdTChYClM3iPeyHWFrEH6YZpKMrPQyY1zQnkzk_ONU)
+
+### Video
+
+Si no tienes en cuenta quién es tu usuario real mientras creas un producto,
+te podrían pasar cosas como esta:
+
+[video silicon valley](https://youtu.be/Ml92QEqE-RQ)
 
 ## Referencias
 
