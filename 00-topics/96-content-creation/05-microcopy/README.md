@@ -1,7 +1,5 @@
-# Storytelling
+# Microcopy
 
 - Tipo: `lectura`
 - Formato: `self-paced`
-- Duración: `2h`
-
-***
+- Duración: `1h`

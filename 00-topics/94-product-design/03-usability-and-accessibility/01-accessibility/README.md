@@ -1,10 +1,12 @@
-# Clase de Conceptos
+# Accesilidad
 
 - Tipo: `lectura`
 - Formato: `self-paced`
 - Duración: `1h`
 
-## Accesibilidad
+*** 
+
+## Intro
 
 Mira este video y reflexiona sobre el concepto de accesibilidad [video](https://www.youtube.com/watch?v=BEFgnYktC7U)
 
