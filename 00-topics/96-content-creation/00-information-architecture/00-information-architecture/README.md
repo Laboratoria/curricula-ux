@@ -22,9 +22,12 @@ etc.
 Pensando en esa tienda, realiza el siguiente ejercicio: __¿cómo ordenarías la
 ropa de mujer de esa tienda para que sea fácil de encontrar?__
 
-Puedes ver el siguiente [video](https://youtu.be/TbEfjaE94sU) para entender el
-concepto de Arquitectura de la Información
-y leer el [siguiente artículo](https://theblog.adobe.com/a-beginners-guide-to-information-architecture-for-ux-designers/) para profundizar en el concepto. (borrador del artículo, revisar para
+Puedes ver el siguiente:
+
+[video](https://youtu.be/TbEfjaE94sU)
+
+Para entender el concepto de Arquitectura de la Información y leer el [siguiente artículo](https://theblog.adobe.com/a-beginners-guide-to-information-architecture-for-ux-designers/)
+para profundizar en el concepto. (borrador del artículo, revisar para
 corregir comentarios y publicar).
 
 ## Contexto, contenido, usuarios

@@ -90,4 +90,4 @@ Puedes usar esta plantilla para ayudarte a crear la historia que quieres contar
 
 ## Referencias
 
-- [Storytelling Khan Academy](https://www.khanacademy.org/partner-content/pixar/storytelling)
+[Storytelling Khan Academy](https://www.khanacademy.org/partner-content/pixar/storytelling)
