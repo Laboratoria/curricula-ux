@@ -15,7 +15,7 @@ principales grupos de usuarios de un producto. Además el User Persona es un
 producto vivo que iremos actualizando según vamos conociendo mejor a nuestro
 usuario.
 
-[video user personas](https://www.youtube.com/embed/khLWLtxmMGM?cc_load_policy=1&cc_lang_pref=es)
+[video user personas](https://youtu.be/khLWLtxmMGM?cc_load_policy=1&cc_lang_pref=es)
 
 Hay que tener en cuenta que un User Persona es un arquetipo no un estereotipo.
 
@@ -102,6 +102,10 @@ encargados de pedir cotizaciones, de negociar, etc. sin embargo, no serán los
 usuarios finales de los productos que compran. Al tener a este tipo de personas,
 buscamos entender sus necesidades, para así poder satisfacerlas, ya que su
 satisfacción se verá reflejada en el éxito del producto.
+
+En este video de Udacity nos muestran un ejemplo de este tipo de personas:
+
+[video](https://youtu.be/gAsoP9i2R_Q)
 
 ### Served persona
 
