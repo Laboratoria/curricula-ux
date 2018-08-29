@@ -12,7 +12,7 @@ experiencia de los usuarios.
 
 ## Syllabus
 
-### Unidad 01: [Arquitectura de la Información](00-arquitectura-de-la-informacion)
+### Unidad 01: [Arquitectura de la Información](00-information-architecture)
 
 Aprende a organizar la información y contenido del producto de una manera
 eficiente y relevante para el usuario. Conoce técnicas y herramientas que te
@@ -24,7 +24,7 @@ producto.
 Conoce cómo crear flujos de usuario que sean eficientes para ayudar al usuario
 a cumplir sus objetivos y resolver sus necesidades.
 
-### Unidad 03: [Prototipado de contenido](02-prototipado-de-contenido)
+### Unidad 03: [Prototipado de contenido](02-content-prototyping)
 
 Aprende a prototipar el contenido de un producto.
 

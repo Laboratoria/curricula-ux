@@ -6,9 +6,7 @@
 
 ***
 
-## Tecnología
-
-### La web vs apps nativas
+## La web vs apps nativas
 
 Si mencionamos estos términos:
 
@@ -57,7 +55,7 @@ cuál es el tipo de solución que mejor se adapta a las necesidades de tus
 usuarios, del producto que estás diseñando, de la capacidad técnica del equipo y
 de las necesidades del negocio.
 
-#### Costos y tiempos de implementación
+### Costos y tiempos de implementación
 
 En general hacer una web app es más económico que hacer un app nativa. Si bien
 es cierto cada vez los costos se equiparan más, por un tema de mercado, es más
@@ -71,7 +69,7 @@ responsive y el adaptative design esta aplicación va a poder correr en distinto
 tipos y tamaños de dispositivos. Sin embargo, si decides hacer una aplicación
 móvil nativa, tienes que hacer un desarrollo para iOS y otro para Android.
 
-#### Posibilidades técnicas
+### Posibilidades técnicas
 
 Cuando hacemos aplicaciones nativas aprovechamos todas las capacidades que nos
 da el dispositivo y su sistema operativo. Por ejemplo:
@@ -109,7 +107,7 @@ disponibles en todas las plataformas como Spotify o Slack o Netflix, que
 funcionan tan bien o igual de bien tanto en el navegador como en sus
 aplicaciones nativas.
 
-#### Mobile first / mobile only / mobile friendly
+### Mobile first / mobile only / mobile friendly
 
 Últimamente se habla mucho de términos cómo estos. Pero a qué se refieren.
 
@@ -130,7 +128,7 @@ aplicaciones nativas.
   posibilidades del responsive design funcionan también, amigablemente, en los
   móviles.
 
-#### La forma de interactuar
+### La forma de interactuar
 
 Por último, te diríamos que tengas en cuenta siempre la forma en la que el
 usuario interactuará con el dispositivo. Será con un mouse, con un screenreader,
@@ -140,4 +138,4 @@ será algo que tendrás que tener en cuenta.
 
 ## Referencias
 
-- [The mobile question](https://youtu.be/Xi4CfgQEYuc)
+[The mobile question](https://youtu.be/Xi4CfgQEYuc)
