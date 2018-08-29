@@ -33,7 +33,7 @@ experiencias que tengan en cuenta al usuario desde su concepción.
 En esta unidad nos sumergiremos en Sketching. Qué es, por qué es importante,
 cuáles son las mejores técnicas.
 
-### Unidad 02: [Fundamentos de diseño visual](01-fundamentos-de-diseno-visual)
+### Unidad 02: [Fundamentos de diseño visual](01-visual-design)
 
 Conoce los fundamentos de diseño visual. Aprende cuáles son las reglas básicas
 del diseño visual, la teoría de color y el uso de tipografías.

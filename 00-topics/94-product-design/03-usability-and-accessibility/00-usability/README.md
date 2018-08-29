@@ -4,6 +4,8 @@
 - Formato: `self-paced`
 - Duración: `1h`
 
+***
+
 ## Usabilidad
 
 ### No me hagas pensar (Pre-work)

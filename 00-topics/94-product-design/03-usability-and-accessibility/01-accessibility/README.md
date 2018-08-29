@@ -4,6 +4,8 @@
 - Formato: `self-paced`
 - Duración: `1h`
 
+***
+
 ## Accesibilidad
 
 Mira este video y reflexiona sobre el concepto de accesibilidad [video](https://www.youtube.com/watch?v=BEFgnYktC7U)
@@ -28,8 +30,11 @@ con la interacción con productos digitales y la web:
   para recordar cosas o enfocarse cuando se está frente a grandes cantidades de
   información.
 
-Ahora, mira este [video](https://youtu.be/_ey8cjuDZW8) y revisemos algunas
-consideraciones sobre accesibilidad.
+Ahora, mira este:
+
+[video](https://youtu.be/_ey8cjuDZW8)
+
+Y revisemos algunas consideraciones sobre accesibilidad.
 
 ### Tips para diseñadores
 
@@ -91,4 +96,3 @@ utilizar para cada imagen. Adicionalmente, los `alt` texts te ayudan para el
 - [7 Things Every Designer Needs to Know about Accessibility](https://medium.com/salesforce-ux/7-things-every-designer-needs-to-know-about-accessibility-64f105f0881b)
 - [Aprende Accesibilidad Web paso a paso](https://www.udemy.com/aprende-accesibilidad-web-paso-a-paso/learn/v4/overview)
 - [Accesibilidad en la Web o algunos tips para hacer una web para todos](https://medium.com/laboratoria-how-to/accesibilidad-en-la-web-o-algunos-tips-para-hacer-una-web-para-todos-3152616ac5fc)
-- [Accesibilidad web](https://docs.google.com/presentation/d/1c3zPIBEDb4Y4AzqNC0BMm76bvUTsuZMv2MVn8feob5o/edit#slide=id.g1fa3af47d9_3_47)

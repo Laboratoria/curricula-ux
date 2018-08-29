@@ -11,8 +11,6 @@
 Ya tienes una base con las reglas básicas del diseño visual también viste cómo
 usar el color y ahora vas a aprender a utilizar las tipografías.
 
-## Tipografía
-
 ### Clasificaciones tipográficas
 
 Algunos dicen que elegir tipografías es como elegir tu ropa — ¿qué dice tu ropa
@@ -31,7 +29,7 @@ Las dos clasificaciones tipográficas principales se llaman
 _serif_ y _sans-serif_. Otras clasificaciones incluyen _oldstyle_, _script_ y
 _decorative_.
 
-![](https://lh4.googleusercontent.com/7bB_CEYhhThwZ340hWD0Y-9Fqc2ZHjtdM6gZXEj3NQ31bW8XvK2knhjIRkOFGT2EoZdMFYDJX4vS0LYoBZxUepKDThHrvEG-Ky9U3bF0Y33RhaULLQBIBXjrF4noljnVXkiW1uqzgTk)
+![Ejemplo](https://lh4.googleusercontent.com/7bB_CEYhhThwZ340hWD0Y-9Fqc2ZHjtdM6gZXEj3NQ31bW8XvK2knhjIRkOFGT2EoZdMFYDJX4vS0LYoBZxUepKDThHrvEG-Ky9U3bF0Y33RhaULLQBIBXjrF4noljnVXkiW1uqzgTk)
 
 - **Serif:** _serif_ se refiere a las patitas decorativas que tienen las letras.
 Por lo general, se ven más serias y tradicionales. Si es un texto largo, esas
@@ -76,7 +74,7 @@ El término “Fuente tipográfica” se usa para describir variaciones de una m
 tipografía. Por ejemplo, pueden ver que Gotham, una familia muy extensa, tiene
 16 variaciones:
 
-![](https://lh4.googleusercontent.com/YIuIVacgi6-NHfdgyLyyI9nmui1wPY1X0ZpOuZf6dpJDPxQREdEkGEqPBQxjKX3FhyHhd3cAxTZs7OgbhI7n5n9QNYN-haWrBBBnf9EFRt-N21hhwgRzpezdVboN52pqLgVB2a0wL38)
+![Ejemplo](https://lh4.googleusercontent.com/YIuIVacgi6-NHfdgyLyyI9nmui1wPY1X0ZpOuZf6dpJDPxQREdEkGEqPBQxjKX3FhyHhd3cAxTZs7OgbhI7n5n9QNYN-haWrBBBnf9EFRt-N21hhwgRzpezdVboN52pqLgVB2a0wL38)
 
 [Si quieres profundizar en las clasificaciones tipográficas vista este link](https://tiposformales.com/2010/09/04/clasificacion-tipografica/)
 
@@ -132,7 +130,7 @@ sans-serif que están diseñadas específicamente para que se complementen.
 [Merriweather Sans](https://fonts.google.com/specimen/Merriweather+Sans) son
 super-familias tipográficas (y gratuitas).
 
-![](https://lh4.googleusercontent.com/FiJeJZ7iWQ9ciGQlzYzvNqQz8aDLq3wruNW2UAG4ur7I8Jc8F81rG8oEJVwqFcBTTZOVm_2FrP9IGc-f46v1Vi-ROG60gpysRfc4ItnlVNF_tlXOszcJnHQEtEB23IQ72SPyrcaLvBw)
+![Ejemplo](https://lh4.googleusercontent.com/FiJeJZ7iWQ9ciGQlzYzvNqQz8aDLq3wruNW2UAG4ur7I8Jc8F81rG8oEJVwqFcBTTZOVm_2FrP9IGc-f46v1Vi-ROG60gpysRfc4ItnlVNF_tlXOszcJnHQEtEB23IQ72SPyrcaLvBw)
 
 - Hay otras reglas para saber cómo usar tipografías, por ejemplo: que
   contrasten.

@@ -4,12 +4,12 @@
 - Formato: `self-paced`
 - Duración: `90min`
 
-***
-
 ## Objetivos de aprendizaje
 
 Entender la importancia del proceso de sketch durante la creación de un proyecto
 digital.
+
+***
 
 ## Qué es un Sketch
 
@@ -71,15 +71,15 @@ _‘No hay nada más simple que papel y lápiz para aterrizar ideas’._
   con qué recursos lo vas a lograr(Landing Page, formulario, etc).
 
 *¿Cómo lo voy a hacer?* Aquí es donde comienza la magia. Debes planear una
- estrategia para comunicarle a tu usuario lo que tu cliente necesita transmitir.
- Debes pensar cómo lo harás y de qué manera, pensando en que tu usuario
- interactúa con tu plataforma y que al entrar a un sitio necesita informarse o
- realizar una tarea, entonces va a necesitar seguir un flujo dentro de la
- aplicación. También es importante comenzar a pensar en la priorización de
- elementos o información que queremos incluir y pensar en dónde lo vamos a
- hacer. Cuando estés haciendo las listas de contenidos, te recomiendo
- acomodarlas según el orden de importancia con la respectiva información interna
- a cada punto de información.
+  estrategia para comunicarle a tu usuario lo que tu cliente necesita transmitir.
+  Debes pensar cómo lo harás y de qué manera, pensando en que tu usuario
+  interactúa con tu plataforma y que al entrar a un sitio necesita informarse o
+  realizar una tarea, entonces va a necesitar seguir un flujo dentro de la
+  aplicación. También es importante comenzar a pensar en la priorización de
+  elementos o información que queremos incluir y pensar en dónde lo vamos a
+  hacer. Cuando estés haciendo las listas de contenidos, te recomiendo
+  acomodarlas según el orden de importancia con la respectiva información interna
+  a cada punto de información.
 
 ![sketch flow](https://image.ibb.co/iUP5fo/sketch_flow_2.jpg)
 
@@ -94,5 +94,6 @@ importante es comenzar a pensar en el contenido a transmitir, la distribución d
 
 **Consejo:** Practica, practica y practica.
 
-Mira el siguiente video para ejemplificar mejor este proceso: 
+Mira el siguiente video para ejemplificar mejor este proceso:
+
 [video](https://vimeo.com/35986473)
