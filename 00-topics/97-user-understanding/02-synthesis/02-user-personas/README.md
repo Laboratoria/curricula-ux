@@ -2,7 +2,7 @@
 
 - Tipo: `lectura`
 - Formato: `self-paced`
-- Duración: `1h`
+- Duración: `2h`
 
 ***
 
@@ -39,7 +39,7 @@ Aquí otros ejemplos:
 
 ## Por qué son importantes los User Personas
 
-[Alan Cooper]() nos cuente por qué son importantes en este video:
+[Alan Cooper](https://en.wikipedia.org/wiki/Alan_Cooper) nos cuente por qué son importantes en este video:
 
 [otro video sobre personas](https://vimeo.com/212958539)
 
