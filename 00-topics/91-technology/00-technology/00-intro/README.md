@@ -6,7 +6,7 @@
 
 ***
 
-## Tecnología
+## Intro
 
 ### La web vs apps nativas
 
