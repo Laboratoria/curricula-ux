@@ -1,15 +1,10 @@
-# Clase de Conceptos
+# Usabilidad
 
 - Tipo: `lectura`
 - Formato: `self-paced`
 - Duración: `1h`
 
-## Usabilidad
-
-### No me hagas pensar (Pre-work)
-
-- Lee los primeros 4 capítulos del libro *"No me hagas pensar"* de Steve
-  Krug.
+## Usabilidad en productos digitales
 
 ### 10 Heurísticas de Usabilidad de Jakob Nielsen
 
@@ -135,6 +130,13 @@ para sus usuarios.
 
 - Intenta encontrar 2 nuevos ejemplos para cada uno de los principios de
   usabilidad propuestos por Nielsen.
+
+***
+
+### No me hagas pensar
+
+- Lee los primeros 4 capítulos del libro *"No me hagas pensar"* de Steve
+  Krug.
 
 ## Referencias
 
