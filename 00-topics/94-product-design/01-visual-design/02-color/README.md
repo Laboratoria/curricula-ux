@@ -25,7 +25,6 @@ mensaje que queremos transmitir.
 **Ahora, ¿qué nos dicen de los colores?**
 
 Retomando el punto anterior, cada color tiene una personalidad única que nos
-transmite un significado; así como un color en conjunto a otro(s) expresan un
 significado en conjunto.
 
 _Como este azul:_ que es como el color base en una composición.

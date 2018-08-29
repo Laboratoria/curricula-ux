@@ -1,4 +1,4 @@
-#  Reglas básicas de diseño visual
+# Reglas básicas de diseño visual
 
 - Tipo: `lectura`
 - Formato: `self-paced`

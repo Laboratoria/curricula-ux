@@ -75,7 +75,7 @@ pero el contenido en HTML. Las primeras versiones de CSS eran poco flexibles y
 tenía niveles bajos de adopción entre los navegadores. Pasaron varios años antes
 de que hubiera adopción general y muchas veces se encontraban muchos *bugs*.
 Además todos los navegadores tenían parámetros diferentes -- una pesadilla para
-los desarrolladores. 
+los desarrolladores.
 
 ### El alzamiento móvil - _grids_ y _frameworks_ (2007)
 

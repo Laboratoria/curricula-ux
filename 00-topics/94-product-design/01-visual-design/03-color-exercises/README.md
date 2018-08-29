@@ -14,7 +14,8 @@ diferentes.
 
 Sobre esto:
 
-- Preguntar sobre qué transmite cada página con base a la paleta de colores y documentarlo en un README
+- Preguntar sobre qué transmite cada página con base a la paleta de colores y
+  documentarlo en un README
 
 ## RETO 2
 

@@ -4,6 +4,8 @@
 - Formato: `self-paced`
 - Duración: `1h`
 
+***
+
 ## Usabilidad en productos digitales
 
 ### 10 Heurísticas de Usabilidad de Jakob Nielsen

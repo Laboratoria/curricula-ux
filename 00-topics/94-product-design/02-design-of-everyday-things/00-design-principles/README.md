@@ -25,7 +25,9 @@ En su libro y curso [The Design of Everyday Things](https://www.udacity.com/cour
 , Don Norman nos habla de distintos principios de diseño que revisaremos en esta
 lección.
 
-Para empezar miremos estos videos [video 1](https://youtu.be/tZkP9evOAtI) y
+Para empezar miremos estos videos:
+
+[video 1](https://youtu.be/tZkP9evOAtI)
 [video 2](https://youtu.be/tmw1T-xqw5U).
 
 ### Affordances & signifiers

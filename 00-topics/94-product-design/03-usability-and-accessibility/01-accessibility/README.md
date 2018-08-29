@@ -4,7 +4,7 @@
 - Formato: `self-paced`
 - Duración: `1h`
 
-*** 
+***
 
 ## Intro
 
@@ -30,8 +30,11 @@ con la interacción con productos digitales y la web:
   para recordar cosas o enfocarse cuando se está frente a grandes cantidades de
   información.
 
-Ahora, mira este [video](https://youtu.be/_ey8cjuDZW8) y revisemos algunas
-consideraciones sobre accesibilidad.
+Ahora, mira este:
+
+[video](https://youtu.be/_ey8cjuDZW8)
+
+Y revisemos algunas consideraciones sobre accesibilidad.
 
 ### Tips para diseñadores
 

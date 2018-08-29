@@ -8,7 +8,8 @@
 
 ## Objetivos de aprendizaje
 
-- Identificar técnicas comunes para utilizar jerarquizar el contenido de nuestras interfaces
+- Identificar técnicas comunes para utilizar jerarquizar el contenido de nuestras
+  interfaces
 - Conocer los siete principios básicos de diseño responsivo
 
 ## Jerarquía: crear equilibrio y organizar el resto de tu diseño
@@ -113,14 +114,14 @@ libro crea una línea diagonal que apunta hacia el título. Después tu ojo pued
 seguir el mismo camino hacía los subtítulos y el autor. Es una composición
 inteligente y eficaz, además de establecer visualmente el tema del libro.
 
-![](https://lh5.googleusercontent.com/Z1SO-g18efO-zZU0GBwhLz3pI1qjuR0wXRo1aGhN7T7ifu4LDpDmRlTocnGsRF1an5KMZCVJ_mYE3Uz8cJGH0sFP_R18exUzdYppY6fcb6v2oEVDel9tBCC7MAK9AWp9163_dxIHtBQ)
+![Ejemplo](https://lh5.googleusercontent.com/Z1SO-g18efO-zZU0GBwhLz3pI1qjuR0wXRo1aGhN7T7ifu4LDpDmRlTocnGsRF1an5KMZCVJ_mYE3Uz8cJGH0sFP_R18exUzdYppY6fcb6v2oEVDel9tBCC7MAK9AWp9163_dxIHtBQ)
 
 Por otro lado, el movimiento diagonal en este ejemplo no se guía con una línea
 en sí, pero implícito por la colocación y la superposición de cada elemento.
 Resulta en una composición más interesante visualmente que un diseño basado en
 el grid tradicional.
 
-![](https://lh4.googleusercontent.com/uPr9V6P-216V-n-3Pom71QuCEsThu7b1UBPgwexStGMTn_U6YA-f4c_8r5c1J2_eAW0IyMB4aPs_l8uUbN7Wilm4v0FjR2ChwkD1gJOSBjGy20V9kARQeecDMaIz7_UwlLnmfdQPinQ)
+![Ejemplo](https://lh4.googleusercontent.com/uPr9V6P-216V-n-3Pom71QuCEsThu7b1UBPgwexStGMTn_U6YA-f4c_8r5c1J2_eAW0IyMB4aPs_l8uUbN7Wilm4v0FjR2ChwkD1gJOSBjGy20V9kARQeecDMaIz7_UwlLnmfdQPinQ)
 
 ## Diseño responsivo
 
@@ -164,14 +165,14 @@ es menos flexible.
 Las dos metodologías se complementan entonces no hay una forma correcta o
 incorrecta de manejarlo. Que el contenido lo defina.
 
-![](https://lh6.googleusercontent.com/BD1wuEk30KhzKp_vh5Cpl9IjEO1KbPT50yaGuv2Eutw_DLxZBHia_necnWSyGm1LJL_Fpl-IPGImb2_3jwSUJ8Od5DaxUIkMHPyCy5gIKiBbIytHdGTa-qyIIK95RLqSW92wR4iS)
+![Ejemplo](https://lh6.googleusercontent.com/BD1wuEk30KhzKp_vh5Cpl9IjEO1KbPT50yaGuv2Eutw_DLxZBHia_necnWSyGm1LJL_Fpl-IPGImb2_3jwSUJ8Od5DaxUIkMHPyCy5gIKiBbIytHdGTa-qyIIK95RLqSW92wR4iS)
 
 ### Desplazamiento
 
 Cuando una pantalla se va haciendo más chica, el contenido empieza a ocupar más
 espacio vertical. Todo el contenido que esté abajo se desplaza hacia abajo.
 
-![](https://lh5.googleusercontent.com/PgtX3IMH1WAMXL1hK9NtivItdfmhYw51b2zqy-HLFwaU-Strmuc_SLPvF9TJijBhYN76nWk_uRCCa2QZ0-C8XPag-vZt7rbrW8cGko-jTrzFKLAir03xHgh_9TZIrv-3_yEVIVPV)
+![Ejemplo](https://lh5.googleusercontent.com/PgtX3IMH1WAMXL1hK9NtivItdfmhYw51b2zqy-HLFwaU-Strmuc_SLPvF9TJijBhYN76nWk_uRCCa2QZ0-C8XPag-vZt7rbrW8cGko-jTrzFKLAir03xHgh_9TZIrv-3_yEVIVPV)
 
 ### Unidades relativas
 
@@ -181,7 +182,7 @@ funcionen. Por eso usamos unidades relativas como porcentajes. Diseñar algo que
 ocupe el 50% de la pantalla quiere decir que siempre ocupará el 50% sin importar
 el tamaño de la pantalla.
 
-![](https://lh3.googleusercontent.com/mccBdn2xrDTktj0cGYcX1yaEurNUTTuf3yB_OL5us1-m1Wr8qV-RW-ZUXnjDI4T7oUJJ-0bBdQG4al_m8HkWA9EPlVLsE0yK4jcDo8KCrh1o_CLlAzqI9TOiUXmyv6RZJ6uaW6jf)
+![Ejemplo](https://lh3.googleusercontent.com/mccBdn2xrDTktj0cGYcX1yaEurNUTTuf3yB_OL5us1-m1Wr8qV-RW-ZUXnjDI4T7oUJJ-0bBdQG4al_m8HkWA9EPlVLsE0yK4jcDo8KCrh1o_CLlAzqI9TOiUXmyv6RZJ6uaW6jf)
 
 ### Los breakpoints
 
@@ -190,7 +191,7 @@ tener 12 columnas en una pantalla de 1440px pero sólo 4 columnas para móvil. L
 breakpoints te permiten combinar diseño responsivo con diseño adaptable para
 lograr experiencias óptimas en cada tamaño de dispositivo.
 
-![](https://lh4.googleusercontent.com/smxQoqYXtj4XcY2lZ2VHQTyIC0I0AK7TopO2CLhcAgkE6kY8VueoBPbujvVIY6u26aAKDaqWf39onrxezB59xZ4z1rjhjsevtKVEnWHmKB9FeupxwBavLGdbctE0KXSZY1ONcfMp)
+![Ejemplo](https://lh4.googleusercontent.com/smxQoqYXtj4XcY2lZ2VHQTyIC0I0AK7TopO2CLhcAgkE6kY8VueoBPbujvVIY6u26aAKDaqWf39onrxezB59xZ4z1rjhjsevtKVEnWHmKB9FeupxwBavLGdbctE0KXSZY1ONcfMp)
 
 ### Valores max y min
 
@@ -201,7 +202,7 @@ max/min. Por ejemplo, fijar un ancho de 100% y y ancho max de 1,000px significa
 que el contenido va a ocupar toda la pantalla pero nunca será de más de 1,000
 píxeles.
 
-![](https://lh5.googleusercontent.com/XvmTHgRkwM-YHZDri1dQlDFcI6jVsJ1k3Zuw57qyYqpl27w0fpxWBh4QsZsCnQ3E_W0t_1Nol1WSkrykvmovrUazl_X06xEwcQAkE-8OoHbnW7xLtQFkQBW_m-cttPo3yu1erCjn)
+![Ejemplo](https://lh5.googleusercontent.com/XvmTHgRkwM-YHZDri1dQlDFcI6jVsJ1k3Zuw57qyYqpl27w0fpxWBh4QsZsCnQ3E_W0t_1Nol1WSkrykvmovrUazl_X06xEwcQAkE-8OoHbnW7xLtQFkQBW_m-cttPo3yu1erCjn)
 
 ### Objetos anidados
 
@@ -211,7 +212,7 @@ claridad y organización. Aquí ayudan las unidades estáticas como los píxeles
 Son útiles para objetos anidados que no quieres que escalar, como logos y
 botones.
 
-![](https://lh4.googleusercontent.com/73sKFCPcNvwPau5cwb7EeggPD-_jhFWD-qPcmaX6rXYIGBHionKEzYM-4lSQzDzLbZWgGuWlSSXiTPjs-bRw2pe_-5AoPrjMTnPrgt8fjOm7-I65nN70yF1dcODDP_s85UxDS4z_)
+![Ejemplo](https://lh4.googleusercontent.com/73sKFCPcNvwPau5cwb7EeggPD-_jhFWD-qPcmaX6rXYIGBHionKEzYM-4lSQzDzLbZWgGuWlSSXiTPjs-bRw2pe_-5AoPrjMTnPrgt8fjOm7-I65nN70yF1dcODDP_s85UxDS4z_)
 
 ### Tipografías web vs. tipografías del sistema
 
@@ -221,7 +222,7 @@ y entre más uses, más tardará la página en cargar. Tipografías del sistema,
 cambio, son rapidísimas de cargar excepto cuando el usuario no la tiene y
 entonces se presentará alguna otra tipografía default.
 
-![](https://lh6.googleusercontent.com/WClWPvX71XDbEr5ic7fqjBMaqxYXp3_GZr7VX3W32IhQSij4mkndghwPuq2pIDdBw1zH-hFgsRIVfSE4-mzVdCS80bpI2JPqwYx0m57EwdtLuauBfYt4sSi1khwjFDGbKJcn7nVu)
+![Ejemplo](https://lh6.googleusercontent.com/WClWPvX71XDbEr5ic7fqjBMaqxYXp3_GZr7VX3W32IhQSij4mkndghwPuq2pIDdBw1zH-hFgsRIVfSE4-mzVdCS80bpI2JPqwYx0m57EwdtLuauBfYt4sSi1khwjFDGbKJcn7nVu)
 
 ## Recursos Extra
 
