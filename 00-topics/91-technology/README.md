@@ -1,17 +1,16 @@
-# Prototipado
+# Entendiendo la tecnología con la que trabajaremos
 
-En este curso entenderás cómo la organización del contenido mejora la
-experiencia de los usuarios.
+En este curso entenderás las posibilidades y restricciones que nos brinda
+la tecnología para crear productos digitales.
 
 ## Aprenderás
 
-- Qué es arquitectura de la información
-- Cómo llevar a cabo una actividad de card sorting
-- Cómo crear user flows
-- Cómo prototipar y probar contenidos
+- Qué es una app nativa, qué es un app híbrida y que es un web app
+- Las posibilidades que nos brindan los sistemas operativos de iOS y Android
 
 ## Syllabus
 
-### Unidad 01: [Tecnología](00-technology)
+### Unidad 01: [Tópicos de tecnología](00-technology)
 
-Aprenderás sobre términos de `Website`,`Web app` y `Mobile web`
+Aprende conceptos básicos sobre tecnología que te ayudarán a entender mejor
+las bases de los productos digitales.
