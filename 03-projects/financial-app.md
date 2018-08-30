@@ -78,6 +78,51 @@ de componentes de la interfaz y user testing.
 
 ## Consideraciones generales
 
+Como ya habrás notado, gran parte del trabajo de UX tiene relación con el
+desempeño de tus habilidades blandas. Estas habilidades nos acompañan a lo largo
+de cualquier proyecto y su desarrollo es clave para el éxito. Estas habilidades
+no sólo son utilizadas a la hora de entender al usuario, sino a lo largo de toda
+la ejecución, es decir desde cómo planificamos hasta nuestra presentación al
+cliente.
+
+Anteriormente, nos habíamos concentrado en el desarrollo de tu curiosidad y
+empatía, practicado cómo relacionarte con el cliente y el usuario. Siempre debes
+pensar quiénes son y qué necesitan, y no enfocarte en lo que tú consideras que
+podría ser la solución correcta. Se trata de entender que nosotros no somos el
+usuario, y debemos hacer el ejercicio empático de comprenderlo a él y a nuestro
+cliente.
+
+Este proyecto, a diferencia de otros, no debes partir desde cero generando un
+prototipo, sino investigar lo que el banco ya ha construido y en base a eso
+proponer un nueva alternativa. Para esto, te aconsejamos comenzar por investigar
+la información que tienes; entender qué datos ya manejas y qué elementos
+necesitas averiguar para completar tu proyecto. De esta manera, tu planificación
+es muy relevante para comprender la problemática.
+
+Al planificar podrás comprender de qué manera estructurar tu proyecto y qué
+elementos debes investigar. Además, te permitirá trabajar de mejor manera con tu
+compañera, te aconsejamos que consideres tiempo para poder iterar sobre las
+posibilidades de mejora y también para preparar la presentación.
+
+La calidad del proyecto depende totalmente de tu proactividad y autoaprendizaje,
+si no conoces plataformas financieras parte por investigar sobre ellas. No
+esperes que los contenidos lleguen a ti, más bien busca todo lo que necesites
+para poder encontrar la mejor solución.
+
+Parte importante de tu trabajo como UX designer es tomar decisiones.
+Efectivamente existen múltiples herramientas que puedes utilizar, debes
+comprender para qué y con qué finalidad escoges usar cada una de ellas. Siempre
+piensa que debes justificar todo gasto con tu con consultora y el cliente, cada
+desición que tomes en el proyecto debe ser fundamentada, no sigas pasos
+mecánicos por seguirlos, cuestiónate constantemente.
+
+Por último, considera que la calidad de tu presentación es tan importante como
+el proceso completo. Un proyecto que no se aprecia al ser presentado no es un
+buen proyecto. Si vas a utilizar una ppt frente a un cliente, se prolija en el
+diseño de tus láminas y en la información que entregas, también busca la mejor
+manera de mostrar tu demo y por sobre todo prueba antes de presentar frente al
+cliente. En la presentación no deben ocurrir errores.
+
 ## Entrega
 
 El proyecto será entregado en un repositorio de GitHub. En él deberás agregar
@@ -180,3 +225,16 @@ que deberías alcanzar al finalizar este proyecto:
 |Prototyping| 5 |
 |Business mindset| 5 |
 |Visual Design| 4 |
+
+### Soft skills
+
+|Habilidad|Nivel Esperado|
+|:---|:---:|
+|Planificación y organización| 4 |
+|Autoaprendizaje| 4 |
+|Solución de Problemas| 4 |
+|Dar y recibir feedback| 4 |
+|Adaptabilidad| 4 |
+|Trabajo en equipo (trabajo colaborativo y responsabilidad)| 4 |
+|Comunicación eficaz| 4 |
+|Presentaciones| 4 |
