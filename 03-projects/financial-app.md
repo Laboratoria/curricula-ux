@@ -61,7 +61,7 @@ links, encontrarán:
   , con una guía de componentes y el [Prototipo navegable](https://marvelapp.com/e9h245e)
 - Funnel Analytics de los primeros 6 meses del MVP
 - Data de uso del MVP de los primeros 6 meses
-- [Landing Page](http://fintechapp-laboratoria.pagedemo.co/) inicial del producto
+- [Landing Page](http://tus-finanzas.pagedemo.co) inicial del producto
 
 ## Objetivos de aprendizaje
 
