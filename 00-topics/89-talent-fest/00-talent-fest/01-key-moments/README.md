@@ -126,13 +126,13 @@ la final.
   superar para llegar a la solución.
 - Prepárate para las preguntas que la audiencia te pueda hacer.
 
-!(demo-night-talent-fest-laboratoria)[https://lh6.googleusercontent.com/vx4OIYLp0ZfMtUKasRujmimfHM44Ize8xR5sJ4u-2BSbTiCscq40ES-8l0cL61aQzpGWF39Z28AKJ-g0R8xuDa4GXCxJGOWeE-ccMKF_kZP2f4n0VOwZYtltDMCFzJ5oJhk82t7u]
+![demo-night-talent-fest-laboratoria](https://lh6.googleusercontent.com/vx4OIYLp0ZfMtUKasRujmimfHM44Ize8xR5sJ4u-2BSbTiCscq40ES-8l0cL61aQzpGWF39Z28AKJ-g0R8xuDa4GXCxJGOWeE-ccMKF_kZP2f4n0VOwZYtltDMCFzJ5oJhk82t7u)
 
 Una vez elegidos los equipos finalistas, estos equipos presentarán ante todo el
 público. Tendrán igual, 3 minutos para presentar y luego un espacio de
 preguntas. En esta parte la solución ganadora será elegida por el jurado. El
 jurado estará compuesto por algunos representantes de Laboratoria y por líderes
-de la industria. 
+de la industria.
 
 Al final de las presentaciones, el jurado elegirá al equipo ganador y al segundo
 puesto.
@@ -148,5 +148,3 @@ descansar/dormir. Además, recuerda que si necesitas algo adicional, puedes
 contactar a cualquiera del equipo de Laboratoria que esté alrededor. La idea es
 que te enfoques en crear una súper solución y en dar muy buenas entrevistas.
 Nosotros estamos para facilitar todo lo demás.
-
-

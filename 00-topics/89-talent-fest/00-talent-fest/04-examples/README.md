@@ -39,7 +39,6 @@ _Rediseño del portal pensando en usuario más que repositorio de información._
 - Testear funcionamiento del rediseño.
 - Considerar en su rediseño el chatbot del equipo Front End.
 
-
 Equipo Front End:
 
 _Chatbot de emergencia para la Cruz Roja_

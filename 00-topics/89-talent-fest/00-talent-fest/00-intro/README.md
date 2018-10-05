@@ -23,7 +23,7 @@ implementación. Si bien en nuestro Talent Fest premiamos a algunos equipos, es
 distinto a una hackathon normal porque la meta no es tener un equipo ganador,
 sino que tú (ustedes) puedas demostrar tu talento a las empresas durante el
 desarrollo del reto, y que luego esto se pueda traducir en una oferta de
-trabajo. 
+trabajo.
 
 Te asignaremos un reto y un equipo. Como el reto es propuesto por una empresa,
 esta empresa traerá a alguien, un product owner, para que trabaje con ustedesd
@@ -51,7 +51,6 @@ el Talent Fest puedes leer el siguiente [artículo](https://medium.com/laborator
 
 Sabemos que la experiencia será única y la recordarás para siempre, por eso
 queremos ayudarte a estar preparada para que puedas aprovechar al máximo la
-oportunidad. En las siguientes secciones te contamos un poco más sobre el TF, 
+oportunidad. En las siguientes secciones te contamos un poco más sobre el TF,
 con detalles de cada etapa, tips de cómo enfrentarlo y algunos ejemplos de los
 retos en los que podrías trabajar.
-
