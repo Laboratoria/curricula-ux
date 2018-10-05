@@ -56,5 +56,5 @@ con las otras que estén en el Talent Fest:
 En los siguientes videos, algunas egresadas te comparten sus experiencias en el
 Talent Fest de Laboratoria y te dan algunas recomendaciones:
 
-![Video 1](https://youtu.be/iZcSIEBfgzs)
-![Video 2](https://youtu.be/TTWZ1SH7E3U)
+[Video 1](https://youtu.be/iZcSIEBfgzs)
+[Video 2](https://youtu.be/TTWZ1SH7E3U)
