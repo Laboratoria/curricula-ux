@@ -9,17 +9,18 @@
 ## Qué te recomendamos
 
 - **Haz muchas preguntas**, inicialmente sobre el reto en el que trabajarás y
-luego si alguna compañía te interesa mucho, hazles preguntas sobre la compañía.
-Aquí algunas que te pueden servir tanto con la empresa que te de el reto como
-con las otras que estén en el Talent Fest:
-  - Cuáles son los principales retos que están enfrentando ahora. (Podrías ajustar también la pregunta y hacerla específica a diseño o a desarrollo).
-  - De qué tamaño es su equipo de desarrollo/diseño
-  - Cómo está conformado su equipo
-  - Cuál es su stack de tecnología
-  - Qué herramientas normalmente usan en la empresa
-  - Cómo es su metodología de trabajo
-  - Qué es lo que más les preocupa actualmente sobre la competencia
-  - etc.
+  luego si alguna compañía te interesa mucho, hazles preguntas sobre la compañía.
+  Aquí algunas que te pueden servir tanto con la empresa que te de el reto como
+  con las otras que estén en el Talent Fest:
+    - Cuáles son los principales retos que están enfrentando ahora. (Podrías
+      ajustar también la pregunta y hacerla específica a diseño o a desarrollo).
+    - De qué tamaño es su equipo de desarrollo/diseño
+    - Cómo está conformado su equipo
+    - Cuál es su stack de tecnología
+    - Qué herramientas normalmente usan en la empresa
+    - Cómo es su metodología de trabajo
+    - Qué es lo que más les preocupa actualmente sobre la competencia
+    - etc.
 - **Piensa en MVP.** No intentes tener todo de golpe, planeen y avancen de a
   pocos. Para presentar es mejor presentar algo pequeño que funciona que algo
   grande que no funciona.
@@ -56,5 +57,6 @@ con las otras que estén en el Talent Fest:
 En los siguientes videos, algunas egresadas te comparten sus experiencias en el
 Talent Fest de Laboratoria y te dan algunas recomendaciones:
 
-[Video 1](https://youtu.be/iZcSIEBfgzs)
-[Video 2](https://youtu.be/TTWZ1SH7E3U)
+- [Video 1](https://youtu.be/iZcSIEBfgzs)
+
+- [Video 2](https://youtu.be/TTWZ1SH7E3U)
