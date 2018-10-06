@@ -60,3 +60,5 @@ Talent Fest de Laboratoria y te dan algunas recomendaciones:
 - [Video 1](https://youtu.be/iZcSIEBfgzs)
 
 - [Video 2](https://youtu.be/TTWZ1SH7E3U)
+
+- [Video 3](https://laboratoria-1.wistia.com/medias/lbwg1p7aej)
