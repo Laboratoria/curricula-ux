@@ -6,16 +6,11 @@
 
 ***
 
-## Las 9 reglas básicas
+#### Ahora que entendimos cómo llegamos hasta aquí, vamos a empezar a entender las reglas básicas del diseño visual aplicado al contexto digital. Aquí vamos a cubrir los 4 principios básicos para empezar a pulir el ojo crítico y entender qué funciona y qué no funciona para lograr una producto bien diseñado que sea fácil de entender, usar y leer.
 
-Ahora que entendimos cómo llegamos hasta aquí, vamos a empezar a entender las
-reglas básicas del diseño visual aplicado al contexto digital. Aquí vamos a
-cubrir 9 reglas básicas — con estas reglas podemos empezar a pulir el ojo
-crítico y entender qué funciona y qué no funciona para lograr una producto bien
-diseñado que sea fácil de entender, usar y leer.
+## Principio #1: Contraste
 
-### Regla #1: Contraste
-
+### Contraste figura/fondo
 ![contraste](https://lh4.googleusercontent.com/LxHa3VDIBcEWTDarq81_KZu2mmXV01jH0Mkcsv-U_aFJcYoj_3PKENBght30qk0ziYtfcn3PfKOBrNYW7FXS_qmo7sNIAvMRft-R5lUJSEvnzQI8qjwURF34xZmW7qjtN67aYRXm)
 
 El color del fondo y de la tipografía tienen que ser lo suficientemente
@@ -23,49 +18,22 @@ diferentes para no esforzar al ojo. Texto negro sobre fondo blanco suele ser la
 opción más legible. Grises claros, amarillo y verde son colores complicados. Si
 tienes que bizquear para leerlo entonces no hay contraste suficiente.
 
-### Regla #2: Casi negro es más fácil de leer que negro
+Si en algún caso no estas segura, en [este sitio web](webaim.org/resources/contrastchecker) puedes probar tu color de tipografía sobre el color de fondo y te entrega la relación de contraste (si es suficiente como para usarlo).
+
+Como en todas las reglas, existe un contraste que puede resultar excesivo: el negro (#000000) sobre blanco crea un efecto de movimiento para el ojo y es más difícil enfocar las letras, en especial para personas con dislexia. Por eso es preferible usar tonos de gris casi negro (como #333333) sobre blanco, o reemplazar el blanco por grises muy claros.
 
 ![casi negro](https://image.ibb.co/dRDV4S/contraste.jpg)
 
-Si tienes la opción, intenta usar el color #333333 en vez de negro para texto.
-Negro sobre blanco crea un efecto de movimiento para el ojo y es más difícil
-enfocar las letras.
+### Contraste entre elementos
+El contraste entre elementos es una forma de informar al usuario de cambios en funcionalidad y/o jerarquía. Por ejemplo la diferenciación entre un título y un subtítulo, o entre botones activos y desactivados.
 
-### Regla #3: Contenido importante primero
+![Contraste en textos](https://i.ibb.co/H7Rd5QX/Artboard.png)
 
-![Contenido](https://lh4.googleusercontent.com/nPHgIDn7Tx6t_DJwnp-pyike5qR05FRqwA2GiexOWcQNuOTlIlEPBdrGutd9mupoja7G-Kfk6Z87ldDS2S5OSAwEjbOOsiMLtAFYP9KRYNK1LoCW2si-0Bpby5a7PdsxM9FgQOoY)
+![Contraste entre botones](https://i.ibb.co/y6fjPdH/Artboard-Copy-3.png")
 
-Siempre hay que poner en contenido más importante primero para darle soporte al
-use case principal de tu app o página. El contenido más importante tiene que ser
-visible sin tener que hacer zoom o click o scroll. Esto se llama **jerarquía**.
-Miremos algunos casos de la vida real.
+## Principio #2: Repetición
 
-![instagram](https://lh3.googleusercontent.com/0xWNpUQiFDbUul2EpoDHP-wtufF9PTmirxgEBFfdKljrLcw6F4bYHH-ov6_WkiSVH9AEMHBwBl1xVIIILr86zpCY6UcF78GleGo5BaaPkOnaBItdhp7ycZzt6LnBnq1TJayOgP4y)
-
-- Instagram, ¿a qué le está poniendo enfasis?
-  - Las fotos/videos de tus amigos.
-
-![pinterest](https://lh4.googleusercontent.com/BBrGgFXev1P5j8QilKQIcHP7SnqXFUxUZlBweiLyS31HXZI2tNZs9w8YrOpVO0rK2DTJ4TpL_BVay33XBZIKMtZUTePylZ-2N1Hborr7zTVuRCcza7SOUUbmcTwwx5Ps0jDF-bZp)
-
-- Pinterest,  ¿a qué le está poniendo enfasis?
-  - Crean jerarquia visual poniendo la barra de búsqueda hasta arriba y su
-  grid de imágenes abajo. Es una decisión muy deliberada poner primero la
-  búsqueda - la idea es que los usuarios busquen y descubran más imágenes.
-
-![spotify](https://lh5.googleusercontent.com/-QCRlPemZua_Te9ooqbv67gK7ou7z1273Fv95AdvQTojlTTiuA6cNmv85DP1Ussnqy9lFAmp0u-dZhPXOtKTWyDJmZMwoFm7X4pEvYPrxFtBMSFajq3hmyxjugudae3DC7Hzowjr)
-
-- Spotify a qué le está poniendo enfasis?
-  - Están celebrando la portada del álbum y el título de la canción antes de
-  los controles. Aunque los controles estén abajo, Spotify le da más peso al
-  botón de play/pausa que los botones de adelantar o rebobinar.
-
-![facebook](https://lh6.googleusercontent.com/5c1kI5YX2oOZi62rC7C5y479zd4gwsix1loBTHin8Yq70WARvXri44KEOaNJxgIzLHCSGqjh6DxsWJKvzaudzaolW4Dw2pCvAsDjrH0r6HjEpMDtN9kbFDE8wCf2iGfsoSYMaMeu)
-
-- Facebook a qué le está poniendo enfasis?
-  - Muy parecido a Instagram, ponen el contenido de tus amigos como lo más
-  importante.
-
-### Regla #4: Alinear todo
+## Principio #3: Alineación
 
 ![alineación](https://lh5.googleusercontent.com/8DA3zfix1RgrQUV-Reye88pAHhQDKKYntnmF_xmBlG3n5QXEGnvEXjhumEBqLjkIc5bKI5BNVcyNEi0vGTRkC8eOnJzwi8idMUvk8x_4jxZtFWjgqxONqTpXhR1qjVNfPzmR0y8d)
 
@@ -97,6 +65,7 @@ contenido **sí** están alineados.
 
 Aquí está todo alineado al grid. Se ve más limpio y la página es más legible.
 
+## Principio #4: Proximidad
 ### Regla #5: Tamaño del texto y espaciado interlineal
 
 ![regla 5 - tamaño del texto y espaciado interlineal](https://lh3.googleusercontent.com/6OLAnL0JRDtwt8Gro2LlJ8oFyeko8DXaY2VqIxy3aL7_dNAsPcMo3uJWoULpmZksKX_M_8MRqlzsHw8ikD8Y4oX4W8NaAOa6wl2eF0IKMXxCux1M6rNgGyhhmLzWUFW1a4yPas4y)
