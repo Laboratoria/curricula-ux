@@ -101,9 +101,12 @@ En el trabajo de nuevos/as diseñadores/es los textos y gráficas están reparti
 
 Así mismo, ítems o grupos de información que no estén relacionados deben estar separados. Esto da al lector una pista visual instantánea como está organizado el contenido de la página.
 
-![Ley de proximidad](https://drive.google.com/file/d/1eOZYxfxyVy3wAYBWl2FlFQz7DrIPX9CI/view?usp=sharing)
-| Percibimos los objetos que están cerca unos de otros como similares. Por lo tanto, tendemos a agrupar las cosas que son cercanas, incluso si son diferentes. | |
-| --- | |
+![Ley de proximidad](https://i.ibb.co/Bf73wgp/1-CAUr4-Sp-Pf-Pf3-Lz-NWt-XT2w.png)
+
+Percibimos los objetos que están cerca unos de otros como similares. Por lo tanto, tendemos a agrupar las cosas que son cercanas, incluso si son diferentes.
 
 ![Proximidad](https://i.ibb.co/9GvMKs7/Proximity.png)
+
+Esto funciona siempre que la agrupación próxima tenga un límite definido, ya sea explícitamente delineado o con margin / padding.
+
 
