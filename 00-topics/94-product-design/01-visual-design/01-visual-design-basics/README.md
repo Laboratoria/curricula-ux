@@ -6,7 +6,7 @@
 
 ***
 
-#### Ahora que entendimos cómo llegamos hasta aquí, vamos a empezar a entender las reglas básicas del diseño visual aplicado al contexto digital. Aquí vamos a cubrir los 4 principios básicos para empezar a pulir el ojo crítico y entender qué funciona y qué no funciona para lograr una producto bien diseñado que sea fácil de entender, usar y leer.
+Ahora que entendimos cómo llegamos hasta aquí, vamos a empezar a entender las reglas básicas del diseño visual aplicado al contexto digital. Aquí vamos a cubrir los 4 principios básicos para empezar a pulir el ojo crítico y entender qué funciona y qué no funciona para lograr una producto bien diseñado que sea fácil de entender, usar y leer.
 
 ## Principio #1: Contraste
 
