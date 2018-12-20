@@ -50,7 +50,7 @@ Percibimos los objetos que comparten características visuales (tamaño, color, 
 
 El el diseño visual la forma debe seguir la función, y elementos que tienen una misma función, estado y jerarquía deben mantener las mismas características visuales (color, tamaño, icono, tipografía, forma).
 
-![Consistencia](https://i.ibb.co/cJrHy6x/Consistency.png)
+![Consistencia](https://cdn.pbrd.co/images/HSD6eRY.png)
 
 Esta consistencia no sólo marca la relación o distinción entre contenidos, sino que además da unión a todas las páginas demostrando que pertenecen a un mismo sitio. Esto es pecialmente importante en aquellos elementos que se deben repetir en todas las vistas como el header y el footer. Cualquier discontinuidad en aquellos elementos indicaría al usuario que ya no se encuentra en el mismo sitio (con toda la desconfianza que eso podría significar).
 
@@ -60,13 +60,13 @@ La Ley de Jakob explica que los usuarios pasan la mayor parte de su tiempo en ot
 
 Esto se logra respetando la locación y forma de los elementos según el usuario acostumbra. Por ejemplo el usuario espera encontrar el logo del sitio arriba a la izquierda, el menú arriba a la derecha, la información de contacto en el footer, una introducción a lo que es el sitio al inicio, etc. Y la forma de los elementos de la interfaz debe mantenerse como el usuario está acostumbrado para que entienda instantáneamente que es y cómo se usa, por ejemplo que un select sea una cajita con un "Selecciona una opción" a la izquierda y una flecha hacia abajo a la derecha, o que una etiqueta sea un rectángulo pequeño con un color de fondo y una palabra en su interior, normalmente localizado bajo el título o elemento que está clasificando.
 
-![Consistencia con otros sitios](https://i.ibb.co/hFxFqzF/Contrast.png)
+![Consistencia con otros sitios](https://cdn.pbrd.co/images/HSD6UdC.png)
 
 ## Principio #3: Alineación
 
 ### Nada debiese estar posicionado arbitrariamente en la página. Para que el sitio se vea limpio y ordenado, cada elemento debiese tener una conexión visual con otro elemento y ésta se logra a través de la alineación.
 
-![Alineación](https://i.ibb.co/tHJpr4r/Alignment.png)
+![Alineación](https://cdn.pbrd.co/images/HSD5KBb.png)
 
 Cuando los elementos están alineados en la página, el resultado es una unidad cohesiva más fuerte. Incluso cuando los elementos alineados están separados físicamente entre sí, hay una línea invisible que los conecta, tanto en tu ojo como en tu mente. Aunque es posible que haya elementos separados para indicar sus relaciones (utilizando el Principio de proximidad), el Principio de alineación le dice al lector que aunque estos elementos no están cerca, pertenecen a la misma pieza. Para que esta alineación sea evidente, mantén la menor cantidad de ejes de alineación posible.
 
