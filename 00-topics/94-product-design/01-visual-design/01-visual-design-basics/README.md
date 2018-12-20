@@ -21,24 +21,24 @@ diferentes para no esforzar al ojo. Texto negro sobre fondo blanco suele ser la
 opción más legible. Grises claros, amarillo y verde son colores complicados. Si
 tienes que bizquear para leerlo entonces no hay contraste suficiente.
 
-![contraste](https://drive.google.com/open?id=1JfCem8QLD54Dv7KLtbJtF8MgxtgBOEtO)
+![contraste](https://i.ibb.co/XjkK0S9/Artboard-Copy-4.png)
 
 Si en algún caso no estas segura, en [este sitio web](webaim.org/resources/contrastchecker) puedes probar tu color de tipografía sobre el color de fondo y te entrega la relación de contraste (si es suficiente como para usarlo).
 
 Como en todas las reglas, existe un contraste que puede resultar excesivo: el negro (#000000) sobre blanco crea un efecto de movimiento para el ojo y es más difícil enfocar las letras, en especial para personas con dislexia. Por eso es preferible usar tonos de gris casi negro (como #333333) sobre blanco, o reemplazar el blanco por grises muy claros.
 
-![casi negro](https://image.ibb.co/dRDV4S/contraste.jpg)
+![Casi negro](https://i.ibb.co/9TwVKD4/Artboard-Copy-5.png)
 
 ### Contraste entre elementos
 Por el contrario, cualquier cambio en las características visuales indican un cambio en jerarquía y/o funcionalidad de los elementos, por lo que el diseño visual debe reflejar esa relación diferenciando evidentemente elementos de jerarquía/funcionalidad distinta y manteniendo igual los elementos que cumplen la misma función.
 
 En la tipografía es importante diferenciar claramente los diferentes elementos (H1, H2, H3, P, etc) según su jerarquía. Esto da al usuario una pista instantánea del orden de los contenidos, cuál es más importante, cuál es el tema central y subtemas, etc.
 
-![Contraste en textos](https://drive.google.com/open?id=1ZuMke7MH1Ex5oROrRqbqhZ-98T14m-lQ)
+![Contraste en textos](https://i.ibb.co/5GmXPRb/Artboard.png)
 
 Lo mismo para los cambios en funcionalidad en los elementos, por ejemplo tiene que haber un contraste grande entre un botón activo e inactivo para que el usuario no pierda ni un segundo preguntándose si puede o no hacer click.
 
-![Contraste entre botones](https://drive.google.com/open?id=1PK0IlZOkE21XaGms9ufy5OqMVXdXmrzF)
+![Contraste entre botones](https://i.ibb.co/HT5bFpW/Artboard-Copy-3.png)
 
 ## Principio #2: Repetición
 
@@ -50,7 +50,7 @@ Percibimos los objetos que comparten características visuales (tamaño, color, 
 
 El el diseño visual la forma debe seguir la función, y elementos que tienen una misma función, estado y jerarquía deben mantener las mismas características visuales (color, tamaño, icono, tipografía, forma).
 
-![Consistencia](https://drive.google.com/open?id=1HSQsTx2NXPDho0osuGN1g2JJmC-7Kq_j)
+![Consistencia](https://i.ibb.co/cJrHy6x/Consistency.png)
 
 Esta consistencia no sólo marca la relación o distinción entre contenidos, sino que además da unión a todas las páginas demostrando que pertenecen a un mismo sitio. Esto es pecialmente importante en aquellos elementos que se deben repetir en todas las vistas como el header y el footer. Cualquier discontinuidad en aquellos elementos indicaría al usuario que ya no se encuentra en el mismo sitio (con toda la desconfianza que eso podría significar).
 
@@ -60,13 +60,13 @@ La Ley de Jakob explica que los usuarios pasan la mayor parte de su tiempo en ot
 
 Esto se logra respetando la locación y forma de los elementos según el usuario acostumbra. Por ejemplo el usuario espera encontrar el logo del sitio arriba a la izquierda, el menú arriba a la derecha, la información de contacto en el footer, una introducción a lo que es el sitio al inicio, etc. Y la forma de los elementos de la interfaz debe mantenerse como el usuario está acostumbrado para que entienda instantáneamente que es y cómo se usa, por ejemplo que un select sea una cajita con un "Selecciona una opción" a la izquierda y una flecha hacia abajo a la derecha, o que una etiqueta sea un rectángulo pequeño con un color de fondo y una palabra en su interior, normalmente localizado bajo el título o elemento que está clasificando.
 
-![Consistencia con otros sitios](https://drive.google.com/open?id=1g7ryvidj9FMy2XQBc8-EyDN33mrHPmGH)
+![Consistencia con otros sitios](https://i.ibb.co/hFxFqzF/Contrast.png)
 
 ## Principio #3: Alineación
 
 ### Nada debiese estar posicionado arbitrariamente en la página. Para que el sitio se vea limpio y ordenado, cada elemento debiese tener una conexión visual con otro elemento y ésta se logra a través de la alineación.
 
-![alineación](https://drive.google.com/open?id=1bOW103u-mDawZFcWN4S-nrUVDNR3Ythq)
+![Alineación](https://i.ibb.co/tHJpr4r/Alignment.png)
 
 Cuando los elementos están alineados en la página, el resultado es una unidad cohesiva más fuerte. Incluso cuando los elementos alineados están separados físicamente entre sí, hay una línea invisible que los conecta, tanto en tu ojo como en tu mente. Aunque es posible que haya elementos separados para indicar sus relaciones (utilizando el Principio de proximidad), el Principio de alineación le dice al lector que aunque estos elementos no están cerca, pertenecen a la misma pieza. Para que esta alineación sea evidente, mantén la menor cantidad de ejes de alineación posible.
 
@@ -101,9 +101,9 @@ En el trabajo de nuevos/as diseñadores/es los textos y gráficas están reparti
 
 Así mismo, ítems o grupos de información que no estén relacionados deben estar separados. Esto da al lector una pista visual instantánea como está organizado el contenido de la página.
 
-![Ley de proximidad](https://drive.google.com/open?id=1eOZYxfxyVy3wAYBWl2FlFQz7DrIPX9CI)
+![Ley de proximidad](https://drive.google.com/file/d/1eOZYxfxyVy3wAYBWl2FlFQz7DrIPX9CI/view?usp=sharing)
 | Percibimos los objetos que están cerca unos de otros como similares. Por lo tanto, tendemos a agrupar las cosas que son cercanas, incluso si son diferentes. | |
 | --- | |
 
-![Proximidad](https://drive.google.com/open?id=1g7ryvidj9FMy2XQBc8-EyDN33mrHPmGH)
+![Proximidad](https://i.ibb.co/9GvMKs7/Proximity.png)
 
