@@ -6,77 +6,73 @@
 
 ***
 
-## Las 9 reglas básicas
+Ahora que entendimos cómo llegamos hasta aquí, vamos a empezar a entender las reglas básicas del diseño visual aplicado al contexto digital. Aquí vamos a cubrir los 4 principios básicos para empezar a pulir el ojo crítico y entender qué funciona y qué no funciona para lograr una producto bien diseñado que sea fácil de entender, usar y leer.
 
-Ahora que entendimos cómo llegamos hasta aquí, vamos a empezar a entender las
-reglas básicas del diseño visual aplicado al contexto digital. Aquí vamos a
-cubrir 9 reglas básicas — con estas reglas podemos empezar a pulir el ojo
-crítico y entender qué funciona y qué no funciona para lograr una producto bien
-diseñado que sea fácil de entender, usar y leer.
+## Principio #1: Contraste
 
-### Regla #1: Contraste
+### El contraste en una página nos llama la atención, a nuestros ojos les gusta el contraste. Si pones dos elementos en la página que no son iguales (como dos tipos de letra o dos anchos de línea), no pueden ser similares: para que el contraste sea efectivo, los dos elementos deben ser muy diferentes.
 
-![contraste](https://lh4.googleusercontent.com/LxHa3VDIBcEWTDarq81_KZu2mmXV01jH0Mkcsv-U_aFJcYoj_3PKENBght30qk0ziYtfcn3PfKOBrNYW7FXS_qmo7sNIAvMRft-R5lUJSEvnzQI8qjwURF34xZmW7qjtN67aYRXm)
+El contraste tiene dos propósitos inseparables entre sí. Un propósito es crear un interés en la página: si una página es interesante para mirar, es más probable que se lea. La otra es ayudar en la organización de la información. Un lector debe poder comprender instantáneamente la forma en que se organiza la información, el flujo lógico de un elemento a otro. Los elementos de contraste nunca deben servir para confundir al lector o para crear un enfoque que no se supone que sea un enfoque.
+
+### Contraste texto/fondo
 
 El color del fondo y de la tipografía tienen que ser lo suficientemente
 diferentes para no esforzar al ojo. Texto negro sobre fondo blanco suele ser la
 opción más legible. Grises claros, amarillo y verde son colores complicados. Si
 tienes que bizquear para leerlo entonces no hay contraste suficiente.
 
-### Regla #2: Casi negro es más fácil de leer que negro
+![contraste](https://i.ibb.co/XjkK0S9/Artboard-Copy-4.png)
 
-![casi negro](https://image.ibb.co/dRDV4S/contraste.jpg)
+Si en algún caso no estas segura, en [este sitio web](webaim.org/resources/contrastchecker) puedes probar tu color de tipografía sobre el color de fondo y te entrega la relación de contraste (si es suficiente como para usarlo).
 
-Si tienes la opción, intenta usar el color #333333 en vez de negro para texto.
-Negro sobre blanco crea un efecto de movimiento para el ojo y es más difícil
-enfocar las letras.
+Como en todas las reglas, existe un contraste que puede resultar excesivo: el negro (#000000) sobre blanco crea un efecto de movimiento para el ojo y es más difícil enfocar las letras, en especial para personas con dislexia. Por eso es preferible usar tonos de gris casi negro (como #333333) sobre blanco, o reemplazar el blanco por grises muy claros.
 
-### Regla #3: Contenido importante primero
+![Casi negro](https://i.ibb.co/9TwVKD4/Artboard-Copy-5.png)
 
-![Contenido](https://lh4.googleusercontent.com/nPHgIDn7Tx6t_DJwnp-pyike5qR05FRqwA2GiexOWcQNuOTlIlEPBdrGutd9mupoja7G-Kfk6Z87ldDS2S5OSAwEjbOOsiMLtAFYP9KRYNK1LoCW2si-0Bpby5a7PdsxM9FgQOoY)
+### Contraste entre elementos
+Por el contrario, cualquier cambio en las características visuales indican un cambio en jerarquía y/o funcionalidad de los elementos, por lo que el diseño visual debe reflejar esa relación diferenciando evidentemente elementos de jerarquía/funcionalidad distinta y manteniendo igual los elementos que cumplen la misma función.
 
-Siempre hay que poner en contenido más importante primero para darle soporte al
-use case principal de tu app o página. El contenido más importante tiene que ser
-visible sin tener que hacer zoom o click o scroll. Esto se llama **jerarquía**.
-Miremos algunos casos de la vida real.
+En la tipografía es importante diferenciar claramente los diferentes elementos (H1, H2, H3, P, etc) según su jerarquía. Esto da al usuario una pista instantánea del orden de los contenidos, cuál es más importante, cuál es el tema central y subtemas, etc.
 
-![instagram](https://lh3.googleusercontent.com/0xWNpUQiFDbUul2EpoDHP-wtufF9PTmirxgEBFfdKljrLcw6F4bYHH-ov6_WkiSVH9AEMHBwBl1xVIIILr86zpCY6UcF78GleGo5BaaPkOnaBItdhp7ycZzt6LnBnq1TJayOgP4y)
+![Contraste en textos](https://i.ibb.co/5GmXPRb/Artboard.png)
 
-- Instagram, ¿a qué le está poniendo enfasis?
-  - Las fotos/videos de tus amigos.
+Lo mismo para los cambios en funcionalidad en los elementos, por ejemplo tiene que haber un contraste grande entre un botón activo e inactivo para que el usuario no pierda ni un segundo preguntándose si puede o no hacer click.
 
-![pinterest](https://lh4.googleusercontent.com/BBrGgFXev1P5j8QilKQIcHP7SnqXFUxUZlBweiLyS31HXZI2tNZs9w8YrOpVO0rK2DTJ4TpL_BVay33XBZIKMtZUTePylZ-2N1Hborr7zTVuRCcza7SOUUbmcTwwx5Ps0jDF-bZp)
+![Contraste entre botones](https://i.ibb.co/HT5bFpW/Artboard-Copy-3.png)
 
-- Pinterest,  ¿a qué le está poniendo enfasis?
-  - Crean jerarquia visual poniendo la barra de búsqueda hasta arriba y su
-  grid de imágenes abajo. Es una decisión muy deliberada poner primero la
-  búsqueda - la idea es que los usuarios busquen y descubran más imágenes.
+## Principio #2: Repetición
 
-![spotify](https://lh5.googleusercontent.com/-QCRlPemZua_Te9ooqbv67gK7ou7z1273Fv95AdvQTojlTTiuA6cNmv85DP1Ussnqy9lFAmp0u-dZhPXOtKTWyDJmZMwoFm7X4pEvYPrxFtBMSFajq3hmyxjugudae3DC7Hzowjr)
+### Una repetición de elementos visuales aprendidos por el usuario, en otros sitios y en tu mismo sitio, baja la curva de aprendizaje y fortalece el diseño al unir las partes separadas de otra manera.
 
-- Spotify a qué le está poniendo enfasis?
-  - Están celebrando la portada del álbum y el título de la canción antes de
-  los controles. Aunque los controles estén abajo, Spotify le da más peso al
-  botón de play/pausa que los botones de adelantar o rebobinar.
+### Consistencia entre elementos dentro del sitio web
 
-![facebook](https://lh6.googleusercontent.com/5c1kI5YX2oOZi62rC7C5y479zd4gwsix1loBTHin8Yq70WARvXri44KEOaNJxgIzLHCSGqjh6DxsWJKvzaudzaolW4Dw2pCvAsDjrH0r6HjEpMDtN9kbFDE8wCf2iGfsoSYMaMeu)
+Percibimos los objetos que comparten características visuales (tamaño, color, textura, dimensión, forma u orientación) como pertenecientes a un mismo grupo ya sea en funcionalidad como en jerarquía. 
 
-- Facebook a qué le está poniendo enfasis?
-  - Muy parecido a Instagram, ponen el contenido de tus amigos como lo más
-  importante.
+El el diseño visual la forma debe seguir la función, y elementos que tienen una misma función, estado y jerarquía deben mantener las mismas características visuales (color, tamaño, icono, tipografía, forma).
 
-### Regla #4: Alinear todo
+![Consistencia](https://cdn.pbrd.co/images/HSD6eRY.png)
 
-![alineación](https://lh5.googleusercontent.com/8DA3zfix1RgrQUV-Reye88pAHhQDKKYntnmF_xmBlG3n5QXEGnvEXjhumEBqLjkIc5bKI5BNVcyNEi0vGTRkC8eOnJzwi8idMUvk8x_4jxZtFWjgqxONqTpXhR1qjVNfPzmR0y8d)
+Esta consistencia no sólo marca la relación o distinción entre contenidos, sino que además da unión a todas las páginas demostrando que pertenecen a un mismo sitio. Esto es pecialmente importante en aquellos elementos que se deben repetir en todas las vistas como el header y el footer. Cualquier discontinuidad en aquellos elementos indicaría al usuario que ya no se encuentra en el mismo sitio (con toda la desconfianza que eso podría significar).
 
-La forma más rápida de arreglar algo que no se ve bien es asegurarte de que el
-alineamiento esté parejo. Cuando los diseñadores hablan de la necesidad de usar
-un "grid" están hablando de la importancia de que esté todo alineado.
+### Consistencia con otros sitios web
 
-Arreglar el alineamiento es una de las formas más fáciles que tenemos de mejorar
-una app o página e instantáneamente hacer que se vea muuuucho mejor.
+La Ley de Jakob explica que los usuarios pasan la mayor parte de su tiempo en otros sitios, lo que significa que los usuarios prefieren que tu sitio funcione de la misma manera que todos los demás sitios que ya conocen.
 
-Veamos otro ejemplo:
+Esto se logra respetando la locación y forma de los elementos según el usuario acostumbra. Por ejemplo el usuario espera encontrar el logo del sitio arriba a la izquierda, el menú arriba a la derecha, la información de contacto en el footer, una introducción a lo que es el sitio al inicio, etc. Y la forma de los elementos de la interfaz debe mantenerse como el usuario está acostumbrado para que entienda instantáneamente que es y cómo se usa, por ejemplo que un select sea una cajita con un "Selecciona una opción" a la izquierda y una flecha hacia abajo a la derecha, o que una etiqueta sea un rectángulo pequeño con un color de fondo y una palabra en su interior, normalmente localizado bajo el título o elemento que está clasificando.
+
+![Consistencia con otros sitios](https://cdn.pbrd.co/images/HSD6UdC.png)
+
+## Principio #3: Alineación
+
+### Nada debiese estar posicionado arbitrariamente en la página. Para que el sitio se vea limpio y ordenado, cada elemento debiese tener una conexión visual con otro elemento y ésta se logra a través de la alineación.
+
+![Alineación](https://cdn.pbrd.co/images/HSD5KBb.png)
+
+Cuando los elementos están alineados en la página, el resultado es una unidad cohesiva más fuerte. Incluso cuando los elementos alineados están separados físicamente entre sí, hay una línea invisible que los conecta, tanto en tu ojo como en tu mente. Aunque es posible que haya elementos separados para indicar sus relaciones (utilizando el Principio de proximidad), el Principio de alineación le dice al lector que aunque estos elementos no están cerca, pertenecen a la misma pieza. Para que esta alineación sea evidente, mantén la menor cantidad de ejes de alineación posible.
+
+Al momento de escoger la forma de alinear prioriza a la izquierda. La alineación a la izquierda es la más natural para la forma de lectura occidental a la que estamos acostumbrados. Evita alinear al centro o derecha a menos que sea en elementos específicos y con una intención en el diseño o jerarquía. Los textos justificados en el mundo digital no son recomendables porque generan espacios entre letras y palabras que se perciben como lagunas en blanco dentro del texto que dificultan la lectura, en especial para personas con dislexia.
+
+Veamos un ejemplo:
 
 ![medium](https://lh3.googleusercontent.com/DuhhwjtP4rV1EeeDPyBJ7ETaWW6G_HDjLtrUu2xBO5EomKceKa82vHBBSgNkncsW8MBAFiy79d6dLmevDNOoFEsxWUbn3OyIXNRoIeFQ9iOiF6OKqBCSHNojsNPIcWmNvLRcYiZ6)
 
@@ -97,54 +93,20 @@ contenido **sí** están alineados.
 
 Aquí está todo alineado al grid. Se ve más limpio y la página es más legible.
 
-### Regla #5: Tamaño del texto y espaciado interlineal
+## Principio #4: Proximidad
 
-![regla 5 - tamaño del texto y espaciado interlineal](https://lh3.googleusercontent.com/6OLAnL0JRDtwt8Gro2LlJ8oFyeko8DXaY2VqIxy3aL7_dNAsPcMo3uJWoULpmZksKX_M_8MRqlzsHw8ikD8Y4oX4W8NaAOa6wl2eF0IKMXxCux1M6rNgGyhhmLzWUFW1a4yPas4y)
+### Los elementos relacionados entre sí deben presentarse agrupados. Cuando varios elementos están cercanos los unos a los otros, se perciben como una unidad visual en vez de varios elementos. Esto ayuda a organizar la información, reduce el desorden y le da al lector una estructura clara.
 
-No estamos diseñando para hormigas. Agrandar el texto y darle espacio suficiente
-entre las líneas lo hace más fácil de leer y digerir.
+En el trabajo de nuevos/as diseñadores/es los textos y gráficas están repartidos por todo el espacio, sin dejar espacio en blanco. Cuando las piezas de diseño están repartidas, la página se ve desorganizada y la información está menos accesible para el lector. Según el Principio de Proximidad los elementos relacionados deben ser agrupados. Acerca los ítems cuyo contenido esté relacionado, de manera que se vean como un sólo grupo en vez de en vez de un montón de elementos sueltos.
 
-### Regla #6: Si el orden es importante, poner los resultados en lista
+Así mismo, ítems o grupos de información que no estén relacionados deben estar separados. Esto da al lector una pista visual instantánea como está organizado el contenido de la página.
 
-![regla 6 - el orden](https://lh6.googleusercontent.com/9iCdkbx9ZCZADgIFhYS_fSpFHkTvSEOBnNVzLZhj9EHXUfcYZ73SOtMB97cqAwSCkakBIawYFog0fVaqZGyoDykFQrsML5zjFqbXiBm4AWyVRS-9X_PbIK13oXpZmlrakeqzygn7)
+![Ley de proximidad](https://i.ibb.co/Bf73wgp/1-CAUr4-Sp-Pf-Pf3-Lz-NWt-XT2w.png)
 
-La mayoría de apps y páginas tienen algún tipo de búsqueda y hay mucho debate
-sobre cómo mostrar los resultados. Si el orden de los resultados es importante,
-entonces una lista es lo más eficaz. Si el orden no importa tanto y quieres
-fomentar descubrimiento (como Pinterest o AirBnB), entonces un grid fomentará un
-descubrimiento más orgánico.
+Percibimos los objetos que están cerca unos de otros como similares. Por lo tanto, tendemos a agrupar las cosas que son cercanas, incluso si son diferentes.
 
-### Regla #7: Crear diseños cómodos
+![Proximidad](https://i.ibb.co/9GvMKs7/Proximity.png)
 
-![regla 7 - crear diseños cómodos](https://lh4.googleusercontent.com/el1xW0t5yxubbcDkUwSE9qjUcbvuVFfDClqH-ddt8UAOVd-nEmlRqzv97scs6-o900hxhcXodTMgZFKAmMQiZ8cdiAIbIPjn-aOOokffyz2M4L2mqsRF4O5iM5vD38FhwfxNLgF8)
+Esto funciona siempre que la agrupación próxima tenga un límite definido, ya sea explícitamente delineado o con margin / padding.
 
-Hay áreas del teléfono más fáciles de alcanzar que otros. Sólo el ~10% de la
-población mundial es zurda entonces normalmente diseñamos pensando en diestros.
-Por esto, muchos apps móviles ponen la navegación y acciones principales en la
-parte de abajo de las pantallas móviles.
 
-### Regla #8: Diseñar primero en blanco y negro, y agregar color después
-
-![image alt text](https://lh5.googleusercontent.com/eYBg_0C-Zs8gBgmPZrF3zi-GLb1lXHMD1EzI-wKNl0py_wnmxXFlxzM7tZkJmdCPfJfrXIsjY-i9VVKB3BVqDx6k3LtfYy8BjfaFmI-WjFRHRWpgCOAwfiIuZ46Vz6g0CHXCrYYJ)
-
-Diseñar en blanco y negro ayuda a mantener el foco en resolver el problema y
-diseñar la experiencia principal de tu app o página.
-
-Color evoca reacciones emotivas fuertes y muchas veces interrumpe nuestra
-habilidad de enfocarnos en resolver el problema de diseño.
-
-### Regla #9: Tomar paletas de color prestadas
-
-![image alt text](https://lh4.googleusercontent.com/uSldQ95FZ_WgzrX4JWYkHKDVvgBOpOp7GrAm9C1n-SG88BfG9KtMpQNpoTkRD60UIaR7I-HO-WMu-MQC0KQE4WxwFicCHRdgXIAWObbZV3mJw1X2vYEazyUWeRxuVYQftwiOGCU4)
-
-Por lo general mantener una paleta sencilla de 2 colores es un buen punto de
-partida. Puedes combinar un color base que va a servir con el principal color de
-la app o página con un color de acento. Si es para una marca ya establecida,
-normalmente sería el color principal de la marca.
-
-Lograr una paleta de color que se vea muy bien es un poco arte oscuro entonces
-por el momento podemos tomar paletas prestadas de
-[Dribbble](https://dribbble.com/search?q=color+palettes) (buscar `Color
-Palettes` y encontrar alguna que te guste),
-[Adobe Color CC](https://color.adobe.com/create/color-wheel/) o
-[Coolors](https://coolors.co/).
