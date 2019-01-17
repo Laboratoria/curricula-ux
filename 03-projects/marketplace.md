@@ -46,7 +46,6 @@ empresa que elijas a entender tu visión, esperan que les hagas una propuesta de
 cómo podría ser el portal donde las personas puedan buscar, ver, elegir y
 comprar sus productos.
 
-
 ## Objetivos de aprendizaje
 
 El objetivo principal de aprendizaje de este proyecto es entender cómo pasamos
@@ -277,38 +276,4 @@ propia web desde 0.
 utilizando las tecnologías web que aprendiste en el common core: HTML, CSS y JS.
 Puedes usar los frameworks que quieras. Recuerda que la aplicación tiene que ser
 mobile-friendly. Despliega el código en GitHub Pages o Heroku.
-- Escribe un post en Medium contando tu proceso de investigación
-
-## Evaluación
-
-Recuerda revisar la rúbrica para ver la descripción detallada de cada habilidad
-y cada nivel. A continuación presentamos los niveles esperados de cada habilidad
-que deberías alcanzar al finalizar este proyecto:
-
-### UX Design
-
-|Habilidad|Nivel Esperado|
-|:---|:---|
-|User centricity| 4 |
-|Planificación| 3 |
-|Entrevistas y testing| 3 |
-|Observación| 2 |
-|Síntesis de resultados| 3 |
-|Flujos de usuario| 3 |
-|Arquitectura de la información| 3 |
-|Prototyping| 3 |
-|Business mindset| 4 |
-|Visual Design| 4 |
-
-### Habilidades blandas
-
-|Habilidad|Nivel Esperado|
-|:---|:---|
-|Planificación y organización| 4 |
-|Autoaprendizaje| 4 |
-|Solución de problemas| 4 |
-|Dar y recibir feedback| 4 |
-|Adaptabilidad| 4 |
-|Trabajo en equipo| 4 |
-|Comunicación eficaz| 4 |
-|Presentaciones| 4 |
+- Escribe un post en Medium contando tu proceso de investigación.
