@@ -1,4 +1,3 @@
-
 # Postulación a empresa líder en viajes online 
 
 ## Preámbulo
@@ -254,7 +253,3 @@ tienen (en Chile). Propón una solución.
 * [Elementos a considerar al escribir tu CV](https://drive.google.com/file/d/17BL00Qd0z2NBQkTEeg2_BgvQNsytMaMu/view?usp=sharing).
 * [Guía de Laboratoria para entrevistas](https://drive.google.com/file/d/1hwayjQlU7m6acBts9g0G5VBK8ZCcAN2b/view?usp=sharing).
 * [Taller de preparación para entrevistas](https://docs.google.com/presentation/d/1IKc49cO4PQZVytL8pEgu9rogWYcuoguBcnKHgPKKXLs/edit?usp=sharing).
-
-
-
-
