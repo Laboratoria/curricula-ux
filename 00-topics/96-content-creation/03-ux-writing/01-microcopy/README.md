@@ -91,7 +91,7 @@ Dirige al usuario hacia la próxima acción.
 
 ## Los 6 tipos de microcopy
 
-### Reducir la ambigüedad
+### 1. Reducir la ambigüedad
 
 Cuando algo no está claro y puede ser explicado con mayor detalle (e.j. un texto
 de ayuda).
@@ -109,7 +109,7 @@ lo que significa el CVV.
 
 ![](https://lh6.googleusercontent.com/2epKuvTl25y0dTQJo9YaolU2G-N_7g_LlUi6PcnwJaalYP2yzDuplknPsRXNgytoz9TyLUHicrai_3H8WEeFvglsnlB3OEYahNyN_WLtmQP1hFmWb-ReSwy_dG-S1LxoIMJr8wef-QM)
 
-**Slack**
+#### Slack
 
 Slack te guía a través de la experiencia en casi toda parte del proceso de
 registro.  Como usuario puede existir cerca ambigüedad con respecto al “team
@@ -120,7 +120,7 @@ empresa.
 
 ![](https://lh4.googleusercontent.com/yRjnfgpBgUD8fNGlgAh2y8iLVAcQbb8lacMHcxHfcFz-n1K2lzFgNwFy25jeMJICDKQHjwqvGokpDxXGbn8SP2yRm-5ymwoliQvOP7sKx66vZPudsnlh6BgKOUWIT855P62HjT2v3Lw)
 
-**Snapchat**
+#### Snapchat
 
 El usuario puede ser usado de distintas formas, dependiendo de la plataforma
 donde estés. En algunos casos solo se usa para log-in, pero en otros casos lo
@@ -129,7 +129,7 @@ través de un microcopy, lo que significa el "username" en snapchat.
 
 ![](https://lh4.googleusercontent.com/J63u6BoFcQXTll9Cny4Ntz8K4SP-PgyWqr1A2pC2Db3XCJTwkggyVDMEXrBWiNUGe8qCg9FoQPvTVbUDtPfvo5vu4NfjalN51OYk8_Mtxx4JS9-vDM2CsplSaf5Tco1Yee1gCbDTFto)
 
-**Fivver**
+#### Fivver
 
 Fiverr, un marketplace de servicios donde personas ofrecen realizar diversas
 tareas y servicios, comenzando con un costo de $ 5 por trabajo realizado. Al
@@ -139,7 +139,7 @@ microcopy, puede surgir ambigüedad con respecto a donde va a aparecer tu foto.
 
 ![](https://lh6.googleusercontent.com/1_zJn1NImR_7qmEytUciCCpGzoDRgc9LCOce91HPLXBetZrpbUEnwamvTAriInyzzCIX1CJaKDRTMfWX1YORwFmvthFjgHJxafgDGkVnoLwUKSGrdvpoCmkDqHJBMhds7ei55qUJO24)
 
-**Yoast.com**
+#### Yoast.com
 
 Yoast.com (ofrece servicios de SEO), agregaron un pequeño texto al costado del
 total “No habrán costos adicionales". La adición de este pequeño texto resultó
@@ -147,3 +147,51 @@ en un aumento del 11.30% en conversion. Y es porque costos escondidos es la
 principal razón por la cual las personas abandonan los carritos de compra.
 
 ![](https://lh5.googleusercontent.com/cb0aIp0CRIeeY5XhU8Y2Jy1WGmqcHT0umz-OFarJPxxDX4FwgAH-sBngYCB-l5SBRKTzOdORgkchJBdarDMJzR4nrOhmYca2lllAtGpRg3B9jMtjujzXETz0BK3WJcqeUgFqsbU0zRE)
+
+### 2. Instrucciones de uso
+
+Enfócate en lo que el usuario está intentando hacer, no en las funcionalidades
+de tu producto. Escribe desde su perspectiva. Piensa en lo que están tratando de
+hacer.
+
+![](https://lh5.googleusercontent.com/6DAB6I4qkSfk5-OMnBrOuRoemW1fgmTJskUppOevbtxKOcjaXIgtsVoKtN-Cum5Al-7hd4OK7O6F9M1p0LfXXCdxiKwAcu7K7UHhHpnnujJk56U3qy55QlDJf_kusS7y_owFwMRd6Mg)
+
+Se genera una mala sensación cuando indicas repetidamente al usuario lo que
+tiene que hacer. Para evitar esto, debemos usar su voz (primera persona).
+
+- Hazlo con moderación
+- Procura ser claro y específico
+
+![](https://lh3.googleusercontent.com/buVBGqitwUIIFM9GuiB94n2zzQXtA4DLxLIMnu39Dwn9nSOKunS8AJwKHGOkgwdCf-ycFECz_k8wbviam6kwdCdqdjbs-FzcwxcKVNfk_0iwUZ-IKvqcWHFFNhcLFHelQ2FfsRIwU9Y)
+
+### 3. Recojo de datos
+
+El usuario tiene el derecho a saber la razón detrás de cualquier pedido de
+información personal que se le haga.
+
+### 4. Próximos pasos
+
+![](https://lh6.googleusercontent.com/dNNrTeE9LVY-mM_FjR-3dY0Fx8BgEuJBtMp7mVXaqq7p5hY2td_3UFGl5NymTbdg_21Iba9qQ9CSlcTAv8W-I-NjS7GxBVOVSoSjGmhLgGKuVhJXby_NcqcunZ-ssXkOGVX71a9Lado)
+
+![](https://lh5.googleusercontent.com/lax10uBdop3Q22gquttKS60zdVrDjKVRyQbzEAGoDnVGegMAAGoovfd02T_hZm-JoMkp34eJVyMSOyxaoHHXAR5DnKiX-QP-6t0HeQwTurYRbseXlFfLDbKxkLrpch97uM2zxVD0dKs)
+
+### 5. Mensajes de error
+
+¿Cómo podríamos hacer que la experiencia del usuario sea más agradable, de
+manera que, cuando cometa un error, no sienta que es el fin del mundo?
+
+Debe ser:
+
+- Específico
+- Proveer contexto
+- Cortés
+- Útil
+
+![](https://lh5.googleusercontent.com/REEim84apdohDMaLr3ffbMbCNtLRt66sfenJAc97GA5pPBq9iirsPut65slzXEXMs-YMLzKrmVrQvz7fn_8PchFXE7kLmGeauWOTL7OdExr3FmKk27BWfKDJw1HIRKngwZv0Ad7JNeg)
+
+### 6. Mensajes de éxito
+
+![](https://lh5.googleusercontent.com/REEim84apdohDMaLr3ffbMbCNtLRt66sfenJAc97GA5pPBq9iirsPut65slzXEXMs-YMLzKrmVrQvz7fn_8PchFXE7kLmGeauWOTL7OdExr3FmKk27BWfKDJw1HIRKngwZv0Ad7JNeg)
+
+![](https://lh6.googleusercontent.com/xVarB5SjQp9onlchuNQdzKoNHBDDV7OPA5p7yETmoxOCVIOaIW9WBO70TX2X_U-mLWmqM3igAdDVbghsC7fEmhx0AYSS2wL-5UXGSrWfXPrXRq_cjzFIHwCcKs2lJgupoH83ci7p-Kg)
+
