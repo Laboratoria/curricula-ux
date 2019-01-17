@@ -57,6 +57,49 @@ momento que el producto empiece a escalar, será mucho más sencillo que tenga u
 personalidad sólida y elocuente que sea fácil de replicar por los demás UX
 Writers del equipo.
 
+## En qué parte del proceso de diseño se debe incorporar una UX Writer
+
+Es importante que antes de empezar a diseñar las pantallas o elegir los
+componentes de interacción, se defina lo que se va a contar. Idealmente, los UX
+Writers deben estar desde el inicio, trabajando de la mano con los stakeholders,
+diseñadores y desarrolladores, para delimitar la historia que se quiere contar a
+través del producto y escribir los contenidos de todas las piezas. Sin embargo,
+esto no es lo que suele ocurrir.
+
+Lo que normalmente suele suceder en la creación de los productos digitales es
+que no hay un proceso definido y el copy es añadido al final, sin prestarle
+mayor atención. En algunos casos más favorables, el copy sí llega a ser evaluado
+y optimizado antes de ser desarrollado, pero en general, el UX Writing y el
+diseño de contenido no se integra en su totalidad al proceso de diseño.
+
+Esto suele ocurrir debido a distintos factores:
+
+- Desconocimiento sobre el usuario y la importancia del diseño del copy.
+- Falta de presupuesto en el proyecto.
+- Confusión sobre cómo sacar provecho de las habilidades de un UX Writer.
+- Falta de herramientas y procesos para integrar diseñadores, desarrolladores y copywriters.
+- Dificultad de reclutamiento de estos perfiles.
+
+### Por qué tener a una UX Writer en el equipo
+
+1. Las escritoras son diseñadoras: diseñar un flujo de pantallas es muy similar
+   a escribir una historia. Para crear una buena historia, ayuda tener a un
+   escritor en el cuarto.
+2. Las escritoras unen los puntos: mientras que las diseñadoras se enfocan en
+    una sola área del producto, los escritores de producto se enfocan en
+    múltiples áreas.
+3. Las escritoras saben moderar su voz: Normalmente, las palabras no deben de
+   resaltar por sí mismas. Pero, hay veces que sí quieres que tus usuarios noten
+   tus palabras. Ahí es cuando debes hablar fuerte y ser escuchada, fuerte y
+   claro.
+4. Las escritoras cuidan el lenguaje: en el momento que los usuarios empiezan a
+   detectar errores y palabras mal escritas, pierden la confianza en el producto
+   o compañía.
+5. Las escritoras te empujan a ser una mejor diseñadora: las UX writers siempre
+   tienen que explicar conceptos complicados con palabras sencillas.
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQVJYyTIMFIB85DF_q7tx892qLb3_agzohporRD1TZw27k-FAsS3qjdFpIxIfN-BVQgdpZey9YBf45x/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
 ## Referencias
 
 - [Qué es un UX writer](https://medium.com/laboratoria/qu%C3%A9-es-un-ux-writer-f23c2ac0b8e7).
