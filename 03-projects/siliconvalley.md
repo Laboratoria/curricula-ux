@@ -1,17 +1,15 @@
-# Postulación a empresa líder en viajes online 
+# Proyecto Job Application UX
 
-## Preámbulo
+## Antecedentes
 
-Una egresada de Laboratoria que trabaja para una empresa líder en reserva de
-viajes online te ha recomendado para postular a una vacante de UX Designer que
-se acaba de abrir. Es un proceso competitivo, pero tu compañera se ha ofrecido a
-ayudarte. Ella ya pasó por ahí, sabe el tipo de preguntas que hacen durante las
-entrevistas y tiene los detalles de los retos que le tocó resolver cuando
-postuló.
+Una egresada de Laboratoria que trabaja de manera remota para una empresa en 
+Estados Unidos te ha recomendado para postular a una vacante de Front-End
+Developer que se acaba de abrir. Es un proceso competitivo, pero tu compañera se
+ha ofrecido a ayudarte. 
 
 Tu compañera te asegura que, con la experiencia que tienes del bootcamp y su
-coaching específico para esta postulación, tienes alta posibilidad de entrar.
-¡Uff, qué valiosa es la red de egresadas de Laboratoria!
+coaching para esta postulación, tienes alta posibilidad de entrar. ¡Uff, qué
+suerte tener contacto con la comunidad de egresadas de Laboratoria!
 
 ## Introducción
 
