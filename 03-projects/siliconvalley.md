@@ -3,8 +3,8 @@
 ## Antecedentes
 
 Una egresada de Laboratoria que trabaja de manera remota para una empresa en 
-Estados Unidos te ha recomendado para postular a una vacante de Front-End
-Developer que se acaba de abrir. Es un proceso competitivo, pero tu compañera se
+Estados Unidos te ha recomendado para postular a una vacante de UX que se 
+acaba de abrir. Es un proceso competitivo, pero tu compañera se
 ha ofrecido a ayudarte. 
 
 Tu compañera te asegura que, con la experiencia que tienes del bootcamp y su
