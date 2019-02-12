@@ -65,7 +65,7 @@ y tu portafolio - a los cuales se accede a través de tu CV.
 Una vez que completes tu CV (con los links a tu portafolio, LinkedIn y GitHub
 actualizados), tendrás que:
 * Pedirle a una compañera que te entregue feedback de tu CV.
-* Revisar el check list [check list](https://docs.google.com/spreadsheets/d/1MyOE5v1TxOMovsTiMQ21QzRPxCRXIKpaOOLS99y3MKQ/edit#gid=1386834576).
+* Revisar el [check list](https://docs.google.com/spreadsheets/d/1MyOE5v1TxOMovsTiMQ21QzRPxCRXIKpaOOLS99y3MKQ/edit#gid=1386834576)
 antes de entregarlo.
 * Una vez que sientas que está listo, envíalo a la coordinadora de desarrollo 
 personal(psicóloga) de tu sede via e-mail incluyendo un breve párrafo indicando
