@@ -112,8 +112,8 @@ para poder encontrar la mejor solución.
 Parte importante de tu trabajo como UX designer es tomar decisiones.
 Efectivamente existen múltiples herramientas que puedes utilizar, debes
 comprender para qué y con qué finalidad escoges usar cada una de ellas. Siempre
-piensa que debes justificar todo gasto con tu con consultora y el cliente, cada
-desición que tomes en el proyecto debe ser fundamentada, no sigas pasos
+piensa que debes justificar todo gasto con tu consultora y con el cliente, cada
+decisión que tomes en el proyecto debe ser fundamentada, no sigas pasos
 mecánicos por seguirlos, cuestiónate constantemente.
 
 Por último, considera que la calidad de tu presentación es tan importante como
@@ -161,6 +161,8 @@ Para el hacker edition puedes elegir una o varias de estas opciones:
 - Investiga sobre chatbots y sustenta si sería bueno incluir uno en alguna parte
   del journey del uso del producto. Si crees que un chatbot añadiría valor,
   prototípalo usando [Botsociety](http://bit.ly/ux-chatbot).
+- Adapta el diseño del app para iPhone X/XS/XR.
+- Diseña un app para Apple Watch que complemente tu propuesta.
 - En lugar de usar Github para documentar tu proceso de trabajo, documéntalo en
   su propia web, puedes usar Wix, Instapage, Squarespace, Google Sites o crear
   tu propia web desde 0. 
@@ -170,10 +172,10 @@ Para el hacker edition puedes elegir una o varias de estas opciones:
   que ser mobile-friendly. Despliega el código en GitHub Pages o Heroku.
 - Escribe un post en Medium contando tu proceso de investigación.
 - Crea un video mostrando el demo del app, aquí algunos ejemplos:
-  - [Genius Scan](https://youtu.be/wKqnB6_Z-J0)
   - [Nequi](https://www.youtube.com/watch?v=BDLAXvSQCZ8)
   - [Simple Bank](https://www.youtube.com/watch?v=0eqD5o6422M)
   - [Pocket](https://www.youtube.com/watch?v=MoJHYNKmS2U)
+  - [Hip Money](https://www.youtube.com/watch?v=BIesWRESgAc)
 
 ## Otras consideraciones
 
@@ -184,7 +186,7 @@ realizar y le asignamos un valor en puntos a cada tarea. Además, te dimos un
 presupuesto de 300 puntos para que los utilices en esas tareas. Para este reto,
 la lista de tareas, el valor en puntos de cada tarea y el presupuesto total
 de las actividades a realizar lo crearás tú y lo tendrás que sustentar con tu
-coach. Adicinalmente, deberás sustentar con tu coach qué entregables harás
+coach. Adicionalmente, deberás sustentar con tu coach qué entregables harás
 llegar al banco al final de tu investigación y por qué. El coach te aprobará
 estos entregables o te dará feedback para mejorarlos.
 
@@ -195,7 +197,7 @@ tuviste al desarrollar el proyecto 1.
 
 ### 2) Prototipo de alta fidelidad
 
-Existen varias herramientas que puedes utilizar para crear diseñar el producto,
+Existen varias herramientas que puedes utilizar para diseñar el producto,
 en este caso el diseño viene en Figma y el prototipo en Marvel, así que puedes
 seguir usando esas herramientas. Sin embargo, eres libre de utilizar otras
 como Adobe XD e Invision. Para el prototipo intenta utilizar Marvel o Invision,
