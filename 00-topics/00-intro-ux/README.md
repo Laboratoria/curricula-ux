@@ -6,7 +6,6 @@ vuelven una parte fundamental en un proceso de diseño. A lo largo del curso,
 entenderás las distintas etapas de un proceso de diseño y las podrás poner en
 práctica trabajando en un producto.
 
-
 ## Público objetivo
 
 Este curso está dirigido a personas sin conocimientos previos de diseño que

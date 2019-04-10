@@ -47,27 +47,27 @@ Miremos algunos casos de la vida real.
 ![instagram](https://lh3.googleusercontent.com/0xWNpUQiFDbUul2EpoDHP-wtufF9PTmirxgEBFfdKljrLcw6F4bYHH-ov6_WkiSVH9AEMHBwBl1xVIIILr86zpCY6UcF78GleGo5BaaPkOnaBItdhp7ycZzt6LnBnq1TJayOgP4y)
 
 - Instagram, ¿a qué le está poniendo enfasis?
-  - Las fotos/videos de tus amigos.
+  * Las fotos/videos de tus amigos.
 
 ![pinterest](https://lh4.googleusercontent.com/BBrGgFXev1P5j8QilKQIcHP7SnqXFUxUZlBweiLyS31HXZI2tNZs9w8YrOpVO0rK2DTJ4TpL_BVay33XBZIKMtZUTePylZ-2N1Hborr7zTVuRCcza7SOUUbmcTwwx5Ps0jDF-bZp)
 
 - Pinterest,  ¿a qué le está poniendo enfasis?
-  - Crean jerarquia visual poniendo la barra de búsqueda hasta arriba y su
-  grid de imágenes abajo. Es una decisión muy deliberada poner primero la
-  búsqueda - la idea es que los usuarios busquen y descubran más imágenes.
+  * Crean jerarquia visual poniendo la barra de búsqueda hasta arriba y su
+    grid de imágenes abajo. Es una decisión muy deliberada poner primero la
+    búsqueda - la idea es que los usuarios busquen y descubran más imágenes.
 
 ![spotify](https://lh5.googleusercontent.com/-QCRlPemZua_Te9ooqbv67gK7ou7z1273Fv95AdvQTojlTTiuA6cNmv85DP1Ussnqy9lFAmp0u-dZhPXOtKTWyDJmZMwoFm7X4pEvYPrxFtBMSFajq3hmyxjugudae3DC7Hzowjr)
 
 - Spotify a qué le está poniendo enfasis?
-  - Están celebrando la portada del álbum y el título de la canción antes de
-  los controles. Aunque los controles estén abajo, Spotify le da más peso al
-  botón de play/pausa que los botones de adelantar o rebobinar.
+  * Están celebrando la portada del álbum y el título de la canción antes de
+    los controles. Aunque los controles estén abajo, Spotify le da más peso al
+    botón de play/pausa que los botones de adelantar o rebobinar.
 
 ![facebook](https://lh6.googleusercontent.com/5c1kI5YX2oOZi62rC7C5y479zd4gwsix1loBTHin8Yq70WARvXri44KEOaNJxgIzLHCSGqjh6DxsWJKvzaudzaolW4Dw2pCvAsDjrH0r6HjEpMDtN9kbFDE8wCf2iGfsoSYMaMeu)
 
 - Facebook a qué le está poniendo enfasis?
-  - Muy parecido a Instagram, ponen el contenido de tus amigos como lo más
-  importante.
+  * Muy parecido a Instagram, ponen el contenido de tus amigos como lo más
+    importante.
 
 ### Regla #4: Alinear todo
 
@@ -176,7 +176,7 @@ para ancianos que quieran agendar citas con sus compañeros del dominó.
 1. Definir quiénes serán los usuarios: ¿Hombres? ¿Mujeres? ¿Niños? ¿Adultos?
   ¿Viejos? ¿Dónde viven? ¿A qué se dedican? ¿Por qué les interesaría un
   asistente digital? etc. etc.
-1. Definir cómo será el servicio: ¿Formal? ¿Casual? ¿Elegante? ¿Juguetón?
+2. Definir cómo será el servicio: ¿Formal? ¿Casual? ¿Elegante? ¿Juguetón?
    ¿Masculino? ¿Femenimo? etc. etc.
 
 ### Mejoras
@@ -185,7 +185,7 @@ Una vez definidos estos puntos, que cada alumna tome la página y la mejore seg�
 las 5 reglas que vimos en esta unidad:
 
 1. Contraste
-1. Casi negro
-1. Contenido importante primero (jerarquia)
-1. Alinear todo
-1. Tamaño y espaciado del texto
+2. Casi negro
+3. Contenido importante primero (jerarquia)
+4. Alinear todo
+5. Tamaño y espaciado del texto

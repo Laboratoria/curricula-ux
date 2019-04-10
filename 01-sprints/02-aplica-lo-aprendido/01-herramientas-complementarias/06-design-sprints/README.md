@@ -62,47 +62,47 @@ claridad de qué hacer después. Y será un gran comienzo para ese gran reto.
 [Video lunes](https://www.youtube.com/watch?v=7zOBMxRYJ7I)
 
 1. Empezar por el final
-1. Mapa
-1. Preguntar a los expertos
-1. Objetivo
+2. Mapa
+3. Preguntar a los expertos
+4. Objetivo
 
 #### Martes: sketch
 
 [Video martes](https://www.youtube.com/watch?v=_ITJ5lAXQhg )
 
 1. Demos rápidas
-1. Sketches
- - Notas
- - Ideas
- - Crazy 8s
- - Solución en 4 pasos
+2. Sketches
+   * Notas
+   * Ideas
+   * Crazy 8s
+   * Solución en 4 pasos
 
 #### Miércoles: decisión
 
 [Video miércoles](https://www.youtube.com/watch?v=7BKBFOOKbNo )
 
 1. Museo de Arte
-1. Mapa de calor
-1. Evaluación veloz
-1. Votación silenciosa
-1. Supervoto
-1. Storyboard
+2. Mapa de calor
+3. Evaluación veloz
+4. Votación silenciosa
+5. Supervoto
+6. Storyboard
 
 #### Jueves: prototipar
 
 [Video jueves](https://www.youtube.com/watch?v=IGcwFV76t7o )
 
 1. Construir una fachada
-1. Ensayar
-1. Guión para la entrevista
+2. Ensayar
+3. Guión para la entrevista
 
 #### Viernes: testear
 
 [Video viernes](https://youtu.be/jQmBuKN10VY )
 
 1. Entrevistas
-1. Aprender
-1. Buscar patrones
+2. Aprender
+3. Buscar patrones
 
 ### Las claves de un Design Sprint
 

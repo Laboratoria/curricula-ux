@@ -78,13 +78,14 @@ Cómo ya te hemos mencionado en distintas charlas, al salir de Laboratoria
 entrerás a trabajar en alguna organzación de estas categorías:
 
 1. Fábrica de Software
-1. Agencia de Marketing (Digital)
-1. Empresa de Transformación Digital
-1. Startup
+2. Agencia de Marketing (Digital)
+3. Empresa de Transformación Digital
+4. Startup
 
 ### Qué es una compañía y qué es una startup
 
 Mira este video:
+
 [What is a company](https://youtu.be/Gt-rwCUWfqw)
 
 ### 5 razones que hacen del mundo digital un gran recurso para la innovación
@@ -168,16 +169,16 @@ Las cosas que se rescatan de este video son:
 - Los cambios más relevantes suceden cuando hay una cultura que promueve la
   excelencia y la confianza.
 - Tienen procesos para documentar el aprendizaje
-  - Retrospectivas (aprender de los errores)
-  - Improvement boards (tomar acción y corregir)
+  * Retrospectivas (aprender de los errores)
+  * Improvement boards (tomar acción y corregir)
 - Tienen mecanismos para minimizar el riesgo
-  - Limited blast radius
-  - Tener control end-to-end
+  * Limited blast radius
+  * Tener control end-to-end
 - Actividades para promover la cultura
-  - Training
-  - Hiring
-  - Storytelling
-  - Desarrollar "role models"
+  * Training
+  * Hiring
+  * Storytelling
+  * Desarrollar "role models"
 
 #### Facebook
 

@@ -1,0 +1,126 @@
+{
+  "projectName": "curricula-ux",
+  "projectOwner": "Laboratoria",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": true,
+  "contributors": [
+    {
+      "login": "lalogf",
+      "name": "Lalo Gonzalez",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/8517182?v=4",
+      "profile": "https://github.com/lalogf",
+      "contributions": [
+      "question",
+      "bug",
+      "code",
+      "doc",
+      "example",
+      "ideas",
+      "infra",
+      "plugin",
+      "review",
+      "test",
+      "tool",
+      "video"
+      ]
+    },
+    {
+      "login": "chamodev",
+      "name": "chamodev",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/25286921?v=4",
+      "profile": "https://github.com/chamodev",
+      "contributions": [
+        "ideas",
+        "translation"
+      ]
+    },
+    {
+      "login": "diegovelezg",
+      "name": "Diego",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/28717078?v=4",
+      "profile": "https://github.com/diegovelezg",
+      "contributions": [
+        "bug",
+        "ideas"
+      ]
+    },
+    {
+      "login": "MaiaRojas",
+      "name": "Maricarmen Rojas Tinco",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/25912510?v=4",
+      "profile": "https://maiarojas.github.io/Portafolio_v1/",
+      "contributions": [
+        "bug",
+        "code",
+        "test"
+      ]
+    },
+    {
+      "login": "CaroLaboratoria",
+      "name": "Carolina Covarrubias",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/28611099?v=4",
+      "profile": "https://github.com/CaroLaboratoria",
+      "contributions": [
+        "question",
+        "doc",
+        "ideas"
+      ]
+    },
+    {
+      "login": "karlanavam",
+      "name": "Karla Nava ",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/25912346?v=4",
+      "profile": "https://www.linkedin.com/in/karlanavamuci%C3%B1o/",
+      "contributions": [
+        "ideas"
+      ]
+    },
+    {
+      "login": "bosqueinvierno",
+      "name": "Allison Guzmán",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/17767965?v=4",
+      "profile": "https://medium.com/@BosqueInvierno",
+      "contributions": [
+        "bug",
+        "ideas"
+      ]
+    },
+    {
+      "login": "gaposx",
+      "name": "Gonzalo Parra",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/539819?v=4",
+      "profile": "https://github.com/gaposx",
+      "contributions": [
+        "question",
+        "bug",
+        "example",
+        "ideas",
+        "review"
+      ]
+    },
+    {
+      "login": "Gabx04",
+      "name": "Gabriela Segura",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/16655830?v=4",
+      "profile": "https://github.com/Gabx04",
+      "contributions": [
+        "bug",
+        "ideas"
+      ]
+    },
+    {
+      "login": "rodrwan",
+      "name": "Rod Fuenzalida",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/2304451?v=4",
+      "profile": "https://rodrwan.github.io",
+      "contributions": [
+        "ideas"
+      ]
+    }
+  ]
+}

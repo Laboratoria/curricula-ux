@@ -101,7 +101,7 @@ de los consejos para hacer preguntas en entrevistas antes de ver lo siguiente:
 - Pregunta sobre el comportamiento real: Cuéntame sobre tus hábitos de transporte.
 - Enfócate en casos específicos: Cuéntame sobre la última vez que pediste un taxi
 - Haz que las personas se concentren: ¿Me ayudas a resumir eso en una oración?
-- Usa el silencio: *Las personas se sienten obligadas a rellenar los silencios.
+- Usa el silencio: *Las personas se sienten obligadas a rellenar los silencios*.
 - Haz preguntas simples: ¿Qué medios de pago usas cuando compras online?
 - Pregunta ¿por qué seguido?: Me puedes hablar un poco más sobre eso.
 
@@ -414,13 +414,13 @@ Mira este video de GV:
   tienes que hacer algún ajuste, házlo ahora.
 - Júntense en grupos de 3 personas y entrevistense entre ustedes usando su guía
   de entrevistas.
-  - Una es la entrevistadora, otra la entrevistada y la 3 anotará los
+  * Una es la entrevistadora, otra la entrevistada y la 3 anotará los
     problemas/errores, buenas prácticas, buenas preguntas que hizo la
     entrevistadora durante la entrevista. La 3era también es la encargada de
     grabar la sesión para que la entrevistadora pueda ver/escuchar su grabación
     luego.
-    - Al terminar la primera entrevista, se le da el feedback a la entrevistada
-      y se rota para que las 3 pasen por los 3 roles.
+  * Al terminar la primera entrevista, se le da el feedback a la entrevistada
+    y se rota para que las 3 pasen por los 3 roles.
 - Teniendo en cuenta que fue la primera vez que probaste tu guía de entrevistas,
   utiliza el feedback que te dieron tus compañeras y la experiencia que tuviste
   con tu primera entrevista para adaptar/mejorar tu guía de entrevistas.
