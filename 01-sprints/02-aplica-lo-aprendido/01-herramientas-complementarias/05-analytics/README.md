@@ -70,13 +70,13 @@ partes de un site donde los usuarios han interactuado más.
 Ejemplo de heatmap en la página de convocatoria de Laboratoria. La mayoría de
 usuarias hace clic directamente en el botón de postulación:
 
-![](https://lh5.googleusercontent.com/X4UqWcvgSu6LoAP3_mhrDftk7kZ37z-zQhEYx7mDjeBSGSNXP-SO92InPmayTUwxPAMXkWq0WzQOpAN1_jC2u-_aQnZanhPG7XCHeNpci-wnFcOIIK-sv0RPB8zfHzvQfQQSCztw-uk)
+![Image](https://lh5.googleusercontent.com/X4UqWcvgSu6LoAP3_mhrDftk7kZ37z-zQhEYx7mDjeBSGSNXP-SO92InPmayTUwxPAMXkWq0WzQOpAN1_jC2u-_aQnZanhPG7XCHeNpci-wnFcOIIK-sv0RPB8zfHzvQfQQSCztw-uk)
 
 De las preguntas frecuentes estas son las que más clics reciben:
 
-![](https://lh6.googleusercontent.com/CCHgOr4BaRAmqbH5w9HnWh3PfeBp6csC8AQ085imkF7YzFSuyQ3v6gxT0C-KZMvRqs3zrAakCes0gqLEHik4G3Oc8i4bDXdjfYVReVLiRj1TroUTdmvpUQtHaiNO9gBlLhOl7PoyHvk)
+![Image](https://lh6.googleusercontent.com/CCHgOr4BaRAmqbH5w9HnWh3PfeBp6csC8AQ085imkF7YzFSuyQ3v6gxT0C-KZMvRqs3zrAakCes0gqLEHik4G3Oc8i4bDXdjfYVReVLiRj1TroUTdmvpUQtHaiNO9gBlLhOl7PoyHvk)
 
-![](https://lh6.googleusercontent.com/6rh-601cF-lwt338vqQ5N05QfsSmhes_dwgiBeGrnAyRoBIgH72XhYOyz6Pu2Y-vFsD7S-ZLykuKEn4kutbU8iccPS_ultLeRyo48oTaTgRBTjMcnLUkxWQwhylpth95GNHiszoIVWw)
+![Image](https://lh6.googleusercontent.com/6rh-601cF-lwt338vqQ5N05QfsSmhes_dwgiBeGrnAyRoBIgH72XhYOyz6Pu2Y-vFsD7S-ZLykuKEn4kutbU8iccPS_ultLeRyo48oTaTgRBTjMcnLUkxWQwhylpth95GNHiszoIVWw)
 
 Para crear una cuenta de Hotjar anda a este [link.](hotjar.com)
 

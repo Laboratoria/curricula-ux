@@ -31,7 +31,6 @@ vamos a realizar. En esta reunión deberíamos resolver las siguientes preguntas
 - ¿Qué documentos externos o internos deberíamos revisar para familiarizarnos
   con el producto?
 
-
 ## Research Question
 
 La idea es que, saliendo del kick-off de investigación, tengas más claridad

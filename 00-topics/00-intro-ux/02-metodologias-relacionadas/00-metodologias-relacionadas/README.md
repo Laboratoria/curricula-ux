@@ -1,8 +1,8 @@
 # Clase de Conceptos
 
-- Tipo: `lectura`
-- Formato: `self-paced`
-- Duración: `1h`
+* Tipo: `lectura`
+* Formato: `self-paced`
+* Duración: `1h`
 
 ***
 
@@ -37,7 +37,7 @@ siendo hoy en día su principal precursora.
 Fases del proceso:
 
 1. Empatizar
-2.  Definir
+2. Definir
 3. Idear
 4. Prototipar
 5. Testear
@@ -105,7 +105,7 @@ Puedes ver también como en Gimlet Media crearon y validaron un prototipo usando
 esta metodología.
 [video]((https://youtu.be/iqGLrMjBLZ4))
 
-*** 
+***
 
 Como algo opcional, puedes mirar esta entrevista a Jake Knapp, Tim Brown y
 Eric Ries hablando sobre Sprint, Design Thinking y Lean Startup respectivamente.

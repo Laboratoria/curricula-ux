@@ -31,7 +31,7 @@ experiencias que tengan en cuenta al usuario desde su concepción.
 Antes de empezar a trabajar en research, tenemos que entender el problema en
 el que estamos trabajando y cuáles son los objetivos del negocio en este reto.
 
-### Unidad 02: [Reserch cualitativo](01-research-cualitativo)
+<!-- ### Unidad 02: [Reserch cualitativo](01-research-cualitativo)
 
 Aprende distintas técnicas para empatizar con usuarios: entrevistas,
 observación y tests de usabilidad serán tus principales herramientas.
@@ -39,4 +39,4 @@ observación y tests de usabilidad serán tus principales herramientas.
 ### Unidad 03: [Research cuantitativo](02-research-cuantitativo)
 
 Los productos digitales generan mucha data, con este curso, aprende a entender
-y a encontrar sentido de esta data para crear mejors productos.
+y a encontrar sentido de esta data para crear mejors productos. -->

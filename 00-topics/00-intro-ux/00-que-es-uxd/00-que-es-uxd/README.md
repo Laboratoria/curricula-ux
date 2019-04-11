@@ -1,8 +1,8 @@
 # User Experience Design
 
-- Tipo: `lectura`
-- Formato: `self-paced`
-- Duración: `1h`
+* Tipo: `lectura`
+* Formato: `self-paced`
+* Duración: `1h`
 
 ***
 
@@ -49,9 +49,9 @@ Para entender un poco más sobre el proceso de UX Design mira este video:
 Usualmente vamos a querer que los usuarios de nuestros productos (digitales o
 físicos) estén felices cuando consumen lo que ofrecemos.
 
-- ¿Sentarse en una silla ultra comoda o un banco de madera?
-- ¿Comprar en un starbucks o en una cafetería local?
-- ¿Usar Facebook o Myspace?
+* ¿Sentarse en una silla ultra comoda o un banco de madera?
+* ¿Comprar en un starbucks o en una cafetería local?
+* ¿Usar Facebook o Myspace?
 
 La experiencia al usar nuestros productos es directamente proporcional a su
 consumo.
@@ -67,8 +67,8 @@ siguiente artículo: [UX vs UI](http://blog.acantu.com/que-es-ux-y-ui/).
 
 Luego de leer este artículo, intenta responder las siguientes preguntas:
 
-- ¿Qué es UX y qué es UI?
-- ¿Cuál es la relación entre UX y UI Design?
+* ¿Qué es UX y qué es UI?
+* ¿Cuál es la relación entre UX y UI Design?
 
 ### UX Designer vs UI Designer
 
@@ -79,8 +79,8 @@ que puedes ver en el siguiente video:
 
 Ahora, intenta responer estas preguntas:
 
-- ¿Cómo es la personalidad de un UX Designer?
-- ¿Cómo es la personalidad de un UI Designer?
+* ¿Cómo es la personalidad de un UX Designer?
+* ¿Cómo es la personalidad de un UI Designer?
 
 ### UX != UI
 
@@ -107,14 +107,12 @@ términos distintos.
 > personalidad, alegría, satisfacción, gratificación, exaltación, euforia,
 > conveniencia,  eficacia, etc., etc., etc.
 
-
 ## ¿Qué características tiene un buen UX Designer?
 
 * **Empatía:** es una de las características principales de UX Designer. Para
-poder crear productos exitosos, es necesario entender a nuestros usuarios, y
-para ello necesitamos empatizar con ellos para poder entender sus problemas
-desde su perspectiva.
-
+  poder crear productos exitosos, es necesario entender a nuestros usuarios, y
+  para ello necesitamos empatizar con ellos para poder entender sus problemas
+  desde su perspectiva.
 
 * **Trabajo en equipo:** un UX Designer no solo va a tener relación con sus
   usuarios, sino que también va a trabajar con un equipo de desarrollo de
@@ -151,7 +149,6 @@ razonable de una variedad de otras áreas relevantes.
 Por ejemplo un UX designer pueder ser un experto en UX research y prototipado y
 tener conocimiento no necesariamente tan profundo en UX writing y arquitectura
 de información.
-
 
 ## Puestos relacionados al UX
 

@@ -27,7 +27,7 @@ aprender de nuestros stakeholders y de la competencia. Sin embargo, la parte má
 importante es la de investigar y entender a nuestros usuarios.
 
 Para poder entender sobre nuestros usuarios y sobre el problema tenemos varias
-técnicas que listamos a continuación (ten en cuenta que veremos a detalle c/u 
+técnicas que listamos a continuación (ten en cuenta que veremos a detalle c/u
 más adelante):
 
 - Observación o investigación contextual
@@ -36,7 +36,6 @@ más adelante):
 - Análisis de la competencia
 - Búsquedas en la web
 - Analítica
-
 
 ### Síntesis y definición
 
