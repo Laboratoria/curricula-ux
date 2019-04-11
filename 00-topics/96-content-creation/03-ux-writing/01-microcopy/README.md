@@ -194,4 +194,3 @@ Debe ser:
 ![](https://lh5.googleusercontent.com/REEim84apdohDMaLr3ffbMbCNtLRt66sfenJAc97GA5pPBq9iirsPut65slzXEXMs-YMLzKrmVrQvz7fn_8PchFXE7kLmGeauWOTL7OdExr3FmKk27BWfKDJw1HIRKngwZv0Ad7JNeg)
 
 ![](https://lh6.googleusercontent.com/xVarB5SjQp9onlchuNQdzKoNHBDDV7OPA5p7yETmoxOCVIOaIW9WBO70TX2X_U-mLWmqM3igAdDVbghsC7fEmhx0AYSS2wL-5UXGSrWfXPrXRq_cjzFIHwCcKs2lJgupoH83ci7p-Kg)
-
