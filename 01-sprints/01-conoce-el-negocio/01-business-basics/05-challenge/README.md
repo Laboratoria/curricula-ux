@@ -23,8 +23,8 @@ pedido que te encargues de esa investigación. Tu reto ahora es:
 
 - Identificar quiénes son los stakeholders de tu proyecto
 - Planear una reunión de kick - off detallando
-  - Quiénes deberían estar presentes
-  - Qué les preguntarías a los presentes
+  * Quiénes deberían estar presentes
+  * Qué les preguntarías a los presentes
 
 El product manager encargado te ha pedido además que para la sesión de kick -
 off vengas con un Business Model Canvas (hipotético) del producto "Banco 100%

@@ -20,9 +20,9 @@
   testeos, ¿hay algo para agregar o editar en sus User Personas?
 
 - Exploramos los conceptos de:
-  - Secondary Personas
-  - Customer Peronas
-  - Negative Personas
+  * Secondary Personas
+  * Customer Peronas
+  * Negative Personas
 
 ### Customer Journey Maps
 

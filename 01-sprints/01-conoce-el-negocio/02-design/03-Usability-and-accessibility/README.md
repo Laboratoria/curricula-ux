@@ -156,8 +156,9 @@ Accesibilidad según la [W3org](https://www.w3.org/WAI/intro/accessibility.php):
 tecnologías están diseñados y desarrollados para que las personas con
 capacidades diferentes puedan usarlos. Más específicamente, las personas
 pueden:
-> - percibir, comprender, navegar e interactuar con la Web
-> - contribuir a la web
+>
+- percibir, comprender, navegar e interactuar con la Web
+- contribuir a la web
 
 La accesibilidad incluye todas las capacidades diferentes que están relacionadas
 con la interacción con productos digitales y la web:

@@ -46,6 +46,7 @@ oportunidad de causar una buena primera impresión. Tal vez la gente volverá a
 usar el producto. ¿Se volverá a descargar nuestra aplicación para móviles?
 Probablemente no. Si el producto no es el que ellos esperan desde un comienzo,
 los usuarios no volverán a ti.
+>
 > A menudo optimizamos la velocidad en el lugar equivocado. Necesitamos tomarnos
 un tiempo para entender realmente el problema. Comprender a los clientes,
 entender el mercado, diseñar y construir en consecuencia. ¿Cómo podemos salir de
@@ -64,8 +65,8 @@ problema que queremos resolver. Por ejemplo:
 - Cuántos compran X o Y producto
 - Dónde tenemos el mayor ratio de abandono dentro del proceso de compra
 
-En este [artículo](https://www.uxmatters.com/mt/archives/2012/09/strengths-and-weaknesses-of-quantitative-and-qualitative-research.php) de UX
-Matters nos dicen lo siguiente:
+En este [artículo](https://www.uxmatters.com/mt/archives/2012/09/strengths-and-weaknesses-of-quantitative-and-qualitative-research.php)
+de UX Matters nos dicen lo siguiente:
 
 > Los estudios cuantitativos proporcionan datos que pueden ser expresados en
 números, de ahí, su nombre. Debido a que los datos están en una forma numérica,
@@ -102,7 +103,7 @@ revisar:
 - Segment
 - Intercom
 
-![](https://lh3.googleusercontent.com/NsPbuYZN6yjWdnuvjoBBhlI227jjXoVXwzofHlP7DrK8AuA_jVzYBKkGUufY__NVAiUriv0ZLZJYw5vEId34zl8Tiu25ui_3b31cSnHpFty4NWzobbrbrK965vLoTvQ3nFW2jnaNK80)
+![Image](https://lh3.googleusercontent.com/NsPbuYZN6yjWdnuvjoBBhlI227jjXoVXwzofHlP7DrK8AuA_jVzYBKkGUufY__NVAiUriv0ZLZJYw5vEId34zl8Tiu25ui_3b31cSnHpFty4NWzobbrbrK965vLoTvQ3nFW2jnaNK80)
 
  _**¿Qué pasa si no tenemos analítica?**_
 
@@ -127,7 +128,7 @@ Revisar todas las estadísticas que podamos tener del producto.
 - \# usuarios activos
 - % de churn
 
-![](https://lh6.googleusercontent.com/GvrCmCsI_MnWKXNqDuYvJuNA1kDZM2_Ip9iTUkviOko1gvMvDyUyGQ6lQOBQLj6jp9nqe9zpKFFn8Ohip5Zyb1dG7m4D-nBLPUGKf7fIgu0dxTwkmkIEP04yYmokq4ZMAbHQB7rQp0s)
+![Image](https://lh6.googleusercontent.com/GvrCmCsI_MnWKXNqDuYvJuNA1kDZM2_Ip9iTUkviOko1gvMvDyUyGQ6lQOBQLj6jp9nqe9zpKFFn8Ohip5Zyb1dG7m4D-nBLPUGKf7fIgu0dxTwkmkIEP04yYmokq4ZMAbHQB7rQp0s)
 
 #### Estudios de mercado
 
@@ -138,7 +139,7 @@ Revisar los estudios de mercado que estén disponibles.
 - Proyecciones de crecimiento económico
 - Encuestas de satisfacción
 
-![](https://lh5.googleusercontent.com/uLknPlR5Wii0Ftvm2n58XZi5zqGwTCOXXZi3Jeo775sqkBdSE5p-d4YO3umLt_0iXnYF3GJXfpmgpEwVSwux9H7i_Ex63BZuMUYSk6ajkbihRcymvfRMvBGTYfzErQWiI7ITi-OCxKY)
+![Image](https://lh5.googleusercontent.com/uLknPlR5Wii0Ftvm2n58XZi5zqGwTCOXXZi3Jeo775sqkBdSE5p-d4YO3umLt_0iXnYF3GJXfpmgpEwVSwux9H7i_Ex63BZuMUYSk6ajkbihRcymvfRMvBGTYfzErQWiI7ITi-OCxKY)
 
 #### Documentos internos
 
@@ -151,7 +152,7 @@ Revisar los documentos internos que puedan servir como parte del análisis
 - Estudios de usabilidad
 - Reportes de campañas de marketing
 
-![](https://lh4.googleusercontent.com/G3JkQKrZ8HmNAjH3NlQ_zIMFoLlDwYozNtNkmn47jS0NwrjxHfOktXoKCSxiW71yxzbciWdM1ZBGXNnDx_PXdDrpOmODJL3V4g_0Q1E_-ddbIIScsmn3Wgv7reEfZaMd5S0WbJVxwjs)
+![Image](https://lh4.googleusercontent.com/G3JkQKrZ8HmNAjH3NlQ_zIMFoLlDwYozNtNkmn47jS0NwrjxHfOktXoKCSxiW71yxzbciWdM1ZBGXNnDx_PXdDrpOmODJL3V4g_0Q1E_-ddbIIScsmn3Wgv7reEfZaMd5S0WbJVxwjs)
 
 #### Búsquedas en la web
 
@@ -182,7 +183,8 @@ pasan las cosas. Sin embargo, esos datos no responden a la pregunta de por qué 
 cómo pasan. Para entender eso, necesitamos más contexto. El user research
 (research cualitativo) nos ayuda a proporcionar ese contexto.
 
-Adicionalmente, el libro de [AboutFace](https://www.amazon.com/About-Face-Essentials-Interaction-Design/dp/1118766571), nos dice lo siguiente:
+Adicionalmente, el libro de [AboutFace](https://www.amazon.com/About-Face-Essentials-Interaction-Design/dp/1118766571),
+nos dice lo siguiente:
 
 > La investigación cualitativa nos ayuda a entender el dominio, el contexto y
 las restricciones de un producto de diferentes maneras, más útiles que la
@@ -194,20 +196,21 @@ cuantitativos.
 Adicionalmente nos mencionan que la investigación cualitatita nos permite
 entender lo siguente:
 
-> - Comportamientos, actitudes y aptitudes de los usuarios de productos
-potenciales y existentes
-> - Los contextos técnicos, empresariales y ambientales del
-producto a ser diseñado
-> - Vocabulario y otros aspectos sociales del dominio en cuestión
-> - Cómo se utilizan los productos existentes
+>
+- Comportamientos, actitudes y aptitudes de los usuarios de productos
+  potenciales y existentes
+- Los contextos técnicos, empresariales y ambientales del producto a ser diseñado
+- Vocabulario y otros aspectos sociales del dominio en cuestión
+- Cómo se utilizan los productos existentes
 
 Además, la investigación cualitativa también puede ayudar durante el progreso de
 los proyectos de diseño:
 
-> - Da credibilidad y autoridad al equipo de diseño, porque las decisiones de
-diseño pueden ser rastreadas hasta los resultados de la investigación.
-> - Le da al equipo una comprensión común de los problemas de los usuarios.
-> - Permite a la gerencia tomar decisiones más informadas sobre el diseño del
+>
+- Da credibilidad y autoridad al equipo de diseño, porque las decisiones de
+  diseño pueden ser rastreadas hasta los resultados de la investigación.
+- Le da al equipo una comprensión común de los problemas de los usuarios.
+- Permite a la gerencia tomar decisiones más informadas sobre el diseño del
   producto, cuestiones que de otro modo estarían basadas en conjeturas o
   preferencias personales.
 

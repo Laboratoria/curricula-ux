@@ -1,0 +1,32 @@
+{
+  "name": "curricula-ux",
+  "version": "1.0.0",
+  "description": "Malla curricular User Experience Design @Laboratoria",
+  "scripts": {
+    "mdlint": "mdlint .",
+    "pretest": "npm run mdlint && npm run validate",
+    "validate": "./scripts/build.sh --validate",
+    "build": "./scripts/build.sh",
+    "contributors:add": "all-contributors add",
+    "contributors:generate": "all-contributors generate"
+  },
+  "repository": "Laboratoria/curricula-ux",
+  "keywords": [
+    "ux",
+    "laboratoria",
+    "bootcamp",
+    "curricula",
+    "ux-design"
+  ],
+  "author": "Laboratoria <sumate@laboratoria.la> (http://laboratoria.la/)",
+  "license": "CC-BY-SA-4.0",
+  "bugs": {
+    "url": "https://github.com/Laboratoria/curricula-ux/issues"
+  },
+  "devDependencies": {
+    "all-contributors-cli": "^5.10.1",
+    "curriculum-parser": "Laboratoria/curriculum-parser#2.0.0-alpha.2",
+    "mdlint": "Laboratoria/mdlint#v1.0.0",
+    "rubric": "Laboratoria/rubric#v2.0.0"
+  }
+}

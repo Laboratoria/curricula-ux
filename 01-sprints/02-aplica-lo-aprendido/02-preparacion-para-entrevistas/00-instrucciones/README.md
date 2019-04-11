@@ -41,8 +41,8 @@ preguntas que te pueden ayudar:
 
 - ¿Cuáles son los grupos de personas que tienen motivaciones distintas respecto
   del producto? Elige uno.
-  - ¿Qué grupos dentro de esta audiencia que tienen distintas necesidades?
-  - ¿Qué caracteriza a esta audiencia? ¿Edad, género, ubicación, ocupación,
+  * ¿Qué grupos dentro de esta audiencia que tienen distintas necesidades?
+  * ¿Qué caracteriza a esta audiencia? ¿Edad, género, ubicación, ocupación,
     movilidad?
 
 ### Cuándo y dónde

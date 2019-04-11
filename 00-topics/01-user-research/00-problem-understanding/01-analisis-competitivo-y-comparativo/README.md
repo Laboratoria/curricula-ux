@@ -6,7 +6,7 @@
 
 ***
 
-## Intro 
+## Intro
 
 Este análisis nos ayudará a saber cómo estamos en relación a la competencia y
 nos ayudará a entender mejor el contexto actual en el que trabaja / compite
@@ -14,7 +14,7 @@ la empresa con la que estamos trabajando. Entender el contexto actual nos ayuda
 a poder manejar las expectativas de nuestros usuarios y de nuestros clientes.
 
 ### Listado de competidores
- 
+
 [video](https://laboratoria-1.wistia.com/medias/mlv6jy6lm2)
 
 ### Revisión de competidores

@@ -89,24 +89,24 @@ poder competir con la inminente llegada de [Lemonade](https://www.lemonade.com/)
 a latinoamérica.
 
 - Identifica quiénes de la siguiente lista serían tus stakeholders y por qué:
-  - CEO
-  - Gerente de Riesgos
-  - Gerente de Marketing
-  - Gerente de RRHH
-  - Gerente de IT
-  - Product Manager de Seguros Vehiculares
-  - Product Manager de Seguros para el hogar
-  - Product Manager de Seguros de vida
-  - Front-end developer del producto Seguros de Vida
-  - Back-end developer del producto Seguros de Vida
-  - Regulador estatal
-  - Visual designer del producto Seguros de Vida
-  - Community Manager
-  - Gerente de Agencia
-  - Jefe de ventas
-  - Ejecutivo de call center
-  - Jefe de innovación
-  - Auditor
+  * CEO
+  * Gerente de Riesgos
+  * Gerente de Marketing
+  * Gerente de RRHH
+  * Gerente de IT
+  * Product Manager de Seguros Vehiculares
+  * Product Manager de Seguros para el hogar
+  * Product Manager de Seguros de vida
+  * Front-end developer del producto Seguros de Vida
+  * Back-end developer del producto Seguros de Vida
+  * Regulador estatal
+  * Visual designer del producto Seguros de Vida
+  * Community Manager
+  * Gerente de Agencia
+  * Jefe de ventas
+  * Ejecutivo de call center
+  * Jefe de innovación
+  * Auditor
 
 - Miremos esta [historia](https://thedesignteam.io/from-a-product-perspective-2f5185a43827)
   y discutamos cómo afecta lo que hace/dice un product manager en nuestro
