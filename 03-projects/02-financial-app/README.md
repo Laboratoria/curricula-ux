@@ -198,7 +198,7 @@ evaluaremos cuando lo  completes:
 | **Business mindset**                            |
 | Business mindset               | 4              |
 
-### Hacker edition
+## Hacker edition
 
 Para el hacker edition puedes elegir una o varias de estas opciones:
 

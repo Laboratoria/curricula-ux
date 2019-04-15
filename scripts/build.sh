@@ -3,7 +3,7 @@
 parser='./node_modules/curriculum-parser/index.js'
 
 projects=(
-  '01-marketplace'
+  '01-e-commerce'
   '02-financial-app'
   '03-company'
   '04-user-interface'
@@ -101,6 +101,6 @@ else
 fi
 
 buildProjects
-buildTopics
+# buildTopics
 
 exit "$hasFailures"
