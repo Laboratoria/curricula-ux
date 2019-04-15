@@ -3,9 +3,8 @@
   "version": "1.0.0",
   "description": "Malla curricular User Experience Design @Laboratoria",
   "scripts": {
-    "mdlint": "mdlint .",
-    "pretest": "npm run mdlint && npm run validate",
-    "validate": "./scripts/build.sh --validate",
+    "pretest": "mdlint .",
+    "test": "./scripts/build.sh --validate",
     "build": "./scripts/build.sh",
     "contributors:add": "all-contributors add",
     "contributors:generate": "all-contributors generate"
