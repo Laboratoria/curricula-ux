@@ -1,4 +1,6 @@
 **/node_modules/
-topics/000-FIXME/
-projects/000-FIXME/
+00-topics/08-user-understanding
+00-topics/10-herramientas
+02-ejercicios
+03-projects/01-e-commerce
 /README.md

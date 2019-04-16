@@ -29,5 +29,6 @@ correspondiente y si no hay issue todavía crea uno nuevo ;-)
 
 <!--
 Si ya estás colaborando en la creación/iteración de un curso acá puedes
-encontrar la [guía para creación de cursos](https://github.com/Laboratoria/curricula-ux/wiki).
+encontrar la
+[guía para creación de cursos](https://github.com/Laboratoria/curricula-ux/wiki).
 -->

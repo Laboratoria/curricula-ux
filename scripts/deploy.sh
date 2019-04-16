@@ -1,20 +1,8 @@
 #! /usr/bin/env bash
 
-echo "I am the deploy script"
-echo ""
-echo "Working directory:"
-pwd
-echo ""
-echo "Environment:"
-env
-echo ""
-echo "TRAVIS_BRANCH: ${TRAVIS_BRANCH}"
-echo "TRAVIS_TAG: ${TRAVIS_TAG}"
-echo ""
-
-
 email=$LABORATORIA_API_EMAIL
 pass=$LABORATORIA_API_PASS
+
 
 if [[ -z "$email" ]] || [[ -z "$pass" ]]; then
   echo "Missing API credentials!"
@@ -77,7 +65,7 @@ fi
 hasFailures=0
 
 
-# Push projects to API??
+# Push projects to API
 for file in `ls build/projects`; do
   key=${file:3:-5}
   echo "Publishing project ${key}..."
@@ -103,8 +91,6 @@ for file in `ls build/projects`; do
     echo "OK"
   fi
 done
-
-# Push _courses_ (topics) to firestore (legacy)
 
 # Push topics to API??
 

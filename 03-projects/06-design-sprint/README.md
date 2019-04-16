@@ -1,4 +1,4 @@
-# Empresa
+# Design Sprint
 
 ## Preámbulo
 
